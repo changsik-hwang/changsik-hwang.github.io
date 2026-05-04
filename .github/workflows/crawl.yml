@@ -2,16 +2,16 @@ name: Daily Monitoring
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 매일 한국시간 오전 9시에 자동 실행
-  workflow_dispatch: # 직접 실행해보고 싶을 때 쓰는 버튼
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
       - name: Install dependencies
@@ -21,7 +21,7 @@ jobs:
       - name: Commit changes
         run: |
           git config --global user.name "changsik-hwang"
-          git config --global user.email "본인메일주소" # 여기만 본인 메일로 바꾸세요
+          git config --global user.email "본인메일주소"
           git add data.json
           git commit -m "Update news data" || exit 0
           git push

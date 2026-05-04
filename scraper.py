@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 COMPANY_KEYWORDS = {
     "시큐아이": ["시큐아이"],
     "안랩": ["안랩", "AhnLab"],
-    "넥스지": ["넥스지", "NEXG"],
+    "넥스지": ["KX넥스지", "케이엑스넥스지", "KXNEXG", "nexg 보안"],
     "퓨처시스템": ["퓨처시스템"],
     "윈스": ["윈스 보안", "윈스테크넷"],
 }

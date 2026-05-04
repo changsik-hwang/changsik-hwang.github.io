@@ -1,24 +1,40 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 
 # =============================================
-# 네이버 뉴스 검색 RSS 기반 경쟁사 모니터링
+# 설정
 # =============================================
 
-# 회사별 검색 키워드 설정
-# 검색어가 너무 짧으면 관계없는 기사도 잡히므로 구체적으로 설정
+# 탭1: 경쟁사
 COMPANY_KEYWORDS = {
-    "시큐아이": ["시큐아이", "SECUI"],
-    "안랩": ["안랩", "AhnLab"],
-    "넥스지": ["KX넥스지", "케이엑스넥스지", "KXNEXG", "nexg 보안"],
+    "시큐아이":   ["시큐아이", "secui"],
+    "안랩":       ["안랩", "AhnLab"],
+    "넥스지":     ["KX넥스지", "케이엑스넥스지", "KXNEXG"],
     "퓨처시스템": ["퓨처시스템"],
-    "윈스": ["윈스 보안", "윈스테크넷"],
+    "윈스":       ["wins", "윈스테크넷"],
 }
 
-def fetch_naver_news(company, keyword):
-    """네이버 뉴스 검색 RSS로 기사 수집"""
+# 탭2: 기술 트렌드
+TREND_KEYWORDS = {
+    "AI보안":    ["AI 보안", "AI 위협탐지", "인공지능 보안"],
+    "PQC":       ["PQC", "양자암호", "양자내성암호", "후양자암호"],
+    "제로트러스트": ["제로트러스트", "Zero Trust"],
+}
+
+# 공식 블로그 (경쟁사)
+BLOGS = {
+    "안랩": "ahnlab_official",
+    "넥스지": "kxnexg",
+}
+
+# =============================================
+# 수집 함수
+# =============================================
+
+def fetch_naver_news(keyword):
+    """네이버 뉴스 검색 RSS"""
     results = []
     try:
         url = f"https://rss.news.naver.com/search/news?query={requests.utils.quote(keyword)}"
@@ -31,27 +47,22 @@ def fetch_naver_news(company, keyword):
             title = item.title.text.strip() if item.title else ""
             link = item.link.text.strip() if item.link else ""
             date = item.pubDate.text[:16] if item.pubDate else ""
-            description = item.description.text.strip() if item.description else ""
-
+            desc = item.description.text.strip() if item.description else ""
             if not title:
                 continue
-
             results.append({
-                "company": company,
                 "title": title,
                 "link": link,
                 "date": date,
-                "source": "네이버뉴스",
-                "description": description[:100] if description else ""
+                "description": desc[:120] if desc else ""
             })
-
     except Exception as e:
-        print(f"  [오류] {company}/{keyword}: {e}")
+        print(f"  [오류] '{keyword}': {e}")
     return results
 
 
-def fetch_naver_blog(company, blog_id):
-    """네이버 블로그 RSS 수집"""
+def fetch_naver_blog(blog_id):
+    """네이버 블로그 RSS"""
     results = []
     try:
         url = f"https://rss.blog.naver.com/{blog_id}.xml"
@@ -64,85 +75,108 @@ def fetch_naver_blog(company, blog_id):
             title = item.title.text.strip() if item.title else ""
             link = item.link.text.strip() if item.link else ""
             date = item.pubDate.text[:16] if item.pubDate else ""
-
             if not title:
                 continue
-
             results.append({
-                "company": company,
                 "title": title,
                 "link": link,
                 "date": date,
-                "source": "공식블로그",
                 "description": ""
             })
-
     except Exception as e:
-        print(f"  [오류] {company} 블로그: {e}")
+        print(f"  [오류] 블로그 {blog_id}: {e}")
     return results
 
 
-def main():
-    all_data = []
-
-    print("=" * 45)
-    print("  경쟁사 동향 수집 시작")
-    print(f"  실행시간: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    print("=" * 45)
-
-    # 1. 네이버 뉴스 검색 RSS 수집
-    print("\n[네이버 뉴스 검색]")
-    for company, keywords in COMPANY_KEYWORDS.items():
-        company_results = []
-        for keyword in keywords:
-            print(f"  검색 중: '{keyword}'...")
-            results = fetch_naver_news(company, keyword)
-            company_results.extend(results)
-            print(f"    → {len(results)}건")
-        all_data.extend(company_results)
-
-    # 2. 공식 블로그 RSS 수집 (있는 회사만)
-    print("\n[공식 블로그]")
-    BLOGS = {
-        "안랩": "ahnlab_official",
-        "넥스지": "kxnexg",
-    }
-    for company, blog_id in BLOGS.items():
-        print(f"  수집 중: {company} 블로그...")
-        results = fetch_naver_blog(company, blog_id)
-        all_data.extend(results)
-        print(f"    → {len(results)}건")
-
-    # 3. 중복 제거 (링크 기준)
+def deduplicate(data):
+    """링크 기준 중복 제거"""
     seen = set()
-    unique_data = []
-    for item in all_data:
+    result = []
+    for item in data:
         key = item.get("link") or item.get("title")
         if key and key not in seen:
             seen.add(key)
-            unique_data.append(item)
+            result.append(item)
+    return result
 
-    # 4. 날짜 최신순 정렬
-    unique_data.sort(key=lambda x: x.get("date", ""), reverse=True)
 
-    # 5. 오늘 날짜 태그 추가 (상단 카드에서 '오늘 새 기사' 계산용)
+# =============================================
+# 메인
+# =============================================
+
+def main():
     today_str = datetime.now().strftime("%Y-%m-%d")
-    for item in unique_data:
-        item["is_today"] = item.get("date", "").startswith(today_str)
 
-    # 6. 저장
-    with open("data.json", "w", encoding="utf-8") as f:
-        json.dump(unique_data, f, ensure_ascii=False, indent=4)
-
-    # 7. 결과 요약 출력
-    print("\n" + "=" * 45)
-    print(f"  ✅ 총 {len(unique_data)}건 저장 완료")
     print("=" * 45)
-    companies = ["시큐아이", "안랩", "넥스지", "퓨처시스템", "윈스"]
-    for company in companies:
-        total = sum(1 for d in unique_data if d["company"] == company)
-        today = sum(1 for d in unique_data if d["company"] == company and d.get("is_today"))
-        print(f"  {company}: 전체 {total}건 (오늘 {today}건)")
+    print(f"  수집 시작: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print("=" * 45)
+
+    # ── 탭1: 경쟁사 ──────────────────────────
+    print("\n[탭1: 경쟁사 동향]")
+    competitor_data = []
+
+    for company, keywords in COMPANY_KEYWORDS.items():
+        for keyword in keywords:
+            print(f"  검색: '{keyword}'...")
+            for item in fetch_naver_news(keyword):
+                item["company"] = company
+                item["tab"] = "competitor"
+                item["source"] = "네이버뉴스"
+                item["is_today"] = item["date"].startswith(today_str)
+                competitor_data.append(item)
+
+    for company, blog_id in BLOGS.items():
+        print(f"  블로그: {company}...")
+        for item in fetch_naver_blog(blog_id):
+            item["company"] = company
+            item["tab"] = "competitor"
+            item["source"] = "공식블로그"
+            item["is_today"] = item["date"].startswith(today_str)
+            competitor_data.append(item)
+
+    competitor_data = deduplicate(competitor_data)
+    competitor_data.sort(key=lambda x: x.get("date", ""), reverse=True)
+
+    print(f"\n  → 경쟁사 총 {len(competitor_data)}건")
+    for c in COMPANY_KEYWORDS:
+        cnt = sum(1 for d in competitor_data if d["company"] == c)
+        today_cnt = sum(1 for d in competitor_data if d["company"] == c and d.get("is_today"))
+        print(f"     {c}: {cnt}건 (오늘 {today_cnt}건)")
+
+    # ── 탭2: 기술 트렌드 ─────────────────────
+    print("\n[탭2: 기술 트렌드]")
+    trend_data = []
+
+    for category, keywords in TREND_KEYWORDS.items():
+        for keyword in keywords:
+            print(f"  검색: '{keyword}'...")
+            for item in fetch_naver_news(keyword):
+                item["category"] = category
+                item["keyword"] = keyword
+                item["tab"] = "trend"
+                item["source"] = "네이버뉴스"
+                item["is_today"] = item["date"].startswith(today_str)
+                trend_data.append(item)
+
+    trend_data = deduplicate(trend_data)
+    trend_data.sort(key=lambda x: x.get("date", ""), reverse=True)
+
+    print(f"\n  → 트렌드 총 {len(trend_data)}건")
+    for c in TREND_KEYWORDS:
+        cnt = sum(1 for d in trend_data if d["category"] == c)
+        print(f"     {c}: {cnt}건")
+
+    # ── 저장 ─────────────────────────────────
+    output = {
+        "updated": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "competitor": competitor_data,
+        "trend": trend_data
+    }
+
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=4)
+
+    print(f"\n✅ 저장 완료 (competitor: {len(competitor_data)}건 / trend: {len(trend_data)}건)")
 
 if __name__ == "__main__":
     main()

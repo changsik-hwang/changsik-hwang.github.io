@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 # 회사별 검색 키워드 설정
 # 검색어가 너무 짧으면 관계없는 기사도 잡히므로 구체적으로 설정
 COMPANY_KEYWORDS = {
-    "시큐아이": ["시큐아이"],
+    "시큐아이": ["시큐아이", "SECUI"],
     "안랩": ["안랩", "AhnLab"],
     "넥스지": ["KX넥스지", "케이엑스넥스지", "KXNEXG", "nexg 보안"],
     "퓨처시스템": ["퓨처시스템"],

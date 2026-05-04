@@ -1,188 +1,148 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # =============================================
-# 경쟁사 모니터링 - 최종 설정
+# 네이버 뉴스 검색 RSS 기반 경쟁사 모니터링
 # =============================================
 
-COMPANIES = ["시큐아이", "안랩", "넥스지", "퓨처시스템", "윈스"]
+# 회사별 검색 키워드 설정
+# 검색어가 너무 짧으면 관계없는 기사도 잡히므로 구체적으로 설정
+COMPANY_KEYWORDS = {
+    "시큐아이": ["시큐아이"],
+    "안랩": ["안랩", "AhnLab"],
+    "넥스지": ["넥스지", "NEXG"],
+    "퓨처시스템": ["퓨처시스템"],
+    "윈스": ["윈스 보안", "윈스테크넷"],
+}
 
-# =============================================
-# 1. RSS 수집 (가장 안정적인 방법)
-# =============================================
-
-RSS_SOURCES = [
-    # 보안뉴스 - 5개사 소식이 모두 등장하는 핵심 소스
-    {
-        "name": "보안뉴스",
-        "url": "https://www.boannews.com/media/news_rss.asp",
-    },
-    # 안랩 공식 블로그
-    {
-        "name": "안랩블로그",
-        "url": "https://rss.blog.naver.com/ahnlab_official.xml",
-    },
-    # 안랩 ASEC 보안분석 블로그
-    {
-        "name": "안랩ASEC",
-        "url": "https://asec.ahnlab.com/ko/feed/",
-    },
-    # 넥스지 공식 네이버 블로그 (가장 안정적)
-    {
-        "name": "넥스지블로그",
-        "url": "https://rss.blog.naver.com/kxnexg.xml",
-    },
-]
-
-def fetch_rss(source):
-    """RSS 피드 수집 - 경쟁사 이름이 포함된 기사만 필터링"""
+def fetch_naver_news(company, keyword):
+    """네이버 뉴스 검색 RSS로 기사 수집"""
     results = []
     try:
+        url = f"https://rss.news.naver.com/search/news?query={requests.utils.quote(keyword)}"
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-        response = requests.get(source["url"], headers=headers, timeout=15)
+        response = requests.get(url, headers=headers, timeout=15)
         soup = BeautifulSoup(response.content, "xml")
         items = soup.find_all("item")
 
-        for item in items[:50]:
+        for item in items[:20]:
             title = item.title.text.strip() if item.title else ""
-            
-            # link 처리 (네이버 블로그는 다른 태그 사용)
-            link = ""
-            if item.link:
-                link = item.link.text.strip()
-            if not link and item.find("link"):
-                link = item.find("link").get_text().strip()
-
-            # 날짜 처리
-            date = ""
-            if item.pubDate:
-                date = item.pubDate.text[:16]
-            elif item.find("pubDate"):
-                date = item.find("pubDate").text[:16]
+            link = item.link.text.strip() if item.link else ""
+            date = item.pubDate.text[:16] if item.pubDate else ""
+            description = item.description.text.strip() if item.description else ""
 
             if not title:
                 continue
 
-            # 넥스지 블로그는 모든 글이 넥스지 소식
-            if source["name"] == "넥스지블로그":
-                results.append({
-                    "company": "넥스지",
-                    "title": title,
-                    "link": link,
-                    "date": date,
-                    "source": "넥스지블로그"
-                })
-                continue
-
-            # 안랩 블로그/ASEC은 모두 안랩 소식
-            if source["name"] in ["안랩블로그", "안랩ASEC"]:
-                results.append({
-                    "company": "안랩",
-                    "title": title,
-                    "link": link,
-                    "date": date,
-                    "source": source["name"]
-                })
-                continue
-
-            # 보안뉴스는 경쟁사 이름 포함 여부로 필터링
-            for company in COMPANIES:
-                if company in title:
-                    results.append({
-                        "company": company,
-                        "title": title,
-                        "link": link,
-                        "date": date,
-                        "source": source["name"]
-                    })
-                    break
+            results.append({
+                "company": company,
+                "title": title,
+                "link": link,
+                "date": date,
+                "source": "네이버뉴스",
+                "description": description[:100] if description else ""
+            })
 
     except Exception as e:
-        print(f"  [오류] {source['name']}: {e}")
+        print(f"  [오류] {company}/{keyword}: {e}")
     return results
 
 
-# =============================================
-# 2. 시큐아이 공홈 보도자료 직접 파싱
-# =============================================
-
-def fetch_secui_news():
-    """시큐아이 공식 홈페이지 보도자료"""
+def fetch_naver_blog(company, blog_id):
+    """네이버 블로그 RSS 수집"""
     results = []
     try:
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-        url = "https://www.secui.com/about/news"
+        url = f"https://rss.blog.naver.com/{blog_id}.xml"
+        headers = {"User-Agent": "Mozilla/5.0"}
         response = requests.get(url, headers=headers, timeout=15)
-        soup = BeautifulSoup(response.text, "html.parser")
+        soup = BeautifulSoup(response.content, "xml")
+        items = soup.find_all("item")
 
-        # 링크 중 보도자료 링크 추출
-        for a in soup.find_all("a", href=True):
-            href = a.get("href", "")
-            title = a.get_text(strip=True)
-            
-            # 보도자료 링크 패턴 확인
-            if "news" in href and "view" in href and len(title) > 10:
-                full_url = href if href.startswith("http") else "https://www.secui.com" + href
-                results.append({
-                    "company": "시큐아이",
-                    "title": title,
-                    "link": full_url,
-                    "date": datetime.now().strftime("%Y-%m-%d"),
-                    "source": "시큐아이공홈"
-                })
+        for item in items[:10]:
+            title = item.title.text.strip() if item.title else ""
+            link = item.link.text.strip() if item.link else ""
+            date = item.pubDate.text[:16] if item.pubDate else ""
 
-        print(f"  → 시큐아이 공홈: {len(results)}건")
+            if not title:
+                continue
+
+            results.append({
+                "company": company,
+                "title": title,
+                "link": link,
+                "date": date,
+                "source": "공식블로그",
+                "description": ""
+            })
+
     except Exception as e:
-        print(f"  [오류] 시큐아이 공홈: {e}")
-    return results[:10]
+        print(f"  [오류] {company} 블로그: {e}")
+    return results
 
-
-# =============================================
-# 메인 실행
-# =============================================
 
 def main():
     all_data = []
 
-    print("=" * 40)
+    print("=" * 45)
     print("  경쟁사 동향 수집 시작")
-    print("=" * 40)
+    print(f"  실행시간: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print("=" * 45)
 
-    # RSS 수집
-    for source in RSS_SOURCES:
-        print(f"수집 중: {source['name']}...")
-        results = fetch_rss(source)
+    # 1. 네이버 뉴스 검색 RSS 수집
+    print("\n[네이버 뉴스 검색]")
+    for company, keywords in COMPANY_KEYWORDS.items():
+        company_results = []
+        for keyword in keywords:
+            print(f"  검색 중: '{keyword}'...")
+            results = fetch_naver_news(company, keyword)
+            company_results.extend(results)
+            print(f"    → {len(results)}건")
+        all_data.extend(company_results)
+
+    # 2. 공식 블로그 RSS 수집 (있는 회사만)
+    print("\n[공식 블로그]")
+    BLOGS = {
+        "안랩": "ahnlab_official",
+        "넥스지": "kxnexg",
+    }
+    for company, blog_id in BLOGS.items():
+        print(f"  수집 중: {company} 블로그...")
+        results = fetch_naver_blog(company, blog_id)
         all_data.extend(results)
-        print(f"  → {len(results)}건")
+        print(f"    → {len(results)}건")
 
-    # 시큐아이 공홈
-    print("수집 중: 시큐아이 공홈...")
-    all_data.extend(fetch_secui_news())
-
-    # 중복 제거 (링크 기준)
+    # 3. 중복 제거 (링크 기준)
     seen = set()
     unique_data = []
     for item in all_data:
-        key = item.get("link", item["title"])
+        key = item.get("link") or item.get("title")
         if key and key not in seen:
             seen.add(key)
             unique_data.append(item)
 
-    # 날짜 최신순 정렬
+    # 4. 날짜 최신순 정렬
     unique_data.sort(key=lambda x: x.get("date", ""), reverse=True)
 
-    # 저장
+    # 5. 오늘 날짜 태그 추가 (상단 카드에서 '오늘 새 기사' 계산용)
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    for item in unique_data:
+        item["is_today"] = item.get("date", "").startswith(today_str)
+
+    # 6. 저장
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(unique_data, f, ensure_ascii=False, indent=4)
 
-    print("\n" + "=" * 40)
+    # 7. 결과 요약 출력
+    print("\n" + "=" * 45)
     print(f"  ✅ 총 {len(unique_data)}건 저장 완료")
-    print("=" * 40)
-    for company in COMPANIES:
-        count = sum(1 for d in unique_data if d["company"] == company)
-        print(f"  {company}: {count}건")
+    print("=" * 45)
+    companies = ["시큐아이", "안랩", "넥스지", "퓨처시스템", "윈스"]
+    for company in companies:
+        total = sum(1 for d in unique_data if d["company"] == company)
+        today = sum(1 for d in unique_data if d["company"] == company and d.get("is_today"))
+        print(f"  {company}: 전체 {total}건 (오늘 {today}건)")
 
 if __name__ == "__main__":
     main()

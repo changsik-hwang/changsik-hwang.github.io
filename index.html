@@ -1,9 +1,36 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
-    <title>테스트</title>
+    <meta charset="UTF-8">
+    <title>경쟁사 동향 모니터링</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; line-height: 1.6; }
+        .news-item { margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px solid #eee; }
+        a { text-decoration: none; color: #0066cc; font-weight: bold; }
+        span { font-size: 0.8em; color: #888; margin-left: 10px; }
+    </style>
 </head>
 <body>
-    <p>현재 443 포트만 열려 있어 앱 접속이 불안정할 수 있습니다.</p>
+    <h1>🚀 경쟁사 동향 실시간 리포트</h1>
+    <div id="news-list">소식을 불러오는 중입니다...</div>
+
+    <script>
+        // data.json 파일을 읽어서 화면에 뿌려주는 마법
+        fetch('./data.json')
+            .then(res => res.json())
+            .then(data => {
+                const listDiv = document.getElementById('news-list');
+                if (data.length === 0) {
+                    listDiv.innerHTML = "아직 수집된 데이터가 없습니다.";
+                    return;
+                }
+                listDiv.innerHTML = data.map(item => `
+                    <div class="news-item">
+                        <a href="${item.link}" target="_blank">${item.title}</a>
+                        <span>${item.date}</span>
+                    </div>
+                `).join('');
+            });
+    </script>
 </body>
 </html>

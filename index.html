@@ -2,35 +2,288 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>경쟁사 동향 모니터링</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>경쟁사 동향 모니터링 대시보드</title>
     <style>
-        body { font-family: sans-serif; padding: 20px; line-height: 1.6; }
-        .news-item { margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px solid #eee; }
-        a { text-decoration: none; color: #0066cc; font-weight: bold; }
-        span { font-size: 0.8em; color: #888; margin-left: 10px; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif;
+            background: #0f1117;
+            color: #e0e0e0;
+            min-height: 100vh;
+        }
+
+        /* 상단 헤더 */
+        header {
+            background: #1a1d2e;
+            border-bottom: 1px solid #2a2d3e;
+            padding: 16px 32px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        header h1 {
+            font-size: 18px;
+            font-weight: 700;
+            color: #fff;
+            letter-spacing: -0.3px;
+        }
+        header h1 span {
+            color: #4f8ef7;
+            margin-right: 8px;
+        }
+        .header-right {
+            font-size: 12px;
+            color: #888;
+        }
+
+        /* 메인 레이아웃 */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 24px 32px;
+        }
+
+        /* 회사별 탭 필터 */
+        .filter-bar {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+        }
+        .filter-btn {
+            padding: 7px 18px;
+            border-radius: 20px;
+            border: 1px solid #2a2d3e;
+            background: #1a1d2e;
+            color: #aaa;
+            font-size: 13px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .filter-btn:hover, .filter-btn.active {
+            background: #4f8ef7;
+            border-color: #4f8ef7;
+            color: #fff;
+        }
+        .filter-btn.active[data-company="시큐아이"] { background: #e84393; border-color: #e84393; }
+        .filter-btn.active[data-company="안랩"] { background: #f7844f; border-color: #f7844f; }
+        .filter-btn.active[data-company="넥스지"] { background: #4fcff7; border-color: #4fcff7; color: #000; }
+        .filter-btn.active[data-company="퓨처시스템"] { background: #a14ff7; border-color: #a14ff7; }
+        .filter-btn.active[data-company="윈스"] { background: #4ff77a; border-color: #4ff77a; color: #000; }
+
+        /* 요약 카드 */
+        .summary-cards {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 12px;
+            margin-bottom: 28px;
+        }
+        .card {
+            background: #1a1d2e;
+            border: 1px solid #2a2d3e;
+            border-radius: 10px;
+            padding: 16px 18px;
+            cursor: pointer;
+            transition: border-color 0.2s;
+        }
+        .card:hover { border-color: #4f8ef7; }
+        .card .company-name {
+            font-size: 13px;
+            color: #aaa;
+            margin-bottom: 8px;
+        }
+        .card .count {
+            font-size: 28px;
+            font-weight: 700;
+            color: #fff;
+        }
+        .card .count span { font-size: 13px; color: #666; margin-left: 4px; }
+        .card .dot {
+            display: inline-block;
+            width: 8px; height: 8px;
+            border-radius: 50%;
+            margin-right: 6px;
+        }
+
+        /* 뉴스 목록 */
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+        }
+        .news-item {
+            background: #1a1d2e;
+            border: 1px solid #2a2d3e;
+            border-radius: 10px;
+            padding: 16px 18px;
+            transition: border-color 0.2s, transform 0.1s;
+        }
+        .news-item:hover {
+            border-color: #4f8ef7;
+            transform: translateY(-1px);
+        }
+        .news-item .meta {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 10px;
+        }
+        .tag {
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 700;
+        }
+        .tag-시큐아이 { background: #e8439322; color: #e84393; border: 1px solid #e8439344; }
+        .tag-안랩 { background: #f7844f22; color: #f7844f; border: 1px solid #f7844f44; }
+        .tag-넥스지 { background: #4fcff722; color: #4fcff7; border: 1px solid #4fcff744; }
+        .tag-퓨처시스템 { background: #a14ff722; color: #a14ff7; border: 1px solid #a14ff744; }
+        .tag-윈스 { background: #4ff77a22; color: #4ff77a; border: 1px solid #4ff77a44; }
+
+        .source-tag {
+            font-size: 11px;
+            color: #666;
+        }
+        .news-item a {
+            font-size: 14px;
+            line-height: 1.55;
+            color: #ddd;
+            text-decoration: none;
+            display: block;
+        }
+        .news-item a:hover { color: #fff; }
+        .news-item .date {
+            font-size: 11px;
+            color: #555;
+            margin-top: 8px;
+        }
+
+        /* 빈 상태 */
+        .empty {
+            grid-column: 1/-1;
+            text-align: center;
+            padding: 60px;
+            color: #555;
+        }
+        .empty p { font-size: 14px; margin-top: 8px; }
+
+        /* 로딩 */
+        .loading {
+            text-align: center;
+            padding: 80px;
+            color: #666;
+        }
     </style>
 </head>
 <body>
-    <h1>🚀 경쟁사 동향 실시간 리포트</h1>
-    <div id="news-list">소식을 불러오는 중입니다...</div>
 
-    <script>
-        // data.json 파일을 읽어서 화면에 뿌려주는 마법
-        fetch('./data.json')
-            .then(res => res.json())
-            .then(data => {
-                const listDiv = document.getElementById('news-list');
-                if (data.length === 0) {
-                    listDiv.innerHTML = "아직 수집된 데이터가 없습니다.";
-                    return;
-                }
-                listDiv.innerHTML = data.map(item => `
-                    <div class="news-item">
-                        <a href="${item.link}" target="_blank">${item.title}</a>
-                        <span>${item.date}</span>
-                    </div>
-                `).join('');
+<header>
+    <h1><span>🛡</span> 경쟁사 동향 모니터링 대시보드</h1>
+    <div class="header-right" id="update-time">데이터 로딩 중...</div>
+</header>
+
+<div class="container">
+
+    <!-- 회사 필터 -->
+    <div class="filter-bar">
+        <button class="filter-btn active" data-company="전체" onclick="filterNews('전체', this)">전체</button>
+        <button class="filter-btn" data-company="시큐아이" onclick="filterNews('시큐아이', this)">시큐아이</button>
+        <button class="filter-btn" data-company="안랩" onclick="filterNews('안랩', this)">안랩</button>
+        <button class="filter-btn" data-company="넥스지" onclick="filterNews('넥스지', this)">넥스지</button>
+        <button class="filter-btn" data-company="퓨처시스템" onclick="filterNews('퓨처시스템', this)">퓨처시스템</button>
+        <button class="filter-btn" data-company="윈스" onclick="filterNews('윈스', this)">윈스</button>
+    </div>
+
+    <!-- 요약 카드 -->
+    <div class="summary-cards" id="summary-cards">
+        <!-- JS로 채워짐 -->
+    </div>
+
+    <!-- 뉴스 목록 -->
+    <div class="news-grid" id="news-list">
+        <div class="loading">⏳ 뉴스를 불러오는 중...</div>
+    </div>
+
+</div>
+
+<script>
+    const COMPANIES = ["시큐아이", "안랩", "넥스지", "퓨처시스템", "윈스"];
+    let allData = [];
+    let currentFilter = "전체";
+
+    // 데이터 로드
+    fetch('./data.json?t=' + Date.now())
+        .then(res => res.json())
+        .then(data => {
+            allData = data;
+            renderSummary(data);
+            renderNews(data);
+
+            const now = new Date();
+            document.getElementById('update-time').textContent =
+                `마지막 업데이트: ${now.toLocaleDateString('ko-KR')} ${now.toLocaleTimeString('ko-KR', {hour:'2-digit', minute:'2-digit'})}`;
+        })
+        .catch(() => {
+            document.getElementById('news-list').innerHTML =
+                '<div class="empty"><div style="font-size:32px">⚠️</div><p>data.json을 불러올 수 없습니다.<br>Actions 탭에서 로봇을 먼저 실행해주세요.</p></div>';
+        });
+
+    // 요약 카드 렌더링
+    function renderSummary(data) {
+        const colors = {
+            "시큐아이": "#e84393", "안랩": "#f7844f",
+            "넥스지": "#4fcff7", "퓨처시스템": "#a14ff7", "윈스": "#4ff77a"
+        };
+        const cards = document.getElementById('summary-cards');
+        cards.innerHTML = COMPANIES.map(c => {
+            const count = data.filter(d => d.company === c).length;
+            return `<div class="card" onclick="filterNews('${c}', null)">
+                <div class="company-name">
+                    <span class="dot" style="background:${colors[c]}"></span>${c}
+                </div>
+                <div class="count">${count}<span>건</span></div>
+            </div>`;
+        }).join('');
+    }
+
+    // 뉴스 렌더링
+    function renderNews(data) {
+        const list = document.getElementById('news-list');
+        if (!data || data.length === 0) {
+            list.innerHTML = '<div class="empty"><div style="font-size:32px">📭</div><p>수집된 뉴스가 없습니다.</p></div>';
+            return;
+        }
+        list.innerHTML = data.map(item => `
+            <div class="news-item">
+                <div class="meta">
+                    <span class="tag tag-${item.company}">${item.company}</span>
+                    <span class="source-tag">${item.source || ''}</span>
+                </div>
+                <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+                <div class="date">📅 ${item.date}</div>
+            </div>
+        `).join('');
+    }
+
+    // 필터
+    function filterNews(company, btn) {
+        currentFilter = company;
+
+        // 버튼 상태 업데이트
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        if (btn) btn.classList.add('active');
+        else {
+            document.querySelectorAll('.filter-btn').forEach(b => {
+                if (b.dataset.company === company) b.classList.add('active');
             });
-    </script>
+        }
+
+        const filtered = company === "전체" ? allData : allData.filter(d => d.company === company);
+        renderNews(filtered);
+    }
+</script>
+
 </body>
 </html>

@@ -1,562 +1,92 @@
 [
     {
         "company": "넥스지",
-        "title": "한 해를 함께 마무리하는 시간, KX넥스지 직책자 송년회 현장",
-        "link": "https://blog.naver.com/kxnexg/224129112244?fromRss=true&trackingCode=rss",
-        "date": "Wed, 31 Dec 2025",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "독서가 MZ스럽게 힙해졌다?! 요즘 뜨는 ‘텍스트힙(Text Hip)’ 트렌드",
-        "link": "https://blog.naver.com/kxnexg/224162827267?fromRss=true&trackingCode=rss",
-        "date": "Wed, 28 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "Ransom & Dark Web Issues 2026년 3월 4주차",
-        "link": "https://asec.ahnlab.com/ko/93058/",
-        "date": "Wed, 25 Mar 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식] AI가 SaaS를 대체한다고? '사스포칼립스'는 진짜가 될까?",
-        "link": "https://blog.naver.com/kxnexg/224229304841?fromRss=true&trackingCode=rss",
-        "date": "Wed, 25 Mar 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "두쫀쿠 가고 봄동 온다? 알고리즘 뒤덮은 ‘봄동 비빔밥’",
-        "link": "https://blog.naver.com/kxnexg/224195511444?fromRss=true&trackingCode=rss",
-        "date": "Wed, 25 Feb 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "Ransom & Dark Web Issues 2026년 4월 4주차",
-        "link": "https://asec.ahnlab.com/ko/93471/",
-        "date": "Wed, 22 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 3월 APT 공격 동향 보고서(국내)",
-        "link": "https://asec.ahnlab.com/ko/93466/",
-        "date": "Wed, 22 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "Ransom & Dark Web Issues 2026년 3월 3주차",
-        "link": "https://asec.ahnlab.com/ko/92977/",
-        "date": "Wed, 18 Mar 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "Ransom & Dark Web Issues 2026년 4월 3주차",
-        "link": "https://asec.ahnlab.com/ko/93409/",
-        "date": "Wed, 15 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "Ransom & Dark Web Issues 2026년 3월 2주차",
-        "link": "https://asec.ahnlab.com/ko/92887/",
-        "date": "Wed, 11 Mar 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 2월 APT 그룹 동향 보고서",
-        "link": "https://asec.ahnlab.com/ko/92884/",
-        "date": "Wed, 11 Mar 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "Ransom & Dark Web Issues 2026년 4월 2주차",
-        "link": "https://asec.ahnlab.com/ko/93258/",
-        "date": "Wed, 08 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "넥스지",
         "title": "말차 다음은 ‘보라’? 요즘 뜨는 디저트 트렌드, 우베(UBE)",
         "link": "https://blog.naver.com/kxnexg/224245458715?fromRss=true&trackingCode=rss",
         "date": "Wed, 08 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "KX넥스지, 파트너사 SB그룹 송년회 현장 스케치",
-        "link": "https://blog.naver.com/kxnexg/224137434163?fromRss=true&trackingCode=rss",
-        "date": "Wed, 07 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "Ransom & Dark Web Issues 2026년 4월 1주차",
-        "link": "https://asec.ahnlab.com/ko/93157/",
-        "date": "Wed, 01 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "파이썬 기반 백도어를 유포하는 악성 LNK 및 유포 방식의 변화 (Kimsuky 그룹)",
-        "link": "https://asec.ahnlab.com/ko/93150/",
-        "date": "Wed, 01 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "모바일 앱스토어에 유통 중인 과도한 광고 앱 주의",
-        "link": "https://asec.ahnlab.com/ko/93141/",
-        "date": "Tue, 31 Mar 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "넥스지",
-        "title": "일할 땐 집중, 출출할 땐 간식! KX넥스지의 센스 있는 복지",
-        "link": "https://blog.naver.com/kxnexg/224235465116?fromRss=true&trackingCode=rss",
-        "date": "Tue, 31 Mar 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "Ransom & Dark Web Issues 2026년 4월 5주차",
-        "link": "https://asec.ahnlab.com/ko/93529/",
-        "date": "Tue, 28 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식] AI 취약점 발견?!⚔️ ‘AI 레드팀(AI Red Team)’이란?",
-        "link": "https://blog.naver.com/kxnexg/224161516612?fromRss=true&trackingCode=rss",
-        "date": "Tue, 27 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "eGISEC 2026 현장 속으로! KX넥스지 부스 참여 스토리✨",
-        "link": "https://blog.naver.com/kxnexg/224228088218?fromRss=true&trackingCode=rss",
-        "date": "Tue, 24 Mar 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 3월 피싱 이메일 동향 보고서",
-        "link": "https://asec.ahnlab.com/ko/93464/",
-        "date": "Tue, 21 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식] 사람을 속이는 해킹? ‘사회공학적 공격(Social Engineering)’이란",
-        "link": "https://blog.naver.com/kxnexg/224153281095?fromRss=true&trackingCode=rss",
-        "date": "Tue, 20 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 3월 랜섬웨어 동향 보고서",
-        "link": "https://asec.ahnlab.com/ko/93358/",
-        "date": "Tue, 14 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "넥스지",
-        "title": "왜 방탈출은 계속 유행할까? 체험형 콘텐츠로 진화하는 방탈출 트렌드",
-        "link": "https://blog.naver.com/kxnexg/224145080779?fromRss=true&trackingCode=rss",
-        "date": "Tue, 13 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식] AI가 코드를 짜주는 시대, ‘바이브 코딩’이란?",
-        "link": "https://blog.naver.com/kxnexg/224211588386?fromRss=true&trackingCode=rss",
-        "date": "Tue, 10 Mar 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "설 연휴가 벌써 다가왔습니다! 들뜬 마음만큼, 보안도 한 번 더 체크하세요",
-        "link": "https://blog.naver.com/kxnexg/224179020285?fromRss=true&trackingCode=rss",
-        "date": "Tue, 10 Feb 2026",
-        "source": "넥스지블로그"
+        "source": "공식블로그",
+        "description": "",
+        "is_today": false
     },
     {
         "company": "넥스지",
         "title": "[IT/보안 상식] 비밀번호의 시대 끝?  패스키(Passkey)로 인증!",
         "link": "https://blog.naver.com/kxnexg/224244166795?fromRss=true&trackingCode=rss",
         "date": "Tue, 07 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "2026년의 첫 해를 함께 보다 KX그룹 해맞이 행사 스케치",
-        "link": "https://blog.naver.com/kxnexg/224135976501?fromRss=true&trackingCode=rss",
-        "date": "Tue, 06 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식] 내부망이면 안전하다는 착각, SDP란?",
-        "link": "https://blog.naver.com/kxnexg/224170119171?fromRss=true&trackingCode=rss",
-        "date": "Tue, 03 Feb 2026",
-        "source": "넥스지블로그"
+        "source": "공식블로그",
+        "description": "",
+        "is_today": false
     },
     {
         "company": "넥스지",
         "title": "[4월 4주차] 결혼정보업체 개인정보 유출부터 에너지&정보보호 6대 실전 수칙까지❗이번 주 보안 브리핑",
         "link": "https://blog.naver.com/kxnexg/224262590275?fromRss=true&trackingCode=rss",
         "date": "Thu, 23 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "같은 목표를 향해 출발! 2026년 제1회 KX넥스지 소통DAY 현장",
-        "link": "https://blog.naver.com/kxnexg/224155989812?fromRss=true&trackingCode=rss",
-        "date": "Thu, 22 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 2월 APT 공격 동향 보고서(국내)",
-        "link": "https://asec.ahnlab.com/ko/92969/",
-        "date": "Thu, 19 Mar 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식] 이제 영상도 믿을 수 없다?  딥페이크 범죄 주의!",
-        "link": "https://blog.naver.com/kxnexg/224188256353?fromRss=true&trackingCode=rss",
-        "date": "Thu, 19 Feb 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 3월 APT 그룹 동향 보고서",
-        "link": "https://asec.ahnlab.com/ko/93415/",
-        "date": "Thu, 16 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 3월 국내외 금융권 관련 보안 이슈",
-        "link": "https://asec.ahnlab.com/ko/93420/",
-        "date": "Thu, 16 Apr 2026",
-        "source": "안랩ASEC"
+        "source": "공식블로그",
+        "description": "",
+        "is_today": false
     },
     {
         "company": "넥스지",
         "title": "KX넥스지, 동반성장위원회 주관ESG 우수 중소기업으로 선정!",
         "link": "https://blog.naver.com/kxnexg/224254136797?fromRss=true&trackingCode=rss",
         "date": "Thu, 16 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "KX넥스지, 배재대학교 ‘2025 일학습병행 우수 학습기업’ 선정!",
-        "link": "https://blog.naver.com/kxnexg/224147805532?fromRss=true&trackingCode=rss",
-        "date": "Thu, 15 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "달리다 보면 버터가 생긴다?! 러닝족 사이에서 뜨는 ‘버터런(Butter Run)’",
-        "link": "https://blog.naver.com/kxnexg/224213904619?fromRss=true&trackingCode=rss",
-        "date": "Thu, 12 Mar 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "중국 여행의 NEW 필수코스? 요즘 MZ는 ‘왕홍 체험’하러 간다!✨",
-        "link": "https://blog.naver.com/kxnexg/224181624842?fromRss=true&trackingCode=rss",
-        "date": "Thu, 12 Feb 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 1분기 공격기법 동향보고서",
-        "link": "https://asec.ahnlab.com/ko/93277/",
-        "date": "Thu, 09 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "LOLBins – MSBuild를 활용한 공격 기법 분석",
-        "link": "https://asec.ahnlab.com/ko/93289/",
-        "date": "Thu, 09 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 3월 인포스틸러 동향 보고서",
-        "link": "https://asec.ahnlab.com/ko/93292/",
-        "date": "Thu, 09 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "넥스지",
-        "title": "요즘 MZ 오프라인 모임의 방향은? ‘경찰과 도둑’에서 ‘감튀 모임’까지",
-        "link": "https://blog.naver.com/kxnexg/224172727925?fromRss=true&trackingCode=rss",
-        "date": "Thu, 05 Feb 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "BreachForums, 데이터 유출 사건 (“Doomsday The Story of James”) 분석 보고서",
-        "link": "https://asec.ahnlab.com/ko/93167/",
-        "date": "Thu, 02 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식] 공격을 예측하는 보안, 사이버 위협 인텔리전스(CTI)란?",
-        "link": "https://blog.naver.com/kxnexg/224238217292?fromRss=true&trackingCode=rss",
-        "date": "Thu, 02 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "카카오톡 설치파일로 위장한 Winos4.0 악성코드",
-        "link": "https://asec.ahnlab.com/ko/92924/",
-        "date": "Sun, 15 Mar 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 3월 다크웹 이슈 동향 보고서",
-        "link": "https://asec.ahnlab.com/ko/93321/",
-        "date": "Sun, 12 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 3월 다크웹 위협 행위자 동향 보고서",
-        "link": "https://asec.ahnlab.com/ko/93322/",
-        "date": "Sun, 12 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 1분기 리눅스 SSH 서버 대상 악성코드 통계 보고서",
-        "link": "https://asec.ahnlab.com/ko/93327/",
-        "date": "Sun, 12 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 1분기 윈도우 데이터베이스 서버 대상 악성코드 통계 보고서",
-        "link": "https://asec.ahnlab.com/ko/93329/",
-        "date": "Sun, 12 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 1분기 윈도우 웹 서버 대상 악성코드 통계 보고서",
-        "link": "https://asec.ahnlab.com/ko/93332/",
-        "date": "Sun, 12 Apr 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 3월 다크웹 침해사고 동향 보고서",
-        "link": "https://asec.ahnlab.com/ko/93320/",
-        "date": "Sun, 12 Apr 2026",
-        "source": "안랩ASEC"
+        "source": "공식블로그",
+        "description": "",
+        "is_today": false
     },
     {
         "company": "넥스지",
         "title": "[4월 3주차] 미토스 쇼크부터 북한 IT 인력 위장취업까지❗이번 주 보안 브리핑",
         "link": "https://blog.naver.com/kxnexg/224255778916?fromRss=true&trackingCode=rss",
         "date": "Sat, 18 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[3월 1주차] 사랑의 열매 기부자 개인정보 유출부터 와이파이 보안 취약점까지❗이번 주 보안 브리핑",
-        "link": "https://blog.naver.com/kxnexg/224206964340?fromRss=true&trackingCode=rss",
-        "date": "Sat, 07 Mar 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "롯데이노베이트 파트너사로 함께한 ‘2026 롯데 행복나눔 동행콘서트’ 현장 스케치",
-        "link": "https://blog.naver.com/kxnexg/224234589519?fromRss=true&trackingCode=rss",
-        "date": "Mon, 30 Mar 2026",
-        "source": "넥스지블로그"
+        "source": "공식블로그",
+        "description": "",
+        "is_today": false
     },
     {
         "company": "넥스지",
         "title": "[IT/보안 상식]  AI도 속는다? 생성형 AI 시대, 프롬프트 인젝션이 위험한 이유",
         "link": "https://blog.naver.com/kxnexg/224266777121?fromRss=true&trackingCode=rss",
         "date": "Mon, 27 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식]악성코드 없이도 가능한 공격, LoTL(Living off the Land)이란?",
-        "link": "https://blog.naver.com/kxnexg/224192613134?fromRss=true&trackingCode=rss",
-        "date": "Mon, 23 Feb 2026",
-        "source": "넥스지블로그"
+        "source": "공식블로그",
+        "description": "",
+        "is_today": false
     },
     {
         "company": "넥스지",
         "title": "[IT/보안 상식] AI가 해커가 된다면? ‘버그마게돈’의 시작?!",
         "link": "https://blog.naver.com/kxnexg/224258967456?fromRss=true&trackingCode=rss",
         "date": "Mon, 20 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식]AGI(범용 인공지능), AI의 미래가 될까?",
-        "link": "https://blog.naver.com/kxnexg/224218635975?fromRss=true&trackingCode=rss",
-        "date": "Mon, 16 Mar 2026",
-        "source": "넥스지블로그"
+        "source": "공식블로그",
+        "description": "",
+        "is_today": false
     },
     {
         "company": "넥스지",
         "title": "[IT/보안 상식] 24시간 보안 지킴이! ‘보안관제센터(SOC)’",
         "link": "https://blog.naver.com/kxnexg/224250978009?fromRss=true&trackingCode=rss",
         "date": "Mon, 13 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식] 해커에게 상금 주는 회사들? 버그바운티가 뭐길래",
-        "link": "https://blog.naver.com/kxnexg/224143525571?fromRss=true&trackingCode=rss",
-        "date": "Mon, 12 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[eGISEC 2026]지능형 기술 기반 플랫폼 보안 기업 KX넥스지를 eGISEC 2026에서 만나보세요!",
-        "link": "https://blog.naver.com/kxnexg/224209740407?fromRss=true&trackingCode=rss",
-        "date": "Mon, 09 Mar 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식] ️ 다크웹, 왜 범죄의 온상이 됐을까?",
-        "link": "https://blog.naver.com/kxnexg/224177485962?fromRss=true&trackingCode=rss",
-        "date": "Mon, 09 Feb 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "함께 축하하고 이야기 나눈 시간, KX넥스지 승진·승급자 간담회 현장 스케치",
-        "link": "https://blog.naver.com/kxnexg/224242840588?fromRss=true&trackingCode=rss",
-        "date": "Mon, 06 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[1월 4주차] 공공시스템 보안 이슈부터 AI 에이전트 논란까지❗이번 주 보안 브리핑",
-        "link": "https://blog.naver.com/kxnexg/224165460917?fromRss=true&trackingCode=rss",
-        "date": "Fri, 30 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[3월 4주차] 중동 핵티비즘 사이버 공격부터 어르신들을 위한 스마트폰 보안관까지❗이번 주 보안 브리핑",
-        "link": "https://blog.naver.com/kxnexg/224231688889?fromRss=true&trackingCode=rss",
-        "date": "Fri, 27 Mar 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[2월 4주차] 중학생 따릉이 해킹부터 제로 트러스트까지❗이번 주 보안 브리핑",
-        "link": "https://blog.naver.com/kxnexg/224197961527?fromRss=true&trackingCode=rss",
-        "date": "Fri, 27 Feb 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "ICE Cloud 스캐너를 설치하는 MS-SQL 서버 대상 공격 사례 (Larva-26002)",
-        "link": "https://asec.ahnlab.com/ko/92987/",
-        "date": "Fri, 20 Mar 2026",
-        "source": "안랩ASEC"
-    },
-    {
-        "company": "넥스지",
-        "title": "[2월 3주차] 네이버, 카카오도 금지한 오픈클로 이슈부터 MS Copilot까지❗이번 주 보안 브리핑",
-        "link": "https://blog.naver.com/kxnexg/224189570581?fromRss=true&trackingCode=rss",
-        "date": "Fri, 20 Feb 2026",
-        "source": "넥스지블로그"
+        "source": "공식블로그",
+        "description": "",
+        "is_today": false
     },
     {
         "company": "넥스지",
         "title": "봄바람 타고 온 소통✨ 2026년 KX넥스지 제2회 소통데이 현장 스케치",
         "link": "https://blog.naver.com/kxnexg/224255624190?fromRss=true&trackingCode=rss",
         "date": "Fri, 17 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "2026년 KX넥스지가 받은 첫 선물 SP(스페셜 파트너) 진네트웍스의 달콤한 응원!",
-        "link": "https://blog.naver.com/kxnexg/224149052428?fromRss=true&trackingCode=rss",
-        "date": "Fri, 16 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[3월 2주차] 정보보호인증 강화부터 구형 아이폰 iOS 업데이트까지❗이번 주 보안 브리핑",
-        "link": "https://blog.naver.com/kxnexg/224215288573?fromRss=true&trackingCode=rss",
-        "date": "Fri, 13 Mar 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[2월 2주차] 루이비통 고객정보 유출부터 설 연휴 사이버범죄 예방까지❗이번 주 보안 브리핑",
-        "link": "https://blog.naver.com/kxnexg/224182708663?fromRss=true&trackingCode=rss",
-        "date": "Fri, 13 Feb 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "안랩",
-        "title": "2026년 1분기 취약점 동향보고서",
-        "link": "https://asec.ahnlab.com/ko/93284/",
-        "date": "Fri, 10 Apr 2026",
-        "source": "안랩ASEC"
+        "source": "공식블로그",
+        "description": "",
+        "is_today": false
     },
     {
         "company": "넥스지",
         "title": "[4월 2주차] 스팸문자 AI 차단부터 광고유도형 미끼앱 주의 경고까지❗이번 주 보안 브리핑",
         "link": "https://blog.naver.com/kxnexg/224247425328?fromRss=true&trackingCode=rss",
         "date": "Fri, 10 Apr 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[1월 1주차] 헤드폰 재킹부터 '챗GPT 건강' 출시까지❗이번 주 보안 브리핑",
-        "link": "https://blog.naver.com/kxnexg/224140613579?fromRss=true&trackingCode=rss",
-        "date": "Fri, 09 Jan 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[IT/보안 상식]  “비밀번호 돌려쓰기”의 최후?! 크리덴셜 스터핑(Credential Stuffing) 제대로 알기",
-        "link": "https://blog.naver.com/kxnexg/224206796134?fromRss=true&trackingCode=rss",
-        "date": "Fri, 06 Mar 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[2월 1주차] AI 전용 SNS 문제부터 따릉이 개인정보 유출까지❗이번 주 보안 브리핑",
-        "link": "https://blog.naver.com/kxnexg/224174153069?fromRss=true&trackingCode=rss",
-        "date": "Fri, 06 Feb 2026",
-        "source": "넥스지블로그"
-    },
-    {
-        "company": "넥스지",
-        "title": "[4월 1주차] 양자컴퓨터 Q-데이부터 5G 가입자 식별정보 보안 취약점까지❗이번 주 보안 브리핑",
-        "link": "https://blog.naver.com/kxnexg/224239779474?fromRss=true&trackingCode=rss",
-        "date": "Fri, 03 Apr 2026",
-        "source": "넥스지블로그"
+        "source": "공식블로그",
+        "description": "",
+        "is_today": false
     }
 ]

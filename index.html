@@ -232,11 +232,14 @@
     }
 
 function renderMetrics(elId, keys, data, field, colors) {
-    // 한국시간 기준 오늘 날짜 계산
-    const now = new Date();
-    const kstOffset = 9 * 60; // KST = UTC+9
-    const kstTime = new Date(now.getTime() + (kstOffset + now.getTimezoneOffset()) * 60000);
-    const today = kstTime.toISOString().slice(0, 10); // 'YYYY-MM-DD'
+    // 한국시간 기준 오늘 날짜
+    const today = new Date().toLocaleDateString('ko-KR', {
+        timeZone: 'Asia/Seoul',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit'
+    }).replace(/\. /g, '-').replace('.', '').trim();
+    // 결과: "2026-05-06" 형식
 
     document.getElementById(elId).innerHTML = keys.map(k => {
         const total    = data.filter(d => d[field] === k).length;

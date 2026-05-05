@@ -231,21 +231,26 @@
         }
     }
 
-    function renderMetrics(elId, keys, data, field, colors) {
-        const today = new Date().toISOString().slice(0, 10);
-        document.getElementById(elId).innerHTML = keys.map(k => {
-            const total    = data.filter(d => d[field] === k).length;
-            const todayCnt = data.filter(d => d[field] === k && (d.date||'').startsWith(today)).length;
-            const col = colors[k];
-            return `<div class="metric">
-                <div class="metric-label">
-                    <span class="dot" style="background:${col.hex}"></span>${k}
-                </div>
-                <div class="metric-value">${total}</div>
-                <div class="metric-sub">오늘 ${todayCnt}건</div>
-            </div>`;
-        }).join('');
-    }
+function renderMetrics(elId, keys, data, field, colors) {
+    // 한국시간 기준 오늘 날짜 계산
+    const now = new Date();
+    const kstOffset = 9 * 60; // KST = UTC+9
+    const kstTime = new Date(now.getTime() + (kstOffset + now.getTimezoneOffset()) * 60000);
+    const today = kstTime.toISOString().slice(0, 10); // 'YYYY-MM-DD'
+
+    document.getElementById(elId).innerHTML = keys.map(k => {
+        const total    = data.filter(d => d[field] === k).length;
+        const todayCnt = data.filter(d => d[field] === k && (d.date||'').startsWith(today)).length;
+        const col = colors[k];
+        return `<div class="metric">
+            <div class="metric-label">
+                <span class="dot" style="background:${col.hex}"></span>${k}
+            </div>
+            <div class="metric-value">${total}</div>
+            <div class="metric-sub">오늘 ${todayCnt}건</div>
+        </div>`;
+    }).join('');
+}
 
     function renderDonut(canvasId, legendId, keys, data, field, colors) {
         const counts = keys.map(k => data.filter(d => d[field] === k).length);

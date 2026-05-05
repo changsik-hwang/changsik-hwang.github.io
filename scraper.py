@@ -1,17 +1,20 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
 # =============================================
 # 설정
 # =============================================
 
+# 한국시간 설정
+KST = timezone(timedelta(hours=9))
+
 COMPANY_KEYWORDS = {
     "시큐아이":   ["시큐아이", "secui", "SECUI"],
     "안랩":       ["안랩", "AhnLab"],
-    "넥스지":     ["KX넥스지", "케이엑스넥스지", "KXNEXG", "nexg 보안"],
+    "넥스지":     ["KX넥스지", "케이엑스넥스지", "KXNEXG"],
     "퓨처시스템": ["퓨처시스템"],
     "윈스":       ["윈스", "윈스테크넷"],
 }
@@ -28,39 +31,31 @@ BLOGS = {
 }
 
 # =============================================
-# 날짜 파싱 함수 (핵심!)
+# 날짜 파싱 함수
 # =============================================
 
 def parse_date(date_str):
-    """
-    RSS 날짜는 형식이 제각각이라 통일해줘야 함
-    예) 'Mon, 05 May 2026 09:00:00 +0900'
-        '2026-05-05T09:00:00+09:00'
-        '2026-05-05 09:00:00'
-    → '2026-05-05 09:00' 형식으로 통일
-    """
+    """RSS 날짜를 한국시간 기준 'YYYY-MM-DD HH:MM' 형식으로 변환"""
     if not date_str:
         return ""
     try:
-        # RFC 2822 형식 (RSS 표준) - 구글/네이버 블로그 대부분
         dt = parsedate_to_datetime(date_str)
-        return dt.strftime("%Y-%m-%d %H:%M")
+        dt_kst = dt.astimezone(KST)
+        return dt_kst.strftime("%Y-%m-%d %H:%M")
     except Exception:
         pass
     try:
-        # ISO 8601 형식
         dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
-        return dt.strftime("%Y-%m-%d %H:%M")
+        dt_kst = dt.astimezone(KST)
+        return dt_kst.strftime("%Y-%m-%d %H:%M")
     except Exception:
         pass
     try:
-        # 그냥 앞 16글자만 자르기 (최후 수단)
         return date_str[:16]
     except Exception:
         return ""
 
 def date_sort_key(item):
-    """정렬용 키 - 날짜 문자열을 그대로 쓰면 최신순 정렬 가능"""
     return item.get("date", "")
 
 # =============================================
@@ -82,7 +77,6 @@ def fetch_google_news(keyword):
             link  = item.link.text.strip() if item.link else ""
             date  = parse_date(item.pubDate.text.strip() if item.pubDate else "")
 
-            # 구글 뉴스 제목 뒤 " - 언론사명" 제거
             if " - " in title:
                 title = title.rsplit(" - ", 1)[0].strip()
 
@@ -148,10 +142,12 @@ def deduplicate(data):
 # =============================================
 
 def main():
-    today_str = datetime.now().strftime("%Y-%m-%d")
+    # 현재 한국시간
+    now_kst = datetime.now(KST)
+    today_str = now_kst.strftime("%Y-%m-%d")
 
     print("=" * 45)
-    print(f"  수집 시작: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"  수집 시작 (KST): {now_kst.strftime('%Y-%m-%d %H:%M')}")
     print("=" * 45)
 
     # ── 탭1: 경쟁사 ──────────────────────────
@@ -178,7 +174,7 @@ def main():
             competitor_data.append(item)
 
     competitor_data = deduplicate(competitor_data)
-    competitor_data.sort(key=date_sort_key, reverse=True)  # 최신순 정렬
+    competitor_data.sort(key=date_sort_key, reverse=True)
 
     print(f"\n  → 경쟁사 총 {len(competitor_data)}건")
     for c in COMPANY_KEYWORDS:
@@ -202,7 +198,7 @@ def main():
                 trend_data.append(item)
 
     trend_data = deduplicate(trend_data)
-    trend_data.sort(key=date_sort_key, reverse=True)  # 최신순 정렬
+    trend_data.sort(key=date_sort_key, reverse=True)
 
     print(f"\n  → 트렌드 총 {len(trend_data)}건")
     for c in TREND_KEYWORDS:
@@ -212,7 +208,7 @@ def main():
 
     # ── 저장 ─────────────────────────────────
     output = {
-        "updated":    datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "updated":    now_kst.strftime("%Y-%m-%d %H:%M"),  # 한국시간으로 저장
         "competitor": competitor_data,
         "trend":      trend_data
     }
@@ -220,7 +216,7 @@ def main():
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=4)
 
-    print(f"\n✅ 저장 완료")
+    print(f"\n✅ 저장 완료 (KST 기준)")
     print(f"   경쟁사: {len(competitor_data)}건")
     print(f"   트렌드: {len(trend_data)}건")
 

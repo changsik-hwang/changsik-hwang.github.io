@@ -8,7 +8,6 @@ from email.utils import parsedate_to_datetime
 # 설정
 # =============================================
 
-# 한국시간 설정
 KST = timezone(timedelta(hours=9))
 
 COMPANY_KEYWORDS = {
@@ -31,20 +30,21 @@ BLOGS = {
 }
 
 # =============================================
-# 날짜 파싱 함수
+# 날짜 파싱 - 무조건 KST로 변환
 # =============================================
 
 def parse_date(date_str):
-    """RSS 날짜를 한국시간 기준 'YYYY-MM-DD HH:MM' 형식으로 변환"""
     if not date_str:
         return ""
     try:
+        # RFC 2822 형식 (구글 뉴스 RSS 표준)
         dt = parsedate_to_datetime(date_str)
         dt_kst = dt.astimezone(KST)
         return dt_kst.strftime("%Y-%m-%d %H:%M")
     except Exception:
         pass
     try:
+        # ISO 8601 형식
         dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
         dt_kst = dt.astimezone(KST)
         return dt_kst.strftime("%Y-%m-%d %H:%M")
@@ -63,7 +63,6 @@ def date_sort_key(item):
 # =============================================
 
 def fetch_google_news(keyword):
-    """구글 뉴스 RSS로 키워드 검색 기사 수집"""
     results = []
     try:
         url = f"https://news.google.com/rss/search?q={requests.utils.quote(keyword)}&hl=ko&gl=KR&ceid=KR:ko"
@@ -75,7 +74,8 @@ def fetch_google_news(keyword):
         for item in items[:20]:
             title = item.title.text.strip() if item.title else ""
             link  = item.link.text.strip() if item.link else ""
-            date  = parse_date(item.pubDate.text.strip() if item.pubDate else "")
+            pub_date = item.pubDate.text.strip() if item.pubDate else ""
+            date = parse_date(pub_date)
 
             if " - " in title:
                 title = title.rsplit(" - ", 1)[0].strip()
@@ -96,7 +96,6 @@ def fetch_google_news(keyword):
 
 
 def fetch_naver_blog(blog_id):
-    """네이버 블로그 RSS 수집"""
     results = []
     try:
         url = f"https://rss.blog.naver.com/{blog_id}.xml"
@@ -108,7 +107,8 @@ def fetch_naver_blog(blog_id):
         for item in items[:10]:
             title = item.title.text.strip() if item.title else ""
             link  = item.link.text.strip() if item.link else ""
-            date  = parse_date(item.pubDate.text.strip() if item.pubDate else "")
+            pub_date = item.pubDate.text.strip() if item.pubDate else ""
+            date = parse_date(pub_date)
 
             if not title:
                 continue
@@ -126,7 +126,6 @@ def fetch_naver_blog(blog_id):
 
 
 def deduplicate(data):
-    """링크 기준 중복 제거"""
     seen = set()
     result = []
     for item in data:
@@ -142,7 +141,6 @@ def deduplicate(data):
 # =============================================
 
 def main():
-    # 현재 한국시간
     now_kst = datetime.now(KST)
     today_str = now_kst.strftime("%Y-%m-%d")
 
@@ -208,7 +206,7 @@ def main():
 
     # ── 저장 ─────────────────────────────────
     output = {
-        "updated":    now_kst.strftime("%Y-%m-%d %H:%M"),  # 한국시간으로 저장
+        "updated":    now_kst.strftime("%Y-%m-%d %H:%M"),
         "competitor": competitor_data,
         "trend":      trend_data
     }

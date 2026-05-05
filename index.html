@@ -103,3 +103,303 @@
 
     <div id="panel-competitor" class="tab-panel active">
         <div class="metric-row cols-5" id="competitorMetrics"></div>
+        <div class="chart-row">
+            <div class="chart-card">
+                <div class="chart-title">회사별 기사 비중</div>
+                <div style="position:relative; height:180px;">
+                    <canvas id="donutChart" role="img" aria-label="회사별 기사 비중">회사별 기사 비중</canvas>
+                </div>
+                <div class="legend-row" id="donutLegend"></div>
+            </div>
+            <div class="chart-card">
+                <div class="chart-title">회사별 수집 건수</div>
+                <div style="position:relative; height:180px;">
+                    <canvas id="barChart" role="img" aria-label="회사별 수집 건수">회사별 수집 건수</canvas>
+                </div>
+            </div>
+        </div>
+        <div class="news-card">
+            <div class="news-header">
+                <div class="news-card-title">최신 기사</div>
+                <div class="filter-bar" id="competitorFilter"></div>
+            </div>
+            <div id="competitorNews"></div>
+        </div>
+    </div>
+
+    <div id="panel-trend" class="tab-panel">
+        <div class="metric-row cols-3" id="trendMetrics"></div>
+        <div class="chart-row">
+            <div class="chart-card">
+                <div class="chart-title">키워드별 기사 비중</div>
+                <div style="position:relative; height:180px;">
+                    <canvas id="trendDonut" role="img" aria-label="키워드별 기사 비중">키워드별 기사 비중</canvas>
+                </div>
+                <div class="legend-row" id="trendLegend"></div>
+            </div>
+            <div class="chart-card">
+                <div class="chart-title">키워드별 수집 건수</div>
+                <div style="position:relative; height:180px;">
+                    <canvas id="trendBar" role="img" aria-label="키워드별 수집 건수">키워드별 수집 건수</canvas>
+                </div>
+            </div>
+        </div>
+        <div class="news-card">
+            <div class="news-header">
+                <div class="news-card-title">최신 기사</div>
+                <div class="filter-bar" id="trendFilter"></div>
+            </div>
+            <div id="trendNews"></div>
+        </div>
+    </div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+    const COMPANIES = ["시큐아이","안랩","넥스지","퓨처시스템","윈스"];
+    const TRENDS    = ["AI보안","PQC","제로트러스트"];
+
+    const C_COLORS = {
+        "시큐아이":   { hex:"#e84393", bg:"#e8439322", text:"#e84393" },
+        "안랩":       { hex:"#f7844f", bg:"#f7844f22", text:"#f7844f" },
+        "넥스지":     { hex:"#4fcff7", bg:"#4fcff722", text:"#4fcff7" },
+        "퓨처시스템": { hex:"#a14ff7", bg:"#a14ff722", text:"#a14ff7" },
+        "윈스":       { hex:"#4ff77a", bg:"#4ff77a22", text:"#4ff77a" }
+    };
+    const T_COLORS = {
+        "AI보안":      { hex:"#f7c94f", bg:"#f7c94f22", text:"#f7c94f" },
+        "PQC":         { hex:"#4f8ef7", bg:"#4f8ef722", text:"#4f8ef7" },
+        "제로트러스트": { hex:"#f74f4f", bg:"#f74f4f22", text:"#f74f4f" }
+    };
+    const SOURCE_MAP = {
+        "공식블로그": { label:"블로그", color:"#f7c94f" },
+        "구글뉴스":   { label:"뉴스",   color:"#4fcff7" },
+        "네이버뉴스": { label:"뉴스",   color:"#4fcff7" },
+    };
+
+    let competitorData = [], trendData = [];
+    let cFilter = "전체", tFilter = "전체";
+
+    // 모바일 판단 - 최초 1회만 (resize 재렌더 제거)
+    const IS_MOBILE = window.innerWidth <= 768;
+
+    // ── 데이터 로드 ───────────────────────────
+    fetch('./data.json?t=' + Date.now())
+        .then(r => r.json())
+        .then(data => {
+            competitorData = data.competitor || data || [];
+            trendData      = data.trend || [];
+            document.getElementById('updateTime').textContent =
+                `업데이트: ${data.updated || ""}`;
+            renderCompetitor();
+            renderTrend();
+        })
+        .catch(() => {
+            document.getElementById('competitorNews').innerHTML =
+                '<div class="empty">⚠️ data.json을 불러올 수 없습니다.<br>Actions 탭에서 로봇을 먼저 실행해주세요.</div>';
+        });
+
+    // ── 탭 전환 ──────────────────────────────
+    function switchTab(tab, btn) {
+        document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.getElementById('panel-' + tab).classList.add('active');
+        btn.classList.add('active');
+    }
+
+    // ── 경쟁사 탭 ────────────────────────────
+    function renderCompetitor() {
+        renderMetrics('competitorMetrics', COMPANIES, competitorData, 'company', C_COLORS);
+        renderDonut('donutChart', 'donutLegend', COMPANIES, competitorData, 'company', C_COLORS);
+        renderBar('barChart', COMPANIES, competitorData, 'company', C_COLORS);
+        renderFilterBtns('competitorFilter', ["전체", ...COMPANIES], 'c');
+        renderNewsList('competitorNews', getFiltered('c'), 'company', C_COLORS);
+    }
+
+    // ── 트렌드 탭 ────────────────────────────
+    function renderTrend() {
+        renderMetrics('trendMetrics', TRENDS, trendData, 'category', T_COLORS);
+        renderDonut('trendDonut', 'trendLegend', TRENDS, trendData, 'category', T_COLORS);
+        renderBar('trendBar', TRENDS, trendData, 'category', T_COLORS);
+        renderFilterBtns('trendFilter', ["전체", ...TRENDS], 't');
+        renderNewsList('trendNews', getFiltered('t'), 'category', T_COLORS);
+    }
+
+    // ── 필터 적용된 데이터 반환 ───────────────
+    function getFiltered(prefix) {
+        if (prefix === 'c') {
+            return cFilter === "전체" ? competitorData : competitorData.filter(d => d.company === cFilter);
+        } else {
+            return tFilter === "전체" ? trendData : trendData.filter(d => d.category === tFilter);
+        }
+    }
+
+    // ── 메트릭 카드 ──────────────────────────
+    function renderMetrics(elId, keys, data, field, colors) {
+        const today = new Date().toISOString().slice(0, 10);
+        document.getElementById(elId).innerHTML = keys.map(k => {
+            const total    = data.filter(d => d[field] === k).length;
+            const todayCnt = data.filter(d => d[field] === k && (d.date||'').startsWith(today)).length;
+            const col = colors[k];
+            return `<div class="metric">
+                <div class="metric-label">
+                    <span class="dot" style="background:${col.hex}"></span>${k}
+                </div>
+                <div class="metric-value">${total}</div>
+                <div class="metric-sub">오늘 ${todayCnt}건</div>
+            </div>`;
+        }).join('');
+    }
+
+    // ── 도넛 차트 ────────────────────────────
+    function renderDonut(canvasId, legendId, keys, data, field, colors) {
+        const counts = keys.map(k => data.filter(d => d[field] === k).length);
+        const hexes  = keys.map(k => colors[k].hex);
+        const total  = counts.reduce((a, b) => a + b, 0);
+        const existing = Chart.getChart(canvasId);
+        if (existing) existing.destroy();
+
+        new Chart(document.getElementById(canvasId), {
+            type: 'doughnut',
+            data: {
+                labels: keys,
+                datasets: [{
+                    data: counts,
+                    backgroundColor: hexes,
+                    borderWidth: 2,
+                    borderColor: '#1a1d2e',
+                    hoverOffset: 6
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                cutout: '65%',
+                animation: { duration: 400 },
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        callbacks: {
+                            label: ctx => {
+                                const p = total > 0 ? Math.round(ctx.raw / total * 100) : 0;
+                                return ` ${ctx.raw}건 (${p}%)`;
+                            }
+                        }
+                    }
+                }
+            }
+        });
+
+        document.getElementById(legendId).innerHTML = keys.map((k, i) => {
+            const p = total > 0 ? Math.round(counts[i] / total * 100) : 0;
+            return `<span class="legend-item">
+                <span class="legend-sq" style="background:${hexes[i]}"></span>${k} ${p}%
+            </span>`;
+        }).join('');
+    }
+
+    // ── 막대 차트 ────────────────────────────
+    function renderBar(canvasId, keys, data, field, colors) {
+        const counts = keys.map(k => data.filter(d => d[field] === k).length);
+        const hexes  = keys.map(k => colors[k].hex);
+        const existing = Chart.getChart(canvasId);
+        if (existing) existing.destroy();
+
+        new Chart(document.getElementById(canvasId), {
+            type: 'bar',
+            data: {
+                labels: keys,
+                datasets: [{
+                    data: counts,
+                    backgroundColor: hexes,
+                    borderRadius: 5,
+                    borderSkipped: false
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                animation: { duration: 400 },
+                plugins: { legend: { display: false } },
+                scales: {
+                    x: {
+                        grid: { display: false },
+                        ticks: {
+                            color: '#666',
+                            font: { size: IS_MOBILE ? 10 : 11 },
+                            maxRotation: IS_MOBILE ? 30 : 0
+                        }
+                    },
+                    y: {
+                        beginAtZero: true,
+                        grid: { color: 'rgba(255,255,255,0.05)' },
+                        ticks: { color: '#666', font: { size: 11 }, stepSize: 1 }
+                    }
+                }
+            }
+        });
+    }
+
+    // ── 필터 버튼 ────────────────────────────
+    function renderFilterBtns(elId, labels, prefix) {
+        const current = prefix === 'c' ? cFilter : tFilter;
+        document.getElementById(elId).innerHTML = labels.map(l =>
+            `<button class="f-btn ${l === current ? 'on' : ''}"
+                onclick="setFilter('${prefix}','${l}')">${l}</button>`
+        ).join('');
+    }
+
+    function setFilter(prefix, val) {
+        if (prefix === 'c') {
+            cFilter = val;
+            renderFilterBtns('competitorFilter', ["전체", ...COMPANIES], 'c');
+            renderNewsList('competitorNews', getFiltered('c'), 'company', C_COLORS);
+        } else {
+            tFilter = val;
+            renderFilterBtns('trendFilter', ["전체", ...TRENDS], 't');
+            renderNewsList('trendNews', getFiltered('t'), 'category', T_COLORS);
+        }
+    }
+
+    // ── 뉴스 목록 ────────────────────────────
+    function renderNewsList(elId, data, field, colors) {
+        const el = document.getElementById(elId);
+        if (!data.length) {
+            el.innerHTML = '<div class="empty">📭 수집된 기사가 없습니다.</div>';
+            return;
+        }
+
+        el.innerHTML = data.slice(0, 20).map(item => {
+            const key = item[field];
+            const col = colors[key] || { hex:'#888', bg:'#88888822', text:'#888' };
+            const src = SOURCE_MAP[item.source] || { label: item.source || "", color:"#888" };
+            const badge = src.label
+                ? `<span class="source-badge" style="background:${src.color}22; color:${src.color}; border:1px solid ${src.color}44;">${src.label}</span>`
+                : "";
+            const tag = `<span class="news-tag" style="background:${col.bg}; color:${col.text}; border:1px solid ${col.hex}44;">${key}</span>`;
+            const date = (item.date||'').slice(0, 10);
+            const shortDate = (item.date||'').slice(5, 10);
+
+            if (IS_MOBILE) {
+                return `<div class="news-item">
+                    <div class="news-item-row1">${tag}${badge}</div>
+                    <div class="news-item-row2">
+                        <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
+                        <span class="news-date">${shortDate}</span>
+                    </div>
+                </div>`;
+            } else {
+                return `<div class="news-item">
+                    ${tag}${badge}
+                    <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
+                    <span class="news-date">${date}</span>
+                </div>`;
+            }
+        }).join('');
+    }
+
+    // resize 이벤트 완전 제거 → 차트 움직임 버그 해결
+</script>
+</body>
+</html>

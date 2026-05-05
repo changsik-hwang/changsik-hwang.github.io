@@ -9,8 +9,9 @@
         body { font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; background: #0f1117; color: #e0e0e0; min-height: 100vh; }
 
         header { background: #1a1d2e; border-bottom: 1px solid #2a2d3e; padding: 14px 20px; display: flex; align-items: center; justify-content: space-between; }
+        .header-left { display: flex; align-items: center; gap: 10px; }
+        .header-logo { width: 34px; height: 34px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
         header h1 { font-size: 15px; font-weight: 700; color: #fff; }
-        header h1 span { color: #4f8ef7; margin-right: 6px; }
         .update-time { font-size: 11px; color: #666; }
 
         .tab-bar { background: #1a1d2e; border-bottom: 1px solid #2a2d3e; padding: 0 20px; display: flex; }
@@ -48,7 +49,6 @@
         .f-btn:hover { border-color: #4f8ef7; color: #fff; }
         .f-btn.on { background: #4f8ef7; border-color: #4f8ef7; color: #fff; }
 
-        /* 뉴스 아이템 기본 (데스크탑) */
         .news-item { display: flex; align-items: center; gap: 8px; padding: 10px 0; border-bottom: 1px solid #22253a; }
         .news-item:last-child { border-bottom: none; }
         .news-tag { font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 10px; white-space: nowrap; flex-shrink: 0; }
@@ -62,6 +62,7 @@
         /* 모바일 */
         @media (max-width: 768px) {
             header h1 { font-size: 13px; }
+            .header-logo { width: 28px; height: 28px; }
             .update-time { display: none; }
             .tab-btn { padding: 10px 14px; font-size: 12px; }
             .container { padding: 12px 16px; }
@@ -74,7 +75,6 @@
             .chart-row { grid-template-columns: 1fr; gap: 10px; }
             .chart-card { padding: 14px; }
 
-            /* 모바일 뉴스 아이템: 2줄 */
             .news-item { flex-direction: column; align-items: flex-start; gap: 5px; padding: 12px 0; }
             .news-item-row1 { display: flex; align-items: center; gap: 6px; width: 100%; }
             .news-item-row2 { display: flex; align-items: flex-start; justify-content: space-between; width: 100%; gap: 8px; }
@@ -90,7 +90,10 @@
 <body>
 
 <header>
-    <h1><span>🛡</span> 보안 동향 모니터링</h1>
+    <div class="header-left">
+        <img src="./logo.png" alt="로고" class="header-logo">
+        <h1>보안 동향 모니터링</h1>
+    </div>
     <div class="update-time" id="updateTime">로딩 중...</div>
 </header>
 
@@ -180,11 +183,8 @@
 
     let competitorData = [], trendData = [];
     let cFilter = "전체", tFilter = "전체";
-
-    // 모바일 판단 - 최초 1회만 (resize 재렌더 제거)
     const IS_MOBILE = window.innerWidth <= 768;
 
-    // ── 데이터 로드 ───────────────────────────
     fetch('./data.json?t=' + Date.now())
         .then(r => r.json())
         .then(data => {
@@ -200,7 +200,6 @@
                 '<div class="empty">⚠️ data.json을 불러올 수 없습니다.<br>Actions 탭에서 로봇을 먼저 실행해주세요.</div>';
         });
 
-    // ── 탭 전환 ──────────────────────────────
     function switchTab(tab, btn) {
         document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
         document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
@@ -208,7 +207,6 @@
         btn.classList.add('active');
     }
 
-    // ── 경쟁사 탭 ────────────────────────────
     function renderCompetitor() {
         renderMetrics('competitorMetrics', COMPANIES, competitorData, 'company', C_COLORS);
         renderDonut('donutChart', 'donutLegend', COMPANIES, competitorData, 'company', C_COLORS);
@@ -217,7 +215,6 @@
         renderNewsList('competitorNews', getFiltered('c'), 'company', C_COLORS);
     }
 
-    // ── 트렌드 탭 ────────────────────────────
     function renderTrend() {
         renderMetrics('trendMetrics', TRENDS, trendData, 'category', T_COLORS);
         renderDonut('trendDonut', 'trendLegend', TRENDS, trendData, 'category', T_COLORS);
@@ -226,7 +223,6 @@
         renderNewsList('trendNews', getFiltered('t'), 'category', T_COLORS);
     }
 
-    // ── 필터 적용된 데이터 반환 ───────────────
     function getFiltered(prefix) {
         if (prefix === 'c') {
             return cFilter === "전체" ? competitorData : competitorData.filter(d => d.company === cFilter);
@@ -235,7 +231,6 @@
         }
     }
 
-    // ── 메트릭 카드 ──────────────────────────
     function renderMetrics(elId, keys, data, field, colors) {
         const today = new Date().toISOString().slice(0, 10);
         document.getElementById(elId).innerHTML = keys.map(k => {
@@ -252,7 +247,6 @@
         }).join('');
     }
 
-    // ── 도넛 차트 ────────────────────────────
     function renderDonut(canvasId, legendId, keys, data, field, colors) {
         const counts = keys.map(k => data.filter(d => d[field] === k).length);
         const hexes  = keys.map(k => colors[k].hex);
@@ -299,7 +293,6 @@
         }).join('');
     }
 
-    // ── 막대 차트 ────────────────────────────
     function renderBar(canvasId, keys, data, field, colors) {
         const counts = keys.map(k => data.filter(d => d[field] === k).length);
         const hexes  = keys.map(k => colors[k].hex);
@@ -341,7 +334,6 @@
         });
     }
 
-    // ── 필터 버튼 ────────────────────────────
     function renderFilterBtns(elId, labels, prefix) {
         const current = prefix === 'c' ? cFilter : tFilter;
         document.getElementById(elId).innerHTML = labels.map(l =>
@@ -362,7 +354,6 @@
         }
     }
 
-    // ── 뉴스 목록 ────────────────────────────
     function renderNewsList(elId, data, field, colors) {
         const el = document.getElementById(elId);
         if (!data.length) {
@@ -398,8 +389,6 @@
             }
         }).join('');
     }
-
-    // resize 이벤트 완전 제거 → 차트 움직임 버그 해결
 </script>
 </body>
 </html>

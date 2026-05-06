@@ -4,13 +4,15 @@ import json
 import os
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
+from collections import Counter
+from kiwi import Kiwi
 
 # =============================================
 # 설정
 # =============================================
 
-KST = timezone(timedelta(hours=9))
-KEEP_DAYS = 180  # 6개월 = 180일
+KST       = timezone(timedelta(hours=9))
+KEEP_DAYS = 180  # 6개월
 
 COMPANY_KEYWORDS = {
     "시큐아이":   ["시큐아이", "secui", "SECUI"],
@@ -31,8 +33,20 @@ BLOGS = {
     "넥스지": "kxnexg",
 }
 
+# 키워드 추출 시 제외할 단어 (불용어)
+STOPWORDS = {
+    "관련", "통해", "위해", "대한", "있는", "하는", "이번", "지난", "올해",
+    "이후", "기반", "강화", "제공", "발표", "출시", "진행", "구축", "운영",
+    "서비스", "솔루션", "기업", "시장", "사업", "협력", "파트너", "추진",
+    "지원", "확대", "활용", "적용", "도입", "공급", "수주", "계약", "체결",
+    "보안", "시스템", "플랫폼", "기술", "제품", "분야", "업체", "회사",
+    "대표", "부문", "사장", "본부", "센터", "부장", "이사", "전무",
+    "하여", "되어", "위한", "통한", "대해", "에서", "으로", "까지",
+    "가장", "더욱", "새로운", "다양한", "국내", "글로벌", "전문",
+}
+
 # =============================================
-# 날짜 파싱 - KST 변환
+# 날짜 파싱
 # =============================================
 
 def parse_date(date_str):
@@ -61,7 +75,6 @@ def date_sort_key(item):
 # =============================================
 
 def load_existing_data():
-    """기존 data.json 읽기"""
     if not os.path.exists("data.json"):
         return [], []
     try:
@@ -73,7 +86,6 @@ def load_existing_data():
         return [], []
 
 def filter_old_data(data, cutoff_str):
-    """오래된 데이터 제거 - cutoff_str 이후 데이터만 유지"""
     return [d for d in data if d.get("date", "") >= cutoff_str]
 
 # =============================================
@@ -89,7 +101,7 @@ def fetch_google_news(keyword):
         soup = BeautifulSoup(response.content, "xml")
         items = soup.find_all("item")
 
-        for item in items[:100]:  # 100개로 변경
+        for item in items[:100]:
             title    = item.title.text.strip() if item.title else ""
             link     = item.link.text.strip() if item.link else ""
             pub_date = item.pubDate.text.strip() if item.pubDate else ""
@@ -122,7 +134,7 @@ def fetch_naver_blog(blog_id):
         soup = BeautifulSoup(response.content, "xml")
         items = soup.find_all("item")
 
-        for item in items[:100]:  # 100개로 변경
+        for item in items[:100]:
             title    = item.title.text.strip() if item.title else ""
             link     = item.link.text.strip() if item.link else ""
             pub_date = item.pubDate.text.strip() if item.pubDate else ""
@@ -144,23 +156,17 @@ def fetch_naver_blog(blog_id):
 
 
 def deduplicate(data):
-    """링크 기준 + 제목 유사도 기준 중복 제거"""
-    seen_links = set()
+    seen_links  = set()
     seen_titles = set()
-    result = []
+    result      = []
 
     for item in data:
-        link  = item.get("link", "")
-        title = item.get("title", "").strip()
-
-        # 제목 정규화 - 공백/특수문자 제거하고 비교
+        link             = item.get("link", "")
+        title            = item.get("title", "").strip()
         title_normalized = ''.join(c for c in title if c.isalnum() or '\uAC00' <= c <= '\uD7A3')
 
-        # 링크 중복 체크
         if link and link in seen_links:
             continue
-
-        # 제목 중복 체크 (정규화된 제목 기준)
         if title_normalized and title_normalized in seen_titles:
             continue
 
@@ -173,6 +179,49 @@ def deduplicate(data):
 
     return result
 
+# =============================================
+# 키워드 추출 (Kiwi 형태소 분석)
+# =============================================
+
+def extract_keywords(data, month_str, top_n=5):
+    """이번 달 기사 제목에서 명사 Top N 추출"""
+    try:
+        kiwi = Kiwi()
+
+        # 이번 달 기사만 필터링
+        month_data = [d for d in data if d.get("date", "").startswith(month_str)]
+        print(f"  이번 달({month_str}) 기사: {len(month_data)}건 분석 중...")
+
+        if not month_data:
+            return []
+
+        # 제목 합치기
+        titles = " ".join([d.get("title", "") for d in month_data])
+
+        # 형태소 분석 - 명사(NNG, NNP)만 추출
+        result   = kiwi.analyze(titles)
+        nouns    = []
+
+        for token in result[0][0]:
+            word = token.form
+            tag  = token.tag
+
+            # 일반명사(NNG), 고유명사(NNP)만 추출
+            if str(tag) in ["NNG", "NNP"]:
+                # 2글자 이상, 불용어 제외
+                if len(word) >= 2 and word not in STOPWORDS:
+                    nouns.append(word)
+
+        # 빈도수 계산
+        counter  = Counter(nouns)
+        top_keywords = counter.most_common(top_n)
+
+        print(f"  Top {top_n} 키워드: {top_keywords}")
+        return [{"keyword": k, "count": c} for k, c in top_keywords]
+
+    except Exception as e:
+        print(f"  [오류] 키워드 추출 실패: {e}")
+        return []
 
 # =============================================
 # 메인
@@ -181,6 +230,7 @@ def deduplicate(data):
 def main():
     now_kst    = datetime.now(KST)
     today_str  = now_kst.strftime("%Y-%m-%d")
+    month_str  = now_kst.strftime("%Y-%m")
     cutoff_dt  = now_kst - timedelta(days=KEEP_DAYS)
     cutoff_str = cutoff_dt.strftime("%Y-%m-%d")
 
@@ -191,12 +241,8 @@ def main():
 
     # 기존 데이터 로드
     old_competitor, old_trend = load_existing_data()
-    print(f"\n  기존 데이터: 경쟁사 {len(old_competitor)}건 / 트렌드 {len(old_trend)}건")
-
-    # 6개월 이전 데이터 제거
     old_competitor = filter_old_data(old_competitor, cutoff_str)
     old_trend      = filter_old_data(old_trend, cutoff_str)
-    print(f"  6개월 필터 후: 경쟁사 {len(old_competitor)}건 / 트렌드 {len(old_trend)}건")
 
     # ── 탭1: 경쟁사 ──────────────────────────
     print("\n[탭1: 경쟁사 동향]")
@@ -221,7 +267,6 @@ def main():
             item["is_today"] = item["date"].startswith(today_str)
             new_competitor.append(item)
 
-    # 기존 + 새 데이터 합치기 → 중복 제거 → 정렬
     competitor_data = deduplicate(old_competitor + new_competitor)
     competitor_data.sort(key=date_sort_key, reverse=True)
 
@@ -246,29 +291,37 @@ def main():
                 item["is_today"] = item["date"].startswith(today_str)
                 new_trend.append(item)
 
-    # 기존 + 새 데이터 합치기 → 중복 제거 → 정렬
     trend_data = deduplicate(old_trend + new_trend)
     trend_data.sort(key=date_sort_key, reverse=True)
 
     print(f"\n  → 트렌드 총 {len(trend_data)}건")
-    for c in TREND_KEYWORDS:
-        cnt       = sum(1 for d in trend_data if d["category"] == c)
-        today_cnt = sum(1 for d in trend_data if d["category"] == c and d.get("is_today"))
-        print(f"     {c}: {cnt}건 (오늘 {today_cnt}건)")
+
+    # ── 키워드 추출 ───────────────────────────
+    print("\n[키워드 분석]")
+    print("  경쟁사 키워드 추출 중...")
+    competitor_keywords = extract_keywords(competitor_data, month_str, top_n=5)
+
+    print("  트렌드 키워드 추출 중...")
+    trend_keywords = extract_keywords(trend_data, month_str, top_n=5)
 
     # ── 저장 ─────────────────────────────────
     output = {
-        "updated":    now_kst.strftime("%Y-%m-%d %H:%M"),
-        "competitor": competitor_data,
-        "trend":      trend_data
+        "updated":              now_kst.strftime("%Y-%m-%d %H:%M"),
+        "month":                month_str,
+        "competitor":           competitor_data,
+        "trend":                trend_data,
+        "competitor_keywords":  competitor_keywords,
+        "trend_keywords":       trend_keywords,
     }
 
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=4)
 
-    print(f"\n✅ 저장 완료 (KST 기준)")
+    print(f"\n✅ 저장 완료")
     print(f"   경쟁사: {len(competitor_data)}건")
     print(f"   트렌드: {len(trend_data)}건")
+    print(f"   경쟁사 키워드: {competitor_keywords}")
+    print(f"   트렌드 키워드: {trend_keywords}")
 
 if __name__ == "__main__":
     main()

@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.9'
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml
+        run: pip install requests beautifulsoup4 lxml kiwipiepy
       - name: Run Scraper
         run: python scraper.py
       - name: Commit changes

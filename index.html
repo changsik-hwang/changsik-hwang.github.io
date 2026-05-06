@@ -25,13 +25,18 @@
         .tab-panel.active { display: block; }
 
         /* 키워드 카드 */
-        .keyword-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 18px; margin-bottom: 16px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
-        .keyword-card-title { font-size: 11px; font-weight: 600; color: #aaa; white-space: nowrap; }
-        .keyword-month { font-size: 10px; color: #555; margin-left: 4px; }
+        .keyword-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 18px; margin-bottom: 16px; }
+        .keyword-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+        .keyword-title { font-size: 11px; font-weight: 600; color: #aaa; }
+        .keyword-nav { display: flex; align-items: center; gap: 10px; }
+        .keyword-nav-btn { background: transparent; border: 1px solid #2a2d3e; color: #666; border-radius: 6px; padding: 3px 10px; cursor: pointer; font-size: 13px; transition: all 0.15s; }
+        .keyword-nav-btn:hover { border-color: #4f8ef7; color: #fff; }
+        .keyword-nav-btn:disabled { opacity: 0.2; cursor: not-allowed; }
+        .keyword-month-label { font-size: 13px; font-weight: 600; color: #fff; min-width: 80px; text-align: center; }
         .keyword-tags { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
         .keyword-tag { display: flex; align-items: center; gap: 5px; padding: 5px 12px; border-radius: 20px; background: #0f1117; border: 1px solid #2a2d3e; }
         .keyword-rank { font-size: 10px; color: #555; font-weight: 700; }
-        .keyword-word { font-size: 13px; font-weight: 700; color: #fff; }
+        .keyword-word { font-size: 13px; font-weight: 700; }
         .keyword-count { font-size: 10px; color: #4fcff7; }
         .keyword-tag:nth-child(1) { border-color: #f7c94f44; }
         .keyword-tag:nth-child(1) .keyword-word { color: #f7c94f; }
@@ -43,6 +48,7 @@
         .keyword-tag:nth-child(4) .keyword-word { color: #4ff77a; }
         .keyword-tag:nth-child(5) { border-color: #f7844f44; }
         .keyword-tag:nth-child(5) .keyword-word { color: #f7844f; }
+        .keyword-empty { font-size: 12px; color: #555; padding: 4px 0; }
 
         /* 메트릭 카드 */
         .metric-row { display: grid; gap: 10px; margin-bottom: 16px; }
@@ -67,7 +73,6 @@
         .news-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
         .news-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; flex-wrap: wrap; gap: 8px; }
         .news-card-title { font-size: 11px; font-weight: 600; color: #aaa; text-transform: uppercase; letter-spacing: 0.5px; }
-
         .filter-bar { display: flex; gap: 5px; flex-wrap: wrap; }
         .f-btn { font-size: 11px; padding: 4px 10px; border-radius: 12px; border: 1px solid #2a2d3e; background: transparent; color: #888; cursor: pointer; transition: all 0.15s; white-space: nowrap; }
         .f-btn:hover { border-color: #4f8ef7; color: #fff; }
@@ -99,7 +104,7 @@
             .tab-btn { padding: 10px 14px; font-size: 12px; }
             .container { padding: 12px 16px; }
 
-            .keyword-card { gap: 8px; padding: 12px 14px; }
+            .keyword-header { flex-wrap: wrap; gap: 8px; }
             .keyword-tags { gap: 6px; }
             .keyword-tag { padding: 4px 10px; }
             .keyword-word { font-size: 12px; }
@@ -146,7 +151,17 @@
 
     <!-- 탭1: 경쟁사 -->
     <div id="panel-competitor" class="tab-panel active">
-        <div class="keyword-card" id="competitorKeywords"></div>
+        <div class="keyword-card" id="competitorKeywordCard">
+            <div class="keyword-header">
+                <div class="keyword-title">🔥 핵심 키워드</div>
+                <div class="keyword-nav">
+                    <button class="keyword-nav-btn" id="cKeywordPrev" onclick="moveKeywordMonth('c', -1)">◀</button>
+                    <div class="keyword-month-label" id="cKeywordMonth"></div>
+                    <button class="keyword-nav-btn" id="cKeywordNext" onclick="moveKeywordMonth('c', 1)">▶</button>
+                </div>
+            </div>
+            <div class="keyword-tags" id="cKeywordTags"></div>
+        </div>
         <div class="metric-row cols-5" id="competitorMetrics"></div>
         <div class="chart-row">
             <div class="chart-card">
@@ -175,7 +190,17 @@
 
     <!-- 탭2: 기술 트렌드 -->
     <div id="panel-trend" class="tab-panel">
-        <div class="keyword-card" id="trendKeywords"></div>
+        <div class="keyword-card" id="trendKeywordCard">
+            <div class="keyword-header">
+                <div class="keyword-title">🔥 핵심 키워드</div>
+                <div class="keyword-nav">
+                    <button class="keyword-nav-btn" id="tKeywordPrev" onclick="moveKeywordMonth('t', -1)">◀</button>
+                    <div class="keyword-month-label" id="tKeywordMonth"></div>
+                    <button class="keyword-nav-btn" id="tKeywordNext" onclick="moveKeywordMonth('t', 1)">▶</button>
+                </div>
+            </div>
+            <div class="keyword-tags" id="tKeywordTags"></div>
+        </div>
         <div class="metric-row cols-3" id="trendMetrics"></div>
         <div class="chart-row">
             <div class="chart-card">
@@ -229,6 +254,9 @@
     };
 
     let competitorData = [], trendData = [];
+    let cMonthlyKeywords = {}, tMonthlyKeywords = {};
+    let cMonthIndex = 0, tMonthIndex = 0;
+    let cMonthKeys  = [], tMonthKeys  = [];
     let cFilter = "전체", tFilter = "전체";
     let cPage = 1, tPage = 1;
     const IS_MOBILE = window.innerWidth <= 768;
@@ -237,12 +265,20 @@
     fetch('./data.json?t=' + Date.now())
         .then(r => r.json())
         .then(data => {
-            competitorData = data.competitor || data || [];
-            trendData      = data.trend || [];
+            competitorData   = data.competitor || [];
+            trendData        = data.trend || [];
+            cMonthlyKeywords = data.competitor_monthly_keywords || {};
+            tMonthlyKeywords = data.trend_monthly_keywords || {};
+
+            // 월 목록 최신순 정렬
+            cMonthKeys = Object.keys(cMonthlyKeywords).sort().reverse();
+            tMonthKeys = Object.keys(tMonthlyKeywords).sort().reverse();
+
             document.getElementById('updateTime').textContent =
                 `업데이트: ${data.updated || ""}`;
-            renderKeywords('competitorKeywords', data.competitor_keywords || [], data.month || "");
-            renderKeywords('trendKeywords', data.trend_keywords || [], data.month || "");
+
+            renderKeywordCard('c');
+            renderKeywordCard('t');
             renderCompetitor();
             renderTrend();
         })
@@ -259,27 +295,47 @@
         btn.classList.add('active');
     }
 
-    // ── 키워드 카드 ──────────────────────────
-    function renderKeywords(elId, keywords, month) {
-        const el = document.getElementById(elId);
-        if (!keywords || !keywords.length) {
-            el.style.display = 'none';
+    // ── 키워드 카드 렌더 ─────────────────────
+    function renderKeywordCard(prefix) {
+        const monthKeys  = prefix === 'c' ? cMonthKeys : tMonthKeys;
+        const monthIndex = prefix === 'c' ? cMonthIndex : tMonthIndex;
+        const monthly    = prefix === 'c' ? cMonthlyKeywords : tMonthlyKeywords;
+
+        if (!monthKeys.length) return;
+
+        const currentMonth    = monthKeys[monthIndex];
+        const keywords        = monthly[currentMonth] || [];
+        const [year, month]   = currentMonth.split('-');
+        const monthLabel      = `${year}년 ${parseInt(month)}월`;
+
+        document.getElementById(`${prefix}KeywordMonth`).textContent = monthLabel;
+
+        // 화살표 버튼 활성/비활성
+        document.getElementById(`${prefix}KeywordPrev`).disabled = monthIndex >= monthKeys.length - 1;
+        document.getElementById(`${prefix}KeywordNext`).disabled = monthIndex <= 0;
+
+        const tagsEl = document.getElementById(`${prefix}KeywordTags`);
+        if (!keywords.length) {
+            tagsEl.innerHTML = '<span class="keyword-empty">이 달은 데이터가 없습니다.</span>';
             return;
         }
-        el.style.display = 'flex';
-        const monthLabel = month ? `(${month})` : '';
-        el.innerHTML = `
-            <div class="keyword-card-title">🔥 이달의 핵심 키워드 <span class="keyword-month">${monthLabel}</span></div>
-            <div class="keyword-tags">
-                ${keywords.map((k, i) => `
-                    <div class="keyword-tag">
-                        <span class="keyword-rank">${i + 1}</span>
-                        <span class="keyword-word">${k.keyword}</span>
-                        <span class="keyword-count">${k.count}회</span>
-                    </div>
-                `).join('')}
+
+        tagsEl.innerHTML = keywords.map((k, i) => `
+            <div class="keyword-tag">
+                <span class="keyword-rank">${i + 1}</span>
+                <span class="keyword-word">${k.keyword}</span>
+                <span class="keyword-count">${k.count}회</span>
             </div>
-        `;
+        `).join('');
+    }
+
+    function moveKeywordMonth(prefix, dir) {
+        if (prefix === 'c') {
+            cMonthIndex = Math.max(0, Math.min(cMonthKeys.length - 1, cMonthIndex + dir * -1));
+        } else {
+            tMonthIndex = Math.max(0, Math.min(tMonthKeys.length - 1, tMonthIndex + dir * -1));
+        }
+        renderKeywordCard(prefix);
     }
 
     // ── 경쟁사 탭 ────────────────────────────
@@ -300,7 +356,7 @@
         renderNewsList('trendNews', 'trendPagination', getFiltered('t'), 'category', T_COLORS, tPage);
     }
 
-    // ── 필터된 데이터 반환 ────────────────────
+    // ── 필터된 데이터 ─────────────────────────
     function getFiltered(prefix) {
         if (prefix === 'c') {
             return cFilter === "전체" ? competitorData : competitorData.filter(d => d.company === cFilter);
@@ -313,9 +369,7 @@
     function renderMetrics(elId, keys, data, field, colors) {
         const today = new Date().toLocaleDateString('ko-KR', {
             timeZone: 'Asia/Seoul',
-            year: 'numeric',
-            month: '2-digit',
-            day: '2-digit'
+            year: 'numeric', month: '2-digit', day: '2-digit'
         }).replace(/\. /g, '-').replace('.', '').trim();
 
         document.getElementById(elId).innerHTML = keys.map(k => {
@@ -353,9 +407,7 @@
                 }]
             },
             options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                cutout: '65%',
+                responsive: true, maintainAspectRatio: false, cutout: '65%',
                 animation: { duration: 400 },
                 plugins: {
                     legend: { display: false },
@@ -398,18 +450,13 @@
                 }]
             },
             options: {
-                responsive: true,
-                maintainAspectRatio: false,
+                responsive: true, maintainAspectRatio: false,
                 animation: { duration: 400 },
                 plugins: { legend: { display: false } },
                 scales: {
                     x: {
                         grid: { display: false },
-                        ticks: {
-                            color: '#666',
-                            font: { size: IS_MOBILE ? 10 : 11 },
-                            maxRotation: IS_MOBILE ? 30 : 0
-                        }
+                        ticks: { color: '#666', font: { size: IS_MOBILE ? 10 : 11 }, maxRotation: IS_MOBILE ? 30 : 0 }
                     },
                     y: {
                         beginAtZero: true,
@@ -432,13 +479,11 @@
 
     function setFilter(prefix, val) {
         if (prefix === 'c') {
-            cFilter = val;
-            cPage   = 1;
+            cFilter = val; cPage = 1;
             renderFilterBtns('competitorFilter', ["전체", ...COMPANIES], 'c');
             renderNewsList('competitorNews', 'competitorPagination', getFiltered('c'), 'company', C_COLORS, cPage);
         } else {
-            tFilter = val;
-            tPage   = 1;
+            tFilter = val; tPage = 1;
             renderFilterBtns('trendFilter', ["전체", ...TRENDS], 't');
             renderNewsList('trendNews', 'trendPagination', getFiltered('t'), 'category', T_COLORS, tPage);
         }
@@ -450,7 +495,7 @@
         const pageEl = document.getElementById(pageElId);
 
         if (!data.length) {
-            el.innerHTML   = '<div class="empty">📭 수집된 기사가 없습니다.</div>';
+            el.innerHTML     = '<div class="empty">📭 수집된 기사가 없습니다.</div>';
             pageEl.innerHTML = '';
             return;
         }
@@ -487,17 +532,11 @@
             }
         }).join('');
 
-        // 페이지네이션
-        if (totalPages <= 1) {
-            pageEl.innerHTML = '';
-            return;
-        }
+        if (totalPages <= 1) { pageEl.innerHTML = ''; return; }
 
         const prefix = elId.includes('competitor') ? 'c' : 't';
         let btnHtml  = '';
-
         btnHtml += `<button class="page-btn" ${page <= 1 ? 'disabled' : ''} onclick="goPage('${prefix}', ${page - 1})">◀</button>`;
-
         for (let i = 1; i <= totalPages; i++) {
             if (i === 1 || i === totalPages || (i >= page - 2 && i <= page + 2)) {
                 btnHtml += `<button class="page-btn ${i === page ? 'on' : ''}" onclick="goPage('${prefix}', ${i})">${i}</button>`;
@@ -505,10 +544,8 @@
                 btnHtml += `<span class="page-info">...</span>`;
             }
         }
-
         btnHtml += `<button class="page-btn" ${page >= totalPages ? 'disabled' : ''} onclick="goPage('${prefix}', ${page + 1})">▶</button>`;
         btnHtml += `<span class="page-info">${page} / ${totalPages} 페이지 (총 ${data.length}건)</span>`;
-
         pageEl.innerHTML = btnHtml;
     }
 

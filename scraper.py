@@ -5,7 +5,7 @@ import os
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from collections import Counter
-from kiwi import Kiwi
+from kiwipiepy import Kiwi
 
 # =============================================
 # 설정

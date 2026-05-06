@@ -144,14 +144,33 @@ def fetch_naver_blog(blog_id):
 
 
 def deduplicate(data):
-    """링크 기준 중복 제거"""
-    seen = set()
+    """링크 기준 + 제목 유사도 기준 중복 제거"""
+    seen_links = set()
+    seen_titles = set()
     result = []
+
     for item in data:
-        key = item.get("link") or item.get("title")
-        if key and key not in seen:
-            seen.add(key)
-            result.append(item)
+        link  = item.get("link", "")
+        title = item.get("title", "").strip()
+
+        # 제목 정규화 - 공백/특수문자 제거하고 비교
+        title_normalized = ''.join(c for c in title if c.isalnum() or '\uAC00' <= c <= '\uD7A3')
+
+        # 링크 중복 체크
+        if link and link in seen_links:
+            continue
+
+        # 제목 중복 체크 (정규화된 제목 기준)
+        if title_normalized and title_normalized in seen_titles:
+            continue
+
+        if link:
+            seen_links.add(link)
+        if title_normalized:
+            seen_titles.add(title_normalized)
+
+        result.append(item)
+
     return result
 
 

@@ -12,7 +12,7 @@ from kiwipiepy import Kiwi
 # =============================================
 
 KST       = timezone(timedelta(hours=9))
-KEEP_DAYS = 180  # 6개월
+KEEP_DAYS = 180  # 6개월 보관
 
 COMPANY_KEYWORDS = {
     "시큐아이":   ["시큐아이", "secui", "SECUI"],
@@ -33,16 +33,20 @@ BLOGS = {
     "넥스지": "kxnexg",
 }
 
-# 키워드 추출 시 제외할 단어 (불용어)
 STOPWORDS = {
+    "안랩", "시큐아이", "넥스지", "퓨처시스템", "윈스", "윈스테크넷",
+    "AhnLab", "SECUI", "NEXG", "WINS",
+    "보안", "사이버", "양자", "기술", "시스템", "플랫폼", "솔루션",
+    "서비스", "소프트웨어", "하드웨어", "네트워크", "데이터", "클라우드",
     "관련", "통해", "위해", "대한", "있는", "하는", "이번", "지난", "올해",
     "이후", "기반", "강화", "제공", "발표", "출시", "진행", "구축", "운영",
-    "서비스", "솔루션", "기업", "시장", "사업", "협력", "파트너", "추진",
     "지원", "확대", "활용", "적용", "도입", "공급", "수주", "계약", "체결",
-    "보안", "시스템", "플랫폼", "기술", "제품", "분야", "업체", "회사",
-    "대표", "부문", "사장", "본부", "센터", "부장", "이사", "전무",
+    "분야", "업체", "회사", "기업", "시장", "사업", "협력", "파트너", "추진",
+    "대표", "부문", "사장", "본부", "센터", "부장", "이사", "전무", "대리",
     "하여", "되어", "위한", "통한", "대해", "에서", "으로", "까지",
     "가장", "더욱", "새로운", "다양한", "국내", "글로벌", "전문",
+    "제품", "업데이트", "버전", "기능", "환경", "인프라", "관리",
+    "공격", "위협", "악성", "탐지", "차단", "방어", "대응", "분석",
 }
 
 # =============================================
@@ -76,14 +80,19 @@ def date_sort_key(item):
 
 def load_existing_data():
     if not os.path.exists("data.json"):
-        return [], []
+        return [], [], {}, {}
     try:
         with open("data.json", "r", encoding="utf-8") as f:
             data = json.load(f)
-        return data.get("competitor", []), data.get("trend", [])
+        return (
+            data.get("competitor", []),
+            data.get("trend", []),
+            data.get("competitor_monthly_keywords", {}),
+            data.get("trend_monthly_keywords", {}),
+        )
     except Exception as e:
         print(f"  [오류] 기존 데이터 로드 실패: {e}")
-        return [], []
+        return [], [], {}, {}
 
 def filter_old_data(data, cutoff_str):
     return [d for d in data if d.get("date", "") >= cutoff_str]
@@ -169,7 +178,6 @@ def deduplicate(data):
             continue
         if title_normalized and title_normalized in seen_titles:
             continue
-
         if link:
             seen_links.add(link)
         if title_normalized:
@@ -180,48 +188,52 @@ def deduplicate(data):
     return result
 
 # =============================================
-# 키워드 추출 (Kiwi 형태소 분석)
+# 월별 키워드 추출
 # =============================================
 
-def extract_keywords(data, month_str, top_n=5):
-    """이번 달 기사 제목에서 명사 Top N 추출"""
+def extract_monthly_keywords(data, now_kst, top_n=5):
+    """
+    최근 3개월치를 월별로 따로 키워드 추출
+    반환: { "2026-05": [...], "2026-04": [...], "2026-03": [...] }
+    """
     try:
         kiwi = Kiwi()
+        monthly = {}
 
-        # 이번 달 기사만 필터링
-        month_data = [d for d in data if d.get("date", "").startswith(month_str)]
-        print(f"  이번 달({month_str}) 기사: {len(month_data)}건 분석 중...")
+        for i in range(3):  # 이번 달, 전달, 전전달
+            # 해당 월 계산
+            target_dt    = now_kst - timedelta(days=30 * i)
+            target_month = target_dt.strftime("%Y-%m")
 
-        if not month_data:
-            return []
+            # 해당 월 기사만 필터링
+            month_data = [d for d in data if d.get("date", "").startswith(target_month)]
+            print(f"  {target_month}: {len(month_data)}건 분석 중...")
 
-        # 제목 합치기
-        titles = " ".join([d.get("title", "") for d in month_data])
+            if not month_data:
+                monthly[target_month] = []
+                continue
 
-        # 형태소 분석 - 명사(NNG, NNP)만 추출
-        result   = kiwi.analyze(titles)
-        nouns    = []
+            titles = " ".join([d.get("title", "") for d in month_data])
+            result = kiwi.analyze(titles)
+            nouns  = []
 
-        for token in result[0][0]:
-            word = token.form
-            tag  = token.tag
+            for token in result[0][0]:
+                word = token.form
+                tag  = str(token.tag)
+                if tag in ["NNG", "NNP"]:
+                    if len(word) >= 2 and word not in STOPWORDS:
+                        nouns.append(word)
 
-            # 일반명사(NNG), 고유명사(NNP)만 추출
-            if str(tag) in ["NNG", "NNP"]:
-                # 2글자 이상, 불용어 제외
-                if len(word) >= 2 and word not in STOPWORDS:
-                    nouns.append(word)
+            counter      = Counter(nouns)
+            top_keywords = counter.most_common(top_n)
+            monthly[target_month] = [{"keyword": k, "count": c} for k, c in top_keywords]
+            print(f"    → {monthly[target_month]}")
 
-        # 빈도수 계산
-        counter  = Counter(nouns)
-        top_keywords = counter.most_common(top_n)
-
-        print(f"  Top {top_n} 키워드: {top_keywords}")
-        return [{"keyword": k, "count": c} for k, c in top_keywords]
+        return monthly
 
     except Exception as e:
-        print(f"  [오류] 키워드 추출 실패: {e}")
-        return []
+        print(f"  [오류] 월별 키워드 추출 실패: {e}")
+        return {}
 
 # =============================================
 # 메인
@@ -230,7 +242,6 @@ def extract_keywords(data, month_str, top_n=5):
 def main():
     now_kst    = datetime.now(KST)
     today_str  = now_kst.strftime("%Y-%m-%d")
-    month_str  = now_kst.strftime("%Y-%m")
     cutoff_dt  = now_kst - timedelta(days=KEEP_DAYS)
     cutoff_str = cutoff_dt.strftime("%Y-%m-%d")
 
@@ -239,8 +250,7 @@ def main():
     print(f"  보관 기준: {cutoff_str} 이후 데이터만 유지")
     print("=" * 45)
 
-    # 기존 데이터 로드
-    old_competitor, old_trend = load_existing_data()
+    old_competitor, old_trend, _, _ = load_existing_data()
     old_competitor = filter_old_data(old_competitor, cutoff_str)
     old_trend      = filter_old_data(old_trend, cutoff_str)
 
@@ -296,22 +306,22 @@ def main():
 
     print(f"\n  → 트렌드 총 {len(trend_data)}건")
 
-    # ── 키워드 추출 ───────────────────────────
-    print("\n[키워드 분석]")
+    # ── 월별 키워드 추출 ──────────────────────
+    print("\n[월별 키워드 분석]")
     print("  경쟁사 키워드 추출 중...")
-    competitor_keywords = extract_keywords(competitor_data, month_str, top_n=5)
+    competitor_monthly = extract_monthly_keywords(competitor_data, now_kst, top_n=5)
 
     print("  트렌드 키워드 추출 중...")
-    trend_keywords = extract_keywords(trend_data, month_str, top_n=5)
+    trend_monthly = extract_monthly_keywords(trend_data, now_kst, top_n=5)
 
     # ── 저장 ─────────────────────────────────
     output = {
-        "updated":              now_kst.strftime("%Y-%m-%d %H:%M"),
-        "month":                month_str,
-        "competitor":           competitor_data,
-        "trend":                trend_data,
-        "competitor_keywords":  competitor_keywords,
-        "trend_keywords":       trend_keywords,
+        "updated":                      now_kst.strftime("%Y-%m-%d %H:%M"),
+        "current_month":                now_kst.strftime("%Y-%m"),
+        "competitor":                   competitor_data,
+        "trend":                        trend_data,
+        "competitor_monthly_keywords":  competitor_monthly,
+        "trend_monthly_keywords":       trend_monthly,
     }
 
     with open("data.json", "w", encoding="utf-8") as f:
@@ -320,8 +330,6 @@ def main():
     print(f"\n✅ 저장 완료")
     print(f"   경쟁사: {len(competitor_data)}건")
     print(f"   트렌드: {len(trend_data)}건")
-    print(f"   경쟁사 키워드: {competitor_keywords}")
-    print(f"   트렌드 키워드: {trend_keywords}")
 
 if __name__ == "__main__":
     main()

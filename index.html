@@ -12,6 +12,7 @@
         .header-left { display: flex; align-items: center; gap: 10px; }
         .header-logo { width: 34px; height: 34px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
         header h1 { font-size: 15px; font-weight: 700; color: #fff; }
+        .header-sub { font-size: 10px; color: #555; margin-top: 2px; }
         .update-time { font-size: 11px; color: #666; }
 
         .tab-bar { background: #1a1d2e; border-bottom: 1px solid #2a2d3e; padding: 0 20px; display: flex; }
@@ -23,6 +24,27 @@
         .tab-panel { display: none; }
         .tab-panel.active { display: block; }
 
+        /* 키워드 카드 */
+        .keyword-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 18px; margin-bottom: 16px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+        .keyword-card-title { font-size: 11px; font-weight: 600; color: #aaa; white-space: nowrap; }
+        .keyword-month { font-size: 10px; color: #555; margin-left: 4px; }
+        .keyword-tags { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+        .keyword-tag { display: flex; align-items: center; gap: 5px; padding: 5px 12px; border-radius: 20px; background: #0f1117; border: 1px solid #2a2d3e; }
+        .keyword-rank { font-size: 10px; color: #555; font-weight: 700; }
+        .keyword-word { font-size: 13px; font-weight: 700; color: #fff; }
+        .keyword-count { font-size: 10px; color: #4fcff7; }
+        .keyword-tag:nth-child(1) { border-color: #f7c94f44; }
+        .keyword-tag:nth-child(1) .keyword-word { color: #f7c94f; }
+        .keyword-tag:nth-child(2) { border-color: #4fcff744; }
+        .keyword-tag:nth-child(2) .keyword-word { color: #4fcff7; }
+        .keyword-tag:nth-child(3) { border-color: #a14ff744; }
+        .keyword-tag:nth-child(3) .keyword-word { color: #a14ff7; }
+        .keyword-tag:nth-child(4) { border-color: #4ff77a44; }
+        .keyword-tag:nth-child(4) .keyword-word { color: #4ff77a; }
+        .keyword-tag:nth-child(5) { border-color: #f7844f44; }
+        .keyword-tag:nth-child(5) .keyword-word { color: #f7844f; }
+
+        /* 메트릭 카드 */
         .metric-row { display: grid; gap: 10px; margin-bottom: 16px; }
         .metric-row.cols-5 { grid-template-columns: repeat(5, 1fr); }
         .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
@@ -33,6 +55,7 @@
         .metric-value { font-size: 22px; font-weight: 700; color: #fff; }
         .metric-sub { font-size: 10px; color: #4fcff7; margin-top: 3px; }
 
+        /* 차트 */
         .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 14px; }
         .chart-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
         .chart-title { font-size: 11px; font-weight: 600; color: #aaa; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px; }
@@ -40,6 +63,7 @@
         .legend-item { display: flex; align-items: center; gap: 4px; font-size: 11px; color: #aaa; }
         .legend-sq { width: 8px; height: 8px; border-radius: 2px; flex-shrink: 0; }
 
+        /* 뉴스 */
         .news-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
         .news-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; flex-wrap: wrap; gap: 8px; }
         .news-card-title { font-size: 11px; font-weight: 600; color: #aaa; text-transform: uppercase; letter-spacing: 0.5px; }
@@ -75,6 +99,11 @@
             .tab-btn { padding: 10px 14px; font-size: 12px; }
             .container { padding: 12px 16px; }
 
+            .keyword-card { gap: 8px; padding: 12px 14px; }
+            .keyword-tags { gap: 6px; }
+            .keyword-tag { padding: 4px 10px; }
+            .keyword-word { font-size: 12px; }
+
             .metric-row.cols-5 { grid-template-columns: repeat(2, 1fr); }
             .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
             .metric { padding: 12px 14px; }
@@ -102,7 +131,7 @@
         <img src="./logo.png" alt="로고" class="header-logo">
         <div>
             <h1>동향 모니터링</h1>
-            <div style="font-size:10px; color:#555; margin-top:2px;">컨설팅사업부 · 황채운 대리</div>
+            <div class="header-sub">컨설팅사업부 · 황채운 대리</div>
         </div>
     </div>
     <div class="update-time" id="updateTime">로딩 중...</div>
@@ -115,7 +144,9 @@
 
 <div class="container">
 
+    <!-- 탭1: 경쟁사 -->
     <div id="panel-competitor" class="tab-panel active">
+        <div class="keyword-card" id="competitorKeywords"></div>
         <div class="metric-row cols-5" id="competitorMetrics"></div>
         <div class="chart-row">
             <div class="chart-card">
@@ -142,7 +173,9 @@
         </div>
     </div>
 
+    <!-- 탭2: 기술 트렌드 -->
     <div id="panel-trend" class="tab-panel">
+        <div class="keyword-card" id="trendKeywords"></div>
         <div class="metric-row cols-3" id="trendMetrics"></div>
         <div class="chart-row">
             <div class="chart-card">
@@ -173,9 +206,9 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
 <script>
-    const COMPANIES  = ["시큐아이","안랩","넥스지","퓨처시스템","윈스"];
-    const TRENDS     = ["AI보안","PQC","제로트러스트"];
-    const PAGE_SIZE  = 30; // 한 페이지당 기사 수
+    const COMPANIES = ["시큐아이","안랩","넥스지","퓨처시스템","윈스"];
+    const TRENDS    = ["AI보안","PQC","제로트러스트"];
+    const PAGE_SIZE = 30;
 
     const C_COLORS = {
         "시큐아이":   { hex:"#e84393", bg:"#e8439322", text:"#e84393" },
@@ -208,6 +241,8 @@
             trendData      = data.trend || [];
             document.getElementById('updateTime').textContent =
                 `업데이트: ${data.updated || ""}`;
+            renderKeywords('competitorKeywords', data.competitor_keywords || [], data.month || "");
+            renderKeywords('trendKeywords', data.trend_keywords || [], data.month || "");
             renderCompetitor();
             renderTrend();
         })
@@ -222,6 +257,29 @@
         document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
         document.getElementById('panel-' + tab).classList.add('active');
         btn.classList.add('active');
+    }
+
+    // ── 키워드 카드 ──────────────────────────
+    function renderKeywords(elId, keywords, month) {
+        const el = document.getElementById(elId);
+        if (!keywords || !keywords.length) {
+            el.style.display = 'none';
+            return;
+        }
+        el.style.display = 'flex';
+        const monthLabel = month ? `(${month})` : '';
+        el.innerHTML = `
+            <div class="keyword-card-title">🔥 이달의 핵심 키워드 <span class="keyword-month">${monthLabel}</span></div>
+            <div class="keyword-tags">
+                ${keywords.map((k, i) => `
+                    <div class="keyword-tag">
+                        <span class="keyword-rank">${i + 1}</span>
+                        <span class="keyword-word">${k.keyword}</span>
+                        <span class="keyword-count">${k.count}회</span>
+                    </div>
+                `).join('')}
+            </div>
+        `;
     }
 
     // ── 경쟁사 탭 ────────────────────────────
@@ -375,12 +433,12 @@
     function setFilter(prefix, val) {
         if (prefix === 'c') {
             cFilter = val;
-            cPage = 1;
+            cPage   = 1;
             renderFilterBtns('competitorFilter', ["전체", ...COMPANIES], 'c');
             renderNewsList('competitorNews', 'competitorPagination', getFiltered('c'), 'company', C_COLORS, cPage);
         } else {
             tFilter = val;
-            tPage = 1;
+            tPage   = 1;
             renderFilterBtns('trendFilter', ["전체", ...TRENDS], 't');
             renderNewsList('trendNews', 'trendPagination', getFiltered('t'), 'category', T_COLORS, tPage);
         }
@@ -392,7 +450,7 @@
         const pageEl = document.getElementById(pageElId);
 
         if (!data.length) {
-            el.innerHTML = '<div class="empty">📭 수집된 기사가 없습니다.</div>';
+            el.innerHTML   = '<div class="empty">📭 수집된 기사가 없습니다.</div>';
             pageEl.innerHTML = '';
             return;
         }
@@ -402,13 +460,13 @@
         const pageData   = data.slice(start, start + PAGE_SIZE);
 
         el.innerHTML = pageData.map(item => {
-            const key = item[field];
-            const col = colors[key] || { hex:'#888', bg:'#88888822', text:'#888' };
-            const src = SOURCE_MAP[item.source] || { label: item.source || "", color:"#888" };
+            const key  = item[field];
+            const col  = colors[key] || { hex:'#888', bg:'#88888822', text:'#888' };
+            const src  = SOURCE_MAP[item.source] || { label: item.source || "", color:"#888" };
             const badge = src.label
                 ? `<span class="source-badge" style="background:${src.color}22; color:${src.color}; border:1px solid ${src.color}44;">${src.label}</span>`
                 : "";
-            const tag      = `<span class="news-tag" style="background:${col.bg}; color:${col.text}; border:1px solid ${col.hex}44;">${key}</span>`;
+            const tag       = `<span class="news-tag" style="background:${col.bg}; color:${col.text}; border:1px solid ${col.hex}44;">${key}</span>`;
             const date      = (item.date||'').slice(0, 10);
             const shortDate = (item.date||'').slice(5, 10);
 
@@ -429,31 +487,25 @@
             }
         }).join('');
 
-        // 페이지네이션 렌더
+        // 페이지네이션
         if (totalPages <= 1) {
             pageEl.innerHTML = '';
             return;
         }
 
         const prefix = elId.includes('competitor') ? 'c' : 't';
-        let btnHtml = '';
+        let btnHtml  = '';
 
-        // 이전 버튼
         btnHtml += `<button class="page-btn" ${page <= 1 ? 'disabled' : ''} onclick="goPage('${prefix}', ${page - 1})">◀</button>`;
 
-        // 페이지 번호
         for (let i = 1; i <= totalPages; i++) {
-            if (
-                i === 1 || i === totalPages ||
-                (i >= page - 2 && i <= page + 2)
-            ) {
+            if (i === 1 || i === totalPages || (i >= page - 2 && i <= page + 2)) {
                 btnHtml += `<button class="page-btn ${i === page ? 'on' : ''}" onclick="goPage('${prefix}', ${i})">${i}</button>`;
             } else if (i === page - 3 || i === page + 3) {
                 btnHtml += `<span class="page-info">...</span>`;
             }
         }
 
-        // 다음 버튼
         btnHtml += `<button class="page-btn" ${page >= totalPages ? 'disabled' : ''} onclick="goPage('${prefix}', ${page + 1})">▶</button>`;
         btnHtml += `<span class="page-info">${page} / ${totalPages} 페이지 (총 ${data.length}건)</span>`;
 
@@ -468,7 +520,6 @@
             tPage = page;
             renderNewsList('trendNews', 'trendPagination', getFiltered('t'), 'category', T_COLORS, tPage);
         }
-        // 뉴스 카드 상단으로 스크롤
         document.querySelector('.news-card').scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 </script>

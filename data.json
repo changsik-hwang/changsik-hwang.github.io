@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-08 04:00",
+    "updated": "2026-05-08 05:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -473,6 +473,16 @@
             "is_today": false
         },
         {
+            "title": "안랩블록체인컴퍼니, 가상자산사업자 자격 취득…웹3 금융 인프라 사업 확대",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBUDQ2MlhsRXRvOE1JT3NvQjZUcDNQemR3SXNiblJULVFpTkR1alVkRVZ0cm5USExHQzVDQkdmYUtXOTBweDE3dkNoYVBUNW8?oc=5",
+            "date": "2026-04-30 18:26",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "안랩블록체인, 가상자산사업자 라이선스 취득",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvSktPLTVRMG93UElwczc0dnE4N1ZkTERXSzhPaUtRVlgwTGVfTEVJQzVLSlNnWEpzclhRZTJJSGlqZ24xQzQ0UndJaWZSUV9DSlBaT0g4UXFoVTVCYXJsYjdyLUlwR0FGYTdqR3l2VXFYQQ?oc=5",
             "date": "2026-04-30 18:17",
@@ -538,6 +548,16 @@
             "date": "2026-04-29 11:09",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 2026년 1분기 매출 591억…전년 동기 매출 3% 성장",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UbThoLWFMZVg4cFp5TVkxZkVmMlBHaWhodzFMRGxDVEVjaWxkSVlXNm9pVXJxdTYyMHZzTkd3YnFWOXlWWWpWR0pMM1dDeW9oMWRzU3p0OElSYmExdmJxY2phMmZwV0xH?oc=5",
+            "date": "2026-04-29 08:52",
+            "description": "",
+            "company": "안랩",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -658,6 +678,16 @@
             "date": "2026-04-27 17:27",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 1분기 매출 591억· 영업이익 19억원",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15bXk2LW1Edk5LczJMM2RIaG1GS1dXZjVWZ2k3UjAwSHJENzNWZjlsVzFMUVJ1MzhXTzFpNjRrT3lJWjgydGlSbUg3R2ZjQ1FCdXM3LWhBdktrb0pxUHJIeA?oc=5",
+            "date": "2026-04-27 17:17",
+            "description": "",
+            "company": "안랩",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -4474,7 +4504,7 @@
         },
         {
             "title": "RE100 시대, 건물 외피가 발전소로…㈜글로윈스 [경기도 혁신의 중심, 유망중소기업]",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ucFJmYS1HUnFuY1dScnhfNS1FTFU1eDJyRnBrTXNmdTc1b2g0S1VHWFZMZWdiTnc0ZzZjMVVMRkh4N0NlSnBzcm0wQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0ydU5FR3Q1cm1lSG5DWS1STG04VTBVYlFIQXd0WDFETzI2S29hbFBlMi1NcUt1OTBYMTZ6dk5ZMWJBd3E1a0F1cU92Qzd0M0hrQ3J4RUFBVmhqMHc?oc=5",
             "date": "2025-11-05 17:00",
             "description": "",
             "company": "윈스",
@@ -5148,16 +5178,6 @@
             "date": "2025-07-20 16:00",
             "description": "",
             "company": "안랩",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "온(On), 세계적 러너 헬렌 오비리와 함께한 ‘소프트 윈스’ 캠페인 공개",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HYXpHVDBPeF8zMjhJaTlhOGJxeE1MNUwwN2owNDhOSHJXMG1jWXNTN1hSSVJLNE9uM1VaZm14NlJkWEtPemsza0w3MzJWdXBr?oc=5",
-            "date": "2025-07-17 16:00",
-            "description": "",
-            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -5863,26 +5883,6 @@
             "is_today": false
         },
         {
-            "title": "[미리보는 eGISEC 2024] 코드마인드·코드원·코어엣지네트웍스",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MdWxkUHFtdmtGTmQzLVVrNHBEdnBheTgtMnFEZ1lGbjBtOV9oNEZwN1FVSnYtZjFGMnZCNFNLTUxPZS1Ya0pMZHpsWkh3eVYzU0xNU2FjOTNNa2w5NWx3?oc=5",
-            "date": "2024-03-13 16:00",
-            "description": "",
-            "company": "넥스지",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[미리보는 eGISEC 2024] 쿼리시스템즈·테르텐·투씨에스지",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWlVwb2NDN1NkcV85dzBOczRWNDVMZENYQUJacjE5YTdUZVlFclNGVUdiY1JiVW81R0JHQWZ1ckhtQlR3OVFsU3VmTHl2ZndkWDlyM3loZnBfWWtUUGVn?oc=5",
-            "date": "2024-03-13 16:00",
-            "description": "",
-            "company": "넥스지",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이, PQC알고리즘 탑재 차세대 방화벽 ‘BLUEMAX NGF V3.0’ 출시",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkdkdiTGg3V0F2aE9BQ0FheEpxa1YyTndqOWFQcDhwTy0zRk10SVZLbTA2dHJSNHV2Tzcxa0RzSlpSSnRvQkV5N29adjlaaHZxZFdtMTVCbUpJY3l0cEE?oc=5",
             "date": "2024-01-30 17:00",
@@ -5938,6 +5938,16 @@
             "date": "2023-10-25 16:00",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스머슬 2026년 기업정보 | 기업리뷰 7건, 2.7 리뷰평점",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDllMms1Q2hUbHNhbENtSjBqUlNRTVpSYmxVNC11bjc3aUxaam8tYlZIYmRSQ3duQTJYZldKd3Y3eDUxeXRzZVRESzFmX1hpb20ybmxyRnlZWFJZT25wbW9OLU9TZkpYTU9tYnBFYnBMam5rdTlXMlBrNmRjdjRnVHBHUkp0VUlfeVRMYy0wcG0tMEk?oc=5",
+            "date": "2023-09-20 21:59",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6168,6 +6178,16 @@
             "date": "2021-09-08 16:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
+            "date": "2021-04-20 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6623,9 +6643,9 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, NEIS 기가방화벽 구축 프로젝트 완료",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hZUdnSFBWSDdZcnpKcGFtMTI2U3FXMDUwbE9NTkdGcWFVSS0xa2twTVNfWnZUZmVobWlja3lYdU02VmRaRTdRc1c0SVZ2RUgwYkRhTVBsSnZ0d19PLVE?oc=5",
-            "date": "2005-12-29 17:00",
+            "title": "퓨쳐시스템 대주주 지분 팔고도 허위공시",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3Q0RmJGSmpJUDhTaXpXZFg1TER6cnMtNUNiMGhYSHhiYmVNdVhSOWFsTXJxQTR3MTY4M1Q0RjJlMGpBZWlFQXFRU1UxTk5yLVJFdEV3ZldhejEzS2tGVnJJMkQ4dGRLLWRpTHlsWXAxelhNS2lfMWVGUzZVZGFEVw?oc=5",
+            "date": "2006-01-16 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -6776,6 +6796,16 @@
             "title": "드림라인, 퓨쳐시스템과 제휴",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56a2xkUlBRRU1aUGNaWXVDV3FzbUJaYy1maGF5Q0tBLVF5Rzg0eWc0WVVSWTkyeDdMS2RHTENwX01NOExaQmk2OHdGOHhiXzA?oc=5",
             "date": "2002-09-13 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "퓨쳐시스템 중립 등 한투모닝미팅",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHlrQ25URDB3OVdXLWVJX1hnVi10clN3N1dzZFI2QlBHX0VXWk5pQzd4bFlhbGRpQUxLc19SYXVqLW9UVDI1cXpqVTRtbDZ6bFpPRlhoRUR5WXowNHQxTVBucnNGM0tzZlU1dUdsN1pXRjJETjVQWGRuSkIwMjNHUw?oc=5",
+            "date": "2002-07-30 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -19169,17 +19199,6 @@
             "is_today": false
         },
         {
-            "title": "[지상중계] “사이버보안의 새 패러다임을 전망한다”",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01UDFJQjVwc0lZSGNfQzV6Y0g4QThUUXg5Y29JQ1Ridjlic3lOaWlYaTJfdWNBWGdldjdEUFBXd0RKY3NMd0JjSjVVZWQ3dl9Qa251NWRsYS1BaS0yYnlIVEJ2MTdvU0h1NFdncQ?oc=5",
-            "date": "2025-09-30 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "Zero Trust",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[2025 정보보호 솔루션 컨퍼런스⑧] “금융권 제로 트러스트 아키텍처 전환 사례 및 N2SF 연계 전략”",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNbjZWYkkwa2wyNGFfTmpkajRaQk5ROWlYQ3hsZHEtUnFGMlZtOHJsYzZQVnZydHFtRnplNE5hSjJDUG9xWWRIMWZfaHFySFlRdkFKZXBESERKbmZjRU9yUnZvRTh5RXM?oc=5",
             "date": "2025-09-30 16:00",
@@ -19279,6 +19298,17 @@
             "is_today": false
         },
         {
+            "title": "\"AI 툴 사용 안전하게\"…아카마이, 통합 보안 체계 구축 '시동'",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zclljWjlrZjg2S0hCZlh5SGdjaG1reE5hZ0pLVktNQXVVNXY3aHhHOHR4N3JEM25YQVNvMVNhTUdMMlR3OS1aMnprWkExYkdyeFp0ck5B?oc=5",
+            "date": "2025-09-16 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "“일단 지금 털고 암호는 나중에 푼다”… 양자 시대 ‘해킹 시한폭탄’ 대비해야",
             "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOME5FYTRPUXRsNGU2bUFWcl9nOWthOUU5V1d1YjlZWS1GWm5reDJVbE1RQUxISmx3QVhJWFVoSWhlbThPMy03enV4cVN0dldfakpRR1NyZkRNSHlsYUVaaVBQQlRSOEl1eDZpV0VGaDhILVh5MVI3cHhRMFVvMDU2em5mQQ?oc=5",
             "date": "2025-09-14 16:00",
@@ -19323,17 +19353,6 @@
             "is_today": false
         },
         {
-            "title": "조지훈 삼성SDS 상무 \"PQC 기술 성숙도 높여야\"",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1POVpFeksxYXRVMTk4eWQwRXNpS2hXNy1Rb0JGY2J2SUViNGVWVXplQmpXNDFnYVo2WHFUR2VkM2F5NFBSeHVqdnM1TERlRkpLdzJhYWp3?oc=5",
-            "date": "2025-09-03 16:00",
-            "description": "",
-            "category": "PQC",
-            "keyword": "PQC",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "클라우드·원격근무 확산, 최우선 보안 전략 ZTNA...연평균 25.5% 폭발적 성장",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Ldjl3bV9yVWtUR01HWEdwRXoyWjVzQkhLZ0RUNWRhckxQQ3FuNGhTVFBWaktTVEZsWk5ucG1pLUhJajZtNFBaY09yYmV3OW0zYll5M0FXNkxLMG9zcHk1bUFPaTNrckxVQWc?oc=5",
             "date": "2025-09-01 16:00",
@@ -19362,17 +19381,6 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "ZTNA",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "배경훈 장관 \"국가 암호체계, 양자 내성 암호로 전환\"",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOWNpa0Uwc21kNHdUNjU2Zlh5b0ktY2U0UFNHNENjeVcyU3dEcFZBYTkzRGtFb2V3NWtUTnFsZDlRVVNlX0k2UGszYUFKSUVVRWpVTjJ3?oc=5",
-            "date": "2025-08-21 16:00",
-            "description": "",
-            "category": "PQC",
-            "keyword": "양자내성암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -19488,28 +19496,6 @@
             "is_today": false
         },
         {
-            "title": "[히트상품] 안랩, 차세대 네트워크 통합 보안 솔루션 `안랩 XTG` 출시",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBjcldqdXFSS091MXQzZ3JYT2I5Si1OMTVUM1pLUmJwLWVkUXEtR0YwTWFWWno4bC11QmFKZmlmd0R0UlFpMHc?oc=5",
-            "date": "2025-06-26 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "양자컴퓨터 시대, SDS는 이렇게 보안을 준비하고 있습니다. | 기술블로그 | 리서치 | 삼성SDS",
-            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQk9KN0hPQkNjRUZoLTA5b0FENmJab1MwdEVOSHdwTDF3Z0p6MjhqVmUtdlF2Rk10dVBndlY1c0FFYTZVOXdYTU8tMm5nOFBhT2t0R21qaTRDRlp3Z0dvRjlIc1lCSW1aYTJzbEtzRWRHZnZWVzlQVlZWR2tsWnVoTno4Qi0?oc=5",
-            "date": "2025-06-18 16:00",
-            "description": "",
-            "category": "PQC",
-            "keyword": "PQC",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "웹 브라우저 기반 ZTNA 플랫폼...VPN 대체 보안 솔루션",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XQnU3aHFIc013dk1OdWJwemZseUhaQS0wLTlfWmpyRmJtRm5VSV9ZNGlCU211WFZpd2lmVEJNZ0NpbHJWMS1PeFVIMHEteFk3Unh5Q25yenpIUkZEUU56cDNSelRCTHh2ZFE?oc=5",
             "date": "2025-06-10 16:00",
@@ -19583,6 +19569,10 @@
                 "count": 13
             },
             {
+                "keyword": "매출",
+                "count": 10
+            },
+            {
                 "keyword": "선정",
                 "count": 10
             },
@@ -19592,10 +19582,6 @@
             },
             {
                 "keyword": "락드쉴즈",
-                "count": 9
-            },
-            {
-                "keyword": "훈련",
                 "count": 9
             }
         ],

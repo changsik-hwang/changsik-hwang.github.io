@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-10 01:00",
+    "updated": "2026-05-10 02:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -1618,6 +1618,16 @@
             "date": "2026-04-17 16:00",
             "description": "",
             "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 2026년 1분기 피싱 문자 트렌드 보고서…공격 유형 1위는 금융기관 사칭",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DNnA4bjUyR3BOeHJMVy1yTVNhZDlKd3pnNGdxTXJyVzB0UVdKOFEwUkwtdFVhM0p0bVB4ODUtMUdWenc5NHk5SWhINmZ1ZEM4WlVVNXY0c2NnVjVTMUhCR25kQ3FyVFhvYVJ5cGFRSm5Wb0hiSDh3?oc=5",
+            "date": "2026-04-17 14:30",
+            "description": "",
+            "company": "안랩",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -5083,8 +5093,8 @@
             "is_today": false
         },
         {
-            "title": "[이 제품을 주목하라] 안랩 CPS 플러스 (AhnLab CPS PLUS)",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YbkdKT25qNGxOUVpha3ktdWZoSnljTDRVV2VERzlfRTZfWFgtdVdGZDU5c193bl8xbnFhVDVaZ2hmUEx2SmZkSHlCLWdjRWJLNUltMUZfdkRLblYtV2Zpbk9DYzVWT1k?oc=5",
+            "title": "[IT 기업 AX 전략·솔루션/ 사이버 보안 ④] 안랩",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LX0Qxd3o5ekt4NTMtUHBRVzlIWXR1QkhpUFl5SFBTbkI0aWFKSzYwR3JmZUVUdE51QWY5X3RsTDVQOEFYNGd1ZUpBcmVtdkVReUdaZlM2UkwzREpkWjVPRTVwUkRUeGctU2pv?oc=5",
             "date": "2025-10-31 16:00",
             "description": "",
             "company": "안랩",
@@ -5093,8 +5103,8 @@
             "is_today": false
         },
         {
-            "title": "[IT 기업 AX 전략·솔루션/ 사이버 보안 ④] 안랩",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LX0Qxd3o5ekt4NTMtUHBRVzlIWXR1QkhpUFl5SFBTbkI0aWFKSzYwR3JmZUVUdE51QWY5X3RsTDVQOEFYNGd1ZUpBcmVtdkVReUdaZlM2UkwzREpkWjVPRTVwUkRUeGctU2pv?oc=5",
+            "title": "[이 제품을 주목하라] 안랩 CPS 플러스 (AhnLab CPS PLUS)",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YbkdKT25qNGxOUVpha3ktdWZoSnljTDRVV2VERzlfRTZfWFgtdVdGZDU5c193bl8xbnFhVDVaZ2hmUEx2SmZkSHlCLWdjRWJLNUltMUZfdkRLblYtV2Zpbk9DYzVWT1k?oc=5",
             "date": "2025-10-31 16:00",
             "description": "",
             "company": "안랩",
@@ -5145,16 +5155,6 @@
         {
             "title": "안랩, 일본 ‘시큐리티 데이즈 폴 2025 도쿄’서 부스 전시 및 발표 성료",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwYUtSOS1GVENaRm5tSE9CT29DN1c4WVlwTFhkSlhPbnVVb242VE5WeTZ6RVI5YnlielZlYTlMWEkxalp1RlJXRkpkenlqYTFNRHFZUGFmY05seFBFVEJz?oc=5",
-            "date": "2025-10-24 16:00",
-            "description": "",
-            "company": "안랩",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "안랩, 일본 '시큐리티 데이즈'서 CPS 통합 보안 솔루션 선봬",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96VGlvOVp4bG51RmhHQkJQOHdTNENUYUVmNXY4YW1qeHdoSFM3YWJ2dkpYdG93RVJIc243Qy1zUGlLbElRbmlQMUNlc1g5UDdiUkFPUWl5aXpLMTVXTDl2dFNmbEdydw?oc=5",
             "date": "2025-10-24 16:00",
             "description": "",
             "company": "안랩",
@@ -5243,8 +5243,8 @@
             "is_today": false
         },
         {
-            "title": "시큐아이 “AI·고성능·통합으로 보안 혁신 추진”",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OXzU4THpLbGdwM1pFSVgxS0t5RjFkZUotSEtETVdlZ1JmMkFXWXphcmwwN3ItNmNDWXN5Z0Z3aEdwMUJGQzFNdFc4RkMzSXVCT3lVYWJGbjZnQ2s4WXd6NlN3QjhualdidFBabw?oc=5",
+            "title": "‘시큐아이 맥스 서밋’ 개최…AI 보안 플랫폼·고성능 방화벽 선봬",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZVpkUi1tbnEtWXc3OW00XzNLYXZZUVlWQUJfVzdYRmFESXlRZkY3TU91UEk4cWRqbW5yVmN5OGRvaUdfZjN6TXlwaTRGUXJPbnJiMkVLRVJtQUdEblBkOU10UlFjbVU?oc=5",
             "date": "2025-10-23 16:00",
             "description": "",
             "company": "시큐아이",
@@ -5253,8 +5253,8 @@
             "is_today": false
         },
         {
-            "title": "‘시큐아이 맥스 서밋’ 개최…AI 보안 플랫폼·고성능 방화벽 선봬",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oZVpkUi1tbnEtWXc3OW00XzNLYXZZUVlWQUJfVzdYRmFESXlRZkY3TU91UEk4cWRqbW5yVmN5OGRvaUdfZjN6TXlwaTRGUXJPbnJiMkVLRVJtQUdEblBkOU10UlFjbVU?oc=5",
+            "title": "시큐아이 “AI·고성능·통합으로 보안 혁신 추진”",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OXzU4THpLbGdwM1pFSVgxS0t5RjFkZUotSEtETVdlZ1JmMkFXWXphcmwwN3ItNmNDWXN5Z0Z3aEdwMUJGQzFNdFc4RkMzSXVCT3lVYWJGbjZnQ2s4WXd6NlN3QjhualdidFBabw?oc=5",
             "date": "2025-10-23 16:00",
             "description": "",
             "company": "시큐아이",
@@ -5683,31 +5683,11 @@
             "is_today": false
         },
         {
-            "title": "안랩, 2025년 2분기 피싱 문자 트렌드 보고서 발표",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XU1FBcTdDV0VFZFNSYmNvbWREN0Uxa0lGVzZrRE5nNTYzTGNLamVyX21zeC1wVTRvRW1JTEFXRmNCRGo0VEkxZXRTN0xFUTZ6dk9QckdWc3lnbFF5bHRj?oc=5",
-            "date": "2025-07-31 16:00",
-            "description": "",
-            "company": "안랩",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[ISEC 2025 미리보기] 윈스테크넷, AI 무인보안 관제 서비스 선보여 ‘AI 보안 서비스’ 본격화",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wNDNsbWV4Z1Jsa2pLaDBMd04teXBYM2hDQi1HNGRvOW1xUi0wNDJOaUFxVFoycGRvM2VGMHh0NFl0dVJlS3F3dGJPUGpFb2xNcjlwdHdPRFVIZmVtRE1QUmc0UWF4TjJzRk1RUjNYOVBUeXR4?oc=5",
             "date": "2025-07-30 16:00",
             "description": "",
             "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "안랩, 보안 실무자를 위한 기술 컨퍼런스 '안랩 테크 서밋2025' 개최",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pN01qOVZZSnhmcDJZMkoxRDZrQ0VpZmlKSmtyUVJRNVZ4aGRrbFUtVHM1ZHZGb3pQX25NWVZNX3ZPQ1BuVFNqN3dMS1l5Zw?oc=5",
-            "date": "2025-07-20 16:00",
-            "description": "",
-            "company": "안랩",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6083,16 +6063,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷–랩씨드, 산업별 AI 솔루션 공동 개발 협력",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MVThRYnhnQUlCeUIyWFpqNkVWd0hUWm94ZXBBWEl3WnI5STFlZzdGUVhjbk5rLU5NYjIyNWtSbUZCOU83NFE0bXg2UENRN1VzM2RpSGJiWXNsaHdORWVyNjJSM0Z1dTFSd0JfdGN3d19haVU?oc=5",
-            "date": "2025-05-13 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷-으뜸정보기술, 클라우드 분야 ‘맞손’",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rbUZoN2U5a3BsWEZ6UldjVkQ3cDBYODJUQ1hKd3hCTUs0RmRHcHQzMEtpNkZONUZSc1huYkl1Unhpbkwwc2NOM1pJRzFId1ItUHFYRG1KTkNRZmQwa05PR3NabXRsdUVxZEE?oc=5",
             "date": "2025-05-02 16:00",
@@ -6123,6 +6093,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이, 보험사 대상 AI 기반 금융 보안 전략 제시",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XSWdaSE4tRzVEVTRCdGlTUThabmwyU3RqY3JkVmJFZ0x0Uml3UVhYdXNsQjBGOUp1ZWNVcUJ5Ml9EcUN0SEowYjhwRjM5Zw?oc=5",
+            "date": "2025-04-24 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이 ‘블루맥스 WIPS’, Wifi 7 대응 CC·GS 인증 획득",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42X1VrTm1xclF0U210d29rangzamJHN2EwSjZvZ2VQcU04UHd0amZoNkFsbGRyTmV3RE9sdFZlazdWdVp1d0ljY0JJRkRMRXJCTENyS0hUbXI5cHF3T051WmpabmNlS3NoQV8ybnNUZzRrR3c?oc=5",
             "date": "2025-04-21 16:00",
@@ -6146,6 +6126,16 @@
             "title": "시큐아이, 88개 총판 참여 '2025 파트너스 데이' 개최",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByUjBwV2ZjZlZNSVhCNDZuSWlCYWpsSlZadmNqNkFXS21WREx3aVNwamFNMk5ONjRsQVJXenBHMjhNSVNhMUJJUzVRbDN6eV8zbV9OLWt3?oc=5",
             "date": "2025-04-01 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, '2025 파트너스 데이' 개최...88개 파트너사 참석",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zTkQ1TW5scGp3MGZoZnYzWFZWcmgzTFM2ZHZOUjVWbVBBNG10SDBhVlBWWml1OWozWTJuSFVVWjJyWm9iUjRVeUNiZy1vRS10Mll3ek83TzZkaVpuaFVOM05VTGItd9IBakFVX3lxTE04MFFVeXNGeXdHa2NpMWt3Z2k3TEFmakZTUmhIQmdkX3ZxNDRRNmprcHlUMTVhMnJBSG9NX1dOTnZSMHgxdWJmSU02Ri1FUHVJSkRvWVVlVldKMTNLMlN2M2h3dldjTS1SVlE?oc=5",
+            "date": "2025-03-31 16:00",
             "description": "",
             "company": "시큐아이",
             "tab": "competitor",
@@ -6323,6 +6313,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이, 통신사 고객사 대상 정보보호 세미나 성료",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mdGFTeC1nYjVEVEFVaG1KSW13dl90a2FsdzVzbkRFeTlsb0J5cGE5WlRRQm5CQm91dVBrbmc4WklEbW5MNUtablhDVDA1M2lhZ0FrVGUwcUtVTjd3Q05mNWRJcldaNGtHVE91WmtiWkRCdw?oc=5",
+            "date": "2024-06-20 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[세종 국방사이버안보포럼] 퓨쳐시스템 “AI 기반 통합보안모듈로 미래 사이버 위협 대응 강화해야”",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WVXMxRDItNTBDeWVhU2ZuLUZ6VHZqQThPaFc2SmUzT2tfZmRPRjUtcVlFN2k2VzA3VHQ0a1l3NUhvWVBhR29IOVNQRGtJZUN1OGlRcXZDd09EZUZyV3hNZmg2aHpKdXB4X2FyQQ?oc=5",
             "date": "2024-06-12 16:00",
@@ -6393,16 +6393,6 @@
             "is_today": false
         },
         {
-            "title": "[미리보는 eGISEC 2024] 트리니티소프트·파이오링크·파인더갭",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLOC1CbUl1Qko3SC1UOFdhZ0ZCUV9aMmNqWTZNb2VhOF9CdHVQQ0tMSF9RYnNHNFBqOHdXZnhfZU9laVZrUWRHY2FZODJ2Z2FPU2xLLWxGODJ1dTRvMlVZUlptNTRZQXVGc2Y2ZDluajhIZUFs?oc=5",
-            "date": "2024-03-14 16:00",
-            "description": "",
-            "company": "넥스지",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[미리보는 eGISEC 2024] 유티마코·케이사인·케이엑스 넥스지",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQmRIZFRlQVJ4Zy1iUXlwblIxSXpiZk9oVXlURmQyTk16RWhPbUVHUzZuS0NNUjVoQ2NRTDVaRG51V0Y1dDBMaEo5U0p1SVZVaGl4MURaa2pJd3FxNW0w?oc=5",
             "date": "2024-03-13 16:00",
@@ -6448,6 +6438,16 @@
             "date": "2024-01-05 17:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, 2024년 보안위협 ‘생성형AI·APT’ 제시",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TTVZPczBXTWtWR0wyT3N6SmFjTkcxSDQxcllUN0dSaHlDVDA2YVZxWktNNS13Q2dHNkgzazlIT21hcEpZNENEMmZlY3hwUzdqNWhrLVhn?oc=5",
+            "date": "2024-01-02 17:00",
+            "description": "",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6553,8 +6553,8 @@
             "is_today": false
         },
         {
-            "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재 신제품 라인업 공개",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2czV2LUhZZ3lIcnpocmszZnRrNm9maGdtcnA4dTFoenV1WHZYaUg3dXQyczNOMFd0UkJjWUxRV1dBTWJBT0xDUkF3aFlUdGNaS3JZWjd0WTE5RmpwWVpob2FzRVI5a0g3VTk3Tzl3bUtjTFk?oc=5",
+            "title": "넥스지, PQC 알고리즘 탑재한 UTM 신제품 라인업 공개",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEZ0s5Y0ZzeV9SZlZOdlB3alBnTkpQNks0OF96MGxoUUJ5QjVnNGo5eXg0UmtOSlktU2hJUHhCZWtGck1Ra2ZHSFRiUnZpQQ?oc=5",
             "date": "2023-03-27 16:00",
             "description": "",
             "company": "넥스지",
@@ -6563,8 +6563,8 @@
             "is_today": false
         },
         {
-            "title": "넥스지, PQC 알고리즘 탑재한 UTM 신제품 라인업 공개",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEZ0s5Y0ZzeV9SZlZOdlB3alBnTkpQNks0OF96MGxoUUJ5QjVnNGo5eXg0UmtOSlktU2hJUHhCZWtGck1Ra2ZHSFRiUnZpQQ?oc=5",
+            "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재 신제품 라인업 공개",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2czV2LUhZZ3lIcnpocmszZnRrNm9maGdtcnA4dTFoenV1WHZYaUg3dXQyczNOMFd0UkJjWUxRV1dBTWJBT0xDUkF3aFlUdGNaS3JZWjd0WTE5RmpwWVpob2FzRVI5a0g3VTk3Tzl3bUtjTFk?oc=5",
             "date": "2023-03-27 16:00",
             "description": "",
             "company": "넥스지",
@@ -7507,6 +7507,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "비트코인의 양자 이동은 이미 너무 늦었을 수 있다고 Project Eleven 보고서가 주장",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUVoQ01hNGh3aTBhWUMzamdKdGVaNmIxdnhrS3NBZ1NrdlJlOW1CYlFwRDNSVHJnaFdDdUpUQ1lfNzE3QWJJZmJSdkRrcDFYc3ZLOFdoTWNpQk5fUmhQMkNsTjZYNXNrOWljRndHZjl1TDBtQlBIQ0pZcWZwUjVtWnl6V2VvMGlSMFFqNjhQVUttcUlId2xNQ2VxU1haNUxwY1loUVlIWnRwbmk0M2U3N2RZbTFtb09DVGExRTRiWUpvWFhxUy1feA?oc=5",
+            "date": "2026-05-09 09:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "미토스 충격에 보안 전문가들 \"제로데이 취약점 탐지, 기존 AI 모델로도 이미 가능\"",
@@ -22524,6 +22535,28 @@
             "is_today": false
         },
         {
+            "title": "[2026년 전망] AI 딥페이크 위협 폭증...‘AI 진정성’ 확보 시급",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45M2tpMmtZelNScm03b2laQmZ3elQxVmlOS0NtTW1NSHR0cmRUQjV2ZXJoNjRCdjdsb29vZW5COHVsTzIzb3RlWWxXeXpjc1BYUnhuSzQyaTJTR3NJbks1cGhfSXUycGg5U0E?oc=5",
+            "date": "2025-10-31 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "오픈소스 암호화 위험 지도: AI·양자 기술로 실시간 위협 탐지·공급망 보안 강화",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tR1hLWnZGcUE3eHJxLTRIbjhyWkFiTDZlbU1jU3dzdHN2SEJkTTVaclpybWVrR3BzT3JIVk85cUlncC1wV29EZ0NNVjVQaFpzRzFfZWM1MjdXbFZtWHRHSzY5RlRnR3M2N2c?oc=5",
+            "date": "2025-10-31 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "\"제로트러스트 보안 진행중 한국기업 4% 불과\"",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SQTR6VmN3TE9SalpWc0dIX1NSNjQwWTJoLUVLc2huTFN5ZlAzMDcxRmtseHZjTkdNQkdCb1pqOEVqVWNRQVZjSkxNZkM5TjFLbmU5Z0hR?oc=5",
             "date": "2025-10-30 16:00",
@@ -22678,6 +22711,17 @@
             "is_today": false
         },
         {
+            "title": "[AI시대, 디지털 전환⑨-1] AI 시대 사이버 보안, 위협과 해법 동시에",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15TjlwQnJsSUs5MWhWLUFPMFZLd2VYX2diTmVNSFhDYzRTRTRFcEVsWTVPQW5KWmhoZ243SXRrbVdEVzRDdUMyYTNPaVVuVFhOOTZNQ3VSSGRENktEZWRqd2pyMnJYd2NvQS1V0gFvQVVfeXFMTkdhWnlfTzNrOGlrTUxqNFNRTXZ5NUhKUmk2LUNBMDlHdElLWXJtTUpJMFBocmRsY3ZKM1FQSWRkNUJlSDNWVk1PQjhYWmEtT3U2VzRFRHdRWktqUUoxZDZfMHVKX2h1WW40UUNNZlQ0?oc=5",
+            "date": "2025-10-06 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "FunkLocker 랜섬웨어 탐지: FunkSec, AI 활용해 미국·유럽·아시아 공격",
             "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOExxSEJmN05memp0ZTQ1ZGd6bGFvQXJ0R3I4V0hER0FLcTZUazkwbXBoTWFYN08yektMM3VDZ2YwRFpMM3UzYlVqWkItZ3lhdHVvSEdWcVhWVlZLTFN4QmczRWdNaFk2Y2phM3lackVpcE1SUXZKV3dBMVd5akhkRE4xTGp1RDZqM2U3LQ?oc=5",
             "date": "2025-10-03 06:28",
@@ -22700,6 +22744,17 @@
             "is_today": false
         },
         {
+            "title": "서울시, AI 보안관제 플랫폼 고도화 나선다",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlUllXMVpRQ1VKZGNmMXprVmxzTkVjR3hyTWxQRFV1dUZwemFsNXdqSlRBYjVfUjl0Q3lBVjRQMlBQN0NKMlBEbnZvNTViamI0YngxSmhiY0FQZU9XWnRFY2Z2ZEk?oc=5",
+            "date": "2025-10-01 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AI·다층 분석 결합, 낮은 오탐률로 위협 탐지와 대응 속도↑",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OWHFrWDFBZHZVNDlaQzBqZG8xd2VRRno5YW8xM3psR3JsYjBZSTVKVTBucWRtRDVyaDNIQmJxQ0JpSUJDdjFiZ1A0SmZmMENtbUx0VnA0R3gwRzlJa294NlVGQ2k3alFXRUE?oc=5",
             "date": "2025-09-30 16:00",
@@ -22717,17 +22772,6 @@
             "description": "",
             "category": "PQC",
             "keyword": "양자암호",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[지상중계] “사이버보안의 새 패러다임을 전망한다”",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01UDFJQjVwc0lZSGNfQzV6Y0g4QThUUXg5Y29JQ1Ridjlic3lOaWlYaTJfdWNBWGdldjdEUFBXd0RKY3NMd0JjSjVVZWQ3dl9Qa251NWRsYS1BaS0yYnlIVEJ2MTdvU0h1NFdncQ?oc=5",
-            "date": "2025-09-30 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "Zero Trust",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -22788,6 +22832,17 @@
             "is_today": false
         },
         {
+            "title": "AI를 속여 ‘몰래’ 유출시킨다···‘섀도리크’ 위협과 방어 전략은?",
+            "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQU0VzZGxLdl90VDZSRGRYMnNkdTBQdXo3UjZiSk5xZDNVc2JQalNJQ0cxZmRCY1ljRWpTOEsyYUozdVRmS3V2RHhvTlJJQWVuSU1ncTkzcngxWHZreUkwbmQ2d3JqbXJaY1ZZOG05aS1tQlEyeDZ3dnJSX283ZUFYekhUdW1hWnNhTjhxTkVwVFJIc2FTemxuUGs5eXQ0T0kxaFRsNlhzQmtUTG5vQWlxWm9tMGF1SEhROU5jRVpvTzBpazFocm9DX3J0NjZqMXhZMnRJQnlYcEVaREJwMmFmZzMxVDRkV2gtdTJmMUxHUUItLS11UkdOcldDMVpoRWtaeUNDSG80V1MtY1pka1IyQVI2MDdYSUlfOUMwTXNuakk1cUwxeGgw?oc=5",
+            "date": "2025-09-23 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[KCSCON 2025] “제로트러스트는 전략이다”…시스코코리아, 네트워크 보안 체크리스트 제시",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KWi12c1lzWEc5bkgtZ09qS3h3bkFXcGpqdDBtS1FRV1FQXzMwdWhiTGxFVmt1VEVmWGJTZ2g2X1RwYXVPeWpPUGQ0ZE5yUjRsNmN2dkFRTFBlTXpGMERabFo4Z2czODJWMThzZg?oc=5",
             "date": "2025-09-23 16:00",
@@ -22826,7 +22881,7 @@
             "date": "2025-09-16 16:00",
             "description": "",
             "category": "제로트러스트",
-            "keyword": "제로트러스트",
+            "keyword": "Zero Trust",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -22843,6 +22898,17 @@
             "is_today": false
         },
         {
+            "title": "\"AI 툴 사용 안전하게\"…아카마이, 통합 보안 체계 구축 '시동'",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zclljWjlrZjg2S0hCZlh5SGdjaG1reE5hZ0pLVktNQXVVNXY3aHhHOHR4N3JEM25YQVNvMVNhTUdMMlR3OS1aMnprWkExYkdyeFp0ck5B?oc=5",
+            "date": "2025-09-16 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "“일단 지금 털고 암호는 나중에 푼다”… 양자 시대 ‘해킹 시한폭탄’ 대비해야",
             "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOME5FYTRPUXRsNGU2bUFWcl9nOWthOUU5V1d1YjlZWS1GWm5reDJVbE1RQUxISmx3QVhJWFVoSWhlbThPMy03enV4cVN0dldfakpRR1NyZkRNSHlsYUVaaVBQQlRSOEl1eDZpV0VGaDhILVh5MVI3cHhRMFVvMDU2em5mQQ?oc=5",
             "date": "2025-09-14 16:00",
@@ -22854,9 +22920,9 @@
             "is_today": false
         },
         {
-            "title": "씨큐비스타, 483억 규모 국책과제 1단계 핵심기술 '비복호화 AI·위협탐지 솔루션' 자체 개발",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tcUpDS2lSS2ViMGtWcWhueXZIYWNfTXdySmtIM1U2YklYLWNzRHcxQ1ZOZkhuYlFXd3Q1SW84SFVSaEZHaThiWS1tcWFXQ1FzbDdhcll3UUFSeFh0YXNEcE9ZbVRUWGxGRXF0Wg?oc=5",
-            "date": "2025-09-09 16:00",
+            "title": "[2025 NDR 솔루션 리포트] 진화된 사이버 위협과 고객의 니즈에 대응하기 위해 성장한 ‘NDR’",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHNkRGNV9DamZwWFB4bThWWjNjcGhrLWtPbFhfcURjNE1LOFoxQkNIOFlJY3VtVHNld0NMSi0zelg4c3R3N1VXSmV1amJXMmtuQVlDSVFHeDE1UXVTakhr?oc=5",
+            "date": "2025-09-10 16:00",
             "description": "",
             "category": "AI보안",
             "keyword": "AI 위협탐지",
@@ -22942,12 +23008,12 @@
             "is_today": false
         },
         {
-            "title": "배경훈 장관 \"국가 암호체계, 양자 내성 암호로 전환\"",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOWNpa0Uwc21kNHdUNjU2Zlh5b0ktY2U0UFNHNENjeVcyU3dEcFZBYTkzRGtFb2V3NWtUTnFsZDlRVVNlX0k2UGszYUFKSUVVRWpVTjJ3?oc=5",
-            "date": "2025-08-21 16:00",
+            "title": "[ISEC 2025 미리보기] 세이퍼존, ‘SaferZone-Edge’ 제로트러스트 보안 플랫폼 공개",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCRFpIQjdwQ09pU2xsQWdPVEF0VkhKSFV6anlaQm4xQkZaOWptcUZsNUpPeUlLSGszRmJpVV9zMGlhVS0zVnh2Y2JqOTBNWlNPTi16amRRNEZyLWg4dXRj?oc=5",
+            "date": "2025-08-22 16:00",
             "description": "",
-            "category": "PQC",
-            "keyword": "양자내성암호",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -22956,6 +23022,17 @@
             "title": "ZTNA 기반 ‘HPE 네트워킹 SSE’, SSL VPN 대안으로 주목",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96c2tfY0twOW5tV3ZOcnVzNHE5TFF0MU9YWDRHVXFtZXNSbFg0aFcyU0JxQnBidDROcVNXdmQ0MXlfQ3E3MHItVElaM3FoVjJxcDAzTVZ3eVRLSFB0UGhVcFpQYnNMRm1TS1JQRg?oc=5",
             "date": "2025-08-21 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "랜섬웨어 공격에 몸살 앓는 ‘VPN’",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EQjBENVlBcUcyc1FJYUd4UURCX3VmWWZkdGdvSFVoU0ZwVjVOOVFMS0NPeENaUzJlMS1kUFJ6RzRKTnlxdzFLQ21qdkswUnc2aHg4aTFpVFVLajF4dDZ5czQxRHlMU3c?oc=5",
+            "date": "2025-08-20 16:00",
             "description": "",
             "category": "제로트러스트",
             "keyword": "ZTNA",
@@ -22997,23 +23074,12 @@
             "is_today": false
         },
         {
-            "title": "[ISEC 2025 미리보기] 세이퍼존, ‘SaferZone-Edge’ 제로트러스트 보안 플랫폼 공개",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBleG5YVzVqd2hndmtZYWRLYlJ4eTVnd3pkMUFVMEtEWUppYmNTS245R0tObGZRZC1TWnY0UXBNZW9yZXNaZDQ5TW5oX2owVjlBTnBlMjVncVlXeVhYZTJZ?oc=5",
-            "date": "2025-08-08 16:00",
+            "title": "[AI와 보안] 국내 CISO들 최고 관심사는 ‘AI 보안’",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8weF9mRmYyRDlCa2doaEQyS0swNm16MEhaWlpFUnJKX0dpbkFsdk9lclVWSUhFeGMtZ0k3clhqWV9VN2I2eEJJQy1iaC04Xy11ckRXOU9JZlhOSlVtckow?oc=5",
+            "date": "2025-08-07 16:00",
             "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[서치 e종목] 지니언스, 공공 부문 제로트러스트 적용 등으로 중장기 성장할까",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SemhpREozSjQ1THRSUHU3cTdOc0djUGFsdVloQVA1a1RQTUdtOHRvTkgyRHBlM0Y0azNqZlpudWNwNGR5TnB3R0Z1UEZXSmFMajVfX3FiYUVsNUY4UWVCV1hXb05NUDd2ZWgw0gFvQVVfeXFMT2puUm4wc2wyVDNhYnFjbWx2c2hDWVZsYXR0VW1fdWJMeFhRVWJOOXh1NVZCYmdLUXJ2bWlqcm5OOV96cVc3UVphSFBMVlgtNzhDNklLemhvQVJHbjd0NWtIYWI5aGU0SC1qYVp1Nk5Z?oc=5",
-            "date": "2025-08-06 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -23025,6 +23091,50 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI로 모든 이상 행위 조사하는 ‘행동 위협 탐지 대응 플랫폼’...거짓 부정 해결",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVdllEbU92Mk9zSW9VUzVMUFNrMXk5M0pZeFpOdks3dFlfY29JQi1sbUVKWjBvWWxXMXdVZ3F4bEl4UkNMWlN3NFBBTUdHTy00cjNXZ0ltZld2UnQtUEdIcHNrcmptODVuQUE?oc=5",
+            "date": "2025-07-30 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Koske 악성코드 탐지: AI로 생성된 새로운 리눅스 위협",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jd1VCVFZwWGhHa2cyT3p1TGNqaEgwMzl1YjdCdk1kbkx0VVNUa1hQN0JMQWdzWUpJdHptd0pUYkVZSF9wcXdQMVlKQXkwQTUyY0hCUDJoakhzV0JMQk0xZGNGRQ?oc=5",
+            "date": "2025-07-29 23:15",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "“변화하는 위협, 진화하는 방어” 포티넷, AI·양자 컴퓨팅 시대의 보안 해법을 말하다",
+            "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOQ3pWbzlXWUJ1ZlliNzBfcDhxUW9wVWV6al9naTRoX2JKTXJENlBlTFNfblpLTXpmMEVZQWozdzhIeEVBdnhVYkhkd3VFcGtHdGctZWhLbnZUWV80NlRuTkxqVWpqbjVnektVVnozZEVUMG40UVJUT1h4SkRfeTExNXBPQW9RWHFtV2dDc0V1aHBqREdycDFuYzgyU0Z5bENPY2ZjVUM3Y3B2YVdKUkNqVzh5V0hfV3lJNnA1bE9ZdGkzT2RkMno5OGV4QjNaWlRUNGlaWUNhdWEweDIzZWUtdGlsb0JLcGk5b2tmQndLeGlkRHFBUWtGQTFtRzMyT2NZNlRHX0c3TzFaUVQ3V2lfWU95V19ZaVlsWTVRemt6eXFOeTF0dTk5c0NrbVVBaGtxcC1tcC1adUdPUWVBUjZQYw?oc=5",
+            "date": "2025-07-18 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "포티넷, ‘2025 가트너 매직 쿼드런트’ SASE 플랫폼 부문 리더 선정",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwbWlfMWNMSDJ6RnlNQ1VWLTAwLUUwQnBpT3NKUkdLZEEyaWdncUZYNU42dmRpZ0RDX3RaanowelU5ZFZ1d0pJMGNpdFlTTG9Rci1RdDZORFhHZndGNV9TZzZyZGpRdzBBT0szdw?oc=5",
+            "date": "2025-07-17 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -23074,12 +23184,12 @@
             "is_today": false
         },
         {
-            "title": "[히트상품] 안랩, 차세대 네트워크 통합 보안 솔루션 `안랩 XTG` 출시",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBjcldqdXFSS091MXQzZ3JYT2I5Si1OMTVUM1pLUmJwLWVkUXEtR0YwTWFWWno4bC11QmFKZmlmd0R0UlFpMHc?oc=5",
-            "date": "2025-06-26 16:00",
+            "title": "Uncoder: 위협 기반 탐지 엔지니어링을 위한 비공개 비대리 AI",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0RKMi14UVR3WmtFSDFTd29rSXJ3aE9FVVFwUVRIU09BbHoxZHNfVkp0Wjl0cWVscXVVYmtQOUZNOU95QnhJNnBhT3lGenVNZFZqVnBkeXBYdnhxN0JSYWtrb2p2ekE5dzVBLUxBdkI3ZXJGT1dSOGZYZEp4eGVqMVNlMGV3d0FTQlE?oc=5",
+            "date": "2025-06-27 13:11",
             "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -23091,6 +23201,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Splunk에서 Uncoder AI를 활용한 리눅스 시스템 호출 위협 탐지",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3dwUUZWRllGZXpac3c5VUlFTnM4bE9jclNQdGFJX01uS2VXMndHRS1wSFMyTUxFci1hMUZ0V0dpenZZTzl6UU1hZVVJVW0xYnVybWVFSkFJSzRqSC1hU3ZfT2hBdkFFcjY2WVh5azlVdzhoTHRSeEU0akR5OE5WOVhIRUdCb2tZazYyLWRSRQ?oc=5",
+            "date": "2025-06-13 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -23127,28 +23248,6 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
-        },
-        {
-            "title": "제로 트러스트 전략에 ZTS와 ZTNA가 모두 필요한 이유 - 일루미오 사이버 보안 블로그",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUNSMHJGdGVOZjc4YlUyZkpfTXI5NnRNbXU2S0RPdGwtOXREcEFfRkF2dmxyLXF3LTJNeXRhcm9pZmZ0cnVKRFBNMnQ4WTJvVG9vbjQ0Wng5SV9nWWljMTdFQUJvdnBWNG5qSXBWWlU2X2x2bXVjSDJHdHUtaGNLQjFhUFcwTm1Vc0IyRQ?oc=5",
-            "date": "2025-02-08 16:45",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "AI 기반 네트워크 위협 탐지 및 대응 솔루션 샌즈랩 'MNX'",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5walR4cEtsc0tsaWJEcDJNRkVXUUNuVHZtSlpMMFZSbkJYUU9Ndk41VUhTeVRVQjAwRW4xc3pSV0VaM3FnVlpMbmJ5VHJtdw?oc=5",
-            "date": "2024-09-19 16:00",
-            "description": "",
-            "category": "AI보안",
-            "keyword": "AI 위협탐지",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
         }
     ],
     "competitor_monthly_keywords": {
@@ -23177,7 +23276,7 @@
         "2026-04": [
             {
                 "keyword": "피싱",
-                "count": 14
+                "count": 15
             },
             {
                 "keyword": "선정",

@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-10 04:00",
+    "updated": "2026-05-10 05:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -5033,16 +5033,6 @@
             "is_today": false
         },
         {
-            "title": "밴쿠버 | 밴쿠버무역관, 윈스피아 간담회 개최",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS3lOY1FRV3dPNnlzempXcDhhYXJwNW1mYnM2Y2JWVXItV05rSE4yenlwa3dqcVZoX0U1UGNMbi1jeGFkdXc5MS1uWFFfa0dQaWZFRmt0MzRGd0U1TlJlSG5tSnZ1RTZpRXlpekswU2FqNU5FbWlwbjNDQkFlV3NIU2t3cw?oc=5",
-            "date": "2025-11-08 06:49",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "안랩, 2025년 3분기 피싱 문자 트렌드 보고서 발표",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OQlFWUGtyaHBzZnAySHN3MDV3cmM0LUU4Z1VSM3JHMHVJRDFBNllPYnhJZ0N2WTJwdm9kX2RCSEhPWmxZbUJvRU9EWFlMeHBhbkNKb1d2Y05nLUFrelR3?oc=5",
             "date": "2025-11-05 17:00",
@@ -5293,26 +5283,6 @@
             "is_today": false
         },
         {
-            "title": "정삼용 시큐아이 대표 \"AI 신제품 'TARP'로 엔터프라이즈서도 1위\"",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZWW1McDdrekIyQi00T2ZxNEpONFRTTjQ1enVMR0lYTXlObVpkekpvWG91a3U4VFJ1TTVTclE1LTZ6djJRcUtmN3g1ak8tWWVsd09OMVRqU0M1d2QzMFY1bDJWWEViRC1lR2tBNnBWTzZYX0E?oc=5",
-            "date": "2025-10-23 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[현장] 시큐아이, AI 기반 고성능 보안 서비스 공개...해외 시장 공략 본격화",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtLXRkR2VpZkZIbDhrc0tjcElOWXdtM1BHeVFNSVV5V1lEeWt0T050SXdMeWYzelBzd3labjFVRmJBM3ptRTJ3LVhUQ01yLUZzSTZsTGhGZ3o0V2lqd19aSTBZcnJudzdJak1F0gFvQVVfeXFMTlZzV2Rtc1BDWnV0MG9oOEpWblNtd0JQQ0VQc2NMUjk2NjVMTVZkMENjaWlLcGhuU2N0ZGhCVU5CQ1lhX1R4cWZKOS0xV015NkFrbmNWVEg2MFFPdXNmakZKM0lzbzBqWEt3aklPU1hz?oc=5",
-            "date": "2025-10-23 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "일본 넘어 동남아 겨낭한 시큐아이…AI 보안·차세대 방화벽 강화",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sdkIzOXNGWDZ0dkZBUnRPOWJTd1l1WVhtckh3NDJxZmF0OTdBRFY4UjMyU3JzR3VxQnNsd1YtbjFrcjc0dmdILXAxTVRyQ1pNS2JKSUxac1lGcVlUanY3SHhaZzY?oc=5",
             "date": "2025-10-23 16:00",
@@ -5343,8 +5313,28 @@
             "is_today": false
         },
         {
+            "title": "정삼용 시큐아이 대표 \"AI 신제품 'TARP'로 엔터프라이즈서도 1위\"",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nV2kzUGxPbThZX3JIOUdWOHdDU0c0Rm5EV1FONkdtQ3BUVEw4QXhZZWlidGJBalNfOG1TMnBzV2IwYnk5NFlvVnNIb0NjRW1pN1N1Rk9FajZmRGtaWmszR295S0VWM1kxbFhrUndlUFZ1UQ?oc=5",
+            "date": "2025-10-23 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이 “보안 의무 강화 없으면 산업 성숙 불가능…예산 뒷받침 시급”",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWNVMjNJWlkyU2NreGZ2dVhaT09OMmI4dGd4NERWRjFmMXNmU1RVX1RoTVdoUWtqejQwR1p4STVHQWZvUTRuRlRjWm1wdXZFWkNwLVVpejhhUHo2NXhWdzdMaHR5Q1k0cjZUcE0wRkxTWlR6cUE3b096SVhQZldrdw?oc=5",
+            "date": "2025-10-23 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[현장] 시큐아이, AI 기반 고성능 보안 서비스 공개...해외 시장 공략 본격화",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtLXRkR2VpZkZIbDhrc0tjcElOWXdtM1BHeVFNSVV5V1lEeWt0T050SXdMeWYzelBzd3labjFVRmJBM3ptRTJ3LVhUQ01yLUZzSTZsTGhGZ3o0V2lqd19aSTBZcnJudzdJak1F0gFvQVVfeXFMTlZzV2Rtc1BDWnV0MG9oOEpWblNtd0JQQ0VQc2NMUjk2NjVMTVZkMENjaWlLcGhuU2N0ZGhCVU5CQ1lhX1R4cWZKOS0xV015NkFrbmNWVEg2MFFPdXNmakZKM0lzbzBqWEt3aklPU1hz?oc=5",
             "date": "2025-10-23 16:00",
             "description": "",
             "company": "시큐아이",
@@ -5544,17 +5534,7 @@
         },
         {
             "title": "아이유·뷔 '러브 윈스 올' MV, 1억뷰 돌파",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Mc1dsNHZlS1VaY1FhMy1qY3VlNW8wU2F6aktRTFdPLXpxeF9ZUGwzTWlfVUxkbVptUzE1NkdCNDNUYTk3YXVFQkhLNkdCai1KTmlkanZzSTU1UdIBVEFVX3lxTFBkbC16ekFIY0xBMHZqODBNUjdzV1RRaGlvRHIwbWJCM0Fhb3V4YlFaRlpUQmJpWUZndGxVX1JkQXlnODZhSUljQ2Jrd21NNTRYMl9CVw?oc=5",
-            "date": "2025-09-19 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[가요소식] 에스파 '리치 맨', 스페셜 리믹스 미니앨범",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMTzc4Uk03cGxmamwwUjNVRERiUEtGS1d5LVhaYnFZNWptTTB1QnFsY3BNemJhd3djTDEtd0swWnM1SXNnZzdyTUliTE1icnE0Qmd2R01Rc3hKZlnSAWBBVV95cUxOVUlRelI4dVVoYmJHUm1Dcy0tVnFuZEpyeVh6UjFBQXRTbVRDdnFtV2c5QlFjZEJFalk4cHJrenFQZ0RJUEZtdlVjLVlmT1VtTXlCQ3J4Y2pZanhrVy1BMC0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1TUjZZZFM0aTJ6MkI1QTY4R0w1SXBBMGFTSHB5bmpoUmo1aVFGcWhNX014WE9WRVQwRUk4OTVQLS1aVmk0ZVE?oc=5",
             "date": "2025-09-19 16:00",
             "description": "",
             "company": "윈스",
@@ -5606,6 +5586,16 @@
             "title": "시큐아이, 차세대 침입방지 시스템 `SECUI MFI V4.0` CC인증 획득",
             "link": "https://news.google.com/rss/articles/CBMilgVBVV95cUxQSDVHYlhVQlVKWTBiaUo3U1RxUXRSbmNkd2hCVlVkeVh4eUE2d3VnX2tkeGJjcVVveWszQnJHZlVGQkoxd0FxZmljRTNIaVNjTDJObkM2QVJnXzdHYU1hd0Y4Y3hZM1RRUWJBczVyZE9DNmp6dmduZ1p5bk9XM0VoUUd3OEtYX29JZkdicFNSYUNuWjllTnZ6QnFaZzAxaUVZZzhxa1BHcENUSVZCTDdKRGp0VTRUYk9pcDNqbEdaMklrbE1qWW9tRERSTVBIYy1LTWMwU3JjdkRWVkEtb1pCRU9hUGR4SjhIMThqVTlwczZfSW1pQTB2SUZzZDZDM0JrWW9taUxnR1ZBOEpPamZjTTFFS040LXpkdVZEcTI0X1gxOE14TmtYQzBkenNvMWYtLUVaY1A3Qi1kcG9HN1lHZ1pITjdZQVFoVHdVdnZmLXpZNkdZVm82WjZHQzhKOVlNbndRQkpXUnhucngzUUFGWk51VWtJYjF0ZmZnTGpZNm9zanBUMVc3NUZwR1BlNzRnTml3UUhMWDhlc09aRnNKVG5aYS1IdGlxWURSbnZoa09RWXZQWG84cmhGdnJtMHVFaWV2TERNXzgzTklLQmVlZXdJSGxjUjhkZkYwMWNLaWNLN3V0R21FdmIwSDVSa3NycHJhR0stZXRpUm91R1ptWWxCQ3VjM1NrMElLdzhYdmpnelNta3diU3Z5MDdDd2JtOVZvVWtNZllCUG80cWdCeC1lak9nRU8wRmFBUnI2R3p5UWh0SlA2N3h6SlUwUjZxUWdXaE9BRDZOTUpjcms2TnRwOFRKc2VyN05BS0RJSWJjZzJXcW9EQ3l5SENGRVU1V28zMzU5Qno4Wkh0alNhQnVQWTBXdw?oc=5",
             "date": "2025-09-12 04:27",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "보안 상장사들 직원 평균 급여 올랐다...지란지교 최고 4177만원",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95WXpndnYtYkxCbUJoeUxiaGRoSW5uUG9nQ2NteWJyUEdWampBV3NHeVNkLXd0OVZBeE9LOWRZT0paRk9URGRLakhoRnB1czRNWEVMT2J3?oc=5",
+            "date": "2025-08-28 16:00",
             "description": "",
             "company": "시큐아이",
             "tab": "competitor",
@@ -5693,9 +5683,9 @@
             "is_today": false
         },
         {
-            "title": "온(On), 세계적 러너 헬렌 오비리와 함께한 ‘소프트 윈스’ 캠페인 공개",
-            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HYXpHVDBPeF8zMjhJaTlhOGJxeE1MNUwwN2owNDhOSHJXMG1jWXNTN1hSSVJLNE9uM1VaZm14NlJkWEtPemsza0w3MzJWdXBr?oc=5",
-            "date": "2025-07-17 16:00",
+            "title": "[뉴스광장 영상] 윈스브로우홀",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IR2xXOGVwVVJXZzJOeDRKb2h0WUs3Y2piekJRWEVrVzJ1MW14VC11cE5sY3VFc1FSU1dlOTBJTURxSjRxa1piU1NHU3VOQ2pXd2k0Y3k4cVJLd0E?oc=5",
+            "date": "2025-07-23 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -5863,16 +5853,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, 취약점 신고 포상제 '버그바운티' 시행...화이트해커 100여 명 참여",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCUE8xdk1Fd0VsbGxteExzOWFoNDJCTFFFbHdwUTY3SG5iLXYwSDRhakxjYXhDT3h6Wk9IampvbUdHeVpvZTVFRGVXcFpIY24yRjlMTm9DaF92Z0tIZkZEb1hyNHo4RHIxYXgyNQ?oc=5",
-            "date": "2025-06-19 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷-케이엘큐브, AI 수어 서비스 시장 확대 협력",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6YnVlZlVrUU04dFB6MnBuWWNCWHBOQm9zekY4WXdzeGs4Q1liZ3J0UTEzQW04TlhaM0RfczdIZGVXZWd3Y3BKcHIxQW9SYVIzQlo3bVhR?oc=5",
             "date": "2025-06-11 16:00",
@@ -5883,8 +5863,8 @@
             "is_today": false
         },
         {
-            "title": "금양통신, 윈스테크넷 주식 담보대출 일부 상환",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZDRVbFJ2bXk3YzhjX05nMG1TaUJsRXRPaTh0OFhJZEw0VFEzSHh3aktXdklVTlJGVG9HZXBxaW1YT0FNTWtIYURoQks4anEtbWJLalNYWkk3Y0xtVVNNRnBZcXlDREk?oc=5",
+            "title": "금양통신, 윈스테크넷 주식 담보대출 일부 상환…지분 51.22% 유지",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4RV9qemxuaHpjZ3lxc2dhWElWOUphWkpzVmM4b2lRblEtYlhGcUxNSjlKOTlHWWx3bVgwclNuTTJNb0Q5SXdFM0dIQ2xQa1I5NXJ2Tk5fYmlKNzB5YTkycm9PX0VnSlYyRWRLV2theGpyems?oc=5",
             "date": "2025-06-11 16:00",
             "description": "",
             "company": "윈스",
@@ -5893,8 +5873,8 @@
             "is_today": false
         },
         {
-            "title": "금양통신, 윈스테크넷 주식 담보대출 일부 상환…지분 51.22% 유지",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4RV9qemxuaHpjZ3lxc2dhWElWOUphWkpzVmM4b2lRblEtYlhGcUxNSjlKOTlHWWx3bVgwclNuTTJNb0Q5SXdFM0dIQ2xQa1I5NXJ2Tk5fYmlKNzB5YTkycm9PX0VnSlYyRWRLV2theGpyems?oc=5",
+            "title": "금양통신, 윈스테크넷 주식 담보대출 일부 상환",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZDRVbFJ2bXk3YzhjX05nMG1TaUJsRXRPaTh0OFhJZEw0VFEzSHh3aktXdklVTlJGVG9HZXBxaW1YT0FNTWtIYURoQks4anEtbWJLalNYWkk3Y0xtVVNNRnBZcXlDREk?oc=5",
             "date": "2025-06-11 16:00",
             "description": "",
             "company": "윈스",
@@ -5993,16 +5973,6 @@
             "is_today": false
         },
         {
-            "title": "[현장] \"800명 사전 신청 '북적'···정보보호 취업박람회 가보니",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjd2huU0VOVV9aVXh5VFhMcV80WGVEYkxTdl9ibHMtN25SOHZXNV91VkhxRTB4N0ZSd2JwV21sX3FqcEVVVmwzaldhWjVsU0lwMWlGQ3dR?oc=5",
-            "date": "2025-05-27 16:00",
-            "description": "",
-            "company": "넥스지",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[더밸류 리서치]윈스테크넷, 소프트웨어주 고ROE+저PER+저PBR 1위",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yLWRwT0lYRW5NSy1TSnVOU0FyQ2NsMzhwdFQ0LURSQzJYWnhBNkcxWnNTR2lTWElFVWdhT2RRVWJ2ZS1IRDA2YnEtTjdMeWt3N24wdg?oc=5",
             "date": "2025-05-27 16:00",
@@ -6016,6 +5986,36 @@
             "title": "AI 시대 보안 전략 ‘더 통합하고···더 세분화하고’",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PczMzTDg0eVF0SnBzZTRJM1VnTVFKRzkwVl9XU1kwZVhjYTVZaHJsLW9UV2lyNXVnUW9UZXQyVkdWUThleEhXQTV2Q241VmIxT0s1R3hhcUQ3b3IzQmp0T2xfRE1zeHlsWXhtNQ?oc=5",
             "date": "2025-05-26 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "통신사 보안 위협 막는다…시큐아이, 보안 전략 콘퍼런스",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Cd0d0WWNhR3hXQVAzN1E2OGxQRU9KeHkyaktsbkZpU3R3VUVESXRrUnVJVDVNVG1FS3lhTDZGdC1rYkNGR3p2c3BwaUFndXlUcVpKOEpiQTU3OTBXQ1psQ2pVeFJQby1TRmNrYi1vQUNkZw?oc=5",
+            "date": "2025-05-21 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, 통신사 대상 보안 전략 컨퍼런스 성료",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OVVRYRjJ3a1RpaVZLUXA2NE5FQksxMHF5OHloV1ZzWEpoaHVlSVFfSE5OT0ZyOEtBRmRvUzNKbWF4Z1ZYRFl0Yl9fT0JmN1FtMEpEaWZWQ05GcWphU1RmUS1wV0VVeE53MHFxQg?oc=5",
+            "date": "2025-05-21 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, 통신사 대상 보안 전략 컨퍼런스 개최",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ORjlYS0RkUXA0TUtaTkd3WlZfaVpXV0Y1ZDFNVGRIM2lQYTU2SHBSdjRzWE9OUERSV04tYm9MN0ZHWU9NeV9nREZpelotOVM0RTJGM0ZVN2c3RHBJQjd5OExXU1NLM0RFOV9fVWNkcjBvSWs?oc=5",
+            "date": "2025-05-21 16:00",
             "description": "",
             "company": "시큐아이",
             "tab": "competitor",
@@ -6323,6 +6323,16 @@
             "is_today": false
         },
         {
+            "title": "K-WAVE CONCERT 인기가요",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PQnROSFl6cFZIX2V5Q0h6NHlGOVIxMUtYWW9LUHc3ajQ2a0c2Y25NWGx0cFh0ZmVsSlRubzRtbjM3eGlfbHBXSnc2eC1yRUhOTEpJbkhkaWpQWldRMVBJTGw0cUc4WG1QNEFTbXdXaGk4andz?oc=5",
+            "date": "2024-06-06 11:03",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이, 디도스 대응시스템 '블루맥스 ADS' 출시",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10Q2xwcUJhYzJvS3pZekNfOXRDR1ZlYnJIVmc2bC15WkF2OTU1UDFoS3NrS1VmWVJVVDQ5SG1mUWxvWlptZGdYQVF2SU54UQ?oc=5",
             "date": "2024-05-05 16:00",
@@ -6373,11 +6383,51 @@
             "is_today": false
         },
         {
+            "title": "[미리보는 eGISEC 2024] 트리니티소프트·파이오링크·파인더갭",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLOC1CbUl1Qko3SC1UOFdhZ0ZCUV9aMmNqWTZNb2VhOF9CdHVQQ0tMSF9RYnNHNFBqOHdXZnhfZU9laVZrUWRHY2FZODJ2Z2FPU2xLLWxGODJ1dTRvMlVZUlptNTRZQXVGc2Y2ZDluajhIZUFs?oc=5",
+            "date": "2024-03-14 16:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[미리보는 eGISEC 2024] 유티마코·케이사인·케이엑스 넥스지",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yQmRIZFRlQVJ4Zy1iUXlwblIxSXpiZk9oVXlURmQyTk16RWhPbUVHUzZuS0NNUjVoQ2NRTDVaRG51V0Y1dDBMaEo5U0p1SVZVaGl4MURaa2pJd3FxNW0w?oc=5",
             "date": "2024-03-13 16:00",
             "description": "",
             "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[미리보는 eGISEC 2024] 코드마인드·코드원·코어엣지네트웍스",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44STlOWFBDS0stQkVfdzljVV9JMnREN0lJcWVmbmxTSGY4bGRWVk84SzNnVVNicENWcmd5ZGVRX2VBeXFYaEhySVFNdkFVQ1MtWXlZRmplYWJrZVhtNzJ2Szc1aU82LXB1cUxfNTg1NG9SM3p1?oc=5",
+            "date": "2024-03-13 16:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[미리보는 eGISEC 2024] 쿼리시스템즈·테르텐·투씨에스지",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWlVwb2NDN1NkcV85dzBOczRWNDVMZENYQUJacjE5YTdUZVlFclNGVUdiY1JiVW81R0JHQWZ1ckhtQlR3OVFsU3VmTHl2ZndkWDlyM3loZnBfWWtUUGVn?oc=5",
+            "date": "2024-03-13 16:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이-서브게이트, 일본 IT보안시장 공략 강화",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pNV92MUpWajJxVHNnNzhLYzhMemV4Y0R2aXU2VlUwS05DSnROUlpiM3MwdExJblZ1NHpPODN5d2RNcWFxbHBzeWFqRVhoVXppNW9YVlMyTm9pTVFUVnZB?oc=5",
+            "date": "2024-03-12 16:00",
+            "description": "",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6508,16 +6558,6 @@
             "date": "2023-04-05 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "넥스지, PQC 알고리즘 탑재한 UTM 신제품 라인업 공개",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEZ0s5Y0ZzeV9SZlZOdlB3alBnTkpQNks0OF96MGxoUUJ5QjVnNGo5eXg0UmtOSlktU2hJUHhCZWtGck1Ra2ZHSFRiUnZpQQ?oc=5",
-            "date": "2023-03-27 16:00",
-            "description": "",
-            "company": "넥스지",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6983,9 +7023,9 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, 위가디아 V2.0 EAL4 CC인증 획득",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIVzExZ1BLSmcyaVdGWWdHZzR4RWhCa1UxT3NjLXpYVzZVUVVjUExKdjdhX2Y3TkQ5SURlUXlvUExCZUxveWdFLTJUOXRtbFh2WlVSUTBzdTZVOVViYmtSVDdnckdsR0JMcHVQTU5tYkRrdw?oc=5",
-            "date": "2010-01-18 17:00",
+            "title": "뉴스",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoMzQyV0hJSi1sbXNzTkNkMFZjOE5JNldOU0I0a0hnTGo2Nl9QbmtZYVNucUtVQlFuRWdiUXoxSmd5U2RXUHRLMnU0bUpSdTRPc2h1LVA5WWt0MWd0QmI1cG5iWGE?oc=5",
+            "date": "2009-09-28 04:10",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -6996,16 +7036,6 @@
             "title": "[기획특집]다양한 네트워크 환경에 적용 가능한 MultiCore 기반 통합 보안장비",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfR0I2T28yRUZGd0RLc1ZqbE40d0Fac0dHay1BMlV0bUlWNHYyUjRfZ0RTX0tmZTh6QVVSZEE0SXBTMmppcVF6SE0tTzN0RWN5QmR3Q0ZldGdfM01fX0RaTWxjZkU?oc=5",
             "date": "2009-08-24 04:16",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "뉴스",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwem5lZVI3T1h2Z0tXdlBSZmhLVmZDS2Mydm5ibTJlVTFpREV4TnFHcXZnMGZHWU11NnYtVmtNME1ZWmpEVGRhZDlNdFIxMWotTzNvY0ZiTWwwMzJUQVZoS1RnQks?oc=5",
-            "date": "2009-07-31 00:46",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -7853,6 +7883,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "정부, 미토스 접근권 확보 ‘안간힘’…“5월말 대응전략 발표”(종합)",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fTjJJS1MwR1JYSHhpOU9zNkNKRFkySlFYajQ5WW5jei1nSU1iQjVkRkJrTGxzYmotTDJtaFRTbVJ3MzNjbDFRQXB1ZU95OVMwMl93VnlCQm5QT01GekFja2ln?oc=5",
+            "date": "2026-05-08 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "‘미토스’發 보안 위기에…정부, 산학연 전문가와 대응 논의",
@@ -22947,17 +22988,6 @@
             "is_today": false
         },
         {
-            "title": "배경훈 장관 \"국가 암호체계, 양자 내성 암호로 전환\"",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tOWNpa0Uwc21kNHdUNjU2Zlh5b0ktY2U0UFNHNENjeVcyU3dEcFZBYTkzRGtFb2V3NWtUTnFsZDlRVVNlX0k2UGszYUFKSUVVRWpVTjJ3?oc=5",
-            "date": "2025-08-21 16:00",
-            "description": "",
-            "category": "PQC",
-            "keyword": "양자내성암호",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "ZTNA 기반 ‘HPE 네트워킹 SSE’, SSL VPN 대안으로 주목",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96c2tfY0twOW5tV3ZOcnVzNHE5TFF0MU9YWDRHVXFtZXNSbFg0aFcyU0JxQnBidDROcVNXdmQ0MXlfQ3E3MHItVElaM3FoVjJxcDAzTVZ3eVRLSFB0UGhVcFpQYnNMRm1TS1JQRg?oc=5",
             "date": "2025-08-21 16:00",
@@ -23188,7 +23218,7 @@
             },
             {
                 "keyword": "정부",
-                "count": 55
+                "count": 56
             },
             {
                 "keyword": "에이전트",

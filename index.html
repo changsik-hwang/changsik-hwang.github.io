@@ -50,11 +50,8 @@
         .keyword-tag:nth-child(5) .keyword-word { color: #f7844f; }
         .keyword-empty { font-size: 12px; color: #555; }
 
-        /* 차트 + 메트릭 레이아웃 */
-        .chart-metric-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 14px; }
-        .chart-metric-col { display: flex; flex-direction: column; gap: 12px; }
-
         /* 차트 */
+        .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 14px; }
         .chart-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
         .chart-title { font-size: 11px; font-weight: 600; color: #aaa; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px; }
         .legend-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
@@ -62,18 +59,15 @@
         .legend-sq { width: 8px; height: 8px; border-radius: 2px; flex-shrink: 0; }
 
         /* 메트릭 카드 */
-        .metric-grid { display: grid; gap: 10px; }
-        .metric-grid.cols-5 { grid-template-columns: repeat(5, 1fr); }
-        .metric-grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
+        .metric-row { display: grid; gap: 10px; margin-bottom: 14px; }
+        .metric-row.cols-5 { grid-template-columns: repeat(5, 1fr); }
+        .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
         .metric { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 16px; transition: border-color 0.2s; }
         .metric:hover { border-color: #4f8ef7; }
         .metric-label { font-size: 11px; color: #888; margin-bottom: 6px; display: flex; align-items: center; gap: 5px; }
         .dot { width: 7px; height: 7px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
         .metric-value { font-size: 22px; font-weight: 700; color: #fff; }
         .metric-sub { font-size: 10px; color: #4fcff7; margin-top: 3px; }
-
-        /* 막대 차트 카드 */
-        .bar-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
 
         /* 뉴스 */
         .news-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
@@ -111,9 +105,10 @@
             .keyword-tags { gap: 6px; }
             .keyword-tag { padding: 4px 10px; }
             .keyword-word { font-size: 12px; }
-            .chart-metric-row { grid-template-columns: 1fr; }
-            .metric-grid.cols-5 { grid-template-columns: repeat(2, 1fr); }
-            .metric-grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
+            .chart-row { grid-template-columns: 1fr; gap: 10px; }
+            .chart-card { padding: 14px; }
+            .metric-row.cols-5 { grid-template-columns: repeat(2, 1fr); }
+            .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
             .metric { padding: 12px 14px; }
             .metric-value { font-size: 20px; }
             .news-item { flex-direction: column; align-items: flex-start; gap: 5px; padding: 12px 0; }
@@ -150,7 +145,7 @@
     <!-- 탭1: 경쟁사 -->
     <div id="panel-competitor" class="tab-panel active">
 
-        <!-- 핵심 키워드 -->
+        <!-- 1. 핵심 키워드 -->
         <div class="keyword-card">
             <div class="keyword-header">
                 <div class="keyword-title">🔥 핵심 키워드</div>
@@ -163,29 +158,27 @@
             <div class="keyword-tags" id="cKeywordTags"></div>
         </div>
 
-        <!-- 도넛 + 메트릭 / 막대 차트 -->
-        <div class="chart-metric-row">
-            <!-- 왼쪽: 도넛 위, 메트릭 아래 -->
-            <div class="chart-metric-col">
-                <div class="chart-card">
-                    <div class="chart-title">회사별 기사 비중</div>
-                    <div style="position:relative; height:200px;">
-                        <canvas id="donutChart" role="img" aria-label="회사별 기사 비중">회사별 기사 비중</canvas>
-                    </div>
-                    <div class="legend-row" id="donutLegend"></div>
+        <!-- 2. 차트 -->
+        <div class="chart-row">
+            <div class="chart-card">
+                <div class="chart-title">회사별 기사 비중</div>
+                <div style="position:relative; height:180px;">
+                    <canvas id="donutChart" role="img" aria-label="회사별 기사 비중">회사별 기사 비중</canvas>
                 </div>
-                <div class="metric-grid cols-5" id="competitorMetrics"></div>
+                <div class="legend-row" id="donutLegend"></div>
             </div>
-            <!-- 오른쪽: 막대 차트 -->
-            <div class="bar-card">
+            <div class="chart-card">
                 <div class="chart-title">회사별 수집 건수</div>
-                <div style="position:relative; height:100%;">
+                <div style="position:relative; height:180px;">
                     <canvas id="barChart" role="img" aria-label="회사별 수집 건수">회사별 수집 건수</canvas>
                 </div>
             </div>
         </div>
 
-        <!-- 뉴스 -->
+        <!-- 3. 메트릭 카드 (차트 아래) -->
+        <div class="metric-row cols-5" id="competitorMetrics"></div>
+
+        <!-- 4. 뉴스 -->
         <div class="news-card">
             <div class="news-header">
                 <div class="news-card-title">최신 기사</div>
@@ -199,7 +192,7 @@
     <!-- 탭2: 기술 트렌드 -->
     <div id="panel-trend" class="tab-panel">
 
-        <!-- 핵심 키워드 -->
+        <!-- 1. 핵심 키워드 -->
         <div class="keyword-card">
             <div class="keyword-header">
                 <div class="keyword-title">🔥 핵심 키워드</div>
@@ -212,27 +205,27 @@
             <div class="keyword-tags" id="tKeywordTags"></div>
         </div>
 
-        <!-- 도넛 + 메트릭 / 막대 차트 -->
-        <div class="chart-metric-row">
-            <div class="chart-metric-col">
-                <div class="chart-card">
-                    <div class="chart-title">키워드별 기사 비중</div>
-                    <div style="position:relative; height:200px;">
-                        <canvas id="trendDonut" role="img" aria-label="키워드별 기사 비중">키워드별 기사 비중</canvas>
-                    </div>
-                    <div class="legend-row" id="trendLegend"></div>
+        <!-- 2. 차트 -->
+        <div class="chart-row">
+            <div class="chart-card">
+                <div class="chart-title">키워드별 기사 비중</div>
+                <div style="position:relative; height:180px;">
+                    <canvas id="trendDonut" role="img" aria-label="키워드별 기사 비중">키워드별 기사 비중</canvas>
                 </div>
-                <div class="metric-grid cols-3" id="trendMetrics"></div>
+                <div class="legend-row" id="trendLegend"></div>
             </div>
-            <div class="bar-card">
+            <div class="chart-card">
                 <div class="chart-title">키워드별 수집 건수</div>
-                <div style="position:relative; height:100%;">
+                <div style="position:relative; height:180px;">
                     <canvas id="trendBar" role="img" aria-label="키워드별 수집 건수">키워드별 수집 건수</canvas>
                 </div>
             </div>
         </div>
 
-        <!-- 뉴스 -->
+        <!-- 3. 메트릭 카드 (차트 아래) -->
+        <div class="metric-row cols-3" id="trendMetrics"></div>
+
+        <!-- 4. 뉴스 -->
         <div class="news-card">
             <div class="news-header">
                 <div class="news-card-title">최신 기사</div>
@@ -351,7 +344,7 @@
 
     // ── 경쟁사 탭 ────────────────────────────
     function renderCompetitor() {
-        renderMetrics('competitorMetrics', COMPANIES, competitorData, 'company', C_COLORS, 'cols-5');
+        renderMetrics('competitorMetrics', COMPANIES, competitorData, 'company', C_COLORS);
         renderDonut('donutChart', 'donutLegend', COMPANIES, competitorData, 'company', C_COLORS);
         renderBar('barChart', COMPANIES, competitorData, 'company', C_COLORS);
         renderFilterBtns('competitorFilter', ["전체", ...COMPANIES], 'c');
@@ -360,7 +353,7 @@
 
     // ── 트렌드 탭 ────────────────────────────
     function renderTrend() {
-        renderMetrics('trendMetrics', TRENDS, trendData, 'category', T_COLORS, 'cols-3');
+        renderMetrics('trendMetrics', TRENDS, trendData, 'category', T_COLORS);
         renderDonut('trendDonut', 'trendLegend', TRENDS, trendData, 'category', T_COLORS);
         renderBar('trendBar', TRENDS, trendData, 'category', T_COLORS);
         renderFilterBtns('trendFilter', ["전체", ...TRENDS], 't');
@@ -377,16 +370,13 @@
     }
 
     // ── 메트릭 카드 ──────────────────────────
-    function renderMetrics(elId, keys, data, field, colors, colClass) {
-        const el = document.getElementById(elId);
-        el.className = `metric-grid ${colClass}`;
-
+    function renderMetrics(elId, keys, data, field, colors) {
         const today = new Date().toLocaleDateString('ko-KR', {
             timeZone: 'Asia/Seoul',
             year: 'numeric', month: '2-digit', day: '2-digit'
         }).replace(/\. /g, '-').replace('.', '').trim();
 
-        el.innerHTML = keys.map(k => {
+        document.getElementById(elId).innerHTML = keys.map(k => {
             const total    = data.filter(d => d[field] === k).length;
             const todayCnt = data.filter(d => d[field] === k && (d.date||'').startsWith(today)).length;
             const col = colors[k];

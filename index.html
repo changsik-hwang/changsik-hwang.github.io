@@ -370,82 +370,81 @@
     }
 
     // ── 키워드 트렌드 그래프 ──────────────────
-    function renderTrendGraph(prefix) {
-        const monthly  = prefix === 'c' ? cMonthlyKeywords : tMonthlyKeywords;
-        const monthKeys = Object.keys(monthly).sort();
-        const canvasId  = prefix === 'c' ? 'cTrendChart' : 'tTrendChart';
-        const legendId  = prefix === 'c' ? 'cTrendLegend' : 'tTrendLegend';
+function renderTrendGraph(prefix) {
+    const monthly   = prefix === 'c' ? cMonthlyKeywords : tMonthlyKeywords;
+    const monthKeys = Object.keys(monthly).sort();
+    const canvasId  = prefix === 'c' ? 'cTrendChart' : 'tTrendChart';
+    const legendId  = prefix === 'c' ? 'cTrendLegend' : 'tTrendLegend';
 
-        if (!monthKeys.length) return;
+    if (!monthKeys.length) return;
 
-        // 모든 월에서 키워드 목록 수집 (최대 5개)
-        const allKeywords = new Set();
-        monthKeys.forEach(m => {
-            (monthly[m] || []).forEach(k => allKeywords.add(k.keyword));
-        });
-        const keywordList = [...allKeywords].slice(0, 5);
+    // 가장 최근 달 Top 5 키워드를 기준으로 설정
+    const latestMonth   = monthKeys[monthKeys.length - 1];
+    const latestKeywords = (monthly[latestMonth] || []).slice(0, 5);
+    const keywordList   = latestKeywords.map(k => k.keyword);
 
-        // 데이터셋 구성
-        const datasets = keywordList.map((kw, i) => {
-            const color = TREND_COLORS[i % TREND_COLORS.length];
-            return {
-                label: kw,
-                data: monthKeys.map(m => {
-                    const found = (monthly[m] || []).find(k => k.keyword === kw);
-                    return found ? found.count : 0;
-                }),
-                borderColor: color,
-                backgroundColor: color + '22',
-                pointBackgroundColor: color,
-                borderWidth: 2,
-                pointRadius: 5,
-                tension: 0.3,
-                fill: false
-            };
-        });
+    if (!keywordList.length) return;
 
-        // 레전드
-        document.getElementById(legendId).innerHTML = keywordList.map((kw, i) => {
-            const color = TREND_COLORS[i % TREND_COLORS.length];
-            return `<span class="trend-legend-item">
-                <span class="trend-legend-line" style="background:${color};"></span>${kw}
-            </span>`;
-        }).join('');
+    // 해당 키워드들의 월별 등장 횟수 추적
+    const datasets = keywordList.map((kw, i) => {
+        const color = TREND_COLORS[i % TREND_COLORS.length];
+        return {
+            label: kw,
+            data: monthKeys.map(m => {
+                const found = (monthly[m] || []).find(k => k.keyword === kw);
+                return found ? found.count : 0;
+            }),
+            borderColor: color,
+            backgroundColor: color + '22',
+            pointBackgroundColor: color,
+            borderWidth: 2,
+            pointRadius: 5,
+            tension: 0.3,
+            fill: false
+        };
+    });
 
-        const existing = Chart.getChart(canvasId);
-        if (existing) existing.destroy();
+    // 레전드
+    document.getElementById(legendId).innerHTML = keywordList.map((kw, i) => {
+        const color = TREND_COLORS[i % TREND_COLORS.length];
+        return `<span class="trend-legend-item">
+            <span class="trend-legend-line" style="background:${color};"></span>${kw}
+        </span>`;
+    }).join('');
 
-        new Chart(document.getElementById(canvasId), {
-            type: 'line',
-            data: { labels: monthKeys, datasets },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                interaction: { mode: 'index', intersect: false },
-                plugins: {
-                    legend: { display: false },
-                    tooltip: {
-                        callbacks: {
-                            label: ctx => ` ${ctx.dataset.label}: ${ctx.raw}회`
-                        }
-                    }
-                },
-                scales: {
-                    x: {
-                        grid: { color: 'rgba(255,255,255,0.05)' },
-                        ticks: { color: '#666', font: { size: 11 } }
-                    },
-                    y: {
-                        beginAtZero: true,
-                        grid: { color: 'rgba(255,255,255,0.05)' },
-                        ticks: { color: '#666', font: { size: 11 }, stepSize: 1 },
-                        title: { display: true, text: '등장 횟수', color: '#555', font: { size: 10 } }
+    const existing = Chart.getChart(canvasId);
+    if (existing) existing.destroy();
+
+    new Chart(document.getElementById(canvasId), {
+        type: 'line',
+        data: { labels: monthKeys, datasets },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            interaction: { mode: 'index', intersect: false },
+            plugins: {
+                legend: { display: false },
+                tooltip: {
+                    callbacks: {
+                        label: ctx => ` ${ctx.dataset.label}: ${ctx.raw}회`
                     }
                 }
+            },
+            scales: {
+                x: {
+                    grid: { color: 'rgba(255,255,255,0.05)' },
+                    ticks: { color: '#666', font: { size: 11 } }
+                },
+                y: {
+                    beginAtZero: true,
+                    grid: { color: 'rgba(255,255,255,0.05)' },
+                    ticks: { color: '#666', font: { size: 11 }, stepSize: 1 },
+                    title: { display: true, text: '등장 횟수', color: '#555', font: { size: 10 } }
+                }
             }
-        });
-    }
-
+        }
+    });
+}
     // ── 경쟁사 탭 ────────────────────────────
     function renderCompetitor() {
         renderMetrics('competitorMetrics', COMPANIES, competitorData, 'company', C_COLORS);

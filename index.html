@@ -24,8 +24,8 @@
         .tab-panel { display: none; }
         .tab-panel.active { display: block; }
 
-        /* 키워드 카드 */
-        .keyword-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 18px; margin-bottom: 16px; }
+        /* 키워드 화살표 카드 */
+        .keyword-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 18px; margin-bottom: 14px; }
         .keyword-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
         .keyword-title { font-size: 11px; font-weight: 600; color: #aaa; }
         .keyword-nav { display: flex; align-items: center; gap: 10px; }
@@ -49,6 +49,14 @@
         .keyword-tag:nth-child(5) { border-color: #f7844f44; }
         .keyword-tag:nth-child(5) .keyword-word { color: #f7844f; }
         .keyword-empty { font-size: 12px; color: #555; padding: 4px 0; }
+
+        /* 키워드 트렌드 그래프 */
+        .trend-graph-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px 18px; margin-bottom: 14px; }
+        .trend-graph-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px; }
+        .trend-graph-title { font-size: 11px; font-weight: 600; color: #aaa; text-transform: uppercase; letter-spacing: 0.5px; }
+        .trend-legend { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 12px; }
+        .trend-legend-item { display: flex; align-items: center; gap: 5px; font-size: 11px; color: #aaa; }
+        .trend-legend-line { width: 18px; height: 3px; border-radius: 2px; flex-shrink: 0; }
 
         /* 메트릭 카드 */
         .metric-row { display: grid; gap: 10px; margin-bottom: 16px; }
@@ -77,7 +85,6 @@
         .f-btn { font-size: 11px; padding: 4px 10px; border-radius: 12px; border: 1px solid #2a2d3e; background: transparent; color: #888; cursor: pointer; transition: all 0.15s; white-space: nowrap; }
         .f-btn:hover { border-color: #4f8ef7; color: #fff; }
         .f-btn.on { background: #4f8ef7; border-color: #4f8ef7; color: #fff; }
-
         .news-item { display: flex; align-items: center; gap: 8px; padding: 10px 0; border-bottom: 1px solid #22253a; }
         .news-item:last-child { border-bottom: none; }
         .news-tag { font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 10px; white-space: nowrap; flex-shrink: 0; }
@@ -93,7 +100,6 @@
         .page-btn.on { background: #4f8ef7; border-color: #4f8ef7; color: #fff; }
         .page-btn:disabled { opacity: 0.3; cursor: not-allowed; }
         .page-info { font-size: 11px; color: #555; }
-
         .empty { text-align: center; padding: 40px; font-size: 13px; color: #555; }
 
         /* 모바일 */
@@ -103,29 +109,25 @@
             .update-time { display: none; }
             .tab-btn { padding: 10px 14px; font-size: 12px; }
             .container { padding: 12px 16px; }
-
             .keyword-header { flex-wrap: wrap; gap: 8px; }
             .keyword-tags { gap: 6px; }
             .keyword-tag { padding: 4px 10px; }
             .keyword-word { font-size: 12px; }
-
             .metric-row.cols-5 { grid-template-columns: repeat(2, 1fr); }
             .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
             .metric { padding: 12px 14px; }
             .metric-value { font-size: 20px; }
-
             .chart-row { grid-template-columns: 1fr; gap: 10px; }
             .chart-card { padding: 14px; }
-
             .news-item { flex-direction: column; align-items: flex-start; gap: 5px; padding: 12px 0; }
             .news-item-row1 { display: flex; align-items: center; gap: 6px; width: 100%; }
             .news-item-row2 { display: flex; align-items: flex-start; justify-content: space-between; width: 100%; gap: 8px; }
             .news-text { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
             .news-date { font-size: 10px; flex-shrink: 0; margin-top: 2px; }
-
             .news-header { flex-direction: column; align-items: flex-start; }
             .filter-bar { width: 100%; overflow-x: auto; flex-wrap: nowrap; padding-bottom: 4px; }
             .f-btn { flex-shrink: 0; }
+            .trend-legend { gap: 6px; }
         }
     </style>
 </head>
@@ -151,9 +153,11 @@
 
     <!-- 탭1: 경쟁사 -->
     <div id="panel-competitor" class="tab-panel active">
-        <div class="keyword-card" id="competitorKeywordCard">
+
+        <!-- 키워드 화살표 카드 -->
+        <div class="keyword-card">
             <div class="keyword-header">
-                <div class="keyword-title">🔥 월간 트렌드 키워드</div>
+                <div class="keyword-title">🔥 핵심 키워드</div>
                 <div class="keyword-nav">
                     <button class="keyword-nav-btn" id="cKeywordPrev" onclick="moveKeywordMonth('c', -1)">◀</button>
                     <div class="keyword-month-label" id="cKeywordMonth"></div>
@@ -162,6 +166,18 @@
             </div>
             <div class="keyword-tags" id="cKeywordTags"></div>
         </div>
+
+        <!-- 키워드 트렌드 그래프 -->
+        <div class="trend-graph-card">
+            <div class="trend-graph-header">
+                <div class="trend-graph-title">키워드 트렌드 (3개월)</div>
+            </div>
+            <div class="trend-legend" id="cTrendLegend"></div>
+            <div style="position:relative; height:220px;">
+                <canvas id="cTrendChart" role="img" aria-label="경쟁사 키워드 트렌드 그래프">경쟁사 키워드 3개월 트렌드</canvas>
+            </div>
+        </div>
+
         <div class="metric-row cols-5" id="competitorMetrics"></div>
         <div class="chart-row">
             <div class="chart-card">
@@ -190,9 +206,11 @@
 
     <!-- 탭2: 기술 트렌드 -->
     <div id="panel-trend" class="tab-panel">
-        <div class="keyword-card" id="trendKeywordCard">
+
+        <!-- 키워드 화살표 카드 -->
+        <div class="keyword-card">
             <div class="keyword-header">
-                <div class="keyword-title">🔥 월간 트랜드 키워드</div>
+                <div class="keyword-title">🔥 핵심 키워드</div>
                 <div class="keyword-nav">
                     <button class="keyword-nav-btn" id="tKeywordPrev" onclick="moveKeywordMonth('t', -1)">◀</button>
                     <div class="keyword-month-label" id="tKeywordMonth"></div>
@@ -201,6 +219,18 @@
             </div>
             <div class="keyword-tags" id="tKeywordTags"></div>
         </div>
+
+        <!-- 키워드 트렌드 그래프 -->
+        <div class="trend-graph-card">
+            <div class="trend-graph-header">
+                <div class="trend-graph-title">키워드 트렌드 (3개월)</div>
+            </div>
+            <div class="trend-legend" id="tTrendLegend"></div>
+            <div style="position:relative; height:220px;">
+                <canvas id="tTrendChart" role="img" aria-label="기술 트렌드 키워드 그래프">기술 트렌드 키워드 3개월 트렌드</canvas>
+            </div>
+        </div>
+
         <div class="metric-row cols-3" id="trendMetrics"></div>
         <div class="chart-row">
             <div class="chart-card">
@@ -231,15 +261,19 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
 <script>
-    const COMPANIES = ["시큐아이","안랩","넥스지","퓨쳐시스템","윈스"];
+    const COMPANIES = ["시큐아이","안랩","넥스지","퓨처시스템","윈스"];
     const TRENDS    = ["AI보안","PQC","제로트러스트"];
     const PAGE_SIZE = 30;
+
+    const TREND_COLORS = [
+        "#f7c94f", "#4fcff7", "#a14ff7", "#4ff77a", "#f7844f"
+    ];
 
     const C_COLORS = {
         "시큐아이":   { hex:"#e84393", bg:"#e8439322", text:"#e84393" },
         "안랩":       { hex:"#f7844f", bg:"#f7844f22", text:"#f7844f" },
         "넥스지":     { hex:"#4fcff7", bg:"#4fcff722", text:"#4fcff7" },
-        "퓨쳐시스템": { hex:"#a14ff7", bg:"#a14ff722", text:"#a14ff7" },
+        "퓨처시스템": { hex:"#a14ff7", bg:"#a14ff722", text:"#a14ff7" },
         "윈스":       { hex:"#4ff77a", bg:"#4ff77a22", text:"#4ff77a" }
     };
     const T_COLORS = {
@@ -270,7 +304,6 @@
             cMonthlyKeywords = data.competitor_monthly_keywords || {};
             tMonthlyKeywords = data.trend_monthly_keywords || {};
 
-            // 월 목록 최신순 정렬
             cMonthKeys = Object.keys(cMonthlyKeywords).sort().reverse();
             tMonthKeys = Object.keys(tMonthlyKeywords).sort().reverse();
 
@@ -279,6 +312,8 @@
 
             renderKeywordCard('c');
             renderKeywordCard('t');
+            renderTrendGraph('c');
+            renderTrendGraph('t');
             renderCompetitor();
             renderTrend();
         })
@@ -295,7 +330,7 @@
         btn.classList.add('active');
     }
 
-    // ── 키워드 카드 렌더 ─────────────────────
+    // ── 키워드 화살표 카드 ────────────────────
     function renderKeywordCard(prefix) {
         const monthKeys  = prefix === 'c' ? cMonthKeys : tMonthKeys;
         const monthIndex = prefix === 'c' ? cMonthIndex : tMonthIndex;
@@ -303,14 +338,11 @@
 
         if (!monthKeys.length) return;
 
-        const currentMonth    = monthKeys[monthIndex];
-        const keywords        = monthly[currentMonth] || [];
-        const [year, month]   = currentMonth.split('-');
-        const monthLabel      = `${year}년 ${parseInt(month)}월`;
+        const currentMonth  = monthKeys[monthIndex];
+        const keywords      = monthly[currentMonth] || [];
+        const [year, month] = currentMonth.split('-');
 
-        document.getElementById(`${prefix}KeywordMonth`).textContent = monthLabel;
-
-        // 화살표 버튼 활성/비활성
+        document.getElementById(`${prefix}KeywordMonth`).textContent = `${year}년 ${parseInt(month)}월`;
         document.getElementById(`${prefix}KeywordPrev`).disabled = monthIndex >= monthKeys.length - 1;
         document.getElementById(`${prefix}KeywordNext`).disabled = monthIndex <= 0;
 
@@ -319,7 +351,6 @@
             tagsEl.innerHTML = '<span class="keyword-empty">이 달은 데이터가 없습니다.</span>';
             return;
         }
-
         tagsEl.innerHTML = keywords.map((k, i) => `
             <div class="keyword-tag">
                 <span class="keyword-rank">${i + 1}</span>
@@ -336,6 +367,83 @@
             tMonthIndex = Math.max(0, Math.min(tMonthKeys.length - 1, tMonthIndex + dir * -1));
         }
         renderKeywordCard(prefix);
+    }
+
+    // ── 키워드 트렌드 그래프 ──────────────────
+    function renderTrendGraph(prefix) {
+        const monthly  = prefix === 'c' ? cMonthlyKeywords : tMonthlyKeywords;
+        const monthKeys = Object.keys(monthly).sort();
+        const canvasId  = prefix === 'c' ? 'cTrendChart' : 'tTrendChart';
+        const legendId  = prefix === 'c' ? 'cTrendLegend' : 'tTrendLegend';
+
+        if (!monthKeys.length) return;
+
+        // 모든 월에서 키워드 목록 수집 (최대 5개)
+        const allKeywords = new Set();
+        monthKeys.forEach(m => {
+            (monthly[m] || []).forEach(k => allKeywords.add(k.keyword));
+        });
+        const keywordList = [...allKeywords].slice(0, 5);
+
+        // 데이터셋 구성
+        const datasets = keywordList.map((kw, i) => {
+            const color = TREND_COLORS[i % TREND_COLORS.length];
+            return {
+                label: kw,
+                data: monthKeys.map(m => {
+                    const found = (monthly[m] || []).find(k => k.keyword === kw);
+                    return found ? found.count : 0;
+                }),
+                borderColor: color,
+                backgroundColor: color + '22',
+                pointBackgroundColor: color,
+                borderWidth: 2,
+                pointRadius: 5,
+                tension: 0.3,
+                fill: false
+            };
+        });
+
+        // 레전드
+        document.getElementById(legendId).innerHTML = keywordList.map((kw, i) => {
+            const color = TREND_COLORS[i % TREND_COLORS.length];
+            return `<span class="trend-legend-item">
+                <span class="trend-legend-line" style="background:${color};"></span>${kw}
+            </span>`;
+        }).join('');
+
+        const existing = Chart.getChart(canvasId);
+        if (existing) existing.destroy();
+
+        new Chart(document.getElementById(canvasId), {
+            type: 'line',
+            data: { labels: monthKeys, datasets },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                interaction: { mode: 'index', intersect: false },
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        callbacks: {
+                            label: ctx => ` ${ctx.dataset.label}: ${ctx.raw}회`
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        grid: { color: 'rgba(255,255,255,0.05)' },
+                        ticks: { color: '#666', font: { size: 11 } }
+                    },
+                    y: {
+                        beginAtZero: true,
+                        grid: { color: 'rgba(255,255,255,0.05)' },
+                        ticks: { color: '#666', font: { size: 11 }, stepSize: 1 },
+                        title: { display: true, text: '등장 횟수', color: '#555', font: { size: 10 } }
+                    }
+                }
+            }
+        });
     }
 
     // ── 경쟁사 탭 ────────────────────────────
@@ -505,9 +613,9 @@
         const pageData   = data.slice(start, start + PAGE_SIZE);
 
         el.innerHTML = pageData.map(item => {
-            const key  = item[field];
-            const col  = colors[key] || { hex:'#888', bg:'#88888822', text:'#888' };
-            const src  = SOURCE_MAP[item.source] || { label: item.source || "", color:"#888" };
+            const key   = item[field];
+            const col   = colors[key] || { hex:'#888', bg:'#88888822', text:'#888' };
+            const src   = SOURCE_MAP[item.source] || { label: item.source || "", color:"#888" };
             const badge = src.label
                 ? `<span class="source-badge" style="background:${src.color}22; color:${src.color}; border:1px solid ${src.color}44;">${src.label}</span>`
                 : "";

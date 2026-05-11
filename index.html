@@ -24,18 +24,7 @@
         .tab-panel { display: none; }
         .tab-panel.active { display: block; }
 
-        /* 메트릭 카드 */
-        .metric-row { display: grid; gap: 10px; margin-bottom: 14px; }
-        .metric-row.cols-5 { grid-template-columns: repeat(5, 1fr); }
-        .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
-        .metric { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 16px; transition: border-color 0.2s; }
-        .metric:hover { border-color: #4f8ef7; }
-        .metric-label { font-size: 11px; color: #888; margin-bottom: 6px; display: flex; align-items: center; gap: 5px; }
-        .dot { width: 7px; height: 7px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
-        .metric-value { font-size: 22px; font-weight: 700; color: #fff; }
-        .metric-sub { font-size: 10px; color: #4fcff7; margin-top: 3px; }
-
-        /* 키워드 화살표 카드 */
+        /* 키워드 카드 */
         .keyword-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 18px; margin-bottom: 14px; }
         .keyword-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
         .keyword-title { font-size: 11px; font-weight: 600; color: #aaa; }
@@ -61,27 +50,30 @@
         .keyword-tag:nth-child(5) .keyword-word { color: #f7844f; }
         .keyword-empty { font-size: 12px; color: #555; }
 
-        /* 월별 키워드 비교 카드 */
-        .monthly-keyword-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px 18px; margin-bottom: 14px; }
-        .monthly-keyword-title { font-size: 11px; font-weight: 600; color: #aaa; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 14px; }
-        .monthly-keyword-grid { display: grid; gap: 12px; }
-        .monthly-col { background: #0f1117; border: 1px solid #2a2d3e; border-radius: 8px; padding: 12px 14px; }
-        .monthly-col-header { font-size: 11px; font-weight: 600; color: #4f8ef7; margin-bottom: 10px; }
-        .monthly-kw-item { display: flex; align-items: center; gap: 8px; padding: 5px 0; border-bottom: 1px solid #1a1d2e; }
-        .monthly-kw-item:last-child { border-bottom: none; }
-        .monthly-kw-rank { font-size: 10px; color: #444; font-weight: 700; width: 14px; flex-shrink: 0; }
-        .monthly-kw-word { font-size: 12px; color: #ccc; flex: 1; }
-        .monthly-kw-bar-wrap { width: 60px; height: 4px; background: #2a2d3e; border-radius: 2px; flex-shrink: 0; }
-        .monthly-kw-bar { height: 4px; border-radius: 2px; }
-        .monthly-kw-count { font-size: 10px; color: #555; width: 28px; text-align: right; flex-shrink: 0; }
+        /* 차트 + 메트릭 레이아웃 */
+        .chart-metric-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 14px; }
+        .chart-metric-col { display: flex; flex-direction: column; gap: 12px; }
 
         /* 차트 */
-        .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 14px; }
         .chart-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
         .chart-title { font-size: 11px; font-weight: 600; color: #aaa; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px; }
         .legend-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
         .legend-item { display: flex; align-items: center; gap: 4px; font-size: 11px; color: #aaa; }
         .legend-sq { width: 8px; height: 8px; border-radius: 2px; flex-shrink: 0; }
+
+        /* 메트릭 카드 */
+        .metric-grid { display: grid; gap: 10px; }
+        .metric-grid.cols-5 { grid-template-columns: repeat(5, 1fr); }
+        .metric-grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
+        .metric { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 16px; transition: border-color 0.2s; }
+        .metric:hover { border-color: #4f8ef7; }
+        .metric-label { font-size: 11px; color: #888; margin-bottom: 6px; display: flex; align-items: center; gap: 5px; }
+        .dot { width: 7px; height: 7px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+        .metric-value { font-size: 22px; font-weight: 700; color: #fff; }
+        .metric-sub { font-size: 10px; color: #4fcff7; margin-top: 3px; }
+
+        /* 막대 차트 카드 */
+        .bar-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
 
         /* 뉴스 */
         .news-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
@@ -115,16 +107,15 @@
             .update-time { display: none; }
             .tab-btn { padding: 10px 14px; font-size: 12px; }
             .container { padding: 12px 16px; }
-            .metric-row.cols-5 { grid-template-columns: repeat(2, 1fr); }
-            .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
-            .metric { padding: 12px 14px; }
-            .metric-value { font-size: 20px; }
-            .chart-row { grid-template-columns: 1fr; gap: 10px; }
-            .chart-card { padding: 14px; }
             .keyword-header { flex-wrap: wrap; gap: 8px; }
             .keyword-tags { gap: 6px; }
             .keyword-tag { padding: 4px 10px; }
             .keyword-word { font-size: 12px; }
+            .chart-metric-row { grid-template-columns: 1fr; }
+            .metric-grid.cols-5 { grid-template-columns: repeat(2, 1fr); }
+            .metric-grid.cols-3 { grid-template-columns: repeat(3, 1fr); }
+            .metric { padding: 12px 14px; }
+            .metric-value { font-size: 20px; }
             .news-item { flex-direction: column; align-items: flex-start; gap: 5px; padding: 12px 0; }
             .news-item-row1 { display: flex; align-items: center; gap: 6px; width: 100%; }
             .news-item-row2 { display: flex; align-items: flex-start; justify-content: space-between; width: 100%; gap: 8px; }
@@ -133,7 +124,6 @@
             .news-header { flex-direction: column; align-items: flex-start; }
             .filter-bar { width: 100%; overflow-x: auto; flex-wrap: nowrap; padding-bottom: 4px; }
             .f-btn { flex-shrink: 0; }
-            .monthly-keyword-grid { grid-template-columns: 1fr !important; }
         }
     </style>
 </head>
@@ -160,10 +150,7 @@
     <!-- 탭1: 경쟁사 -->
     <div id="panel-competitor" class="tab-panel active">
 
-        <!-- 1. 메트릭 카드 (맨 위) -->
-        <div class="metric-row cols-5" id="competitorMetrics"></div>
-
-        <!-- 2. 핵심 키워드 화살표 카드 -->
+        <!-- 핵심 키워드 -->
         <div class="keyword-card">
             <div class="keyword-header">
                 <div class="keyword-title">🔥 핵심 키워드</div>
@@ -176,30 +163,29 @@
             <div class="keyword-tags" id="cKeywordTags"></div>
         </div>
 
-        <!-- 3. 월별 키워드 비교 -->
-        <div class="monthly-keyword-card">
-            <div class="monthly-keyword-title">📅 월별 키워드 Top 5</div>
-            <div class="monthly-keyword-grid" id="cMonthlyGrid"></div>
-        </div>
-
-        <!-- 4. 차트 -->
-        <div class="chart-row">
-            <div class="chart-card">
-                <div class="chart-title">회사별 기사 비중</div>
-                <div style="position:relative; height:180px;">
-                    <canvas id="donutChart" role="img" aria-label="회사별 기사 비중">회사별 기사 비중</canvas>
+        <!-- 도넛 + 메트릭 / 막대 차트 -->
+        <div class="chart-metric-row">
+            <!-- 왼쪽: 도넛 위, 메트릭 아래 -->
+            <div class="chart-metric-col">
+                <div class="chart-card">
+                    <div class="chart-title">회사별 기사 비중</div>
+                    <div style="position:relative; height:200px;">
+                        <canvas id="donutChart" role="img" aria-label="회사별 기사 비중">회사별 기사 비중</canvas>
+                    </div>
+                    <div class="legend-row" id="donutLegend"></div>
                 </div>
-                <div class="legend-row" id="donutLegend"></div>
+                <div class="metric-grid cols-5" id="competitorMetrics"></div>
             </div>
-            <div class="chart-card">
+            <!-- 오른쪽: 막대 차트 -->
+            <div class="bar-card">
                 <div class="chart-title">회사별 수집 건수</div>
-                <div style="position:relative; height:180px;">
+                <div style="position:relative; height:100%;">
                     <canvas id="barChart" role="img" aria-label="회사별 수집 건수">회사별 수집 건수</canvas>
                 </div>
             </div>
         </div>
 
-        <!-- 5. 뉴스 목록 -->
+        <!-- 뉴스 -->
         <div class="news-card">
             <div class="news-header">
                 <div class="news-card-title">최신 기사</div>
@@ -213,10 +199,7 @@
     <!-- 탭2: 기술 트렌드 -->
     <div id="panel-trend" class="tab-panel">
 
-        <!-- 1. 메트릭 카드 (맨 위) -->
-        <div class="metric-row cols-3" id="trendMetrics"></div>
-
-        <!-- 2. 핵심 키워드 화살표 카드 -->
+        <!-- 핵심 키워드 -->
         <div class="keyword-card">
             <div class="keyword-header">
                 <div class="keyword-title">🔥 핵심 키워드</div>
@@ -229,30 +212,27 @@
             <div class="keyword-tags" id="tKeywordTags"></div>
         </div>
 
-        <!-- 3. 월별 키워드 비교 -->
-        <div class="monthly-keyword-card">
-            <div class="monthly-keyword-title">📅 월별 키워드 Top 5</div>
-            <div class="monthly-keyword-grid" id="tMonthlyGrid"></div>
-        </div>
-
-        <!-- 4. 차트 -->
-        <div class="chart-row">
-            <div class="chart-card">
-                <div class="chart-title">키워드별 기사 비중</div>
-                <div style="position:relative; height:180px;">
-                    <canvas id="trendDonut" role="img" aria-label="키워드별 기사 비중">키워드별 기사 비중</canvas>
+        <!-- 도넛 + 메트릭 / 막대 차트 -->
+        <div class="chart-metric-row">
+            <div class="chart-metric-col">
+                <div class="chart-card">
+                    <div class="chart-title">키워드별 기사 비중</div>
+                    <div style="position:relative; height:200px;">
+                        <canvas id="trendDonut" role="img" aria-label="키워드별 기사 비중">키워드별 기사 비중</canvas>
+                    </div>
+                    <div class="legend-row" id="trendLegend"></div>
                 </div>
-                <div class="legend-row" id="trendLegend"></div>
+                <div class="metric-grid cols-3" id="trendMetrics"></div>
             </div>
-            <div class="chart-card">
+            <div class="bar-card">
                 <div class="chart-title">키워드별 수집 건수</div>
-                <div style="position:relative; height:180px;">
+                <div style="position:relative; height:100%;">
                     <canvas id="trendBar" role="img" aria-label="키워드별 수집 건수">키워드별 수집 건수</canvas>
                 </div>
             </div>
         </div>
 
-        <!-- 5. 뉴스 목록 -->
+        <!-- 뉴스 -->
         <div class="news-card">
             <div class="news-header">
                 <div class="news-card-title">최신 기사</div>
@@ -267,7 +247,7 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
 <script>
-    const COMPANIES = ["시큐아이","안랩","넥스지","퓨처시스템","윈스"];
+    const COMPANIES = ["시큐아이","안랩","넥스지","퓨쳐시스템","윈스"];
     const TRENDS    = ["AI보안","PQC","제로트러스트"];
     const PAGE_SIZE = 30;
 
@@ -275,7 +255,7 @@
         "시큐아이":   { hex:"#e84393", bg:"#e8439322", text:"#e84393" },
         "안랩":       { hex:"#f7844f", bg:"#f7844f22", text:"#f7844f" },
         "넥스지":     { hex:"#4fcff7", bg:"#4fcff722", text:"#4fcff7" },
-        "퓨처시스템": { hex:"#a14ff7", bg:"#a14ff722", text:"#a14ff7" },
+        "퓨쳐시스템": { hex:"#a14ff7", bg:"#a14ff722", text:"#a14ff7" },
         "윈스":       { hex:"#4ff77a", bg:"#4ff77a22", text:"#4ff77a" }
     };
     const T_COLORS = {
@@ -288,7 +268,6 @@
         "구글뉴스":   { label:"뉴스",   color:"#4fcff7" },
         "네이버뉴스": { label:"뉴스",   color:"#4fcff7" },
     };
-    const KW_COLORS = ["#f7c94f","#4fcff7","#a14ff7","#4ff77a","#f7844f"];
 
     let competitorData = [], trendData = [];
     let cMonthlyKeywords = {}, tMonthlyKeywords = {};
@@ -315,8 +294,6 @@
 
             renderKeywordCard('c');
             renderKeywordCard('t');
-            renderMonthlyKeywords('c');
-            renderMonthlyKeywords('t');
             renderCompetitor();
             renderTrend();
         })
@@ -372,47 +349,9 @@
         renderKeywordCard(prefix);
     }
 
-    // ── 월별 키워드 비교 카드 ─────────────────
-    function renderMonthlyKeywords(prefix) {
-        const monthly  = prefix === 'c' ? cMonthlyKeywords : tMonthlyKeywords;
-        const monthKeys = Object.keys(monthly).sort().reverse();
-        const gridEl   = document.getElementById(`${prefix}MonthlyGrid`);
-
-        if (!monthKeys.length) { gridEl.innerHTML = ''; return; }
-
-        // 최근 3개월만
-        const displayMonths = monthKeys.slice(0, 3);
-        gridEl.style.gridTemplateColumns = `repeat(${displayMonths.length}, 1fr)`;
-
-        gridEl.innerHTML = displayMonths.map(month => {
-            const keywords = monthly[month] || [];
-            const [year, m] = month.split('-');
-            const monthLabel = `${year}년 ${parseInt(m)}월`;
-            const maxCount = keywords.length ? keywords[0].count : 1;
-
-            const items = keywords.slice(0, 5).map((k, i) => {
-                const barWidth = Math.round((k.count / maxCount) * 100);
-                const color    = KW_COLORS[i];
-                return `<div class="monthly-kw-item">
-                    <span class="monthly-kw-rank">${i + 1}</span>
-                    <span class="monthly-kw-word">${k.keyword}</span>
-                    <div class="monthly-kw-bar-wrap">
-                        <div class="monthly-kw-bar" style="width:${barWidth}%; background:${color};"></div>
-                    </div>
-                    <span class="monthly-kw-count">${k.count}회</span>
-                </div>`;
-            }).join('');
-
-            return `<div class="monthly-col">
-                <div class="monthly-col-header">${monthLabel}</div>
-                ${items || '<div style="font-size:12px;color:#555;">데이터 없음</div>'}
-            </div>`;
-        }).join('');
-    }
-
     // ── 경쟁사 탭 ────────────────────────────
     function renderCompetitor() {
-        renderMetrics('competitorMetrics', COMPANIES, competitorData, 'company', C_COLORS);
+        renderMetrics('competitorMetrics', COMPANIES, competitorData, 'company', C_COLORS, 'cols-5');
         renderDonut('donutChart', 'donutLegend', COMPANIES, competitorData, 'company', C_COLORS);
         renderBar('barChart', COMPANIES, competitorData, 'company', C_COLORS);
         renderFilterBtns('competitorFilter', ["전체", ...COMPANIES], 'c');
@@ -421,7 +360,7 @@
 
     // ── 트렌드 탭 ────────────────────────────
     function renderTrend() {
-        renderMetrics('trendMetrics', TRENDS, trendData, 'category', T_COLORS);
+        renderMetrics('trendMetrics', TRENDS, trendData, 'category', T_COLORS, 'cols-3');
         renderDonut('trendDonut', 'trendLegend', TRENDS, trendData, 'category', T_COLORS);
         renderBar('trendBar', TRENDS, trendData, 'category', T_COLORS);
         renderFilterBtns('trendFilter', ["전체", ...TRENDS], 't');
@@ -438,13 +377,16 @@
     }
 
     // ── 메트릭 카드 ──────────────────────────
-    function renderMetrics(elId, keys, data, field, colors) {
+    function renderMetrics(elId, keys, data, field, colors, colClass) {
+        const el = document.getElementById(elId);
+        el.className = `metric-grid ${colClass}`;
+
         const today = new Date().toLocaleDateString('ko-KR', {
             timeZone: 'Asia/Seoul',
             year: 'numeric', month: '2-digit', day: '2-digit'
         }).replace(/\. /g, '-').replace('.', '').trim();
 
-        document.getElementById(elId).innerHTML = keys.map(k => {
+        el.innerHTML = keys.map(k => {
             const total    = data.filter(d => d[field] === k).length;
             const todayCnt = data.filter(d => d[field] === k && (d.date||'').startsWith(today)).length;
             const col = colors[k];

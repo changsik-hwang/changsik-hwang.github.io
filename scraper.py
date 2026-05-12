@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
+import zipfile
+import io
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from collections import Counter
@@ -36,7 +38,7 @@ BLOGS = {
     "넥스지": "kxnexg",
 }
 
-# DART 회사 코드
+# DART 회사명 검색어
 DART_COMPANY_NAMES = {
     "안랩":       "안랩",
     "시큐아이":   "시큐아이",
@@ -45,13 +47,13 @@ DART_COMPANY_NAMES = {
     "윈스":       "윈스테크넷",
 }
 
-# KIPRIS 출원인명 (특허청 등록명 기준)
+# KIPRIS 출원인명
 KIPRIS_COMPANIES = {
-    "안랩":       "주식회사 안랩",
-    "시큐아이":   "주식회사 시큐아이",
-    "넥스지":     "주식회사 케이엑스넥스지",
-    "퓨쳐시스템": "주식회사 퓨쳐시스템",
-    "윈스":       "주식회사 윈스테크넷",
+    "안랩":       "주식회사안랩",
+    "시큐아이":   "주식회사시큐아이",
+    "넥스지":     "주식회사넥스지",
+    "퓨쳐시스템": "주식회사퓨쳐시스템",
+    "윈스":       "주식회사윈스",
 }
 
 STOPWORDS = {
@@ -192,36 +194,23 @@ def fetch_naver_blog(blog_id):
 # =============================================
 
 def get_dart_corp_code(company_name):
-    """회사명으로 DART 고유번호 조회"""
+    """DART 전체 회사 목록 ZIP에서 회사 코드 조회"""
     try:
-        url = "https://opendart.fss.or.kr/api/company.json"
-        params = {
-            "crtfc_key": DART_API_KEY,
-            "corp_name":  company_name,
-        }
-        response = requests.get(url, params=params, timeout=15)
-        data     = response.json()
+        url      = f"https://opendart.fss.or.kr/api/corpCode.xml?crtfc_key={DART_API_KEY}"
+        response = requests.get(url, timeout=30)
+        zf       = zipfile.ZipFile(io.BytesIO(response.content))
+        xml      = zf.read("CORPCODE.xml")
+        soup     = BeautifulSoup(xml, "xml")
 
-        if data.get("status") != "000":
-            print(f"  [DART코드오류] {company_name}: {data.get('message')}")
-            return None
+        for item in soup.find_all("list"):
+            name = item.find("corp_name")
+            if name and company_name in name.text:
+                code = item.find("corp_code")
+                print(f"  [DART코드] {company_name} → {name.text}: {code.text}")
+                return code.text
 
-        items = data.get("list", [])
-        if not items:
-            print(f"  [DART코드없음] {company_name}")
-            return None
-
-        # 정확히 일치하는 회사명 우선
-        for item in items:
-            if item.get("corp_name") == company_name:
-                code = item.get("corp_code")
-                print(f"  [DART코드] {company_name}: {code}")
-                return code
-
-        # 없으면 첫 번째 결과 사용
-        code = items[0].get("corp_code")
-        print(f"  [DART코드] {company_name} (첫번째 결과): {code} - {items[0].get('corp_name')}")
-        return code
+        print(f"  [DART코드없음] {company_name}")
+        return None
 
     except Exception as e:
         print(f"  [오류] DART 코드 조회 {company_name}: {e}")
@@ -229,13 +218,12 @@ def get_dart_corp_code(company_name):
 
 
 def fetch_dart_disclosure(company, company_name):
-    """DART OpenAPI로 공시 목록 수집 - 회사명으로 코드 자동 조회"""
+    """DART OpenAPI로 공시 목록 수집"""
     results = []
     if not DART_API_KEY:
         print("  [경고] DART_API_KEY 없음")
         return results
 
-    # 회사 코드 자동 조회
     corp_code = get_dart_corp_code(company_name)
     if not corp_code:
         return results
@@ -301,22 +289,19 @@ def fetch_kipris_patent(company, applicant):
             "drawingYn":  "N",
             "descSort":   "true",
         }
-        headers = {"Accept": "application/xml"}
+        headers  = {"Accept": "application/xml"}
         response = requests.get(url, params=params, headers=headers, timeout=15)
 
         print(f"    KIPRIS 응답코드: {response.status_code}")
+        print(f"    KIPRIS 응답내용(앞200자): {response.text[:200]}")
 
         soup  = BeautifulSoup(response.content, "xml")
-
-        # 에러 체크
-        error = soup.find("returnCode")
-        if error and error.text != "00":
-            msg = soup.find("returnMessage")
-            print(f"  [KIPRIS오류] {company}: {msg.text if msg else '알수없음'}")
-            return results
-
         items = soup.find_all("item")
         print(f"    KIPRIS 아이템 수: {len(items)}")
+
+        if not items:
+            all_tags = [tag.name for tag in soup.find_all()]
+            print(f"    KIPRIS 태그목록: {list(set(all_tags))[:20]}")
 
         for item in items:
             title    = item.find("inventionTitle")

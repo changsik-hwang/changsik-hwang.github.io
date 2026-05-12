@@ -12,7 +12,10 @@ from kiwipiepy import Kiwi
 # =============================================
 
 KST       = timezone(timedelta(hours=9))
-KEEP_DAYS = 180  # 6개월 보관
+KEEP_DAYS = 180
+
+DART_API_KEY   = os.environ.get("DART_API_KEY", "")
+KIPRIS_API_KEY = os.environ.get("KIPRIS_API_KEY", "")
 
 COMPANY_KEYWORDS = {
     "시큐아이":   ["시큐아이", "secui", "SECUI"],
@@ -29,8 +32,26 @@ TREND_KEYWORDS = {
 }
 
 BLOGS = {
-    "안랩": "ahnlab_official",
+    "안랩":  "ahnlab_official",
     "넥스지": "kxnexg",
+}
+
+# DART 회사 코드
+DART_COMPANIES = {
+    "안랩":       "00113994",
+    "시큐아이":   "00131177",
+    "넥스지":     "00661728",
+    "퓨쳐시스템": "00104372",
+    "윈스":       "00296355",
+}
+
+# KIPRIS 출원인명 (특허청 등록명 기준)
+KIPRIS_COMPANIES = {
+    "안랩":       "주식회사 안랩",
+    "시큐아이":   "주식회사 시큐아이",
+    "넥스지":     "주식회사 케이엑스넥스지",
+    "퓨쳐시스템": "주식회사 퓨쳐시스템",
+    "윈스":       "주식회사 윈스테크넷",
 }
 
 STOPWORDS = {
@@ -45,11 +66,11 @@ STOPWORDS = {
     "대표", "부문", "사장", "본부", "센터", "부장", "이사", "전무", "대리",
     "하여", "되어", "위한", "통한", "대해", "에서", "으로", "까지", "통합",
     "가장", "더욱", "새로운", "다양한", "국내", "글로벌", "전문", "공략",
-    "제품", "업데이트", "버전", "기능", "환경", "인프라", "관리", "공격",
-    "공격", "위협", "악성", "탐지", "차단", "방어", "대응", "분석", "사이버",
-    "전환", "양자", "고도화", "공략", "엔드", "제로", "트러스트", "인터넷",
+    "제품", "업데이트", "버전", "기능", "환경", "인프라", "관리",
+    "공격", "위협", "악성", "탐지", "차단", "방어", "대응", "분석",
+    "전환", "고도화", "엔드", "제로", "트러스트", "인터넷",
     "내성", "암호", "분기", "전년", "참가", "참여", "중심", "통신", "영업",
-    "이익", "컴퍼니", "전략", "시대", "투자", "상식", "정보", "포인트", "엔드", 
+    "이익", "컴퍼니", "전략", "시대", "투자", "상식", "정보", "포인트",
 }
 
 # =============================================
@@ -83,25 +104,26 @@ def date_sort_key(item):
 
 def load_existing_data():
     if not os.path.exists("data.json"):
-        return [], [], {}, {}
+        return [], [], [], {}, {}
     try:
         with open("data.json", "r", encoding="utf-8") as f:
             data = json.load(f)
         return (
             data.get("competitor", []),
             data.get("trend", []),
+            data.get("disclosure", []),
             data.get("competitor_monthly_keywords", {}),
             data.get("trend_monthly_keywords", {}),
         )
     except Exception as e:
         print(f"  [오류] 기존 데이터 로드 실패: {e}")
-        return [], [], {}, {}
+        return [], [], [], {}, {}
 
 def filter_old_data(data, cutoff_str):
     return [d for d in data if d.get("date", "") >= cutoff_str]
 
 # =============================================
-# 수집 함수
+# 구글 뉴스 수집
 # =============================================
 
 def fetch_google_news(keyword):
@@ -126,16 +148,17 @@ def fetch_google_news(keyword):
                 continue
 
             results.append({
-                "title":       title,
-                "link":        link,
-                "date":        date,
-                "description": ""
+                "title": title, "link": link,
+                "date": date, "description": ""
             })
 
     except Exception as e:
         print(f"  [오류] '{keyword}': {e}")
     return results
 
+# =============================================
+# 네이버 블로그 수집
+# =============================================
 
 def fetch_naver_blog(blog_id):
     results = []
@@ -156,16 +179,125 @@ def fetch_naver_blog(blog_id):
                 continue
 
             results.append({
-                "title":       title,
-                "link":        link,
-                "date":        date,
-                "description": ""
+                "title": title, "link": link,
+                "date": date, "description": ""
             })
 
     except Exception as e:
         print(f"  [오류] 블로그 {blog_id}: {e}")
     return results
 
+# =============================================
+# DART 공시 수집
+# =============================================
+
+def fetch_dart_disclosure(company, corp_code):
+    results = []
+    if not DART_API_KEY:
+        print("  [경고] DART_API_KEY 없음")
+        return results
+    try:
+        url = "https://opendart.fss.or.kr/api/list.json"
+        params = {
+            "crtfc_key": DART_API_KEY,
+            "corp_code":  corp_code,
+            "bgn_de":     (datetime.now(KST) - timedelta(days=90)).strftime("%Y%m%d"),
+            "end_de":     datetime.now(KST).strftime("%Y%m%d"),
+            "page_count": 20,
+        }
+        response = requests.get(url, params=params, timeout=15)
+        data     = response.json()
+
+        if data.get("status") != "000":
+            print(f"  [DART오류] {company}: {data.get('message')}")
+            return results
+
+        for item in data.get("list", []):
+            title    = item.get("report_nm", "")
+            date     = item.get("rcept_dt", "")
+            rcept_no = item.get("rcept_no", "")
+            link     = f"https://dart.fss.or.kr/dsaf001/main.do?rcpNo={rcept_no}"
+
+            if date:
+                date = f"{date[:4]}-{date[4:6]}-{date[6:8]}"
+
+            results.append({
+                "company":  company,
+                "title":    title,
+                "link":     link,
+                "date":     date,
+                "source":   "DART공시",
+                "tab":      "disclosure",
+                "is_today": date == datetime.now(KST).strftime("%Y-%m-%d")
+            })
+
+        print(f"    → {company} DART: {len(results)}건")
+
+    except Exception as e:
+        print(f"  [오류] DART {company}: {e}")
+    return results
+
+# =============================================
+# KIPRIS 특허 수집
+# =============================================
+
+def fetch_kipris_patent(company, applicant):
+    results = []
+    if not KIPRIS_API_KEY:
+        print("  [경고] KIPRIS_API_KEY 없음")
+        return results
+    try:
+        url = "http://plus.kipris.or.kr/kipo-api/kipi/patUtiModInfoSearchSevice/getAdvancedSearch"
+        params = {
+            "applicant":  applicant,
+            "docsStart":  1,
+            "docsCount":  20,
+            "ServiceKey": KIPRIS_API_KEY,
+            "drawingYn":  "N",
+        }
+        response = requests.get(url, params=params, timeout=15)
+        soup     = BeautifulSoup(response.content, "xml")
+        items    = soup.find_all("item")
+
+        for item in items:
+            title    = item.find("inventionTitle")
+            app_no   = item.find("applicationNumber")
+            app_date = item.find("applicationDate")
+            pub_date = item.find("openDate") or item.find("registerDate")
+
+            title_text  = title.text.strip() if title else ""
+            app_no_text = app_no.text.strip() if app_no else ""
+            date_text   = ""
+
+            if pub_date and pub_date.text:
+                date_text = pub_date.text.strip().replace(".", "-")[:10]
+            elif app_date and app_date.text:
+                date_text = app_date.text.strip().replace(".", "-")[:10]
+
+            link = f"https://plus.kipris.or.kr/portal/kipo/patUtiModInfoService/patUtiModInfo.do?applno={app_no_text}"
+
+            if not title_text:
+                continue
+
+            results.append({
+                "company":  company,
+                "title":    title_text,
+                "link":     link,
+                "date":     date_text,
+                "source":   "KIPRIS특허",
+                "tab":      "disclosure",
+                "is_today": False
+            })
+
+        print(f"    → {company} KIPRIS: {len(results)}건")
+
+    except Exception as e:
+        print(f"  [오류] KIPRIS {company}: {e}")
+    return results
+
+# =============================================
+# 중복 제거
+# =============================================
 
 def deduplicate(data):
     seen_links  = set()
@@ -195,21 +327,14 @@ def deduplicate(data):
 # =============================================
 
 def extract_monthly_keywords(data, now_kst, top_n=5):
-    """
-    최근 3개월치를 월별로 따로 키워드 추출
-    반환: { "2026-05": [...], "2026-04": [...], "2026-03": [...] }
-    """
     try:
-        kiwi = Kiwi()
+        kiwi    = Kiwi()
         monthly = {}
 
-        for i in range(3):  # 이번 달, 전달, 전전달
-            # 해당 월 계산
+        for i in range(3):
             target_dt    = now_kst - timedelta(days=30 * i)
             target_month = target_dt.strftime("%Y-%m")
-
-            # 해당 월 기사만 필터링
-            month_data = [d for d in data if d.get("date", "").startswith(target_month)]
+            month_data   = [d for d in data if d.get("date", "").startswith(target_month)]
             print(f"  {target_month}: {len(month_data)}건 분석 중...")
 
             if not month_data:
@@ -253,11 +378,12 @@ def main():
     print(f"  보관 기준: {cutoff_str} 이후 데이터만 유지")
     print("=" * 45)
 
-    old_competitor, old_trend, _, _ = load_existing_data()
+    old_competitor, old_trend, old_disclosure, _, _ = load_existing_data()
     old_competitor = filter_old_data(old_competitor, cutoff_str)
     old_trend      = filter_old_data(old_trend, cutoff_str)
+    old_disclosure = filter_old_data(old_disclosure, cutoff_str)
 
-    # ── 탭1: 경쟁사 ──────────────────────────
+    # ── 탭1: 경쟁사 뉴스 ─────────────────────
     print("\n[탭1: 경쟁사 동향]")
     new_competitor = []
 
@@ -309,6 +435,23 @@ def main():
 
     print(f"\n  → 트렌드 총 {len(trend_data)}건")
 
+    # ── 탭3: 공시/특허 ───────────────────────
+    print("\n[탭3: 공시/특허]")
+    new_disclosure = []
+
+    print("  DART 공시 수집 중...")
+    for company, corp_code in DART_COMPANIES.items():
+        new_disclosure.extend(fetch_dart_disclosure(company, corp_code))
+
+    print("  KIPRIS 특허 수집 중...")
+    for company, applicant in KIPRIS_COMPANIES.items():
+        new_disclosure.extend(fetch_kipris_patent(company, applicant))
+
+    disclosure_data = deduplicate(old_disclosure + new_disclosure)
+    disclosure_data.sort(key=date_sort_key, reverse=True)
+
+    print(f"\n  → 공시/특허 총 {len(disclosure_data)}건")
+
     # ── 월별 키워드 추출 ──────────────────────
     print("\n[월별 키워드 분석]")
     print("  경쟁사 키워드 추출 중...")
@@ -319,12 +462,13 @@ def main():
 
     # ── 저장 ─────────────────────────────────
     output = {
-        "updated":                      now_kst.strftime("%Y-%m-%d %H:%M"),
-        "current_month":                now_kst.strftime("%Y-%m"),
-        "competitor":                   competitor_data,
-        "trend":                        trend_data,
-        "competitor_monthly_keywords":  competitor_monthly,
-        "trend_monthly_keywords":       trend_monthly,
+        "updated":                     now_kst.strftime("%Y-%m-%d %H:%M"),
+        "current_month":               now_kst.strftime("%Y-%m"),
+        "competitor":                  competitor_data,
+        "trend":                       trend_data,
+        "disclosure":                  disclosure_data,
+        "competitor_monthly_keywords": competitor_monthly,
+        "trend_monthly_keywords":      trend_monthly,
     }
 
     with open("data.json", "w", encoding="utf-8") as f:
@@ -333,6 +477,7 @@ def main():
     print(f"\n✅ 저장 완료")
     print(f"   경쟁사: {len(competitor_data)}건")
     print(f"   트렌드: {len(trend_data)}건")
+    print(f"   공시/특허: {len(disclosure_data)}건")
 
 if __name__ == "__main__":
     main()

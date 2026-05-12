@@ -69,6 +69,14 @@
         .metric-value { font-size: 22px; font-weight: 700; color: #fff; }
         .metric-sub { font-size: 10px; color: #4fcff7; margin-top: 3px; }
 
+        /* 공시/특허 요약 카드 */
+        .disclosure-summary { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-bottom: 14px; }
+        .disclosure-summary-item { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 16px; }
+        .disclosure-summary-label { font-size: 11px; color: #888; margin-bottom: 6px; display: flex; align-items: center; gap: 5px; }
+        .disclosure-summary-value { font-size: 22px; font-weight: 700; color: #fff; }
+        .disclosure-summary-sub { display: flex; gap: 8px; margin-top: 4px; }
+        .disclosure-badge-count { font-size: 10px; padding: 2px 7px; border-radius: 8px; }
+
         /* 뉴스/공시 공통 */
         .news-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
         .news-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; flex-wrap: wrap; gap: 8px; }
@@ -84,10 +92,8 @@
         .news-text { font-size: 13px; color: #ccc; line-height: 1.5; flex: 1; text-decoration: none; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
         .news-text:hover { color: #fff; }
         .news-date { font-size: 11px; color: #555; white-space: nowrap; flex-shrink: 0; }
-
-        /* 공시/특허 소스 뱃지 */
-        .badge-dart    { background: #4f8ef722; color: #4f8ef7; border: 1px solid #4f8ef744; }
-        .badge-kipris  { background: #f7c94f22; color: #f7c94f; border: 1px solid #f7c94f44; }
+        .badge-dart   { background: #4f8ef722; color: #4f8ef7; border: 1px solid #4f8ef744; }
+        .badge-kipris { background: #f7c94f22; color: #f7c94f; border: 1px solid #f7c94f44; }
 
         /* 페이지네이션 */
         .pagination { display: flex; align-items: center; justify-content: center; gap: 6px; margin-top: 16px; flex-wrap: wrap; }
@@ -115,6 +121,7 @@
             .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
             .metric { padding: 12px 14px; }
             .metric-value { font-size: 20px; }
+            .disclosure-summary { grid-template-columns: repeat(2, 1fr); }
             .news-item { flex-direction: column; align-items: flex-start; gap: 5px; padding: 12px 0; }
             .news-item-row1 { display: flex; align-items: center; gap: 6px; width: 100%; }
             .news-item-row2 { display: flex; align-items: flex-start; justify-content: space-between; width: 100%; gap: 8px; }
@@ -225,24 +232,9 @@
         </div>
     </div>
 
-    <!-- 탭3: 공시/특허 -->
+    <!-- 탭3: 공시/특허 (그래프 없음) -->
     <div id="panel-disclosure" class="tab-panel">
-        <div class="chart-row">
-            <div class="chart-card">
-                <div class="chart-title">회사별 공시/특허 비중</div>
-                <div style="position:relative; height:180px;">
-                    <canvas id="disclosureDonut" role="img" aria-label="회사별 공시/특허 비중">회사별 공시/특허 비중</canvas>
-                </div>
-                <div class="legend-row" id="disclosureLegend"></div>
-            </div>
-            <div class="chart-card">
-                <div class="chart-title">회사별 공시/특허 건수</div>
-                <div style="position:relative; height:180px;">
-                    <canvas id="disclosureBar" role="img" aria-label="회사별 공시/특허 건수">회사별 공시/특허 건수</canvas>
-                </div>
-            </div>
-        </div>
-        <div class="metric-row cols-5" id="disclosureMetrics"></div>
+        <div class="disclosure-summary" id="disclosureSummary"></div>
         <div class="news-card">
             <div class="news-header">
                 <div class="news-card-title">공시/특허 목록</div>
@@ -274,11 +266,11 @@
         "제로트러스트": { hex:"#f74f4f", bg:"#f74f4f22", text:"#f74f4f" }
     };
     const SOURCE_MAP = {
-        "공식블로그": { label:"블로그",   color:"#f7c94f" },
-        "구글뉴스":   { label:"뉴스",     color:"#4fcff7" },
-        "네이버뉴스": { label:"뉴스",     color:"#4fcff7" },
-        "DART공시":   { label:"공시",     color:"#4f8ef7" },
-        "KIPRIS특허": { label:"특허",     color:"#f7c94f" },
+        "공식블로그": { label:"블로그", color:"#f7c94f" },
+        "구글뉴스":   { label:"뉴스",   color:"#4fcff7" },
+        "네이버뉴스": { label:"뉴스",   color:"#4fcff7" },
+        "DART공시":   { label:"공시",   color:"#4f8ef7" },
+        "KIPRIS특허": { label:"특허",   color:"#f7c94f" },
     };
 
     let competitorData = [], trendData = [], disclosureData = [];
@@ -383,11 +375,30 @@
 
     // ── 공시/특허 탭 ─────────────────────────
     function renderDisclosure() {
-        renderMetrics('disclosureMetrics', COMPANIES, disclosureData, 'company', C_COLORS);
-        renderDonut('disclosureDonut', 'disclosureLegend', COMPANIES, disclosureData, 'company', C_COLORS);
-        renderBar('disclosureBar', COMPANIES, disclosureData, 'company', C_COLORS);
+        renderDisclosureSummary();
         renderFilterBtns('disclosureFilter', ["전체", "공시", "특허", ...COMPANIES], 'd');
         renderDisclosureList('disclosureList', 'disclosurePagination', getFiltered('d'), dPage);
+    }
+
+    // ── 공시/특허 요약 카드 ───────────────────
+    function renderDisclosureSummary() {
+        const el = document.getElementById('disclosureSummary');
+        el.innerHTML = COMPANIES.map(c => {
+            const col      = C_COLORS[c];
+            const total    = disclosureData.filter(d => d.company === c).length;
+            const dartCnt  = disclosureData.filter(d => d.company === c && d.source === "DART공시").length;
+            const kiprisCnt = disclosureData.filter(d => d.company === c && d.source === "KIPRIS특허").length;
+            return `<div class="disclosure-summary-item">
+                <div class="disclosure-summary-label">
+                    <span class="dot" style="background:${col.hex}"></span>${c}
+                </div>
+                <div class="disclosure-summary-value">${total}</div>
+                <div class="disclosure-summary-sub">
+                    <span class="disclosure-badge-count badge-dart">공시 ${dartCnt}</span>
+                    <span class="disclosure-badge-count badge-kipris">특허 ${kiprisCnt}</span>
+                </div>
+            </div>`;
+        }).join('');
     }
 
     // ── 필터된 데이터 ─────────────────────────
@@ -584,7 +595,7 @@
         const pageEl = document.getElementById(pageElId);
 
         if (!data.length) {
-            el.innerHTML     = '<div class="empty">📭 수집된 공시/특허가 없습니다.</div>';
+            el.innerHTML     = '<div class="empty">📭 수집된 공시/특허가 없습니다.<br>Actions 탭에서 로봇을 실행해주세요.</div>';
             pageEl.innerHTML = '';
             return;
         }
@@ -594,12 +605,12 @@
         const pageData   = data.slice(start, start + PAGE_SIZE);
 
         el.innerHTML = pageData.map(item => {
-            const col       = C_COLORS[item.company] || { hex:'#888', bg:'#88888822', text:'#888' };
-            const isDart    = item.source === "DART공시";
-            const badgeCls  = isDart ? 'badge-dart' : 'badge-kipris';
-            const badgeTxt  = isDart ? '공시' : '특허';
+            const col      = C_COLORS[item.company] || { hex:'#888', bg:'#88888822', text:'#888' };
+            const isDart   = item.source === "DART공시";
+            const badge    = isDart
+                ? `<span class="source-badge badge-dart">공시</span>`
+                : `<span class="source-badge badge-kipris">특허</span>`;
             const tag       = `<span class="news-tag" style="background:${col.bg}; color:${col.text}; border:1px solid ${col.hex}44;">${item.company}</span>`;
-            const badge     = `<span class="source-badge ${badgeCls}">${badgeTxt}</span>`;
             const date      = (item.date||'').slice(0, 10);
             const shortDate = (item.date||'').slice(5, 10);
 
@@ -623,10 +634,14 @@
         renderPagination(pageElId, page, totalPages, 'd');
     }
 
-    // ── 페이지네이션 공통 ─────────────────────
+    // ── 페이지네이션 ─────────────────────────
     function renderPagination(pageElId, page, totalPages, prefix) {
         const pageEl = document.getElementById(pageElId);
         if (totalPages <= 1) { pageEl.innerHTML = ''; return; }
+
+        const total = prefix === 'c' ? getFiltered('c').length
+                    : prefix === 't' ? getFiltered('t').length
+                    : getFiltered('d').length;
 
         let btnHtml = '';
         btnHtml += `<button class="page-btn" ${page <= 1 ? 'disabled' : ''} onclick="goPage('${prefix}', ${page - 1})">◀</button>`;
@@ -638,7 +653,7 @@
             }
         }
         btnHtml += `<button class="page-btn" ${page >= totalPages ? 'disabled' : ''} onclick="goPage('${prefix}', ${page + 1})">▶</button>`;
-        btnHtml += `<span class="page-info">${page} / ${totalPages} 페이지 (총 ${prefix === 'c' ? getFiltered('c').length : prefix === 't' ? getFiltered('t').length : getFiltered('d').length}건)</span>`;
+        btnHtml += `<span class="page-info">${page} / ${totalPages} 페이지 (총 ${total}건)</span>`;
         pageEl.innerHTML = btnHtml;
     }
 

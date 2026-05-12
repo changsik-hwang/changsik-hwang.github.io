@@ -494,6 +494,10 @@ print("  DART 공시 수집 중...")
         results = fetch_dart_by_code(company, corp_code)
         new_disclosure.extend(results)
 
+    # 회사명으로 검색하는 회사
+    for company, company_name in DART_COMPANY_NAMES.items():
+        new_disclosure.extend(fetch_dart_disclosure(company, company_name))
+
 def fetch_dart_by_code(company, corp_code):
     """DART 코드 직접 지정으로 공시 수집"""
     results = []
@@ -539,10 +543,6 @@ def fetch_dart_by_code(company, corp_code):
     except Exception as e:
         print(f"  [오류] DART {company}: {e}")
     return results
-
-    # 회사명으로 검색하는 회사
-    for company, company_name in DART_COMPANY_NAMES.items():
-        new_disclosure.extend(fetch_dart_disclosure(company, company_name))
 
     print("  KIPRIS 특허 수집 중...")
     for company, applicant in KIPRIS_COMPANIES.items():

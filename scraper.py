@@ -198,6 +198,7 @@ def fetch_naver_blog(blog_id):
 # =============================================
 
 def get_dart_corp_code(company_name):
+def get_dart_corp_code(company_name):
     """DART 전체 회사 목록 ZIP에서 정확히 일치하는 회사 코드 조회"""
     try:
         url      = f"https://opendart.fss.or.kr/api/corpCode.xml?crtfc_key={DART_API_KEY}"
@@ -205,6 +206,18 @@ def get_dart_corp_code(company_name):
         zf       = zipfile.ZipFile(io.BytesIO(response.content))
         xml      = zf.read("CORPCODE.xml")
         soup     = BeautifulSoup(xml, "xml")
+
+        # 디버그: 안랩/넥스지 포함된 후보 이름 출력
+        debug_keywords = ["안랩", "넥스지", "케이엑스"]
+        for kw in debug_keywords:
+            if kw in company_name:
+                candidates = []
+                for item in soup.find_all("list"):
+                    name = item.find("corp_name")
+                    code = item.find("corp_code")
+                    if name and kw in name.text:
+                        candidates.append(f"{name.text}({code.text})")
+                print(f"  [DART후보-{kw}] {candidates[:10]}")
 
         for item in soup.find_all("list"):
             name = item.find("corp_name")

@@ -38,12 +38,12 @@ BLOGS = {
     "넥스지": "kxnexg",
 }
 
-# DART 회사 코드 직접 지정 (검색 오류 방지)
+# DART 코드 직접 지정 (검색 오류 방지)
 DART_CORP_CODES = {
-    "안랩": "00113994",  # 안랩 정확한 코드 직접 지정
+    "안랩": "00113994",
 }
 
-# DART 회사명 검색 (코드 직접 지정 없는 경우)
+# DART 회사명으로 검색
 DART_COMPANY_NAMES = {
     "시큐아이":   "시큐아이",
     "넥스지":     "케이엑스넥스지",
@@ -198,7 +198,7 @@ def fetch_naver_blog(blog_id):
 # =============================================
 
 def get_dart_corp_code(company_name):
-    """DART 전체 회사 목록 ZIP에서 회사 코드 조회 - 정확히 일치하는 경우만"""
+    """DART 전체 회사 목록 ZIP에서 정확히 일치하는 회사 코드 조회"""
     try:
         url      = f"https://opendart.fss.or.kr/api/corpCode.xml?crtfc_key={DART_API_KEY}"
         response = requests.get(url, timeout=30)
@@ -208,7 +208,7 @@ def get_dart_corp_code(company_name):
 
         for item in soup.find_all("list"):
             name = item.find("corp_name")
-            if name and name.text.strip() == company_name:  # 정확히 일치할 때만
+            if name and name.text.strip() == company_name:
                 code = item.find("corp_code")
                 print(f"  [DART코드] {company_name}: {code.text}")
                 return code.text
@@ -221,17 +221,11 @@ def get_dart_corp_code(company_name):
         return None
 
 
-def fetch_dart_disclosure(company, company_name):
-    """DART OpenAPI로 공시 목록 수집"""
+def fetch_dart_by_code(company, corp_code):
+    """DART 코드 직접 지정으로 공시 수집"""
     results = []
     if not DART_API_KEY:
-        print("  [경고] DART_API_KEY 없음")
         return results
-
-    corp_code = get_dart_corp_code(company_name)
-    if not corp_code:
-        return results
-
     try:
         url = "https://opendart.fss.or.kr/api/list.json"
         params = {
@@ -273,6 +267,14 @@ def fetch_dart_disclosure(company, company_name):
         print(f"  [오류] DART {company}: {e}")
     return results
 
+
+def fetch_dart_disclosure(company, company_name):
+    """DART 회사명 검색으로 공시 수집"""
+    corp_code = get_dart_corp_code(company_name)
+    if not corp_code:
+        return []
+    return fetch_dart_by_code(company, corp_code)
+
 # =============================================
 # KIPRIS 특허 수집
 # =============================================
@@ -296,16 +298,15 @@ def fetch_kipris_patent(company, applicant):
         headers  = {"Accept": "application/xml"}
         response = requests.get(url, params=params, headers=headers, timeout=15)
 
-        print(f"    KIPRIS 응답코드: {response.status_code}")
-        print(f"    KIPRIS 응답내용(앞200자): {response.text[:200]}")
-
         soup  = BeautifulSoup(response.content, "xml")
-        items = soup.find_all("item")
-        print(f"    KIPRIS 아이템 수: {len(items)}")
 
-        if not items:
-            all_tags = [tag.name for tag in soup.find_all()]
-            print(f"    KIPRIS 태그목록: {list(set(all_tags))[:20]}")
+        error = soup.find("successYN")
+        if error and error.text.strip() == "N":
+            msg = soup.find("resultMsg")
+            print(f"  [KIPRIS오류] {company}: {msg.text if msg else '알수없음'}")
+            return results
+
+        items = soup.find_all("item")
 
         for item in items:
             title    = item.find("inventionTitle")
@@ -487,62 +488,13 @@ def main():
     print("\n[탭3: 공시/특허]")
     new_disclosure = []
 
-print("  DART 공시 수집 중...")
-    # 코드 직접 지정된 회사
+    print("  DART 공시 수집 중...")
     for company, corp_code in DART_CORP_CODES.items():
         print(f"  [DART직접] {company}: {corp_code}")
-        results = fetch_dart_by_code(company, corp_code)
-        new_disclosure.extend(results)
+        new_disclosure.extend(fetch_dart_by_code(company, corp_code))
 
-    # 회사명으로 검색하는 회사
     for company, company_name in DART_COMPANY_NAMES.items():
         new_disclosure.extend(fetch_dart_disclosure(company, company_name))
-
-def fetch_dart_by_code(company, corp_code):
-    """DART 코드 직접 지정으로 공시 수집"""
-    results = []
-    if not DART_API_KEY:
-        return results
-    try:
-        url = "https://opendart.fss.or.kr/api/list.json"
-        params = {
-            "crtfc_key":  DART_API_KEY,
-            "corp_code":  corp_code,
-            "bgn_de":     (datetime.now(KST) - timedelta(days=90)).strftime("%Y%m%d"),
-            "end_de":     datetime.now(KST).strftime("%Y%m%d"),
-            "page_count": 20,
-        }
-        response = requests.get(url, params=params, timeout=15)
-        data     = response.json()
-
-        if data.get("status") != "000":
-            print(f"  [DART오류] {company}: {data.get('message')}")
-            return results
-
-        for item in data.get("list", []):
-            title    = item.get("report_nm", "")
-            date     = item.get("rcept_dt", "")
-            rcept_no = item.get("rcept_no", "")
-            link     = f"https://dart.fss.or.kr/dsaf001/main.do?rcpNo={rcept_no}"
-
-            if date:
-                date = f"{date[:4]}-{date[4:6]}-{date[6:8]}"
-
-            results.append({
-                "company":  company,
-                "title":    title,
-                "link":     link,
-                "date":     date,
-                "source":   "DART공시",
-                "tab":      "disclosure",
-                "is_today": date == datetime.now(KST).strftime("%Y-%m-%d")
-            })
-
-        print(f"    → {company} DART: {len(results)}건")
-
-    except Exception as e:
-        print(f"  [오류] DART {company}: {e}")
-    return results
 
     print("  KIPRIS 특허 수집 중...")
     for company, applicant in KIPRIS_COMPANIES.items():

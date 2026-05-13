@@ -38,13 +38,12 @@ BLOGS = {
     "넥스지": "kxnexg",
 }
 
-# DART 코드 직접 지정 (검색 오류 방지)
-DART_CORP_CODES = {
-    "안랩": "00113994",
-}
+# DART 코드 직접 지정
+DART_CORP_CODES = {}
 
 # DART 회사명으로 검색
 DART_COMPANY_NAMES = {
+    "안랩":       "안랩(주)",
     "시큐아이":   "시큐아이",
     "넥스지":     "케이엑스넥스지",
     "퓨쳐시스템": "퓨쳐시스템",
@@ -198,8 +197,7 @@ def fetch_naver_blog(blog_id):
 # =============================================
 
 def get_dart_corp_code(company_name):
-def get_dart_corp_code(company_name):
-    """DART 전체 회사 목록 ZIP에서 정확히 일치하는 회사 코드 조회"""
+    """DART 전체 회사 목록 ZIP에서 회사 코드 조회"""
     try:
         url      = f"https://opendart.fss.or.kr/api/corpCode.xml?crtfc_key={DART_API_KEY}"
         response = requests.get(url, timeout=30)
@@ -207,7 +205,7 @@ def get_dart_corp_code(company_name):
         xml      = zf.read("CORPCODE.xml")
         soup     = BeautifulSoup(xml, "xml")
 
-        # 디버그: 안랩/넥스지 포함된 후보 이름 출력
+        # 디버그: 안랩/넥스지 후보 출력
         debug_keywords = ["안랩", "넥스지", "케이엑스"]
         for kw in debug_keywords:
             if kw in company_name:
@@ -219,6 +217,7 @@ def get_dart_corp_code(company_name):
                         candidates.append(f"{name.text}({code.text})")
                 print(f"  [DART후보-{kw}] {candidates[:10]}")
 
+        # 정확히 일치하는 회사명 검색
         for item in soup.find_all("list"):
             name = item.find("corp_name")
             if name and name.text.strip() == company_name:
@@ -310,8 +309,7 @@ def fetch_kipris_patent(company, applicant):
         }
         headers  = {"Accept": "application/xml"}
         response = requests.get(url, params=params, headers=headers, timeout=15)
-
-        soup  = BeautifulSoup(response.content, "xml")
+        soup     = BeautifulSoup(response.content, "xml")
 
         error = soup.find("successYN")
         if error and error.text.strip() == "N":

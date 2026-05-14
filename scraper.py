@@ -348,23 +348,28 @@ def fetch_kipris_patent(company, applicant):
 # =============================================
 
 def deduplicate(data):
-    seen_links  = set()
-    seen_titles = set()
-    result      = []
+    seen = set()
+    result = []
 
     for item in data:
         link             = item.get("link", "")
         title            = item.get("title", "").strip()
+        tab              = item.get("tab", "")
         title_normalized = ''.join(c for c in title if c.isalnum() or '\uAC00' <= c <= '\uD7A3')
 
-        if link and link in seen_links:
+        # 링크 기준 중복 체크 (탭 무관)
+        if link and link in seen:
             continue
-        if title_normalized and title_normalized in seen_titles:
+
+        # 제목 기준 중복 체크 (같은 탭 안에서만)
+        title_key = f"{tab}:{title_normalized}"
+        if title_normalized and title_key in seen:
             continue
+
         if link:
-            seen_links.add(link)
+            seen.add(link)
         if title_normalized:
-            seen_titles.add(title_normalized)
+            seen.add(title_key)
 
         result.append(item)
 

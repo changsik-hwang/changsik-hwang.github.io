@@ -16,8 +16,7 @@ from kiwipiepy import Kiwi
 KST       = timezone(timedelta(hours=9))
 KEEP_DAYS = 180
 
-DART_API_KEY   = os.environ.get("DART_API_KEY", "")
-KIPRIS_API_KEY = os.environ.get("KIPRIS_API_KEY", "")
+DART_API_KEY = os.environ.get("DART_API_KEY", "")
 
 COMPANY_KEYWORDS = {
     "시큐아이":   ["시큐아이", "secui", "SECUI"],
@@ -40,7 +39,7 @@ BLOGS = {
 
 # DART 코드 직접 지정
 DART_CORP_CODES = {
-    "안랩": "00298270",  # 안랩 정확한 코드
+    "안랩": "00298270",
 }
 
 # DART 회사명으로 검색
@@ -49,15 +48,6 @@ DART_COMPANY_NAMES = {
     "넥스지":     "케이엑스넥스지",
     "퓨쳐시스템": "퓨쳐시스템",
     "윈스":       "윈스테크넷",
-}
-
-# KIPRIS 출원인명
-KIPRIS_COMPANIES = {
-    "안랩":       "주식회사안랩",
-    "시큐아이":   "주식회사시큐아이",
-    "넥스지":     "주식회사넥스지",
-    "퓨쳐시스템": "주식회사퓨쳐시스템",
-    "윈스":       "주식회사윈스",
 }
 
 STOPWORDS = {
@@ -243,7 +233,7 @@ def fetch_dart_by_code(company, corp_code):
             return results
 
         for item in data.get("list", []):
-            title    = item.get("report_nm", "")
+            title    = item.get("report_nm", "").strip()
             date     = item.get("rcept_dt", "")
             rcept_no = item.get("rcept_no", "")
             link     = f"https://dart.fss.or.kr/dsaf001/main.do?rcpNo={rcept_no}"
@@ -276,94 +266,21 @@ def fetch_dart_disclosure(company, company_name):
     return fetch_dart_by_code(company, corp_code)
 
 # =============================================
-# KIPRIS 특허 수집
-# =============================================
-
-def fetch_kipris_patent(company, applicant):
-    """KIPRIS API로 특허 목록 수집"""
-    results = []
-    if not KIPRIS_API_KEY:
-        print("  [경고] KIPRIS_API_KEY 없음")
-        return results
-    try:
-        url = "http://plus.kipris.or.kr/kipo-api/kipi/patUtiModInfoSearchSevice/getAdvancedSearch"
-        params = {
-            "applicant":  applicant,
-            "docsStart":  "1",
-            "docsCount":  "20",
-            "ServiceKey": KIPRIS_API_KEY,
-            "drawingYn":  "N",
-            "descSort":   "true",
-        }
-        headers  = {"Accept": "application/xml"}
-        response = requests.get(url, params=params, headers=headers, timeout=15)
-        soup     = BeautifulSoup(response.content, "xml")
-
-        error = soup.find("successYN")
-        if error and error.text.strip() == "N":
-            msg = soup.find("resultMsg")
-            print(f"  [KIPRIS오류] {company}: {msg.text if msg else '알수없음'}")
-            return results
-
-        items = soup.find_all("item")
-
-        for item in items:
-            title    = item.find("inventionTitle")
-            app_no   = item.find("applicationNumber")
-            app_date = item.find("applicationDate")
-            pub_date = item.find("openDate") or item.find("registerDate")
-
-            title_text  = title.text.strip() if title else ""
-            app_no_text = app_no.text.strip() if app_no else ""
-            date_text   = ""
-
-            if pub_date and pub_date.text:
-                date_text = pub_date.text.strip().replace(".", "-")[:10]
-            elif app_date and app_date.text:
-                date_text = app_date.text.strip().replace(".", "-")[:10]
-
-            link = f"https://plus.kipris.or.kr/portal/kipo/patUtiModInfoService/patUtiModInfo.do?applno={app_no_text}"
-
-            if not title_text:
-                continue
-
-            results.append({
-                "company":  company,
-                "title":    title_text,
-                "link":     link,
-                "date":     date_text,
-                "source":   "KIPRIS특허",
-                "tab":      "disclosure",
-                "is_today": False
-            })
-
-        print(f"    → {company} KIPRIS: {len(results)}건")
-
-    except Exception as e:
-        print(f"  [오류] KIPRIS {company}: {e}")
-    return results
-
-# =============================================
 # 중복 제거
 # =============================================
 
 def deduplicate(data):
-    """링크 기준으로만 중복 제거 - 탭이 다르면 제목이 같아도 유지"""
+    """링크 기준으로만 중복 제거"""
     seen_links = set()
     result     = []
 
     for item in data:
         link = item.get("link", "")
-
-        # 링크가 있으면 링크로만 중복 체크
         if link:
             if link in seen_links:
                 continue
             seen_links.add(link)
-            result.append(item)
-        else:
-            # 링크가 없으면 그냥 추가
-            result.append(item)
+        result.append(item)
 
     return result
 
@@ -480,11 +397,10 @@ def main():
 
     print(f"\n  → 트렌드 총 {len(trend_data)}건")
 
-    # ── 탭3: 공시/특허 ───────────────────────
-    print("\n[탭3: 공시/특허]")
+    # ── 탭3: 공시 ────────────────────────────
+    print("\n[탭3: 공시]")
     new_disclosure = []
 
-    print("  DART 공시 수집 중...")
     for company, corp_code in DART_CORP_CODES.items():
         print(f"  [DART직접] {company}: {corp_code}")
         new_disclosure.extend(fetch_dart_by_code(company, corp_code))
@@ -492,14 +408,10 @@ def main():
     for company, company_name in DART_COMPANY_NAMES.items():
         new_disclosure.extend(fetch_dart_disclosure(company, company_name))
 
-    print("  KIPRIS 특허 수집 중...")
-    for company, applicant in KIPRIS_COMPANIES.items():
-        new_disclosure.extend(fetch_kipris_patent(company, applicant))
-
     disclosure_data = deduplicate(old_disclosure + new_disclosure)
     disclosure_data.sort(key=date_sort_key, reverse=True)
 
-    print(f"\n  → 공시/특허 총 {len(disclosure_data)}건")
+    print(f"\n  → 공시 총 {len(disclosure_data)}건")
 
     # ── 월별 키워드 추출 ──────────────────────
     print("\n[월별 키워드 분석]")
@@ -526,7 +438,7 @@ def main():
     print(f"\n✅ 저장 완료")
     print(f"   경쟁사: {len(competitor_data)}건")
     print(f"   트렌드: {len(trend_data)}건")
-    print(f"   공시/특허: {len(disclosure_data)}건")
+    print(f"   공시: {len(disclosure_data)}건")
 
 if __name__ == "__main__":
     main()

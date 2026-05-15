@@ -348,30 +348,22 @@ def fetch_kipris_patent(company, applicant):
 # =============================================
 
 def deduplicate(data):
-    seen = set()
-    result = []
+    """링크 기준으로만 중복 제거 - 탭이 다르면 제목이 같아도 유지"""
+    seen_links = set()
+    result     = []
 
     for item in data:
-        link             = item.get("link", "")
-        title            = item.get("title", "").strip()
-        tab              = item.get("tab", "")
-        title_normalized = ''.join(c for c in title if c.isalnum() or '\uAC00' <= c <= '\uD7A3')
+        link = item.get("link", "")
 
-        # 링크 기준 중복 체크 (탭 무관)
-        if link and link in seen:
-            continue
-
-        # 제목 기준 중복 체크 (같은 탭 안에서만)
-        title_key = f"{tab}:{title_normalized}"
-        if title_normalized and title_key in seen:
-            continue
-
+        # 링크가 있으면 링크로만 중복 체크
         if link:
-            seen.add(link)
-        if title_normalized:
-            seen.add(title_key)
-
-        result.append(item)
+            if link in seen_links:
+                continue
+            seen_links.add(link)
+            result.append(item)
+        else:
+            # 링크가 없으면 그냥 추가
+            result.append(item)
 
     return result
 

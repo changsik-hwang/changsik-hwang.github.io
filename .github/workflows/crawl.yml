@@ -25,6 +25,7 @@ jobs:
         run: |
           git config --global user.name "changsik-hwang"
           git config --global user.email "본인메일주소"
+          git pull --rebase origin main
           git add data.json
           git commit -m "Update news data" || exit 0
           git push

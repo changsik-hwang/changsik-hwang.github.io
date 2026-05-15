@@ -1,675 +1,444 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>동향 모니터링</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; background: #0f1117; color: #e0e0e0; min-height: 100vh; }
+import requests
+from bs4 import BeautifulSoup
+import json
+import os
+import zipfile
+import io
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
+from collections import Counter
+from kiwipiepy import Kiwi
 
-        header { background: #1a1d2e; border-bottom: 1px solid #2a2d3e; padding: 14px 20px; display: flex; align-items: center; justify-content: space-between; }
-        .header-left { display: flex; align-items: center; gap: 10px; }
-        .header-logo { width: 34px; height: 34px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
-        header h1 { font-size: 15px; font-weight: 700; color: #fff; }
-        .header-sub { font-size: 10px; color: #555; margin-top: 2px; }
-        .update-time { font-size: 11px; color: #666; }
+# =============================================
+# 설정
+# =============================================
 
-        .tab-bar { background: #1a1d2e; border-bottom: 1px solid #2a2d3e; padding: 0 20px; display: flex; }
-        .tab-btn { padding: 12px 18px; font-size: 13px; font-weight: 600; color: #666; background: transparent; border: none; border-bottom: 2px solid transparent; cursor: pointer; transition: all 0.2s; white-space: nowrap; }
-        .tab-btn:hover { color: #aaa; }
-        .tab-btn.active { color: #4f8ef7; border-bottom-color: #4f8ef7; }
+KST       = timezone(timedelta(hours=9))
+KEEP_DAYS = 180
 
-        .container { max-width: 1400px; margin: 0 auto; padding: 16px 20px; }
-        .tab-panel { display: none; }
-        .tab-panel.active { display: block; }
+DART_API_KEY = os.environ.get("DART_API_KEY", "")
 
-        /* 키워드 카드 */
-        .keyword-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 18px; margin-bottom: 14px; }
-        .keyword-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
-        .keyword-title { font-size: 11px; font-weight: 600; color: #aaa; }
-        .keyword-nav { display: flex; align-items: center; gap: 10px; }
-        .keyword-nav-btn { background: transparent; border: 1px solid #2a2d3e; color: #666; border-radius: 6px; padding: 3px 10px; cursor: pointer; font-size: 13px; transition: all 0.15s; }
-        .keyword-nav-btn:hover { border-color: #4f8ef7; color: #fff; }
-        .keyword-nav-btn:disabled { opacity: 0.2; cursor: not-allowed; }
-        .keyword-month-label { font-size: 13px; font-weight: 600; color: #fff; min-width: 80px; text-align: center; }
-        .keyword-tags { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
-        .keyword-tag { display: flex; align-items: center; gap: 5px; padding: 5px 12px; border-radius: 20px; background: #0f1117; border: 1px solid #2a2d3e; }
-        .keyword-rank { font-size: 10px; color: #555; font-weight: 700; }
-        .keyword-word { font-size: 13px; font-weight: 700; }
-        .keyword-count { font-size: 10px; color: #4fcff7; }
-        .keyword-tag:nth-child(1) { border-color: #f7c94f44; }
-        .keyword-tag:nth-child(1) .keyword-word { color: #f7c94f; }
-        .keyword-tag:nth-child(2) { border-color: #4fcff744; }
-        .keyword-tag:nth-child(2) .keyword-word { color: #4fcff7; }
-        .keyword-tag:nth-child(3) { border-color: #a14ff744; }
-        .keyword-tag:nth-child(3) .keyword-word { color: #a14ff7; }
-        .keyword-tag:nth-child(4) { border-color: #4ff77a44; }
-        .keyword-tag:nth-child(4) .keyword-word { color: #4ff77a; }
-        .keyword-tag:nth-child(5) { border-color: #f7844f44; }
-        .keyword-tag:nth-child(5) .keyword-word { color: #f7844f; }
-        .keyword-empty { font-size: 12px; color: #555; }
+COMPANY_KEYWORDS = {
+    "시큐아이":   ["시큐아이", "secui", "SECUI"],
+    "안랩":       ["안랩", "AhnLab"],
+    "넥스지":     ["KX넥스지", "케이엑스넥스지", "KXNEXG"],
+    "퓨쳐시스템": ["퓨쳐시스템"],
+    "윈스":       ["윈스", "윈스테크넷"],
+}
 
-        /* 차트 */
-        .chart-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 14px; }
-        .chart-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
-        .chart-title { font-size: 11px; font-weight: 600; color: #aaa; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.5px; }
-        .legend-row { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
-        .legend-item { display: flex; align-items: center; gap: 4px; font-size: 11px; color: #aaa; }
-        .legend-sq { width: 8px; height: 8px; border-radius: 2px; flex-shrink: 0; }
+TREND_KEYWORDS = {
+    "AI보안":      ["AI 보안", "AI 위협탐지", "인공지능 보안"],
+    "PQC":         ["PQC", "양자암호", "양자내성암호"],
+    "제로트러스트": ["제로트러스트", "Zero Trust", "ZTNA"],
+}
 
-        /* 메트릭 카드 */
-        .metric-row { display: grid; gap: 10px; margin-bottom: 14px; }
-        .metric-row.cols-5 { grid-template-columns: repeat(5, 1fr); }
-        .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
-        .metric { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 16px; transition: border-color 0.2s; }
-        .metric:hover { border-color: #4f8ef7; }
-        .metric-label { font-size: 11px; color: #888; margin-bottom: 6px; display: flex; align-items: center; gap: 5px; }
-        .dot { width: 7px; height: 7px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
-        .metric-value { font-size: 22px; font-weight: 700; color: #fff; }
-        .metric-sub { font-size: 10px; color: #4fcff7; margin-top: 3px; }
+BLOGS = {
+    "안랩":  "ahnlab_official",
+    "넥스지": "kxnexg",
+}
 
-        /* 공시/특허 요약 카드 */
-        .disclosure-summary { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-bottom: 14px; }
-        .disclosure-summary-item { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 16px; }
-        .disclosure-summary-label { font-size: 11px; color: #888; margin-bottom: 6px; display: flex; align-items: center; gap: 5px; }
-        .disclosure-summary-value { font-size: 22px; font-weight: 700; color: #fff; }
-        .disclosure-summary-sub { display: flex; gap: 8px; margin-top: 4px; }
-        .disclosure-badge-count { font-size: 10px; padding: 2px 7px; border-radius: 8px; }
+# DART 코드 직접 지정
+DART_CORP_CODES = {
+    "안랩": "00298270",
+}
 
-        /* 뉴스/공시 공통 */
-        .news-card { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 16px; }
-        .news-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; flex-wrap: wrap; gap: 8px; }
-        .news-card-title { font-size: 11px; font-weight: 600; color: #aaa; text-transform: uppercase; letter-spacing: 0.5px; }
-        .filter-bar { display: flex; gap: 5px; flex-wrap: wrap; }
-        .f-btn { font-size: 11px; padding: 4px 10px; border-radius: 12px; border: 1px solid #2a2d3e; background: transparent; color: #888; cursor: pointer; transition: all 0.15s; white-space: nowrap; }
-        .f-btn:hover { border-color: #4f8ef7; color: #fff; }
-        .f-btn.on { background: #4f8ef7; border-color: #4f8ef7; color: #fff; }
-        .news-item { display: flex; align-items: center; gap: 8px; padding: 10px 0; border-bottom: 1px solid #22253a; }
-        .news-item:last-child { border-bottom: none; }
-        .news-tag { font-size: 10px; font-weight: 700; padding: 3px 8px; border-radius: 10px; white-space: nowrap; flex-shrink: 0; }
-        .source-badge { font-size: 10px; padding: 2px 7px; border-radius: 8px; white-space: nowrap; flex-shrink: 0; }
-        .news-text { font-size: 13px; color: #ccc; line-height: 1.5; flex: 1; text-decoration: none; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-        .news-text:hover { color: #fff; }
-        .news-date { font-size: 11px; color: #555; white-space: nowrap; flex-shrink: 0; }
-        .badge-dart   { background: #4f8ef722; color: #4f8ef7; border: 1px solid #4f8ef744; }
-        .badge-kipris { background: #f7c94f22; color: #f7c94f; border: 1px solid #f7c94f44; }
+# DART 회사명으로 검색
+DART_COMPANY_NAMES = {
+    "시큐아이":   "시큐아이",
+    "넥스지":     "케이엑스넥스지",
+    "퓨쳐시스템": "퓨쳐시스템",
+    "윈스":       "윈스테크넷",
+}
 
-        /* 페이지네이션 */
-        .pagination { display: flex; align-items: center; justify-content: center; gap: 6px; margin-top: 16px; flex-wrap: wrap; }
-        .page-btn { font-size: 12px; padding: 6px 12px; border-radius: 8px; border: 1px solid #2a2d3e; background: transparent; color: #888; cursor: pointer; transition: all 0.15s; }
-        .page-btn:hover { border-color: #4f8ef7; color: #fff; }
-        .page-btn.on { background: #4f8ef7; border-color: #4f8ef7; color: #fff; }
-        .page-btn:disabled { opacity: 0.3; cursor: not-allowed; }
-        .page-info { font-size: 11px; color: #555; }
-        .empty { text-align: center; padding: 40px; font-size: 13px; color: #555; }
+STOPWORDS = {
+    "안랩", "시큐아이", "넥스지", "퓨처시스템", "윈스", "윈스테크넷",
+    "AhnLab", "SECUI", "NEXG", "WINS",
+    "보안", "사이버", "양자", "기술", "시스템", "플랫폼", "솔루션",
+    "서비스", "소프트웨어", "하드웨어", "네트워크", "데이터", "클라우드",
+    "관련", "통해", "위해", "대한", "있는", "하는", "이번", "지난", "올해",
+    "이후", "기반", "강화", "제공", "발표", "출시", "진행", "구축", "운영",
+    "지원", "확대", "활용", "적용", "도입", "공급", "수주", "계약", "체결",
+    "분야", "업체", "회사", "기업", "시장", "사업", "협력", "파트너", "추진",
+    "대표", "부문", "사장", "본부", "센터", "부장", "이사", "전무", "대리",
+    "하여", "되어", "위한", "통한", "대해", "에서", "으로", "까지", "통합",
+    "가장", "더욱", "새로운", "다양한", "국내", "글로벌", "전문", "공략",
+    "제품", "업데이트", "버전", "기능", "환경", "인프라", "관리",
+    "공격", "위협", "악성", "탐지", "차단", "방어", "대응", "분석",
+    "전환", "고도화", "엔드", "제로", "트러스트", "인터넷",
+    "내성", "암호", "분기", "전년", "참가", "참여", "중심", "통신", "영업",
+    "이익", "컴퍼니", "전략", "시대", "투자", "상식", "정보", "포인트",
+}
 
-        /* 모바일 */
-        @media (max-width: 768px) {
-            header h1 { font-size: 13px; }
-            .header-logo { width: 28px; height: 28px; }
-            .update-time { display: none; }
-            .tab-btn { padding: 10px 12px; font-size: 11px; }
-            .container { padding: 12px 16px; }
-            .keyword-header { flex-wrap: wrap; gap: 8px; }
-            .keyword-tags { gap: 6px; }
-            .keyword-tag { padding: 4px 10px; }
-            .keyword-word { font-size: 12px; }
-            .chart-row { grid-template-columns: 1fr; gap: 10px; }
-            .chart-card { padding: 14px; }
-            .metric-row.cols-5 { grid-template-columns: repeat(2, 1fr); }
-            .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
-            .metric { padding: 12px 14px; }
-            .metric-value { font-size: 20px; }
-            .disclosure-summary { grid-template-columns: repeat(2, 1fr); }
-            .news-item { flex-direction: column; align-items: flex-start; gap: 5px; padding: 12px 0; }
-            .news-item-row1 { display: flex; align-items: center; gap: 6px; width: 100%; }
-            .news-item-row2 { display: flex; align-items: flex-start; justify-content: space-between; width: 100%; gap: 8px; }
-            .news-text { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-            .news-date { font-size: 10px; flex-shrink: 0; margin-top: 2px; }
-            .news-header { flex-direction: column; align-items: flex-start; }
-            .filter-bar { width: 100%; overflow-x: auto; flex-wrap: nowrap; padding-bottom: 4px; }
-            .f-btn { flex-shrink: 0; }
+# =============================================
+# 날짜 파싱
+# =============================================
+
+def parse_date(date_str):
+    if not date_str:
+        return ""
+    try:
+        dt = parsedate_to_datetime(date_str)
+        return dt.astimezone(KST).strftime("%Y-%m-%d %H:%M")
+    except Exception:
+        pass
+    try:
+        dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+        return dt.astimezone(KST).strftime("%Y-%m-%d %H:%M")
+    except Exception:
+        pass
+    try:
+        return date_str[:16]
+    except Exception:
+        return ""
+
+def date_sort_key(item):
+    return item.get("date", "")
+
+# =============================================
+# 기존 데이터 로드
+# =============================================
+
+def load_existing_data():
+    if not os.path.exists("data.json"):
+        return [], [], [], {}, {}
+    try:
+        with open("data.json", "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return (
+            data.get("competitor", []),
+            data.get("trend", []),
+            data.get("disclosure", []),
+            data.get("competitor_monthly_keywords", {}),
+            data.get("trend_monthly_keywords", {}),
+        )
+    except Exception as e:
+        print(f"  [오류] 기존 데이터 로드 실패: {e}")
+        return [], [], [], {}, {}
+
+def filter_old_data(data, cutoff_str):
+    return [d for d in data if d.get("date", "") >= cutoff_str]
+
+# =============================================
+# 구글 뉴스 수집
+# =============================================
+
+def fetch_google_news(keyword):
+    results = []
+    try:
+        url = f"https://news.google.com/rss/search?q={requests.utils.quote(keyword)}&hl=ko&gl=KR&ceid=KR:ko"
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+        response = requests.get(url, headers=headers, timeout=15)
+        soup = BeautifulSoup(response.content, "xml")
+        items = soup.find_all("item")
+
+        for item in items[:100]:
+            title    = item.title.text.strip() if item.title else ""
+            link     = item.link.text.strip() if item.link else ""
+            pub_date = item.pubDate.text.strip() if item.pubDate else ""
+            date     = parse_date(pub_date)
+
+            if " - " in title:
+                title = title.rsplit(" - ", 1)[0].strip()
+
+            if not title:
+                continue
+
+            results.append({
+                "title": title, "link": link,
+                "date": date, "description": ""
+            })
+
+    except Exception as e:
+        print(f"  [오류] '{keyword}': {e}")
+    return results
+
+# =============================================
+# 네이버 블로그 수집
+# =============================================
+
+def fetch_naver_blog(blog_id):
+    results = []
+    try:
+        url = f"https://rss.blog.naver.com/{blog_id}.xml"
+        headers = {"User-Agent": "Mozilla/5.0"}
+        response = requests.get(url, headers=headers, timeout=15)
+        soup = BeautifulSoup(response.content, "xml")
+        items = soup.find_all("item")
+
+        for item in items[:100]:
+            title    = item.title.text.strip() if item.title else ""
+            link     = item.link.text.strip() if item.link else ""
+            pub_date = item.pubDate.text.strip() if item.pubDate else ""
+            date     = parse_date(pub_date)
+
+            if not title:
+                continue
+
+            results.append({
+                "title": title, "link": link,
+                "date": date, "description": ""
+            })
+
+    except Exception as e:
+        print(f"  [오류] 블로그 {blog_id}: {e}")
+    return results
+
+# =============================================
+# DART 공시 수집
+# =============================================
+
+def get_dart_corp_code(company_name):
+    """DART 전체 회사 목록 ZIP에서 정확히 일치하는 회사 코드 조회"""
+    try:
+        url      = f"https://opendart.fss.or.kr/api/corpCode.xml?crtfc_key={DART_API_KEY}"
+        response = requests.get(url, timeout=30)
+        zf       = zipfile.ZipFile(io.BytesIO(response.content))
+        xml      = zf.read("CORPCODE.xml")
+        soup     = BeautifulSoup(xml, "xml")
+
+        for item in soup.find_all("list"):
+            name = item.find("corp_name")
+            if name and name.text.strip() == company_name:
+                code = item.find("corp_code")
+                print(f"  [DART코드] {company_name}: {code.text}")
+                return code.text
+
+        print(f"  [DART코드없음] {company_name}")
+        return None
+
+    except Exception as e:
+        print(f"  [오류] DART 코드 조회 {company_name}: {e}")
+        return None
+
+
+def fetch_dart_by_code(company, corp_code):
+    """DART 코드 직접 지정으로 공시 수집"""
+    results = []
+    if not DART_API_KEY:
+        return results
+    try:
+        url = "https://opendart.fss.or.kr/api/list.json"
+        params = {
+            "crtfc_key":  DART_API_KEY,
+            "corp_code":  corp_code,
+            "bgn_de":     (datetime.now(KST) - timedelta(days=90)).strftime("%Y%m%d"),
+            "end_de":     datetime.now(KST).strftime("%Y%m%d"),
+            "page_count": 20,
         }
-    </style>
-</head>
-<body>
+        response = requests.get(url, params=params, timeout=15)
+        data     = response.json()
 
-<header>
-    <div class="header-left">
-        <img src="./logo.png" alt="로고" class="header-logo">
-        <div>
-            <h1>동향 모니터링</h1>
-            <div class="header-sub">컨설팅사업부 · 황채운 대리</div>
-        </div>
-    </div>
-    <div class="update-time" id="updateTime">로딩 중...</div>
-</header>
+        if data.get("status") != "000":
+            print(f"  [DART오류] {company}: {data.get('message')}")
+            return results
 
-<div class="tab-bar">
-    <button class="tab-btn active" onclick="switchTab('competitor', this)">📊 경쟁사 동향</button>
-    <button class="tab-btn" onclick="switchTab('trend', this)">🔬 기술 트렌드</button>
-    <button class="tab-btn" onclick="switchTab('disclosure', this)">📋 공시/특허</button>
-</div>
+        for item in data.get("list", []):
+            title    = item.get("report_nm", "").strip()
+            date     = item.get("rcept_dt", "")
+            rcept_no = item.get("rcept_no", "")
+            link     = f"https://dart.fss.or.kr/dsaf001/main.do?rcpNo={rcept_no}"
 
-<div class="container">
+            if date:
+                date = f"{date[:4]}-{date[4:6]}-{date[6:8]}"
 
-    <!-- 탭1: 경쟁사 동향 -->
-    <div id="panel-competitor" class="tab-panel active">
-        <div class="keyword-card">
-            <div class="keyword-header">
-                <div class="keyword-title">🔥 핵심 키워드</div>
-                <div class="keyword-nav">
-                    <button class="keyword-nav-btn" id="cKeywordPrev" onclick="moveKeywordMonth('c', -1)">◀</button>
-                    <div class="keyword-month-label" id="cKeywordMonth"></div>
-                    <button class="keyword-nav-btn" id="cKeywordNext" onclick="moveKeywordMonth('c', 1)">▶</button>
-                </div>
-            </div>
-            <div class="keyword-tags" id="cKeywordTags"></div>
-        </div>
-        <div class="chart-row">
-            <div class="chart-card">
-                <div class="chart-title">회사별 기사 비중</div>
-                <div style="position:relative; height:180px;">
-                    <canvas id="donutChart" role="img" aria-label="회사별 기사 비중">회사별 기사 비중</canvas>
-                </div>
-                <div class="legend-row" id="donutLegend"></div>
-            </div>
-            <div class="chart-card">
-                <div class="chart-title">회사별 수집 건수</div>
-                <div style="position:relative; height:180px;">
-                    <canvas id="barChart" role="img" aria-label="회사별 수집 건수">회사별 수집 건수</canvas>
-                </div>
-            </div>
-        </div>
-        <div class="metric-row cols-5" id="competitorMetrics"></div>
-        <div class="news-card">
-            <div class="news-header">
-                <div class="news-card-title">최신 기사</div>
-                <div class="filter-bar" id="competitorFilter"></div>
-            </div>
-            <div id="competitorNews"></div>
-            <div class="pagination" id="competitorPagination"></div>
-        </div>
-    </div>
+            results.append({
+                "company":  company,
+                "title":    title,
+                "link":     link,
+                "date":     date,
+                "source":   "DART공시",
+                "tab":      "disclosure",
+                "is_today": date == datetime.now(KST).strftime("%Y-%m-%d")
+            })
 
-    <!-- 탭2: 기술 트렌드 -->
-    <div id="panel-trend" class="tab-panel">
-        <div class="keyword-card">
-            <div class="keyword-header">
-                <div class="keyword-title">🔥 핵심 키워드</div>
-                <div class="keyword-nav">
-                    <button class="keyword-nav-btn" id="tKeywordPrev" onclick="moveKeywordMonth('t', -1)">◀</button>
-                    <div class="keyword-month-label" id="tKeywordMonth"></div>
-                    <button class="keyword-nav-btn" id="tKeywordNext" onclick="moveKeywordMonth('t', 1)">▶</button>
-                </div>
-            </div>
-            <div class="keyword-tags" id="tKeywordTags"></div>
-        </div>
-        <div class="chart-row">
-            <div class="chart-card">
-                <div class="chart-title">키워드별 기사 비중</div>
-                <div style="position:relative; height:180px;">
-                    <canvas id="trendDonut" role="img" aria-label="키워드별 기사 비중">키워드별 기사 비중</canvas>
-                </div>
-                <div class="legend-row" id="trendLegend"></div>
-            </div>
-            <div class="chart-card">
-                <div class="chart-title">키워드별 수집 건수</div>
-                <div style="position:relative; height:180px;">
-                    <canvas id="trendBar" role="img" aria-label="키워드별 수집 건수">키워드별 수집 건수</canvas>
-                </div>
-            </div>
-        </div>
-        <div class="metric-row cols-3" id="trendMetrics"></div>
-        <div class="news-card">
-            <div class="news-header">
-                <div class="news-card-title">최신 기사</div>
-                <div class="filter-bar" id="trendFilter"></div>
-            </div>
-            <div id="trendNews"></div>
-            <div class="pagination" id="trendPagination"></div>
-        </div>
-    </div>
+        print(f"    → {company} DART: {len(results)}건")
 
-    <!-- 탭3: 공시/특허 (그래프 없음) -->
-    <div id="panel-disclosure" class="tab-panel">
-        <div class="disclosure-summary" id="disclosureSummary"></div>
-        <div class="news-card">
-            <div class="news-header">
-                <div class="news-card-title">공시/특허 목록</div>
-                <div class="filter-bar" id="disclosureFilter"></div>
-            </div>
-            <div id="disclosureList"></div>
-            <div class="pagination" id="disclosurePagination"></div>
-        </div>
-    </div>
+    except Exception as e:
+        print(f"  [오류] DART {company}: {e}")
+    return results
 
-</div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
-<script>
-    const COMPANIES = ["시큐아이","안랩","넥스지","퓨쳐시스템","윈스"];
-    const TRENDS    = ["AI보안","PQC","제로트러스트"];
-    const PAGE_SIZE = 30;
+def fetch_dart_disclosure(company, company_name):
+    """DART 회사명 검색으로 공시 수집"""
+    corp_code = get_dart_corp_code(company_name)
+    if not corp_code:
+        return []
+    return fetch_dart_by_code(company, corp_code)
 
-    const C_COLORS = {
-        "시큐아이":   { hex:"#e84393", bg:"#e8439322", text:"#e84393" },
-        "안랩":       { hex:"#f7844f", bg:"#f7844f22", text:"#f7844f" },
-        "넥스지":     { hex:"#4fcff7", bg:"#4fcff722", text:"#4fcff7" },
-        "퓨쳐시스템": { hex:"#a14ff7", bg:"#a14ff722", text:"#a14ff7" },
-        "윈스":       { hex:"#4ff77a", bg:"#4ff77a22", text:"#4ff77a" }
-    };
-    const T_COLORS = {
-        "AI보안":      { hex:"#f7c94f", bg:"#f7c94f22", text:"#f7c94f" },
-        "PQC":         { hex:"#4f8ef7", bg:"#4f8ef722", text:"#4f8ef7" },
-        "제로트러스트": { hex:"#f74f4f", bg:"#f74f4f22", text:"#f74f4f" }
-    };
-    const SOURCE_MAP = {
-        "공식블로그": { label:"블로그", color:"#f7c94f" },
-        "구글뉴스":   { label:"뉴스",   color:"#4fcff7" },
-        "네이버뉴스": { label:"뉴스",   color:"#4fcff7" },
-        "DART공시":   { label:"공시",   color:"#4f8ef7" },
-        "KIPRIS특허": { label:"특허",   color:"#f7c94f" },
-    };
+# =============================================
+# 중복 제거
+# =============================================
 
-    let competitorData = [], trendData = [], disclosureData = [];
-    let cMonthlyKeywords = {}, tMonthlyKeywords = {};
-    let cMonthIndex = 0, tMonthIndex = 0;
-    let cMonthKeys  = [], tMonthKeys  = [];
-    let cFilter = "전체", tFilter = "전체", dFilter = "전체";
-    let cPage = 1, tPage = 1, dPage = 1;
-    const IS_MOBILE = window.innerWidth <= 768;
+def deduplicate(data):
+    """링크 기준으로만 중복 제거"""
+    seen_links = set()
+    result     = []
 
-    // ── 데이터 로드 ───────────────────────────
-    fetch('./data.json?t=' + Date.now())
-        .then(r => r.json())
-        .then(data => {
-            competitorData   = data.competitor || [];
-            trendData        = data.trend || [];
-            disclosureData   = data.disclosure || [];
-            cMonthlyKeywords = data.competitor_monthly_keywords || {};
-            tMonthlyKeywords = data.trend_monthly_keywords || {};
+    for item in data:
+        link = item.get("link", "")
+        if link:
+            if link in seen_links:
+                continue
+            seen_links.add(link)
+        result.append(item)
 
-            cMonthKeys = Object.keys(cMonthlyKeywords).sort().reverse();
-            tMonthKeys = Object.keys(tMonthlyKeywords).sort().reverse();
+    return result
 
-            document.getElementById('updateTime').textContent =
-                `업데이트: ${data.updated || ""}`;
+# =============================================
+# 월별 키워드 추출
+# =============================================
 
-            renderKeywordCard('c');
-            renderKeywordCard('t');
-            renderCompetitor();
-            renderTrend();
-            renderDisclosure();
-        })
-        .catch(() => {
-            document.getElementById('competitorNews').innerHTML =
-                '<div class="empty">⚠️ data.json을 불러올 수 없습니다.<br>Actions 탭에서 로봇을 먼저 실행해주세요.</div>';
-        });
+def extract_monthly_keywords(data, now_kst, top_n=5):
+    try:
+        kiwi    = Kiwi()
+        monthly = {}
 
-    // ── 탭 전환 ──────────────────────────────
-    function switchTab(tab, btn) {
-        document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
-        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-        document.getElementById('panel-' + tab).classList.add('active');
-        btn.classList.add('active');
+        for i in range(3):
+            target_dt    = now_kst - timedelta(days=30 * i)
+            target_month = target_dt.strftime("%Y-%m")
+            month_data   = [d for d in data if d.get("date", "").startswith(target_month)]
+            print(f"  {target_month}: {len(month_data)}건 분석 중...")
+
+            if not month_data:
+                monthly[target_month] = []
+                continue
+
+            titles = " ".join([d.get("title", "") for d in month_data])
+            result = kiwi.analyze(titles)
+            nouns  = []
+
+            for token in result[0][0]:
+                word = token.form
+                tag  = str(token.tag)
+                if tag in ["NNG", "NNP"]:
+                    if len(word) >= 2 and word not in STOPWORDS:
+                        nouns.append(word)
+
+            counter      = Counter(nouns)
+            top_keywords = counter.most_common(top_n)
+            monthly[target_month] = [{"keyword": k, "count": c} for k, c in top_keywords]
+            print(f"    → {monthly[target_month]}")
+
+        return monthly
+
+    except Exception as e:
+        print(f"  [오류] 월별 키워드 추출 실패: {e}")
+        return {}
+
+# =============================================
+# 메인
+# =============================================
+
+def main():
+    now_kst    = datetime.now(KST)
+    today_str  = now_kst.strftime("%Y-%m-%d")
+    cutoff_dt  = now_kst - timedelta(days=KEEP_DAYS)
+    cutoff_str = cutoff_dt.strftime("%Y-%m-%d")
+
+    print("=" * 45)
+    print(f"  수집 시작 (KST): {now_kst.strftime('%Y-%m-%d %H:%M')}")
+    print(f"  보관 기준: {cutoff_str} 이후 데이터만 유지")
+    print("=" * 45)
+
+    old_competitor, old_trend, old_disclosure, _, _ = load_existing_data()
+    old_competitor = filter_old_data(old_competitor, cutoff_str)
+    old_trend      = filter_old_data(old_trend, cutoff_str)
+    old_disclosure = filter_old_data(old_disclosure, cutoff_str)
+
+    # ── 탭1: 경쟁사 뉴스 ─────────────────────
+    print("\n[탭1: 경쟁사 동향]")
+    new_competitor = []
+
+    for company, keywords in COMPANY_KEYWORDS.items():
+        for keyword in keywords:
+            print(f"  검색: '{keyword}'...")
+            for item in fetch_google_news(keyword):
+                item["company"]  = company
+                item["tab"]      = "competitor"
+                item["source"]   = "구글뉴스"
+                item["is_today"] = item["date"].startswith(today_str)
+                new_competitor.append(item)
+
+    for company, blog_id in BLOGS.items():
+        print(f"  블로그: {company}...")
+        for item in fetch_naver_blog(blog_id):
+            item["company"]  = company
+            item["tab"]      = "competitor"
+            item["source"]   = "공식블로그"
+            item["is_today"] = item["date"].startswith(today_str)
+            new_competitor.append(item)
+
+    competitor_data = deduplicate(old_competitor + new_competitor)
+    competitor_data.sort(key=date_sort_key, reverse=True)
+
+    print(f"\n  → 경쟁사 총 {len(competitor_data)}건")
+    for c in COMPANY_KEYWORDS:
+        cnt       = sum(1 for d in competitor_data if d["company"] == c)
+        today_cnt = sum(1 for d in competitor_data if d["company"] == c and d.get("is_today"))
+        print(f"     {c}: {cnt}건 (오늘 {today_cnt}건)")
+
+    # ── 탭2: 기술 트렌드 ─────────────────────
+    print("\n[탭2: 기술 트렌드]")
+    new_trend = []
+
+    for category, keywords in TREND_KEYWORDS.items():
+        for keyword in keywords:
+            print(f"  검색: '{keyword}'...")
+            for item in fetch_google_news(keyword):
+                item["category"] = category
+                item["keyword"]  = keyword
+                item["tab"]      = "trend"
+                item["source"]   = "구글뉴스"
+                item["is_today"] = item["date"].startswith(today_str)
+                new_trend.append(item)
+
+    trend_data = deduplicate(old_trend + new_trend)
+    trend_data.sort(key=date_sort_key, reverse=True)
+
+    print(f"\n  → 트렌드 총 {len(trend_data)}건")
+
+    # ── 탭3: 공시 ────────────────────────────
+    print("\n[탭3: 공시]")
+    new_disclosure = []
+
+    for company, corp_code in DART_CORP_CODES.items():
+        print(f"  [DART직접] {company}: {corp_code}")
+        new_disclosure.extend(fetch_dart_by_code(company, corp_code))
+
+    for company, company_name in DART_COMPANY_NAMES.items():
+        new_disclosure.extend(fetch_dart_disclosure(company, company_name))
+
+    disclosure_data = deduplicate(old_disclosure + new_disclosure)
+    disclosure_data.sort(key=date_sort_key, reverse=True)
+
+    print(f"\n  → 공시 총 {len(disclosure_data)}건")
+
+    # ── 월별 키워드 추출 ──────────────────────
+    print("\n[월별 키워드 분석]")
+    print("  경쟁사 키워드 추출 중...")
+    competitor_monthly = extract_monthly_keywords(competitor_data, now_kst, top_n=5)
+
+    print("  트렌드 키워드 추출 중...")
+    trend_monthly = extract_monthly_keywords(trend_data, now_kst, top_n=5)
+
+    # ── 저장 ─────────────────────────────────
+    output = {
+        "updated":                     now_kst.strftime("%Y-%m-%d %H:%M"),
+        "current_month":               now_kst.strftime("%Y-%m"),
+        "competitor":                  competitor_data,
+        "trend":                       trend_data,
+        "disclosure":                  disclosure_data,
+        "competitor_monthly_keywords": competitor_monthly,
+        "trend_monthly_keywords":      trend_monthly,
     }
 
-    // ── 키워드 화살표 카드 ────────────────────
-    function renderKeywordCard(prefix) {
-        const monthKeys  = prefix === 'c' ? cMonthKeys : tMonthKeys;
-        const monthIndex = prefix === 'c' ? cMonthIndex : tMonthIndex;
-        const monthly    = prefix === 'c' ? cMonthlyKeywords : tMonthlyKeywords;
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=4)
 
-        if (!monthKeys.length) return;
+    print(f"\n✅ 저장 완료")
+    print(f"   경쟁사: {len(competitor_data)}건")
+    print(f"   트렌드: {len(trend_data)}건")
+    print(f"   공시: {len(disclosure_data)}건")
 
-        const currentMonth  = monthKeys[monthIndex];
-        const keywords      = monthly[currentMonth] || [];
-        const [year, month] = currentMonth.split('-');
-
-        document.getElementById(`${prefix}KeywordMonth`).textContent = `${year}년 ${parseInt(month)}월`;
-        document.getElementById(`${prefix}KeywordPrev`).disabled = monthIndex >= monthKeys.length - 1;
-        document.getElementById(`${prefix}KeywordNext`).disabled = monthIndex <= 0;
-
-        const tagsEl = document.getElementById(`${prefix}KeywordTags`);
-        if (!keywords.length) {
-            tagsEl.innerHTML = '<span class="keyword-empty">이 달은 데이터가 없습니다.</span>';
-            return;
-        }
-        tagsEl.innerHTML = keywords.map((k, i) => `
-            <div class="keyword-tag">
-                <span class="keyword-rank">${i + 1}</span>
-                <span class="keyword-word">${k.keyword}</span>
-                <span class="keyword-count">${k.count}회</span>
-            </div>
-        `).join('');
-    }
-
-    function moveKeywordMonth(prefix, dir) {
-        if (prefix === 'c') {
-            cMonthIndex = Math.max(0, Math.min(cMonthKeys.length - 1, cMonthIndex + dir * -1));
-        } else {
-            tMonthIndex = Math.max(0, Math.min(tMonthKeys.length - 1, tMonthIndex + dir * -1));
-        }
-        renderKeywordCard(prefix);
-    }
-
-    // ── 경쟁사 탭 ────────────────────────────
-    function renderCompetitor() {
-        renderMetrics('competitorMetrics', COMPANIES, competitorData, 'company', C_COLORS);
-        renderDonut('donutChart', 'donutLegend', COMPANIES, competitorData, 'company', C_COLORS);
-        renderBar('barChart', COMPANIES, competitorData, 'company', C_COLORS);
-        renderFilterBtns('competitorFilter', ["전체", ...COMPANIES], 'c');
-        renderNewsList('competitorNews', 'competitorPagination', getFiltered('c'), 'company', C_COLORS, cPage);
-    }
-
-    // ── 트렌드 탭 ────────────────────────────
-    function renderTrend() {
-        renderMetrics('trendMetrics', TRENDS, trendData, 'category', T_COLORS);
-        renderDonut('trendDonut', 'trendLegend', TRENDS, trendData, 'category', T_COLORS);
-        renderBar('trendBar', TRENDS, trendData, 'category', T_COLORS);
-        renderFilterBtns('trendFilter', ["전체", ...TRENDS], 't');
-        renderNewsList('trendNews', 'trendPagination', getFiltered('t'), 'category', T_COLORS, tPage);
-    }
-
-    // ── 공시/특허 탭 ─────────────────────────
-    function renderDisclosure() {
-        renderDisclosureSummary();
-        renderFilterBtns('disclosureFilter', ["전체", "공시", "특허", ...COMPANIES], 'd');
-        renderDisclosureList('disclosureList', 'disclosurePagination', getFiltered('d'), dPage);
-    }
-
-    // ── 공시/특허 요약 카드 ───────────────────
-    function renderDisclosureSummary() {
-        const el = document.getElementById('disclosureSummary');
-        el.innerHTML = COMPANIES.map(c => {
-            const col      = C_COLORS[c];
-            const total    = disclosureData.filter(d => d.company === c).length;
-            const dartCnt  = disclosureData.filter(d => d.company === c && d.source === "DART공시").length;
-            const kiprisCnt = disclosureData.filter(d => d.company === c && d.source === "KIPRIS특허").length;
-            return `<div class="disclosure-summary-item">
-                <div class="disclosure-summary-label">
-                    <span class="dot" style="background:${col.hex}"></span>${c}
-                </div>
-                <div class="disclosure-summary-value">${total}</div>
-                <div class="disclosure-summary-sub">
-                    <span class="disclosure-badge-count badge-dart">공시 ${dartCnt}</span>
-                    <span class="disclosure-badge-count badge-kipris">특허 ${kiprisCnt}</span>
-                </div>
-            </div>`;
-        }).join('');
-    }
-
-    // ── 필터된 데이터 ─────────────────────────
-    function getFiltered(prefix) {
-        if (prefix === 'c') {
-            return cFilter === "전체" ? competitorData : competitorData.filter(d => d.company === cFilter);
-        } else if (prefix === 't') {
-            return tFilter === "전체" ? trendData : trendData.filter(d => d.category === tFilter);
-        } else {
-            if (dFilter === "전체")  return disclosureData;
-            if (dFilter === "공시")  return disclosureData.filter(d => d.source === "DART공시");
-            if (dFilter === "특허")  return disclosureData.filter(d => d.source === "KIPRIS특허");
-            return disclosureData.filter(d => d.company === dFilter);
-        }
-    }
-
-    // ── 메트릭 카드 ──────────────────────────
-    function renderMetrics(elId, keys, data, field, colors) {
-        const today = new Date().toLocaleDateString('ko-KR', {
-            timeZone: 'Asia/Seoul',
-            year: 'numeric', month: '2-digit', day: '2-digit'
-        }).replace(/\. /g, '-').replace('.', '').trim();
-
-        document.getElementById(elId).innerHTML = keys.map(k => {
-            const total    = data.filter(d => d[field] === k).length;
-            const todayCnt = data.filter(d => d[field] === k && (d.date||'').startsWith(today)).length;
-            const col = colors[k];
-            return `<div class="metric">
-                <div class="metric-label">
-                    <span class="dot" style="background:${col.hex}"></span>${k}
-                </div>
-                <div class="metric-value">${total}</div>
-                <div class="metric-sub">오늘 ${todayCnt}건</div>
-            </div>`;
-        }).join('');
-    }
-
-    // ── 도넛 차트 ────────────────────────────
-    function renderDonut(canvasId, legendId, keys, data, field, colors) {
-        const counts = keys.map(k => data.filter(d => d[field] === k).length);
-        const hexes  = keys.map(k => colors[k].hex);
-        const total  = counts.reduce((a, b) => a + b, 0);
-        const existing = Chart.getChart(canvasId);
-        if (existing) existing.destroy();
-
-        new Chart(document.getElementById(canvasId), {
-            type: 'doughnut',
-            data: {
-                labels: keys,
-                datasets: [{
-                    data: counts,
-                    backgroundColor: hexes,
-                    borderWidth: 2,
-                    borderColor: '#1a1d2e',
-                    hoverOffset: 6
-                }]
-            },
-            options: {
-                responsive: true, maintainAspectRatio: false, cutout: '65%',
-                animation: { duration: 400 },
-                plugins: {
-                    legend: { display: false },
-                    tooltip: {
-                        callbacks: {
-                            label: ctx => {
-                                const p = total > 0 ? Math.round(ctx.raw / total * 100) : 0;
-                                return ` ${ctx.raw}건 (${p}%)`;
-                            }
-                        }
-                    }
-                }
-            }
-        });
-
-        document.getElementById(legendId).innerHTML = keys.map((k, i) => {
-            const p = total > 0 ? Math.round(counts[i] / total * 100) : 0;
-            return `<span class="legend-item">
-                <span class="legend-sq" style="background:${hexes[i]}"></span>${k} ${p}%
-            </span>`;
-        }).join('');
-    }
-
-    // ── 막대 차트 ────────────────────────────
-    function renderBar(canvasId, keys, data, field, colors) {
-        const counts = keys.map(k => data.filter(d => d[field] === k).length);
-        const hexes  = keys.map(k => colors[k].hex);
-        const existing = Chart.getChart(canvasId);
-        if (existing) existing.destroy();
-
-        new Chart(document.getElementById(canvasId), {
-            type: 'bar',
-            data: {
-                labels: keys,
-                datasets: [{
-                    data: counts,
-                    backgroundColor: hexes,
-                    borderRadius: 5,
-                    borderSkipped: false
-                }]
-            },
-            options: {
-                responsive: true, maintainAspectRatio: false,
-                animation: { duration: 400 },
-                plugins: { legend: { display: false } },
-                scales: {
-                    x: {
-                        grid: { display: false },
-                        ticks: { color: '#666', font: { size: IS_MOBILE ? 10 : 11 }, maxRotation: IS_MOBILE ? 30 : 0 }
-                    },
-                    y: {
-                        beginAtZero: true,
-                        grid: { color: 'rgba(255,255,255,0.05)' },
-                        ticks: { color: '#666', font: { size: 11 }, stepSize: 1 }
-                    }
-                }
-            }
-        });
-    }
-
-    // ── 필터 버튼 ────────────────────────────
-    function renderFilterBtns(elId, labels, prefix) {
-        const current = prefix === 'c' ? cFilter : prefix === 't' ? tFilter : dFilter;
-        document.getElementById(elId).innerHTML = labels.map(l =>
-            `<button class="f-btn ${l === current ? 'on' : ''}"
-                onclick="setFilter('${prefix}','${l}')">${l}</button>`
-        ).join('');
-    }
-
-    function setFilter(prefix, val) {
-        if (prefix === 'c') {
-            cFilter = val; cPage = 1;
-            renderFilterBtns('competitorFilter', ["전체", ...COMPANIES], 'c');
-            renderNewsList('competitorNews', 'competitorPagination', getFiltered('c'), 'company', C_COLORS, cPage);
-        } else if (prefix === 't') {
-            tFilter = val; tPage = 1;
-            renderFilterBtns('trendFilter', ["전체", ...TRENDS], 't');
-            renderNewsList('trendNews', 'trendPagination', getFiltered('t'), 'category', T_COLORS, tPage);
-        } else {
-            dFilter = val; dPage = 1;
-            renderFilterBtns('disclosureFilter', ["전체", "공시", "특허", ...COMPANIES], 'd');
-            renderDisclosureList('disclosureList', 'disclosurePagination', getFiltered('d'), dPage);
-        }
-    }
-
-    // ── 뉴스 목록 ────────────────────────────
-    function renderNewsList(elId, pageElId, data, field, colors, page) {
-        const el     = document.getElementById(elId);
-        const pageEl = document.getElementById(pageElId);
-
-        if (!data.length) {
-            el.innerHTML     = '<div class="empty">📭 수집된 기사가 없습니다.</div>';
-            pageEl.innerHTML = '';
-            return;
-        }
-
-        const totalPages = Math.ceil(data.length / PAGE_SIZE);
-        const start      = (page - 1) * PAGE_SIZE;
-        const pageData   = data.slice(start, start + PAGE_SIZE);
-
-        el.innerHTML = pageData.map(item => {
-            const key   = item[field];
-            const col   = colors[key] || { hex:'#888', bg:'#88888822', text:'#888' };
-            const src   = SOURCE_MAP[item.source] || { label: item.source || "", color:"#888" };
-            const badge = src.label
-                ? `<span class="source-badge" style="background:${src.color}22; color:${src.color}; border:1px solid ${src.color}44;">${src.label}</span>`
-                : "";
-            const tag       = `<span class="news-tag" style="background:${col.bg}; color:${col.text}; border:1px solid ${col.hex}44;">${key}</span>`;
-            const date      = (item.date||'').slice(0, 10);
-            const shortDate = (item.date||'').slice(5, 10);
-
-            if (IS_MOBILE) {
-                return `<div class="news-item">
-                    <div class="news-item-row1">${tag}${badge}</div>
-                    <div class="news-item-row2">
-                        <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
-                        <span class="news-date">${shortDate}</span>
-                    </div>
-                </div>`;
-            } else {
-                return `<div class="news-item">
-                    ${tag}${badge}
-                    <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
-                    <span class="news-date">${date}</span>
-                </div>`;
-            }
-        }).join('');
-
-        renderPagination(pageElId, page, totalPages, elId.includes('competitor') ? 'c' : 't');
-    }
-
-    // ── 공시/특허 목록 ────────────────────────
-    function renderDisclosureList(elId, pageElId, data, page) {
-        const el     = document.getElementById(elId);
-        const pageEl = document.getElementById(pageElId);
-
-        if (!data.length) {
-            el.innerHTML     = '<div class="empty">📭 수집된 공시/특허가 없습니다.<br>Actions 탭에서 로봇을 실행해주세요.</div>';
-            pageEl.innerHTML = '';
-            return;
-        }
-
-        const totalPages = Math.ceil(data.length / PAGE_SIZE);
-        const start      = (page - 1) * PAGE_SIZE;
-        const pageData   = data.slice(start, start + PAGE_SIZE);
-
-        el.innerHTML = pageData.map(item => {
-            const col      = C_COLORS[item.company] || { hex:'#888', bg:'#88888822', text:'#888' };
-            const isDart   = item.source === "DART공시";
-            const badge    = isDart
-                ? `<span class="source-badge badge-dart">공시</span>`
-                : `<span class="source-badge badge-kipris">특허</span>`;
-            const tag       = `<span class="news-tag" style="background:${col.bg}; color:${col.text}; border:1px solid ${col.hex}44;">${item.company}</span>`;
-            const date      = (item.date||'').slice(0, 10);
-            const shortDate = (item.date||'').slice(5, 10);
-
-            if (IS_MOBILE) {
-                return `<div class="news-item">
-                    <div class="news-item-row1">${tag}${badge}</div>
-                    <div class="news-item-row2">
-                        <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
-                        <span class="news-date">${shortDate}</span>
-                    </div>
-                </div>`;
-            } else {
-                return `<div class="news-item">
-                    ${tag}${badge}
-                    <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
-                    <span class="news-date">${date}</span>
-                </div>`;
-            }
-        }).join('');
-
-        renderPagination(pageElId, page, totalPages, 'd');
-    }
-
-    // ── 페이지네이션 ─────────────────────────
-    function renderPagination(pageElId, page, totalPages, prefix) {
-        const pageEl = document.getElementById(pageElId);
-        if (totalPages <= 1) { pageEl.innerHTML = ''; return; }
-
-        const total = prefix === 'c' ? getFiltered('c').length
-                    : prefix === 't' ? getFiltered('t').length
-                    : getFiltered('d').length;
-
-        let btnHtml = '';
-        btnHtml += `<button class="page-btn" ${page <= 1 ? 'disabled' : ''} onclick="goPage('${prefix}', ${page - 1})">◀</button>`;
-        for (let i = 1; i <= totalPages; i++) {
-            if (i === 1 || i === totalPages || (i >= page - 2 && i <= page + 2)) {
-                btnHtml += `<button class="page-btn ${i === page ? 'on' : ''}" onclick="goPage('${prefix}', ${i})">${i}</button>`;
-            } else if (i === page - 3 || i === page + 3) {
-                btnHtml += `<span class="page-info">...</span>`;
-            }
-        }
-        btnHtml += `<button class="page-btn" ${page >= totalPages ? 'disabled' : ''} onclick="goPage('${prefix}', ${page + 1})">▶</button>`;
-        btnHtml += `<span class="page-info">${page} / ${totalPages} 페이지 (총 ${total}건)</span>`;
-        pageEl.innerHTML = btnHtml;
-    }
-
-    function goPage(prefix, page) {
-        if (prefix === 'c') {
-            cPage = page;
-            renderNewsList('competitorNews', 'competitorPagination', getFiltered('c'), 'company', C_COLORS, cPage);
-        } else if (prefix === 't') {
-            tPage = page;
-            renderNewsList('trendNews', 'trendPagination', getFiltered('t'), 'category', T_COLORS, tPage);
-        } else {
-            dPage = page;
-            renderDisclosureList('disclosureList', 'disclosurePagination', getFiltered('d'), dPage);
-        }
-        document.querySelector('.news-card').scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }
-</script>
-</body>
-</html>
+if __name__ == "__main__":
+    main()

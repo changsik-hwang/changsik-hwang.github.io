@@ -221,9 +221,9 @@ def fetch_dart_by_code(company, corp_code):
         params = {
             "crtfc_key":  DART_API_KEY,
             "corp_code":  corp_code,
-            "bgn_de":     (datetime.now(KST) - timedelta(days=90)).strftime("%Y%m%d"),
+            "bgn_de": (datetime.now(KST) - timedelta(days=1095)).strftime("%Y%m%d"),
             "end_de":     datetime.now(KST).strftime("%Y%m%d"),
-            "page_count": 20,
+            "page_count": 100,
         }
         response = requests.get(url, params=params, timeout=15)
         data     = response.json()
@@ -270,16 +270,33 @@ def fetch_dart_disclosure(company, company_name):
 # =============================================
 
 def deduplicate(data):
-    """링크 기준으로만 중복 제거"""
-    seen_links = set()
-    result     = []
+    """링크 기준 + 같은 탭 안에서 제목 기준 중복 제거"""
+    seen_links  = set()
+    seen_titles = set()
+    result      = []
 
     for item in data:
-        link = item.get("link", "")
+        link  = item.get("link", "")
+        title = item.get("title", "").strip()
+        tab   = item.get("tab", "")
+
+        # 제목 정규화
+        title_normalized = ''.join(c for c in title if c.isalnum() or '\uAC00' <= c <= '\uD7A3')
+
+        # 링크 기준 중복 체크 (탭 무관)
+        if link and link in seen_links:
+            continue
+
+        # 제목 기준 중복 체크 (같은 탭 안에서만)
+        title_key = f"{tab}:{title_normalized}"
+        if title_normalized and title_key in seen_titles:
+            continue
+
         if link:
-            if link in seen_links:
-                continue
             seen_links.add(link)
+        if title_normalized:
+            seen_titles.add(title_key)
+
         result.append(item)
 
     return result

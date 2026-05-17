@@ -14,7 +14,7 @@ from kiwipiepy import Kiwi
 # =============================================
 
 KST       = timezone(timedelta(hours=9))
-KEEP_DAYS = 180
+KEEP_DAYS = 1095
 
 DART_API_KEY = os.environ.get("DART_API_KEY", "")
 
@@ -221,9 +221,9 @@ def fetch_dart_by_code(company, corp_code):
         params = {
             "crtfc_key":  DART_API_KEY,
             "corp_code":  corp_code,
-            "bgn_de": (datetime.now(KST) - timedelta(days=1095)).strftime("%Y%m%d"),
+            "bgn_de":     (datetime.now(KST) - timedelta(days=1825)).strftime("%Y%m%d"),  # 5년
             "end_de":     datetime.now(KST).strftime("%Y%m%d"),
-            "page_count": 100,
+            "page_count": 100,  # 최대 100건
         }
         response = requests.get(url, params=params, timeout=15)
         data     = response.json()

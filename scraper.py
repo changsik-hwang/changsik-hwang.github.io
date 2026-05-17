@@ -270,7 +270,10 @@ def fetch_dart_disclosure(company, company_name):
 # =============================================
 
 def deduplicate(data):
-    """링크 기준 + 같은 탭 안에서 제목 기준 중복 제거"""
+    """
+    - 뉴스(competitor/trend): 링크 + 같은 탭 안에서 제목 기준 중복 제거
+    - 공시(disclosure): 링크 기준으로만 중복 제거
+    """
     seen_links  = set()
     seen_titles = set()
     result      = []
@@ -280,23 +283,21 @@ def deduplicate(data):
         title = item.get("title", "").strip()
         tab   = item.get("tab", "")
 
-        # 제목 정규화
-        title_normalized = ''.join(c for c in title if c.isalnum() or '\uAC00' <= c <= '\uD7A3')
-
-        # 링크 기준 중복 체크 (탭 무관)
+        # 링크 기준 중복 체크 (모든 탭 공통)
         if link and link in seen_links:
             continue
 
-        # 제목 기준 중복 체크 (같은 탭 안에서만)
-        title_key = f"{tab}:{title_normalized}"
-        if title_normalized and title_key in seen_titles:
-            continue
+        # 제목 기준 중복 체크 (뉴스 탭만 적용, 공시는 제외)
+        if tab != "disclosure":
+            title_normalized = ''.join(c for c in title if c.isalnum() or '\uAC00' <= c <= '\uD7A3')
+            title_key = f"{tab}:{title_normalized}"
+            if title_normalized and title_key in seen_titles:
+                continue
+            if title_normalized:
+                seen_titles.add(title_key)
 
         if link:
             seen_links.add(link)
-        if title_normalized:
-            seen_titles.add(title_key)
-
         result.append(item)
 
     return result

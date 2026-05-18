@@ -62,7 +62,7 @@
         .metric-row { display: grid; gap: 10px; margin-bottom: 14px; }
         .metric-row.cols-5 { grid-template-columns: repeat(5, 1fr); }
         .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
-        .metric { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 16px; transition: border-color 0.2s; }
+        .metric { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 16px; transition: border-color 0.2s; cursor: pointer; }
         .metric:hover { border-color: #4f8ef7; }
         .metric-label { font-size: 11px; color: #888; margin-bottom: 6px; display: flex; align-items: center; gap: 5px; }
         .dot { width: 7px; height: 7px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
@@ -71,7 +71,8 @@
 
         /* 공시 요약 카드 */
         .disclosure-summary { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-bottom: 14px; }
-        .disclosure-summary-item { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 16px; }
+        .disclosure-summary-item { background: #1a1d2e; border: 1px solid #2a2d3e; border-radius: 10px; padding: 14px 16px; cursor: pointer; transition: border-color 0.2s; }
+        .disclosure-summary-item:hover { border-color: #4f8ef7; }
         .disclosure-summary-label { font-size: 11px; color: #888; margin-bottom: 6px; display: flex; align-items: center; gap: 5px; }
         .disclosure-summary-value { font-size: 22px; font-weight: 700; color: #fff; }
         .disclosure-summary-sub { margin-top: 4px; }
@@ -377,13 +378,16 @@
         renderDisclosureList('disclosureList', 'disclosurePagination', getFiltered('d'), dPage);
     }
 
-    // ── 공시 요약 카드 ────────────────────────
+    // ── 공시 요약 카드 (클릭 시 필터 적용) ───
     function renderDisclosureSummary() {
         const el = document.getElementById('disclosureSummary');
         el.innerHTML = COMPANIES.map(c => {
             const col   = C_COLORS[c];
             const total = disclosureData.filter(d => d.company === c).length;
-            return `<div class="disclosure-summary-item">
+            const isSelected = dFilter === c;
+            return `<div class="disclosure-summary-item"
+                onclick="setFilter('d','${c}')"
+                style="border-color: ${isSelected ? col.hex : ''};">
                 <div class="disclosure-summary-label">
                     <span class="dot" style="background:${col.hex}"></span>${c}
                 </div>
@@ -406,18 +410,20 @@
         }
     }
 
-    // ── 메트릭 카드 ──────────────────────────
+    // ── 메트릭 카드 (클릭 시 필터 적용) ─────
     function renderMetrics(elId, keys, data, field, colors) {
         const today = new Date().toLocaleDateString('ko-KR', {
             timeZone: 'Asia/Seoul',
             year: 'numeric', month: '2-digit', day: '2-digit'
         }).replace(/\. /g, '-').replace('.', '').trim();
 
+        const prefix = elId.includes('competitor') ? 'c' : 't';
+
         document.getElementById(elId).innerHTML = keys.map(k => {
             const total    = data.filter(d => d[field] === k).length;
             const todayCnt = data.filter(d => d[field] === k && (d.date||'').startsWith(today)).length;
             const col = colors[k];
-            return `<div class="metric">
+            return `<div class="metric" onclick="setFilter('${prefix}','${k}')">
                 <div class="metric-label">
                     <span class="dot" style="background:${col.hex}"></span>${k}
                 </div>
@@ -530,6 +536,7 @@
         } else {
             dFilter = val; dPage = 1;
             renderFilterBtns('disclosureFilter', [...COMPANIES], 'd');
+            renderDisclosureSummary();
             renderDisclosureList('disclosureList', 'disclosurePagination', getFiltered('d'), dPage);
         }
     }

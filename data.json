@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-19 03:00",
+    "updated": "2026-05-19 04:13",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -1878,6 +1878,16 @@
             "date": "2026-03-30 16:00",
             "description": "",
             "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "올해도 국회 재산 1위는 ‘1200억’ 이사람(Feat.안랩)",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9COGhBbkkyQmUwdHFveHpXdFN1bmZjc25IVmJlUHVmRXhyNDB3bEJHbk9veGUxZXRvOUFDRHduZWd4dnJNcWpjTmdJejgzdFEt?oc=5",
+            "date": "2026-03-28 16:00",
+            "description": "",
+            "company": "안랩",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6253,6 +6263,26 @@
             "is_today": false
         },
         {
+            "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
+            "date": "2021-04-20 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[상장기업분석] 윈스, 네트워크 보안 기술력 인정·실적 양호...'AI 클라우드'까지",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CZV9pUFZvWlhKS09vVjhzRkFZM3JKM2FCUi1Sa3NHNXFWR1JWRU1LejlNVU56OW5wY1lNaFd5b09NU0pMaGYtRmJ0WEh4UQ?oc=5",
+            "date": "2021-04-12 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
             "date": "2021-03-24 16:00",
@@ -6893,16 +6923,6 @@
             "is_today": false
         },
         {
-            "title": "기존 제품에 IPS 및 바이러스월 통합한 통합보안 솔루션",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOVVo2LUVpb0cwbHc3T3N1emtkM2s4anpZS09uaVh0cHBJVzIzOTR1SVpWd1BKOGxiZXFPMzVOYnlXeE9UclZiZFhiRUw1WFROVjdlcW1Md0o5YjBnN2xPTDFteFk5U2prakxVbWk5UjQ?oc=5",
-            "date": "2005-09-30 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, 빌리안, KT 홈엔 홈게이트웨이 평가 통과",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSc3BQNUo3MV9YSWpMTG1OM1NZNlh4Z09iQTVrX1I0S1FCLXlGWTExY1FWazc5V1A0Q3ExNXA1cmlBT2RDVjNkcDZCR2JGTGhZa1doYlZoZzQ4OWVqWUsxeUN1U3lzNzVXMnBhbEpENmU?oc=5",
             "date": "2005-04-18 16:00",
@@ -6976,16 +6996,6 @@
             "title": "퓨쳐시스템, 미국에「첫 발」",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10RllQaWNLZEJYVDZhOFVwcDJNV0c2U2J2UkE5cl9wV3c4dUlxaDhzUU9HVHpJWkRSWGRZNl9TYTFGNXR2UDNxSmlpWHhrNkVEVVRDSERn?oc=5",
             "date": "2003-05-16 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템, 미래에셋 VPN 구축 사업수주",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PUFVKaFMwZS1MTUkzVzB3M1BYZ1JlOW9pdVVMM3FCM1o1ZWVGazl3cm9qSXY0R0dZS2VUamhUTEIzeHBOWkN5cnkzbDNGeUUzQkdkVTQyX3FRZTVqR09zaFlMcHhGQQ?oc=5",
-            "date": "2002-12-23 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -7431,6 +7441,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "“양자 암호 붕괴 기술은 원자폭탄급 위험”… 최순원 MIT 교수, 기술 윤리 강조",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kYWh2WGozb0U2eEhFWXN4NEwzMHp0OEhaZkI0NDRGMlg2S1JFQXdVWTQzZEJBc29qQm9Hbm5CNEhEOFJwcS1sOGhjX1F0QTl6R0h0MVVZVGNoVHVrcmZxMzAtem5rN1JJdVBQVdIBb0FVX3lxTE5hWWNLcDdBdVJYYmRZZHRvV1BnSWlTMDlSWnpzRGZLNkZuSXRqYk11RjlULUE5XzAzQ01Mdjc4VUJhdzJkckxwa1VLMnQ4WjRJLWNhazVRbGxsdjctVUU2TW9rZjBsa3ZETWxkdGhMRQ?oc=5",
+            "date": "2026-05-18 16:13",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "과기정통부·오픈AI, AI 기반 사이버 위협 대응 협력 논의",
@@ -8069,6 +8090,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "“제2의 미토스 사태 막아라”…‘STK 2026 시큐테크쇼’, 산업 인프라 보안 솔루션 총집결",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12dG4yYlVJU1Z5YUdtYVNpbEN3R2lhS0RmYmdjOGxBeElKR0xqX3VVVGJIc2Q5RXo0RTBlbWVCYUIzQkRrcDZFYjQ1SEgtNGtSLTVoQUN3aE5FOGtucWo4dUhHQU13N0hV?oc=5",
+            "date": "2026-05-18 11:20",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "팔로알토 네트웍스 CTO “AI 사이버 공격, 수개월 내 표준될 것”",
@@ -9804,6 +9836,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[특보] 양자컴퓨터 시대 개막 >> 코위버, 국가 양자암호 통신망 핵심 공급자로 부상 -> \"보안의 끝판왕\" 양자 핵심 기술 확보에 코위버 수급 블랙홀 형성",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FNDItS0pXWmFzNzFKaXFzRXhwZ0FyeVZkUS1FYTJnRG9mcnRCbXNyNFpldHFqUDB0NEIySmxtME9lbmlXWWlYQWJfM2xUNlE3bEVveHBIS1ctQnJya2JtTlRkVEl4RDcycl82NzR0SENtdw?oc=5",
+            "date": "2026-05-15 07:56",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -21325,11 +21368,11 @@
     "trend_monthly_keywords": {
         "2026-05": [
             {
-                "keyword": "오픈",
-                "count": 52
+                "keyword": "미토스",
+                "count": 53
             },
             {
-                "keyword": "미토스",
+                "keyword": "오픈",
                 "count": 52
             },
             {

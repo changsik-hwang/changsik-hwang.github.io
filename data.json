@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-18 19:00",
+    "updated": "2026-05-18 20:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -1363,6 +1363,16 @@
             "is_today": false
         },
         {
+            "title": "안랩, 일본 IT 전시회 Japan IT Week Spring 2026서 CPS 보안 솔루션 전시",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VX0ZzdmwtY0RHQUFjTGJUZkFFNlRpZV9nWHpaamU4TVdHQjEwbHhKeC1LVjJfWWtnNzYxU0RJZEU2RG9tWmllTnBJSlQwMEhidnM0Tm9nQ1JYMFdrVklXS0dWVUtISUdvUEl2TGp3TTdJNU0yWklnQ0ln?oc=5",
+            "date": "2026-04-13 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷 투자분석 2026. 04. 11",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GRVdZd2RlUGVJeXQyZlFtRFpnUk5MbzRWd2ltTmEzTGtkWFRFLWtKVl9RMFN0LTVZVFhRTDhoQVI0ckNLU2hfdFhobUtwX3F4T2hLeGJJOVNSZnVLMDBhUmp2Q3I0UzJvSTFRMlBKaS1ETTg?oc=5",
             "date": "2026-04-11 16:00",
@@ -1508,6 +1518,26 @@
             "date": "2026-04-03 16:00",
             "description": "",
             "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[넥스블록]안랩블록체인컴퍼니·SKT, 슈퍼월렛·WaaS 전략 공개",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zaldkMmFPUFBQQkFGUEJMM200S1c5amdGbkU1MmZHRjJ0anNKYXo3aFptVElFU1Q1Y1lNaHZOV3MzMW9sV2lqVnFsTDg2V2h3NVBsSA?oc=5",
+            "date": "2026-04-03 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩블록체인컴퍼니-콜리전스, AI 에이전트 전용 '에이젠틱 월렛' 공동 개발",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9vemFzeGFlN0pkVVphQ2NsTXhaTTBBOHhsUWVBdy1HMzJCeXlJdTZQcE5HYktnWWZLMFBGMlVWdGZ0NzU5MjdzaU5uUlA3dw?oc=5",
+            "date": "2026-04-02 16:00",
+            "description": "",
+            "company": "안랩",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -2143,6 +2173,16 @@
             "is_today": false
         },
         {
+            "title": "이란 전쟁에 중동 사이버 보안 시장 '들썩', 안랩의 사우디 합작사 라킨 수혜 가능성",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EVXBPcEZaSjNWbnM1VWdRS0FQR1VzUldiREdIQ1JVeDFBUF9paWU5X1lCM005U0RXbC1yd1Bub2xKT0hIRTczNHlYYjJBZmFadU00QjhUa2pGLTBFQkE5R3AydWxvRkk0T2hKRHRzVUFQaTg?oc=5",
+            "date": "2026-03-08 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[3월 1주차] 사랑의 열매 기부자 개인정보 유출부터 와이파이 보안 취약점까지❗이번 주 보안 브리핑",
             "link": "https://blog.naver.com/kxnexg/224206964340?fromRss=true&trackingCode=rss",
             "date": "2026-03-07 10:00",
@@ -2453,6 +2493,16 @@
             "is_today": false
         },
         {
+            "title": "안랩, 임직원 자녀 대상 ‘2026 겨울시즌 미래상상 코딩캠프’ 개최",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MQjJMUGpORjU5aFp3dkptVEFEeU9BMXNnbFVDWXlBaFdOcDljTDZCRGhqOThtZFdFZ2dxcGNsUXE4VkdWRWxoZWVqVkpHTnZBaHV0VG9NSWNtTVM3bWs1Y3dleHZtUDlyT1BVamxR?oc=5",
+            "date": "2026-02-13 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[2월 2주차] 루이비통 고객정보 유출부터 설 연휴 사이버범죄 예방까지❗이번 주 보안 브리핑",
             "link": "https://blog.naver.com/kxnexg/224182708663?fromRss=true&trackingCode=rss",
             "date": "2026-02-13 15:02",
@@ -2618,6 +2668,16 @@
             "date": "2026-02-05 17:00",
             "description": "",
             "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 피싱 문자 10건 중 5건은 ‘금융기관 사칭’",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzQkl1VWJQTUhRVjR2bjA0Q01KV2hpWHFuTmx1aGtwcVl2d05FUUludFVreU1XUHlxM0pHMXRKMDdzcGJBcDNnVGZBa3g2WVJBclMyLWlR?oc=5",
+            "date": "2026-02-05 17:00",
+            "description": "",
+            "company": "안랩",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -3353,6 +3413,16 @@
             "is_today": false
         },
         {
+            "title": "안랩클라우드메이트, ‘민간클라우드 기반 AI·데이터레이크 활용지원 사업’ 완료",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CUmRPcmI4cXVXM1ZUZEgydjZjdVp0UHhDdVo4bkVrSVZ5Y1FkMVV0X3gydWxzdWZoRU5SMjljWHcwMkxaYzJpeWhCRVdyMThwV2ZtNUtyRWlHaFVqMUFBa09yR2tKcnNBOThxVUl0elo5bTQ?oc=5",
+            "date": "2025-12-11 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "안랩 ASEC 양하영 실장, '시큐어코리아'서 ETRI 원장상 '영예'",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02Vlp5dlNZQzhvVS1EMjk5RlZCNE0waUhCdUY1dFJYVUZPaGdlV2xUOVZ6eTJVeHVyNW5UQWVDWERDZGFvMUpLU0Q3ZG9qLU5Pb2JhWGZB?oc=5",
             "date": "2025-12-08 17:00",
@@ -3443,6 +3513,16 @@
             "is_today": false
         },
         {
+            "title": "안랩 V3, ‘AV테스트’ PC용 백신 평가에서 인증 획득",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTdVRPR0RyQXNpOGdEclJWSkE0Znk5TzlFUVQ1Q1NUM0FVUTlTRFdmUnp4UVJBOGRWX2dwM3M4STdlNWVOd3RUNVFGZnJGaUszei1PR0lmWER3ZWZ3Q1Z4RC1HX2Q4bTQ?oc=5",
+            "date": "2025-12-02 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "안랩, 기업 보안담당자 대상 ‘안랩 ISF 스퀘어 2025 for Enterprise’ 성료",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zdG1MT0ZWLURST05mZjAtWUJGdGJVTmZ6WjM0WTRtWjZsNVhJY2N2SzdHNEJxS28zM3hKMEZwUzFseTd6OEdOb0ZvN2YzdVZ1QTZFSkFGQlhrWnE0S0I1MkxITVl2M0lDaGxjVg?oc=5",
             "date": "2025-11-28 17:00",
@@ -3495,6 +3575,16 @@
         {
             "title": "“AI 기반 공격 전방위 확산”…안랩, 5대 사이버보안 위협 전망 발표",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nM0FxS0Y1TEJWdG1XZzFzcnJKVHVFdUVoclZSNlBTX29IZHV1WHFqQy0zOGxqeGF6S096NThGMTYydmNOeXFwVnZRVEJFM0RXU1ZmQ0VmZ0k5aWpLdy12Y0o2a1I5a0E?oc=5",
+            "date": "2025-11-27 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩 “내년 AI 기반 사이버 공격 정교화… 국가 인프라·공급망 위협 커져” - 조선비즈",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWFlib0p2TEhPY1ZMalJqWXJGXzNYakRXLVdtRlRLUEM1S3ZRSkxCNERaWTR3eV9MMXhlY0tQZ2p6Zk1tQW1VTmJRcGVVaTZ5ZlVRQ19PM0l1UXR6RktzNjJxWDk3cjhWakJYZi1xbTNxTDZPWDdzMjFOeGQ4akNGeHRn0gGWAUFVX3lxTFBVOENsZ0UyUnd3NEprS0RseGItMmdsb2UxdVpWdmdCUHBBNUFRdzBPTmdBdUxJZjBWaUZJUFFGa3BxUzhpTU84VkZ2RWwwX2JvcTFlWTBZS2lBdkRqb0hDUjBzRDFzV3F2S3laTGlSek9hdHU1cHNzaE41MVNxZkJXQXkxNUZ5NHRIMU12bWc0Uk1BanJnZw?oc=5",
             "date": "2025-11-27 17:00",
             "description": "",
             "company": "안랩",
@@ -3753,6 +3843,16 @@
             "is_today": false
         },
         {
+            "title": "KISIA, ‘시큐리티 아카데미’ 6기 수료식... 안랩·SK쉴더스 참여 ‘실무형 인재’ 육성",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEVURSeG5wNHg4NVpYa0ppbFNDQ25uaGdMM3ZRYlQ4cVE2YjhQSjFHdnNZM3VmczYwTTFqWGhNOXV0Y2xEUlBhclNtSDc4REVHV0tRMmZPUkdDZm1aemVjdkowaEc4cS1feFJMU3NB?oc=5",
+            "date": "2025-11-04 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이, 2015 하반기 대졸 신입사원 공개채용 실시",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HWnRpQXJaVFdKR1JqWkJwd2ZQZ3prUVpnWUFiSDdVOGN2NndUbU51NkR5dFU4aGlYVWljdGNtR1gzY2U0UHlrbmtsU01Ncm42azV3UmZBSXUtbFAtLWF6dURGQWpzb2Z2ZWJz?oc=5",
             "date": "2025-11-02 16:00",
@@ -3855,6 +3955,16 @@
         {
             "title": "안랩, 일본 '시큐리티 데이즈'서 CPS 통합 보안 솔루션 선봬",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96VGlvOVp4bG51RmhHQkJQOHdTNENUYUVmNXY4YW1qeHdoSFM3YWJ2dkpYdG93RVJIc243Qy1zUGlLbElRbmlQMUNlc1g5UDdiUkFPUWl5aXpLMTVXTDl2dFNmbEdydw?oc=5",
+            "date": "2025-10-24 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 일본서 IT-OT 통합 보안 플랫폼 선보여",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83SXNVNmRHbjdSNElBa3dzSC1maTdjbnhwQnFYdk9yX2Q5ODU3WjlpMHBMa1FIOWpKcHlMbENYZmZlT3BxSDBiWXQ3MVdicHdJakRqdG8wRnc1M0pqYWNz?oc=5",
             "date": "2025-10-24 16:00",
             "description": "",
             "company": "안랩",
@@ -4105,6 +4215,16 @@
         {
             "title": "안랩, 말레이시아·인도네시아 등 동남아 주요 보안 전시회 잇따라 참가",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKLVNOSjhrLUl2RFpYVGJ0MERYbDh3clZJOWw2RnJQR1lEZkhZNnBfeTdraUdHMVVQSWdONERCN2lmQ0hJdjhBNTRKUVlka0ZpMjhUcEJkSUpuczJUNlhN?oc=5",
+            "date": "2025-10-15 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩 \"말레이시아·인도네시아 공략\"...보안 전시회 잇달아 참가",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mTWpuRjgxa1pIS1pJcVBUdkZ3MExCemNmV2R2WVJZRlB5bmdGaUwyMDFmWVlZd0ZxcC00c0tMVl93WHFFbHNzSVdqaGtGT05GeEo1WlJB?oc=5",
             "date": "2025-10-15 16:00",
             "description": "",
             "company": "안랩",
@@ -5993,8 +6113,8 @@
             "is_today": false
         },
         {
-            "title": "토종 차세대방화벽 나가신다...공공시장 교체 수요 잡아라",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94T3B2cGVHdEtPbEpDR3AxWGZPemI0WGpMRE1HaHBuY2RxRzZqZnc5SWR4M01SV2ZGcVZtdC1xWTVfR2JvdTFNNHFlLTJKNGtvalBIbHdrQUh6VmxlWUhtVEN4N0o?oc=5",
+            "title": "토종 차세대 방화벽 나가신다...공공시장 교체 수요 잡아라",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBERENpalkyaWd1bGh4VU5CamxlWTVHaGppWXM2dGJoS0lKTEJoRV9EZHlYeC01amxKdEZ4eW1tRFRycXByazB4V2U5R25FUQ?oc=5",
             "date": "2016-06-07 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -6006,6 +6126,16 @@
             "title": "비욘드솔루션 “퓨쳐시스템 `위가디아 WIPS` 공급...유무선 통합 보안 제공”",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FTjVLLWk0d0szOFNNcEEyczNmdVI1aUJfUnJsc1lNZ0planlfdDBWOXR5M1ZzaklHUGR0QUdwX29aaVE1UVdhU3RSWVN5Zw?oc=5",
             "date": "2016-04-01 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "(주)퓨쳐시스템 2026년 기업정보 | 60건 면접후기 3.0 면접난이도",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVlfTkY0Tk9MZnI5TkJuZDhtZlhpTWhaN1MtRUNxYnJlTThEeHZGOXFDdDJqbENYRUJ1UVJhanA4V3RrU2ZYeFdHM3BCMndJbTNxVWQybXpQMmhqTlBGWVJxdTE5eVhoem5hSVhTQVQyZ3h2bFNZYUdrZlFUVEtFZW9qSkJTZWY4MW5tRi1iUjkyS2xZS1ljYVp3bWtRZ0xwNWc?oc=5",
+            "date": "2016-02-27 05:29",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -6243,16 +6373,6 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, 차세대 방화벽 ‘WeGuardia NFW’ 출시",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14THlhdk1hcFBDX0M3UkZxbFhSUWExZXRBcnhaZnB2Wmx5dmNnS2hMYk9DS2Z1OVQ4anU0dVNXLWs2V3IyVFNwRDBiVFNDM0dBU20tNFVfQ1dvNzE1QTBMTVZKUERVOTJMVmk1OXRDd1BHUQ?oc=5",
-            "date": "2012-10-07 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, 상반기 최대 실적 달성",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5M2VKaHV1cVAyYzFzS1hzOURubXpDWmdaMUpLSDlnN3MwRVFGZVoxRFMwUVRCX3FXSTlJMEtpdGVRNUE3amh4QmxIcWZyRTFXVTJUd3hrRHEwcW4tU29xUWFwV3c1SHI0RzFuV2VrZDB0QTg?oc=5",
             "date": "2012-07-26 16:00",
@@ -6443,16 +6563,6 @@
             "is_today": false
         },
         {
-            "title": "기존 제품에 IPS 및 바이러스월 통합한 통합보안 솔루션",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOVVo2LUVpb0cwbHc3T3N1emtkM2s4anpZS09uaVh0cHBJVzIzOTR1SVpWd1BKOGxiZXFPMzVOYnlXeE9UclZiZFhiRUw1WFROVjdlcW1Md0o5YjBnN2xPTDFteFk5U2prakxVbWk5UjQ?oc=5",
-            "date": "2005-09-30 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, 빌리안, KT 홈엔 홈게이트웨이 평가 통과",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSc3BQNUo3MV9YSWpMTG1OM1NZNlh4Z09iQTVrX1I0S1FCLXlGWTExY1FWazc5V1A0Q3ExNXA1cmlBT2RDVjNkcDZCR2JGTGhZa1doYlZoZzQ4OWVqWUsxeUN1U3lzNzVXMnBhbEpENmU?oc=5",
             "date": "2005-04-18 16:00",
@@ -6523,16 +6633,6 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, 미국에「첫 발」",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10RllQaWNLZEJYVDZhOFVwcDJNV0c2U2J2UkE5cl9wV3c4dUlxaDhzUU9HVHpJWkRSWGRZNl9TYTFGNXR2UDNxSmlpWHhrNkVEVVRDSERn?oc=5",
-            "date": "2003-05-16 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, 미래에셋 VPN 구축 사업수주",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PUFVKaFMwZS1MTUkzVzB3M1BYZ1JlOW9pdVVMM3FCM1o1ZWVGazl3cm9qSXY0R0dZS2VUamhUTEIzeHBOWkN5cnkzbDNGeUUzQkdkVTQyX3FRZTVqR09zaFlMcHhGQQ?oc=5",
             "date": "2002-12-23 17:00",
@@ -6564,6 +6664,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "토스페이먼츠가 양자·AI 시대를 준비하는 방법",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhTWpCejdQaTlWNHVleTRvd2JFRndjdDM0Wmw0bGJ6eUEwSi1tRC1iUkNuOVM5cks0VWsyR2hKWEFFcmtFeFZ0bVl2d0NsSHM?oc=5",
+            "date": "2026-05-18 19:40",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "과기정통부, 앤트로픽 이어 오픈AI와 'AI 보안 워크숍'",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TMnRmWEpNMThnSVN2dDAtbG9PWnpSOUhDa3dmd3U4Yk9ielFyODVkdWVNc1BfLWN1c01NZVlmU005Z3lvdFlxZHRfZXZUYjBpZllFb0E1VkhjdUZuTkw4eGNYZjktczEyTkVsNtIBbEFVX3lxTE1TMnRmWEpNMThnSVN2dDAtbG9PWnpSOUhDa3dmd3U4Yk9ielFyODVkdWVNc1BfLWN1c01NZVlmU005Z3lvdFlxZHRfZXZUYjBpZllFb0E1VkhjdUZuTkw4eGNYZjktczEyTkVsNg?oc=5",
@@ -7162,6 +7273,17 @@
             "title": "SK쉴더스-NHN와플랫, AI 기반 시니어 디지털 돌봄 사업 협력",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45ei1waW5RRkowY3FDakpTUGIyNFM2UUlGUXVoa1BOa2FEZGRieWltMXRpYkhISURDMzN0dmpQTDRJSGo4NC1uVUlPMUxfSk5aS1pobjNsRVNBNTFwMTZmX3NRMHUxS2ZHQ0xwUw?oc=5",
             "date": "2026-05-18 14:40",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "에이전틱 AI 시대, 보안관제 인력 재교육 위한 8가지 원칙",
+            "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQV2s4Tmkwc3JEMEJJRlYwbWlxVmtQT09KeWpWbUlNTTI2cWFLMW1WUWJoTC1XdHduMGZpdUluRVZEZWtBdFE5Zy1FY0FvTjNTdHZ1NnIxcFJPeGV6NHVzQzEteDZnNnU3YW1LemxiRUZadm9seGpQYUNuTG1CU2FYU2lmQzIxMHcwenZ1NjdJT1VJYVp3WWpJQ3RLVW5VbFNxUEZuTUw0VXhDZTNvTGw2WC1ucWxSNlNlM3ZXay1QRXRUOFItU0VZQnItNTRYRFoxSHNuQXdjdFFfejZxa3gxeVRhSGNDb1EtRkduSTNtX2hwMXJYeHVzOHYzMjFUZTdIRWJrTkNmV3Z3MjhDMjNJb1llVTJOS3c0YWFxQ1ZfeGw0cTVrd2ItaEJSc255RWF1Y2x0dFA4VURPUEx2Y0RtVUVGQmN2QVZoWGhGVG1ybTVldw?oc=5",
+            "date": "2026-05-18 14:38",
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
@@ -8900,6 +9022,17 @@
             "title": "한컴위드, '2026 제로트러스트 도입 시범 사업' 참여",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aU01DLUFmOHg4Mm93XzZ1c2NoQ25La1lRdTlHcFQ1NUtKYjRKN1RfTUhCNlJvZjdSWkhLelVyTEdaZzQ4U1p5QzFtYWFTUWw1X2RUdndPWkd3YlM4?oc=5",
             "date": "2026-05-15 10:14",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "한컴위드, 제로트러스트 시범사업 참여…지속 인증 기술로 보안 생태계 구축",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NMXVWUk5BeHZPcEltWlJKSFlCLTQ3QkI0dWEzV2tmX0Q5ZXpKLWxuSTBpMnRpVTRiUE9uVWpwM1k2dm56aEM4ZXRXdF9mSDd5QnhJSQ?oc=5",
+            "date": "2026-05-15 10:12",
             "description": "",
             "category": "제로트러스트",
             "keyword": "제로트러스트",
@@ -20042,7 +20175,7 @@
                 "count": 6
             },
             {
-                "keyword": "선정",
+                "keyword": "일본",
                 "count": 5
             }
         ],
@@ -20080,16 +20213,16 @@
                 "count": 46
             },
             {
+                "keyword": "제로트러스트",
+                "count": 45
+            },
+            {
                 "keyword": "정부",
                 "count": 45
             },
             {
-                "keyword": "제로트러스트",
-                "count": 44
-            },
-            {
                 "keyword": "시범",
-                "count": 32
+                "count": 33
             }
         ],
         "2026-04": [

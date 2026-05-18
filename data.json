@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-19 05:00",
+    "updated": "2026-05-19 06:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -6083,8 +6083,8 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia ITU·ITM 선보여",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13QnJLQkRVSndfczN1Z3QteC16Mzh2X0ZwUXViNGo3SU51aHowZTA5NkYtQXQtOFRMd3lsOF9PcU05aDZKaEdURE1yNHktR09TeWgwYW5weWZQb2daX0p3?oc=5",
+            "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia™ ITU·ITM 선보여",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FMDJ4TVV1TWVIYnBoTWUwNG90WEowWHd4VTB1N3dhU3J0dGlGRU45QjhfU0M2dER2Y2pJY21oaVQwSHhSSW1FYlZiakRhdw?oc=5",
             "date": "2023-04-05 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -6208,16 +6208,6 @@
             "date": "2022-07-11 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6473,6 +6463,16 @@
             "is_today": false
         },
         {
+            "title": "(주)퓨쳐시스템 2026년 기업정보 | 60건 면접후기 3.0 면접난이도",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVlfTkY0Tk9MZnI5TkJuZDhtZlhpTWhaN1MtRUNxYnJlTThEeHZGOXFDdDJqbENYRUJ1UVJhanA4V3RrU2ZYeFdHM3BCMndJbTNxVWQybXpQMmhqTlBGWVJxdTE5eVhoem5hSVhTQVQyZ3h2bFNZYUdrZlFUVEtFZW9qSkJTZWY4MW5tRi1iUjkyS2xZS1ljYVp3bWtRZ0xwNWc?oc=5",
+            "date": "2016-02-27 05:29",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[오늘의 CEO]김광태 퓨쳐시스템 대표",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wZU4zdm9YLTNWNzY5ZFRKNHRMdVZjbWY5XzhwOG1OU0dqbU91ZEZaeUVyYkR3MXVHSUNvYkZWV2ZZbGFwTWJHaW5QdHdNUQ?oc=5",
             "date": "2016-02-24 17:00",
@@ -6663,26 +6663,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 추석 연휴 비상대응체제 가동",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DSG44YTZmY1dvSWIxNkJFeG1jVGgteUE2R1BqUEZ6U3pyLWlOaWdEc3U4VVplTC1KRmJqWGw4bV9MejhYbFpGSDlNaG5BbVpSX3QwRXg4Z1gwNlk5UnVFaElTNkZtSk5lZ2FvbDJDYkl3QQ?oc=5",
-            "date": "2013-09-11 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷-케이엘넷, 정보보호사업 공동협력 MOU 체결",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzME9leGxnWTlSaHU4SDNPc3Zaa2xweE1NV3ZFLVNQNWFzMXphMmh0aWZBb1R4ZEV3Zlk4ZExYMk9OTTJwREluTXFWSXZqdmtreThkWXZNRi0zeGZwNWZhSFdPYlpuSWNrb2JreklHblJjSXc?oc=5",
-            "date": "2013-05-20 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이닷컴, 닷컴 빠진 SECUI로 사명 변경",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTVZGUjByNVQtUnEtaENHQjBiUVZuNzBRTTZuOTFTaHc4MHV0aEhXNWNBSG5SQlQ4dHRERVNaV3RiVEdnTVByOGFnTjRydVY0OG1MWDhKY0FsQ015ZDJ0UnZWOXlOU19JREE?oc=5",
             "date": "2013-03-29 16:00",
@@ -6798,16 +6778,6 @@
             "date": "2010-01-18 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이닷컴 마이크로소프트 MAPP 파트너십 체결",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoS2YwWVZ2cUEwN3hwVG9JZzcwWWxGdTlYc0pnQ2xqb3l1RWRWb2txb3RvRmowNmc4Nlk1eHFXODFfb3BmaWJaYl9fOHc5YUxrbzIzeEJ4VFNqRXcyTFBaN254OUN2RS1PakE2SU5sNEM?oc=5",
-            "date": "2009-09-16 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7013,6 +6983,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템 - SecuwayGate 2000",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PaFNtall3TnBUV1NWUy1raGZrWURRcXJyd1pFRng5VWs5NEloRnZTRlJRSzB3eWYyWXl3TTVNYXVIcHR0RnRnUXlYd3JRdW1OaWhvVlVn?oc=5",
+            "date": "2001-03-14 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, 보급형 통합 보안장비 출시",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5URFh1MGtQRlczb1I5bjJhTHVZand4b0ZHUnl2Z2lmZDdhTkNndUJLQVRDS0NsSE9HcjJsc1BxRW4yYlZZeDl5aU5hTQ?oc=5",
             "date": "2000-12-06 17:00",
@@ -7066,6 +7046,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "비탈릭 “AI·수학적 검증 결합, 암호화폐 보안 강화 가능”",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OdjRiSzdvU29QRTRwbHQxeW9kQ0d6SFhwNjZPSVJ1aHY1Wm1QY2twcFUwNFd6NVlmM0Vxam1KNEpoWTFiYmVxRg?oc=5",
+            "date": "2026-05-18 23:32",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "웨스턴 디지털, HDD에 양자 내성 보안 통합",

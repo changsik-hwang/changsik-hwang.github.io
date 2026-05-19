@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-20 04:00",
+    "updated": "2026-05-20 05:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -6723,16 +6723,6 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템-씨커스, '보안사업 역량강화' SCA 체결",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydjR2OG1ldlUwMmc2WjNpN3hfQUZBYUVUUlhXXzZycE9HM3NqeXF0RUxmajZBYWNRanA2d2NhNnE1Z3U3T2ZnWDhIblJKZw?oc=5",
-            "date": "2022-03-16 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이, 차세대 침입방지시스템 ‘블루맥스 IPS’ 출시...공공, 금융, 기업 시장 확대",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XSlNINGV5MmhRTDRNLXhib3NEMFlqRnBJT3FCanNiZlFYWWFxbzgxR2NMRWpIWTNaYmdlVWZDWXEtaGlpbUVUUXNWeWM5V29nTTRzUTdiWFBMS0F6M0hJck9Ja0pPNVlXVmRSNA?oc=5",
             "date": "2022-03-07 17:00",
@@ -6798,16 +6788,6 @@
             "date": "2019-12-17 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "AI가 잠재된 위협까지 탐지...'시큐아이 보안관제 서비스' 주목",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ldVNjRDRaUnFpYldMUEh1QmJtaVlLMF9SYUhrWUUwMkY3RkRIWkhOcmNUZ0lUV1k4UC1WeWVJMDZBYnl2SnhRa3VxeHVuQQ?oc=5",
-            "date": "2019-10-14 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7133,6 +7113,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 상반기 매출 285억, 영업이익 58억원",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wLUxEU0hxZlBDSHRkaFdHbl9hc19ENzQ2a1BjVUw4MTYxTUhMRnlhemVVSnZVNF9nUWxadFZiOUx4MzBOX2tuREJNSkFWUWdfeXotMXRHSHJtN25QV285RVc3ZzdKbUFEYVVFYk5xenZBZw?oc=5",
+            "date": "2013-07-29 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷-케이엘넷, 정보보호사업 공동협력 MOU 체결",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzME9leGxnWTlSaHU4SDNPc3Zaa2xweE1NV3ZFLVNQNWFzMXphMmh0aWZBb1R4ZEV3Zlk4ZExYMk9OTTJwREluTXFWSXZqdmtreThkWXZNRi0zeGZwNWZhSFdPYlpuSWNrb2JreklHblJjSXc?oc=5",
             "date": "2013-05-20 16:00",
@@ -7178,6 +7168,16 @@
             "date": "2012-12-27 17:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 다양한 사회공헌활동 전개",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VZlNPUUxBQVk2MUZsNXA1U1FfbHFSUVFVM19iTUFBZ05ROVJHY3pJSWlISFU2RWdJUENhMVBSVk5GVnc5YWdCY1QwdklJOGppV0dHSjBsZG9MOGVKNkJJdkN0VEsyaTFuTlRrNWxTZFo?oc=5",
+            "date": "2012-09-04 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7423,6 +7423,16 @@
             "is_today": false
         },
         {
+            "title": "행정정보보호용 VPN 제품 절반「퓨쳐産」",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pVGVkUDh1Y0NqMC0yODk1b3JncC0tY1dJZUdzWnBWOXhsajlFaVhZcFlTVWgxZHJNeEVJdm1kSlp4N3JYZ2luZG1rNjhvSDk2WklKZ3Bn?oc=5",
+            "date": "2005-03-22 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, IPS 통합보안 솔루션 CC 인증 평가한다",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JR2R2a1lsbVdxSUlVbnFONVE3VUdGS3MxVGVfenZET1NLNGhBa0lNcEtCMDh0U3dMSW5tMTlXVTZnbF9qZktNbUlxbzk2ZDJEMXItWmN3?oc=5",
             "date": "2005-02-21 17:00",
@@ -7514,6 +7524,50 @@
         }
     ],
     "trend": [
+        {
+            "title": "한컴위드, 디지털 금융·양자보안·AI 인증으로 보안 사업 확대",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoS3M5NTdhZ3M0eF9zMFN1WVBITUhuTE9IeTVTemtQOEhFOExYR0hyQng2VS00d0FlUUJfTWIyTXBRcV9TaHFpb2JhV3hMN3c?oc=5",
+            "date": "2026-05-20 04:45",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "미국 규제당국, 주요 은행 사이버 검사 일시 중단...AI 보안 우려",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LRFlmQ1NidWY5Z01ORnlkLVExNkUtOHRqRTdxNXdaVE9NTk1sSVp5RXdLWkRvVzZjeEhGU2hOb212ck5BeUlJR3g3blpDZzk1VExEZDJxa0tJQmw1TFl3YTRaTkE3dXkxV3JDampqdk8?oc=5",
+            "date": "2026-05-20 04:40",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "양자컴퓨팅 시대 대비 본격화… 국방망에 양자내성암호 적용 확대",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2NlI3VGxCa0EzZV9QeUtrNnJmMjU4Q21VUkV3bkZmR095RHJ0M0xMcXVRc1lRREdCekRya05kU3U2bWx5THJQdFV6YlQ5b0hieVJDQWhfQnRfbk1uVE9oOUNnNldIZw?oc=5",
+            "date": "2026-05-20 04:29",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[美특징주]아카마이테크놀로지, 'AI 보안 툴' 공개에도 전환사채 발행에 주가 3%↓",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbGxidTRzVTFUMmdtajgwb2VVQU04LWo5b2FuMi1WQjhPWE5UblI4ODJUX3UxX1B3ZmxMQjNoUFZPMEZxZlNETzlMMWtTRTdvSTNLYzBwLVNJbUZQMERtTE9DWjF2MG1RRkRBdlh3VHBFLTRpV09XRTZ0US1nNFRWaw?oc=5",
+            "date": "2026-05-20 03:47",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "AI모델·보안·영상…구글, 오픈AI·앤트로픽 조준 전방위 공세",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQU5USVBJcy1NbmVnQjNLOG85UnlNSk1IYWFZRWFwOC1tN2lTc0dQUXVJd3o4TlUzdHJTNXQ5TFp2VEhRaElFSFRWejFXbV8tUlQwS0VQVGdKR0XSAWBBVV95cUxOZXF5dDQzRFA2RU5GNGNYRjB4Nmctd01ydEFST2JXb2JPeHNKX3o0QlUycmlpQ0hrS1BMMDItY2syX2RpTGxrTUJjWUN3eFBhb0VPbGxGRFZaVEVaUWxERkg?oc=5",
@@ -25500,7 +25554,7 @@
         "2026-05": [
             {
                 "keyword": "국방",
-                "count": 88
+                "count": 89
             },
             {
                 "keyword": "오픈",

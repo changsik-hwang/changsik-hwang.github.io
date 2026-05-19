@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-19 20:00",
+    "updated": "2026-05-19 20:43",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -6423,6 +6423,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
+            "date": "2022-06-10 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 ‘STIC v3.0’ 출시",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdFFSTGFMdDBiZmUteG85MWRQQmlrZDEtckNmcWQ4cE5NNDRvYl9HLVFVUzk2OWdXZTRzTk9tNDdHQWJIZ093NE80VEpPX181R1BobVFaRlAyeUtIdEotM3JvY2tsaDZCZHY1ZktoY19uczg?oc=5",
             "date": "2022-06-09 16:00",
@@ -7354,6 +7364,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"양자컴퓨터 시대 대비 본격화\"…KT, 국방망에 '양자내성암호' 적용 나선 의미",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2cUFGalVHNlpJbjhkSmxMc0FubE16NGlENjBpTzFqYXFYZGFpSmg4azV6cjh3Z05Nd3pmZmtSTHVsRU5adk9Cb09KMk9hUXhtUGJ6TVZOUGlHQ3dHU2FyNVF5U3RUUTc1NklNS3dB0gFyQVVfeXFMTmFENXFjZ1BSYVMwNGxNNEc1bU9jdHprM01ZZEE5SHZsYVphVWxsMjJsNVF6SzBEdy1EZkoyOGtrWi1yUTY4eXNyeGVJbVNSTzd3VVd6REIwME9kT1JRWkxRc3VKSFoycWcxaVpKUEg2NFF3?oc=5",
+            "date": "2026-05-19 17:15",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -17710,6 +17731,17 @@
             "is_today": false
         },
         {
+            "title": "판교 연구소 키운 씨큐비스타, AI 해킹 방어 글로벌 표준 정조준",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZS1iYmU2bEVIYV9HRWJyaEtBV3hGa3gwWHg3MlNXQW83YjZtR2hHemZyX3dGQkdHRzlja1JGWEhRQmlGc3dTMjdGNEo3aVlHMVFuaUxwaXNDZWFIeDFLTUFDNjBuZ1BWbFZTdA?oc=5",
+            "date": "2026-03-19 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "옥타코, 넷츠와 MOU 체결… Phishing-Resistant 기반 제로트러스트 시장 공략",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95SzVCX3ktOWtPekx2dTJ3ZTFUSFN4c0g3ek92UC1KNE5icXdsOUR0T3dKZHMtRVNmeW1sa0F5QXExSzFLMThoYjNjd2MzNUg5aGtQOGVIV1M3S0NzMlRJWkxpYjlMQkM5b0RSUw?oc=5",
             "date": "2026-03-18 16:00",
@@ -21351,6 +21383,17 @@
             "is_today": false
         },
         {
+            "title": "[2025 NDR 솔루션 리포트] 진화된 사이버 위협과 고객의 니즈에 대응하기 위해 성장한 ‘NDR’",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHNkRGNV9DamZwWFB4bThWWjNjcGhrLWtPbFhfcURjNE1LOFoxQkNIOFlJY3VtVHNld0NMSi0zelg4c3R3N1VXSmV1amJXMmtuQVlDSVFHeDE1UXVTakhr?oc=5",
+            "date": "2025-09-10 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "씨큐비스타, 비복호화 AI·위협탐지 솔루션 자체 개발",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmd2kxZUdCQW1SQUtLUGpWeTE2eURvcGFQU0Q0bXE2dm52YzZ4MV9wWFV5LVZmazJDUDEyTWF1cTl2bnhLdXZwbjNQUUxoUWlva3JKc3o5QVducTA4YUJtSE5RVkQ?oc=5",
             "date": "2025-09-09 16:00",
@@ -21758,6 +21801,28 @@
             "is_today": false
         },
         {
+            "title": "위협 감지 및 대응 솔루션",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02eE9UUVVaRGM4NFg2aG5RZ3dBUzU0S3cwWkdqNFpnQUNfR1RWOU5FdFFpUWg5dmFkWXFLQmFYV2RFb0dvdDA4SHc3b0M5UHFDWmNWak9vSUowSGtIcmV6NG5hcmdjZUM5S3RFeEF3?oc=5",
+            "date": "2025-06-18 04:40",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Splunk에서 Uncoder AI를 활용한 리눅스 시스템 호출 위협 탐지",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3dwUUZWRllGZXpac3c5VUlFTnM4bE9jclNQdGFJX01uS2VXMndHRS1wSFMyTUxFci1hMUZ0V0dpenZZTzl6UU1hZVVJVW0xYnVybWVFSkFJSzRqSC1hU3ZfT2hBdkFFcjY2WVh5azlVdzhoTHRSeEU0akR5OE5WOVhIRUdCb2tZazYyLWRSRQ?oc=5",
+            "date": "2025-06-13 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "웹 브라우저 기반 ZTNA 플랫폼...VPN 대체 보안 솔루션",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XQnU3aHFIc013dk1OdWJwemZseUhaQS0wLTlfWmpyRmJtRm5VSV9ZNGlCU211WFZpd2lmVEJNZ0NpbHJWMS1PeFVIMHEteFk3Unh5Q25yenpIUkZEUU56cDNSelRCTHh2ZFE?oc=5",
             "date": "2025-06-10 16:00",
@@ -21874,6 +21939,28 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI 기반 네트워크 위협 탐지 및 대응 솔루션 샌즈랩 'MNX'",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5walR4cEtsc0tsaWJEcDJNRkVXUUNuVHZtSlpMMFZSbkJYUU9Ndk41VUhTeVRVQjAwRW4xc3pSV0VaM3FnVlpMbmJ5VHJtdw?oc=5",
+            "date": "2024-09-19 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI 시대의 사이버 위협 탐색 및 방어 강화",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTWVZbWNGSmVkRDhDV2V3ZUpYVEctRXJoMlFNdkFtQ1E0d09aUlN3bENaNEVhV1RtQzFCUVpkWnNqT25Vc0hGZnBzSXN3X0pOZ2dlaU81Wk9HTFBwcXFoeG5ZSG1oelNiajFDLW5DcDMtLXpmRHRKRVN1c1R0TWNSRFV2RjNaSFA2Rm10R2tjX29nN0xucFoxM1pQOUtPeDUtWDVXcnlEUHZEZWhzMlYtam9GT2tXc3FSTk90UkFlc3QzVlIzVEdJZE5CWFdlY3doMDJJYllxNGFvNXJyaDUyVlByY29wQQ?oc=5",
+            "date": "2024-09-05 09:36",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -24475,7 +24562,7 @@
         "2026-05": [
             {
                 "keyword": "국방",
-                "count": 77
+                "count": 78
             },
             {
                 "keyword": "오픈",

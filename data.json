@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-19 21:00",
+    "updated": "2026-05-19 22:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -6423,16 +6423,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 ‘STIC v3.0’ 출시",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdFFSTGFMdDBiZmUteG85MWRQQmlrZDEtckNmcWQ4cE5NNDRvYl9HLVFVUzk2OWdXZTRzTk9tNDdHQWJIZ093NE80VEpPX181R1BobVFaRlAyeUtIdEotM3JvY2tsaDZCZHY1ZktoY19uczg?oc=5",
             "date": "2022-06-09 16:00",
@@ -6843,16 +6833,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷-케이엘넷, 정보보호사업 공동협력 MOU 체결",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzME9leGxnWTlSaHU4SDNPc3Zaa2xweE1NV3ZFLVNQNWFzMXphMmh0aWZBb1R4ZEV3Zlk4ZExYMk9OTTJwREluTXFWSXZqdmtreThkWXZNRi0zeGZwNWZhSFdPYlpuSWNrb2JreklHblJjSXc?oc=5",
-            "date": "2013-05-20 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이닷컴, 닷컴 빠진 SECUI로 사명 변경",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTVZGUjByNVQtUnEtaENHQjBiUVZuNzBRTTZuOTFTaHc4MHV0aEhXNWNBSG5SQlQ4dHRERVNaV3RiVEdnTVByOGFnTjRydVY0OG1MWDhKY0FsQ015ZDJ0UnZWOXlOU19JREE?oc=5",
             "date": "2013-03-29 16:00",
@@ -7214,6 +7194,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "Safe Pro, Q3 미 육군 드론에 AI 위협 탐지 시연 예정",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95cFlXV043bGRERDZpTXhURzEtb2swWXJ5UDFLelVYVU5KOE0zV3AwYmNfUTdmb2ZPVjJUay0wUnJQclN2Ym00Sy1xQWJyMXZYSmVzZGVpcDdHTDlmZTZTLWNaOXpVMElSOVhORlBHMXo?oc=5",
+            "date": "2026-05-19 21:51",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "데이터독, AI 에이전트로 보안 조사 자동화·대응 시간 대폭 단축",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BczlBSHN6N1l2UkV5V21uOTY5eE9Zbk8yU3ZoeXFaR0tQZDBtaTZjZ0h1NURtU05EWm5HM1VhS3poQThfWXI0bm5OU1FXWXJLamVrVEtNaFREM3JRUTR6Z3JIYldFVTM1ZE8w?oc=5",
@@ -7941,6 +7932,17 @@
             "is_today": true
         },
         {
+            "title": "리눅스 토발즈 \"AI로 찾은 중복 버그 제보 급증, 메일함 마비 수준\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tLUFmdnIyTjA5SUxSamtneWVTUHNDaXE4R1EwSXMxLTB3bmhaYmdBU3NsWGNOdEd0Ym1fbE1yT1lWNG5wZDFfSmhhdTlIWm4xSW1UMTJ3?oc=5",
+            "date": "2026-05-19 15:08",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "[현장] 한컴위드, 디지털 금융과 차세대 보안 시장 정조준",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DWk1WQlhRdW54NUM4WnVJZGRpb01zMUtGamRnVUoxV2FkUFA0M1Q4MmVXS1p5dGN4V1NuVnFZQk5PVHk1V1FnR2dGWVFReV9aQzBwUUMzUTVFUlpLc0E0U01hc0hkOTJsWks00gFvQVVfeXFMUHIzYXlYVjFFTV9hTEtwMlNCUGp6TlBwUDdxUUN0eWpmUDVnOXY1UG90NVBLWkN6bWtHYl9xWjRsYWlUN19iNEg4NkpGeVBQNkEwenV4NXNoOGtfOXV4eHRZYTN6MWgxSmtFZHBYc2RJ?oc=5",
             "date": "2026-05-19 15:04",
@@ -8032,6 +8034,17 @@
             "title": "[POWER COMPANY]‘안전한 새벽 편의점’ 가능케 했던 에스원 관제센터, 이젠 AI관제로 ‘무인경제’ 시대 연다",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HYlJZOW84b0ZFdExpVlNkSmI0THZOTm1IMkN2M1p3TlFEWDJCckpNdWhZczcxWUxGSU92RXczNFdNX3VEYUpmVWZJQWtnNUE?oc=5",
             "date": "2026-05-19 14:32",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[POWER COMPANY] 관제 인프라 위 24시 편의점… 이젠 무인매장·홈 보안시대",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5saUhhRlg1dmJhcHZNdU9NdElhQWNBaFczRHBBMDNkNEtObVQyWG1xYUtmVEhCay1FRXhETkJQX3pxT24yRThteFZxWEVtUQ?oc=5",
+            "date": "2026-05-19 14:31",
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",

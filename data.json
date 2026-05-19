@@ -1,7 +1,17 @@
 {
-    "updated": "2026-05-19 08:45",
+    "updated": "2026-05-19 10:00",
     "current_month": "2026-05",
     "competitor": [
+        {
+            "title": "“단가 인상 공문인 줄 알았는데”...안랩, 교묘한 피싱 메일 경고",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4Q21NN2ZEUVZrT2pNY0VuUF9IQ0RYYTRSNkZkVE0xQ3BvRzlXbkJ0QjJTSDl4RUhZalhaNkRWSEFUZU94U2Z5dFZNWFpDcVY4eUNWbWg4bE96Q1BXM3hLRmVBalh4b2V4elE?oc=5",
+            "date": "2026-05-19 09:51",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "미토스에 보안우려 커졌지만…허덕이는 국내 보안업계",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZU1ZNVXZMZWVDb3AzVHRnYlE3YWdOSHdwSVpiQ01mWmJwQUxMZVZiOWhsU1RhVWRUZFQ5ek15RW01VFdmXzZxM2R4UC10VGgyaXp3?oc=5",
@@ -773,6 +783,16 @@
             "is_today": false
         },
         {
+            "title": "안랩, 엔드포인트 보안 'EPP'에 중국어 번체 추가…현지화 강화",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vVGcxWkJYN2ZiYU43Q3I0bGhVclFrMkVYLXpBekJJcjhaNlBxSjcwZkpGbWdpTzZqWXVLOUE0UUVxZkhDUERUb3BDWVlHZVZpdHktcmJlRUFSUdIBXkFVX3lxTFBpclVqb1FQYWY0WTI0VDNGRV9IUnBhc3JnZzFpel9Xc28yT0NaZ0M1UlNRYXVGMXRWTjZoRUFIY1Z3cHdwTTJ4b041TGpINUpRUGdMZ3dnczdQeHZReUE?oc=5",
+            "date": "2026-05-04 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "안랩 EPP, 중국어 번체 지원…중화권 공략 강화",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRYWpoTkNPMF9zY1hJQmdYcXpCZDhtTWc3VzYtR3l1M1ZSX21RY0xRSlZpemZ6TUI3N1hZY241YWVZQzNZUVBMbW8zc3lkUQ?oc=5",
             "date": "2026-05-04 13:16",
@@ -1333,6 +1353,16 @@
             "is_today": false
         },
         {
+            "title": "안랩 \"클로드 위장 피싱 사이트 주의\"…악성코드 유포 사례 확인",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xU3JvRUJiR0g0elZYaEVMNVNYaTBEZUZqSWdSS3JYblVMX3oyNkkzYVFPeV80VE1MWEpLUjVaWWVzWUlKbzJNdXBla1FpcVE?oc=5",
+            "date": "2026-04-22 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷 투자분석 2026. 04. 21",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EeDBiMXA4eFdEVWhENjRlbC1SMV9NQV91cW9ReDVUb0pGRzMzeFRRazNwdmswSGFKdkxITnhoOXZpUTVES01XNXZ1cTlJSjd0dm5wTWcwMDJsemhQb2FHeXlPS0pXbmVSZktuNEJVXy1VT28?oc=5",
             "date": "2026-04-21 16:00",
@@ -1595,6 +1625,16 @@
         {
             "title": "KB국민카드, 솔라나·안랩블록체인 협력…스테이블코인 결제 구현",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80eEtLbXlQM3NVNm9Bc3dUbjd5akFqbThwOGVEZ1VOSS04VUZPMHlGc1BJZFc5d3FuZjZkTnFUWWY3SkdUalE3cURWQkR4eUhSc3ptT3Rn?oc=5",
+            "date": "2026-04-09 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, '2026 온라인 라이브 견학' 참가 학교 모집",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14dnFXRXZ1dWR6Z2VYX1NjdnFUSFltemxFUVQwd21IT0NhMk95QTd4bHMxZXJlMWRKMl9EazhmQ2J2czYxQWxtclJkYjE4QQ?oc=5",
             "date": "2026-04-09 16:00",
             "description": "",
             "company": "안랩",
@@ -6323,6 +6363,16 @@
             "is_today": false
         },
         {
+            "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
+            "date": "2021-04-20 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
             "date": "2021-03-24 16:00",
@@ -6733,6 +6783,26 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 상반기 매출 285억, 영업이익 58억원",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wLUxEU0hxZlBDSHRkaFdHbl9hc19ENzQ2a1BjVUw4MTYxTUhMRnlhemVVSnZVNF9nUWxadFZiOUx4MzBOX2tuREJNSkFWUWdfeXotMXRHSHJtN25QV285RVc3ZzdKbUFEYVVFYk5xenZBZw?oc=5",
+            "date": "2013-07-29 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷-케이엘넷, 정보보호사업 공동협력 MOU 체결",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzME9leGxnWTlSaHU4SDNPc3Zaa2xweE1NV3ZFLVNQNWFzMXphMmh0aWZBb1R4ZEV3Zlk4ZExYMk9OTTJwREluTXFWSXZqdmtreThkWXZNRi0zeGZwNWZhSFdPYlpuSWNrb2JreklHblJjSXc?oc=5",
+            "date": "2013-05-20 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이닷컴, 닷컴 빠진 SECUI로 사명 변경",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTVZGUjByNVQtUnEtaENHQjBiUVZuNzBRTTZuOTFTaHc4MHV0aEhXNWNBSG5SQlQ4dHRERVNaV3RiVEdnTVByOGFnTjRydVY0OG1MWDhKY0FsQ015ZDJ0UnZWOXlOU19JREE?oc=5",
             "date": "2013-03-29 16:00",
@@ -6768,6 +6838,16 @@
             "date": "2012-12-27 17:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 다양한 사회공헌활동 전개",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VZlNPUUxBQVk2MUZsNXA1U1FfbHFSUVFVM19iTUFBZ05ROVJHY3pJSWlISFU2RWdJUENhMVBSVk5GVnc5YWdCY1QwdklJOGppV0dHSjBsZG9MOGVKNkJJdkN0VEsyaTFuTlRrNWxTZFo?oc=5",
+            "date": "2012-09-04 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6848,16 +6928,6 @@
             "date": "2010-01-18 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이닷컴 마이크로소프트 MAPP 파트너십 체결",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoS2YwWVZ2cUEwN3hwVG9JZzcwWWxGdTlYc0pnQ2xqb3l1RWRWb2txb3RvRmowNmc4Nlk1eHFXODFfb3BmaWJaYl9fOHc5YUxrbzIzeEJ4VFNqRXcyTFBaN254OUN2RS1PakE2SU5sNEM?oc=5",
-            "date": "2009-09-16 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7075,6 +7145,479 @@
     ],
     "trend": [
         {
+            "title": "이글루코퍼레이션, AI·SOAR 특허 2건 확보…자율형 SOC 구현 박차",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ja0xneGRWNXFDbktTVzBQempjZXNhTnpYcVI3TVllUDBCWGxnWEVxZFZYaU45UlZ4cnFBSk9uZ3RjUUtXNTNobnlmb1hhMmFpSk0xU2JoSzhHWGg1a0FHamFXNjd3N0dNWU15NWRaZ3Q2VXfSAXdBVV95cUxOdUNPbnRRa25HcFRSRTNCVkFLbmNzclNkbGZuSlZUTkxmVHhWTmN5dDlXR3NxNTNQMU1iUmcwaFV6UDU0Zl9YaDhFckZNNnRVNVF2Ylloa3IwUmUtQXUzU0R5YkU1TlJUblZuVzJrc0dzd09zVlFabw?oc=5",
+            "date": "2026-05-19 09:57",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 시대 애플 엔드포인트 보안, Jamf가 제시하는 통합 관리 전략",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aRjFEYWU4dFMxX3dCVmZWdnZRUlFiVXlxaGFmSmJfUnkweHNVbm9yRDhHckxxSGY3bW4tUXpzNzRpVVAzQzJNRngwbXF2dw?oc=5",
+            "date": "2026-05-19 09:54",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "WD, 양자 내성 암호 기술 기업용 HDD에 투입",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xNkctYVRCcGxqXy1OM2h2czU4VjFiak8xdVhYVU0wUk1CVmJQbHFidU90NTI1b0ZRcjRRTURINnJlTjFvdWlIbzVGUWNRQUlHTXJMQUpR?oc=5",
+            "date": "2026-05-19 09:54",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 시스템에 양자내성암호 보안 체계 적용",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyMy1YNlROc1Q0RlRVVE1KY25BQmVIY1FNMHhYSGxCbGRtTi1vbzFTMExqcl96VkRPbjZkY3dXVUpLcHBEUXhRek1zeS1GenFZYkZRaVZBUWtOa19kNU1HZzFmWGdvUQ?oc=5",
+            "date": "2026-05-19 09:53",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 양자내성암호 기반 보안 체계 국방 시스템에 적용",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mM09DRWJCTlo4NzgxQmZFWTFRcWZCbHZUVnVRZkc3UUZJbWdIVzFTcnZoT19EbksxbWtvVmhrc0RYdkRzTlR6UC1TSV9TX0l1ZGc4eDlYUzctWm12RjJTQ3FGLUcwUVU?oc=5",
+            "date": "2026-05-19 09:51",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 시스템에 양자내성암호 기반 보안 체계 적용한다",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sRGZ0RGQxM2EyZ0pjMmY2bkRGdnRIblMxUnZLZ1pHOFphS0tDTHg2UFhmXzhOc05GNGlNQmkwNkoxNVpoV1lLTnFJd0xOUlNHSzlsbmVNUTFON0F1RnRLQlFsUmdXMlQ1SGZKYTBn?oc=5",
+            "date": "2026-05-19 09:51",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "쿤텍-지스케일러, 공식 리셀러 계약 체결",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50LWs4R0prZWhLalJCeWwxUmNrbk9ta1VnYnhtci14TU9PNVBNM294S1k5Sm9CZVB6ZVo4SG1WWHRDamZIVlFkaXB2TWdCN0R6VXMxT3FTVGhZZzNlN0J1OHJDU09XRms?oc=5",
+            "date": "2026-05-19 09:50",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 시스템에 양자내성암호 적용…\"양자컴퓨팅 시대 보안 강화\"",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44TEtCYUtpaldXdm1DVTA1MVZnSlNnVVNjSjhLRHdGTXBrRHpBcm5nZG9ZS1gyYjNjU3pPVnFBTkx5UUE5QXhrazNvUjViR0VMUmU0?oc=5",
+            "date": "2026-05-19 09:47",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "특징주, 우리로-양자암호/양자컴퓨팅 테마 상승세에 7.33% ↑",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZkJaN05GZjh3bVdCMVRWNjRuSlo0S1h5Z2tJb19qVXh0ZFV5cTBVVUE3ZGZiNnZIN0lIVDA2NTBwUmZRcjZKY3pwU1hrTlg3dWc?oc=5",
+            "date": "2026-05-19 09:44",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "특징주, 케이씨에스-양자암호/양자컴퓨팅 테마 상승세에 15.31% ↑",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMYU5nendidUFNYXRkcXIxZmFLbzhjbVhlTEhwaGp4cTdDd0dLTDBXY2tCSWJrYUtHVW5oSDhFXzB3X0poWXYyQVM1a0laNmNRZXc?oc=5",
+            "date": "2026-05-19 09:44",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "쿤텍, 지스케일러와 손잡고 국내 클라우드 및 AI 보안 사업 확대 박차 가해",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xazhVVC1PNVNQTmIzVndlWVZRelNXRWdDZjFFcWVlZFl3U3YxMjJsWFBFWmpDR2N6VVFOS3Q5TlE2ZWJZeTlKU3ZqTTJybmpvblA3M19QejAtTHBUSS15UmJJQ1lDVU5iVERwbXd3?oc=5",
+            "date": "2026-05-19 09:41",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 팩토리·양자보안·에이전틱 SOC까지… IT, 차세대 인프라 경쟁 확대",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9feWNoMEpETDZGMF9lOW42R1NUUmVrYS0xVTR0LUFpLVN5bmJjMlIwZ2lDWmpKdFUxRXJkV0JrYjF1UzhEUFFBMDlyUDhDTWRPS1prNmJ4SU1oZGg2a1ZzWFZpMFdocWY5LVUzNWhDYw?oc=5",
+            "date": "2026-05-19 09:40",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "이글루코퍼레이션, 자율형 SOC 구현 위한 AI·SOAR 핵심 특허 2건 확보",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvckIyaHFsQk1JTVQ1OEt5M18tUThFSVpVYXBQNmZUYy1hWDRNQTRySlJoT2ctQXZwSnQtaHBOZWxZbUJxbkhBTjluSjRzbzVPNGItbk9GSk1rWk9iMGc?oc=5",
+            "date": "2026-05-19 09:40",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "해커의 무기에서 방어의 방패로… 비탈릭 부테린 “AI 기반 형식 검증이 블록체인 구원할 것”",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DNDJtbzJwZGZNVllINDNzbTVka0FxNFl1SDdSa2tLakYzUWFVcW45XzgtWW8xbnJsS3N2TkFCR1pQWS1MbUt2Tm1KODZDci16RWx3akpHMm91NTU2d3pGMkFqTGdiRU1rTkl2R0dDbzk?oc=5",
+            "date": "2026-05-19 09:40",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[위클리 AI] 오픈AI 자산관리·MS 보안 에이전트...AI 업계, 이달 둘째 주 신기능 쏟아내",
+            "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPU3NCUTlNb3BRVG1VcXRIMk1sZGlzd2VFLUJOelNKUG9RdG5XV2ZxMHdDbEh4MTFNR2JZa3ZLTnQ1M3RJeFFlZUZvdDFuZGs1T1ZwS1dUel96ZGktOVdaOUMwZTl2eDNTZ290V2xMOXZENHNpWlBLRVdhaW5sTVdYMmdOekVBSWZ2cWtlTDM1YktNYjBHaTJQWkYwVk40NUFJQzlQc2loVEhLT0pXaHlzOXBwU01rMWJOTDZVMnNnMXJlSUxpRDNMaVJjTlhCUkdsQW9YbEpKeERwTnZkMXdYbjdOcmhuX08tNFVjZkRaRTZlUWJjQ042WDdmZmx1cTZiN19xUjByUFJJZmlaN3lXUG1KSnpCSmpUY3VxemtTM0o1UlFnN2R2TV9sME1pbGxUSWMyZmZBb3EwTXpsbFQzRQ?oc=5",
+            "date": "2026-05-19 09:38",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 주요 시스템에 양자내성암호 적용…국방부 시범사업 참여",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CUFpNRUtOaXkwV3JKT1FIVWdMT2x2cTVPQ2tkWDVoMURiMTBCejhHS2pZRnFiN1dFVVRQaFhpeGlDMm9CZjMtZkE0MkZCbkJPQVM0Rm12NzZXSXdYcEFKaGZ3Y1VvUQ?oc=5",
+            "date": "2026-05-19 09:38",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 공공·금융이어 국방까지 양자보안인프라 확장세",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94TURnRjd3ckxOTktzc0NsLWVEMGV0NGF6dnozLTlGeXNkdjVBcVA4RVZRcG9KMllDZGpNT083RlFtOVkyT0hXR0k1akI3X3JPMHJr?oc=5",
+            "date": "2026-05-19 09:33",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "쿤텍, ‘지스케일러’와 공식 리셀러 파트너십 체결… “클라우드·AI 보안 사업 확대”",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41LXpFVzFPcVFodzREUHpKa3BWN04xY1Njbk90enVBQzhTZllHMFU1S3ZBMldEcVFyZW9fNkxzakltQmphbmEzNklJb3FBWVU3S29YSGlpYXZhbmJPODlCR2x4YjYyd2JvbGxJ?oc=5",
+            "date": "2026-05-19 09:25",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 시스템에 양자내성암호 적용 … 사이버 안보 강화",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10RUdzbWE0MDd3R0txLVlOalRPMS01bzVxS0RDSTZta1BMYUI5dzhKQTVKcllZU2lfTVFjTm1KdTE0S1ZoaEY4WEVKb0ZDR2pDNl83bWxXaTdBNjRncUUwV0lKSjNmZmNtUmRXMmtzM2hXOGhMWkhxYkZQNA?oc=5",
+            "date": "2026-05-19 09:25",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 시스템에 양자내성암호 적용…전장 환경에서의 성능 검증",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkLWlJb0dmMGxHOWpvR0xhOWh4UkxzTFhWMEZGLVFnelJlbERSTmY3RDhZWXRPek9oemNFRFllXzYtT2laRkc0d0JQdFgta25VaVRmRA?oc=5",
+            "date": "2026-05-19 09:24",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방부 PQC 실증사업 참여…양자보안 강화",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IQ1d4amRkaU42RnBYZmxvWG11VDQ3NDV2a25mSVY1R0pLN2tSYTNGemc4b2VFT21ncXV5ME9rQy1ZVVhUaUNjWW5TR1pyQ0sta2I4?oc=5",
+            "date": "2026-05-19 09:22",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "이글루, '자율형 SOC' 구현용 AI 보안 핵심 특허 2건 취득",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ER1VhMGEzT3lHeE9WRDdHU0I1M2FlZVdtLXJqeUh3R1FNVVpDS05nN2FDNmpmRHNJc0daVVVWekFRMnl3aVc0aDJrNm5rVDhxMF9kSVBiZWs1X19iczRjYmVVZXR4Y1R3Ync?oc=5",
+            "date": "2026-05-19 09:21",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 시스템에 양자내성암호 보안 적용한다",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MRU5SakJKTVc3SHlBdGZWYS1HLVQxVnhlZjZKMU9MaUUxTkxteFRFTVQ3WEVvUGhtZ2x3blRCYjdVTlBPTzZkVGc0RUpwVEQwcVcwa25sYzlEODQ1YlZIaElEQTBnczJSQS1kaFVfU081bnM?oc=5",
+            "date": "2026-05-19 09:15",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방시스템에 PQC 기술 적용 …공공 넘어 민간으로 확대 예정",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tYUV0dTlxU0RzUzRaZE5aZ2t0eE80TkJUU2dobm9HeGRzV0dMMXhiRFRaOEozMGl0cUt5b2o4S0IxcHdQcGtLZFVLX2dhdDBhOUpUMEJ5NFlaOWQ2Wm1va0h2M2ZqSmI4?oc=5",
+            "date": "2026-05-19 09:12",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "양자컴 보안 위협 대비…KT, 국방망에 양자내성암호 적용",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xcm9KWlNsRW1DZ2U3TDhnNEhXWlZEX2ZuUWF4cmdJSFFRa1B1MjhhLUJtSjNIMTByU2ZQajVUT19uUWdkSG5MZS0xOG4wWmxtTFBqdm9JZEN5NlMtOHk1VNIBeEFVX3lxTFAzZDAwdUVTTkFTNVNTRHJQUDFvRzNLNUVSTmpONU84dGRMU0R4M3Brb0IyTGYweFAyZGpzc255TDRid0dmdVB4NW9hZVlNb2RwRnppeDhZS3JlR2I1OWJxd0xoWW40Ml8wdEdQZm0wZW1WZDdpbERrSA?oc=5",
+            "date": "2026-05-19 09:12",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 통신망에 양자내성암호 적용",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kTzhSaG1ZYXRsYjFJZWVjU3owV0hFdnMyN2M5WlBfRk9MNGYtczNWVVRHN2xUOEg2bnJXaXVTb3lMdDY5NG10NlhXUllRakM5czZCaUVvMHZuTE9OOHJCNzg2bm8?oc=5",
+            "date": "2026-05-19 09:10",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "양자내성암호로 국방 시스템 보안 강화…KT, 시범사업 추진",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zLXpyZnZnYVpFSE1iVE4yM0wwOWM3cVRKWm9wdFhteUpRbmdNWUs1a3V6cG1PTl9jMmVwYXJGZkpqd3dheGNKV3psMkI5V3JkdTZXWmFR?oc=5",
+            "date": "2026-05-19 09:10",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"더 안전하게\" KT, 국방 시스템에 '양자내성암호 보안 적용",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sMmNVLUFrT25XWW9PMFdPYTJQdDM5TEhOOWw2MU1nc19CeEtDVFFkZ2pCTURWZXRyQm01R2p0QkxFUW1pQkV6RXdWS09jbEF0RTBVLUZTcENOSUgtMWxYS2JmWkdKd3hKWUE?oc=5",
+            "date": "2026-05-19 09:08",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 군 통신망에 양자내성암호 적용 나선다",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FVDlkaVB6QmxxaEdaRk1SbUdkeERoOERrQTRjb0lOb0V3T1NBV1FqZ2JnOG9GQ1poNVdNUlk5UkNLeFE0R3ktQXNub0pnTDNEc25FMHBscUxGU1nSAWBBVV95cUxPazA1THB4S0VUSnY3cDQyRlRfX0NSbkkyM19KYU5OT2k2b0Vvd2hITWNrNVppTERjbDI5TjdRekZueFZ4cHVrT3dOWGU2ZE9lUS1xWkdfMzM1S3FjNWhYTlE?oc=5",
+            "date": "2026-05-19 09:07",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 시스템에 차세대 보안 기술 양자내성암호 적용",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IVTdTUzFUUEtBUmZ5QTB2eU93SWdCMVBuMU9VOGpnVUNvN3pzakJoVUE0UEwtaDF4eVAwTllUQTVoT1o5T2ZWLVBJbUNKUDduVTN4QjlXekxyNUtWRnRrODFJczNHam44NFlDM2NvMmlKcWlJR1kteQ?oc=5",
+            "date": "2026-05-19 09:06",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 시스템에 양자내성암호 적용…미래 양자 공격 대비",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SNXlIQXFnNEYtZURKYlE2ekNnUUJGUkxRRWdRaTZRLWJ2UnMtM3ZsNjMzMDNBVEh5dG5Hc0tweHdJUWlxbFEtTXkxU0MwMU1KQzBjQ1lxTmdoMTRFZGZYb1RXOGVod0NxSjdvYzM2RdIBc0FVX3lxTE82Z25jVTBQV1lnUFFPZ1J3aTZ0MjB1ZTFlbTFnN2tTR2xxajhnWnNiZlBHT2RGVkVjTm92NzU1UjBhZl96c2ViUWVDazM2THZTcEVkMkVzenhrd1ZKX0hqTkZ6UC05NU5kMHZ1Y3Fqak5iYkk?oc=5",
+            "date": "2026-05-19 09:03",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "엔코블, AI 네이티브 시대 ’네트워크·보안’ 해법 제시",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WcUFoUE04enFHdGN6aEUzRWhwLUlHOXc4MVVfQmRLNXhTXy05QWNUQzdKQjZjdTIwVTN6SXVmX3JrdUdtNzRlalNzREpSZ0VmZXFYMjYzcE41eVNxZDI3MTZCYy0zV1NJdVZIcA?oc=5",
+            "date": "2026-05-19 09:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "티사이언티픽, 개인정보 익명화 한계 분석 논문 ACL 2026 채택…“AI 보안 사업 확대”",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LSVBiVE9pdWFjT2xyRmpOZkF3QkRfM1REWTBTWF9zcVNjRnllQnpXZWNBNkt4WTBwUWdZMmN1YnhiRlVNS2NVZ096aExNZ19xOEx2Sg?oc=5",
+            "date": "2026-05-19 08:59",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "WD, AI 데이터센터 겨냥 ‘양자 내성 HDD’ 선보여",
+            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb2NvSXF0cnF0REJ2cHJDaFBqYjlLR3QyTW13Y1hYdndOZ0xrS2hCdHB3LVlRZUNiZlJaSUI2SENiOUdVTFc5YzNlTnlFbEtGR05GY0xfX0U1MDFjNHpKUXk0T0FWVnNzM3ZySkhFc1pESHM3QzdVQmViT20yNHowN1pYUnJoZEhrbjBEZi1MVDhrQ2x1SmRsdVEwR2Zrc1hPUGRTMDRUY1B3T2duR0J5d09CT0FXNktIR2I2a3BaMFdyV0tDdEphdElYb0FiamdwejI3VWpTQ2E1NnlubERuRGVDandPdXFLUzBEbmdKWktUWDNBVUlwbVJR?oc=5",
+            "date": "2026-05-19 08:59",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "양자 기술로 양자컴 해킹 막는다...韓 국방 시스템에 차세대 보안 체계 적용",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XbjUzbHptSlNKZ0c1MW1DODlqY3dyNVVPc0FrYkxNTkdMeTVrRzd1b1VFQVhKQUNYU0ltZ2Fmd3VCclFZTlQwTXE5cFFkSkNlbmfSAVNBVV95cUxQa0d0d3FUdF9LblBrYjEtanlrbGRmdVFVMjlBMmJWZEpqOUdkZjdfZ1lBeFdKU2x2RERVZVVLTWl3cnRwc0UzbEdsWUp3aHp2WlJZMA?oc=5",
+            "date": "2026-05-19 08:59",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 시스템에 양자내성암호 보안 적용",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44QmpoNmtvRnhTVWJXWUgwYU53bGpjVURTVVVvdGVoVTE3ZFFuc2FiUmF1ZlNxQ2QtcTlSbklMNmd1U2pwYzlJREVNMXhHUQ?oc=5",
+            "date": "2026-05-19 08:57",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, ‘양자내성암호’ 기술력으로 국방 시스템 보안 강화",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14ZjhYLVNwR2oweXNCaEd1SUNYUkliWWtzSlJKQTJVN1FaVGtMbHdXTXlfWkJMNGtyaHRvcElIY29qSDU2YnlmVTNobEJYRkJkRmdtbjdKODFGQXIxa2VnWlA0Snl6NE1QRUF5Vnd4SjJPZk3SAXdBVV95cUxOY28ydGtSWGlTNzFTN3QzZEg3blQ1ME9oWE10Zlg1ZWtkNVREemJMZW5YX0Z3Rl9meGlBckZRYkUyZ2g5MFRzaXgwQ1A3Qm0zQ3R4SVc2SzNST01LT2lhbUNZX3RpV2p3anhPbmc2N0V4bVdraS1qQQ?oc=5",
+            "date": "2026-05-19 08:53",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 국방 시스템에 양자내성암호 기반 보안 체계 적용",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UWjBnNzVTajJ3X3dNcUQwWWQwbzlwNEU1ajhia01oNHQ5Qzdiei1fYkZDOER2aXJsNVA0enZ3WHYwdUZkaHlhdHRVSlprSC1MYVItUXdPdlpNbGwzZXUzbkFtWm8wdmRlaXAwWWVvOA?oc=5",
+            "date": "2026-05-19 08:52",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "로그프레소, AI 기반 차세대 XDR ‘소나 5.0’ 출시…자율 보안 운영 시장 공략",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFSWkwcG1UZlgxMHF0MktWU3RpNzZMYUtxeUVYV1YzV0k1UG9GUGpQS3NiR3hDODlIMk1pdjBpcThyalVoSjNrazFhU3BCSmlvdDBJcFgxNmo5aFJpOGF0N0lVUlU3X01kelA0eA?oc=5",
+            "date": "2026-05-19 08:49",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "WD, ‘포스트 양자 내성 암호 적용 HDD’ 발표",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZTFhKVHFVcDJ3OWpJYzVHY2xLOE4xSl9vbjlJQm5ySHlqSkJRd2pfQVQzR3RZVS0zLTlpeXlrTkYweF80amhSeGJDVlpjam1nTnRqVnQ4Sks2WTFBVHdOX3oydTk?oc=5",
+            "date": "2026-05-19 08:49",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI스페라, ‘인포시큐리티 유럽 2026’ 참가… AI 기반 공격표면관리 전략 공개",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JejVsZkRBQU9xNWFicTVlMjZJMmd6RDAzbHA5V3F1Y016NDd5ZXpBMFk4U1hucERNbkI0RXZCOFc4YlhpXy1YVjNGbHlNX0t4YllWZGJ0aGd0azk3QXJWWXE5SnB0YVMxeHA5Zw?oc=5",
+            "date": "2026-05-19 08:45",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "마이크로소프트, AI 에이전틱 보안 'MDASH' 공개",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NVFh6bkxJdEc5S0R6OVZ4RjJ2eWdwRjhCT2hQTUFnZVIxNDJTSHZXNXV5OWVTc21oXzdFQnBKZDRnR3p2WV93Tzk4MF9RWV9TTjByb3dfemRtUXFQcUVjaThXSy0?oc=5",
+            "date": "2026-05-19 08:44",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "WD, 업계 최초 양자 내성 HDD 공개…AI 데이터 장기 보안 겨냥",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45bWl4Qk5qbzR5QS1YUXk5RGU2VVMxUzBmcUZJckc3c3dERmYzRTI0TEs3OGNvaEVqc1JGR3hhdGZ3U1czYjJLUEs4VVVyYUJfNnZxUnozNEQ2SDFtRGZKakRPaTNTcFZLV00zcg?oc=5",
+            "date": "2026-05-19 08:43",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "[모닝 리포트] \"아이씨티케이, 빅테크 레퍼런스 확보…피지컬 AI 보안칩 성장 본격화\"",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yUm1JT2lmYnlIZVRuVUc4UjhYMUxrMFVINXplSjlDeHd4ZWxiVlc4a1dVV0ZSWTZKaTlvbjU1elNZQ1VFVEFiaEs1TWgtODd4Y0NmWWI0MTJyRktS?oc=5",
             "date": "2026-05-19 08:40",
@@ -7125,6 +7668,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "앤트로픽, '미토스' AI 사이버 위협 정보 외부 공유 허용",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUeGdqZlNhN2NPU2ZpWFFmVm54YUxDNnp3VVlwVzRkVW1oNGlEQzh1cml3SHE1UGNQTVdQREZtaFVsNS05cmYtZTRCSEVEUQ?oc=5",
+            "date": "2026-05-19 07:27",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -10463,6 +11017,17 @@
             "is_today": false
         },
         {
+            "title": "케이사인-컨텍 컨소시엄, 과기정통부와 KISA 주관 ‘양자내성암호 시범전환 사업’ 우주 분야 선정",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fa3ZSSmpNdVhUYjBhcHNZSWlVUlM4NnpvS0dZcHppWlVwWWItTC1INDZJX3RQdEctYUJFNDhUbDNFMUpXbG51RUJUNnByTjBuQ1ZqbWFSc1JvanNDWF9vQmtyVWgyeFdFdU93VQ?oc=5",
+            "date": "2026-05-14 07:48",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "이통 3사, 공공 ‘양자보안’ 의무화에 퀀텀 시장 선점 경쟁 ‘점화’",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vLURGTnAwVzdHenJiMjFPeXVXb3ZYZnN3SkZQZVVTUXJLdV9uRzYtUEpXa0txVElUNTlQclZDaGlaS1BvRmhGVkl4YUdxZTFoNV9SZ3EtaEpuUGgxUWZlNUNCNElFMjJF?oc=5",
             "date": "2026-05-14 07:00",
@@ -12680,6 +13245,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "양자ㆍAI 결합에 보안 위협 현실화…코스닥 보안주들 들썩",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5keWRnM0hMbTlYekZDX3pFa0g4UU1vM05ycnowMFFWcGw2U1BGVmRWWjd5TkFrYU91R1NpN1V2TUxnLWRXVndrWERxSGJlRDg?oc=5",
+            "date": "2026-05-01 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -21581,24 +22157,24 @@
     "competitor_monthly_keywords": {
         "2026-05": [
             {
+                "keyword": "단가",
+                "count": 13
+            },
+            {
+                "keyword": "피싱",
+                "count": 13
+            },
+            {
                 "keyword": "대만",
                 "count": 13
             },
             {
-                "keyword": "단가",
-                "count": 12
-            },
-            {
-                "keyword": "피싱",
-                "count": 12
-            },
-            {
                 "keyword": "인상",
-                "count": 11
+                "count": 12
             },
             {
                 "keyword": "공문",
-                "count": 9
+                "count": 10
             }
         ],
         "2026-04": [
@@ -21607,11 +22183,11 @@
                 "count": 9
             },
             {
-                "keyword": "선정",
-                "count": 8
+                "keyword": "피싱",
+                "count": 9
             },
             {
-                "keyword": "피싱",
+                "keyword": "선정",
                 "count": 8
             },
             {
@@ -21650,11 +22226,11 @@
         "2026-05": [
             {
                 "keyword": "오픈",
-                "count": 56
+                "count": 57
             },
             {
                 "keyword": "미토스",
-                "count": 54
+                "count": 55
             },
             {
                 "keyword": "정부",
@@ -21666,7 +22242,7 @@
             },
             {
                 "keyword": "시범",
-                "count": 36
+                "count": 39
             }
         ],
         "2026-04": [

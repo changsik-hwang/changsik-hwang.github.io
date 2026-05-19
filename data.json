@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-20 06:00",
+    "updated": "2026-05-20 07:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -6783,6 +6783,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템-씨커스, '보안사업 역량강화' SCA 체결",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydjR2OG1ldlUwMmc2WjNpN3hfQUZBYUVUUlhXXzZycE9HM3NqeXF0RUxmajZBYWNRanA2d2NhNnE1Z3U3T2ZnWDhIblJKZw?oc=5",
+            "date": "2022-03-16 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이, 차세대 침입방지시스템 ‘블루맥스 IPS’ 출시...공공, 금융, 기업 시장 확대",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XSlNINGV5MmhRTDRNLXhib3NEMFlqRnBJT3FCanNiZlFYWWFxbzgxR2NMRWpIWTNaYmdlVWZDWXEtaGlpbUVUUXNWeWM5V29nTTRzUTdiWFBMS0F6M0hJck9Ja0pPNVlXVmRSNA?oc=5",
             "date": "2022-03-07 17:00",
@@ -6848,16 +6858,6 @@
             "date": "2019-12-17 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "AI가 잠재된 위협까지 탐지...'시큐아이 보안관제 서비스' 주목",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ldVNjRDRaUnFpYldMUEh1QmJtaVlLMF9SYUhrWUUwMkY3RkRIWkhOcmNUZ0lUV1k4UC1WeWVJMDZBYnl2SnhRa3VxeHVuQQ?oc=5",
-            "date": "2019-10-14 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7493,16 +7493,6 @@
             "is_today": false
         },
         {
-            "title": "행정정보보호용 VPN 제품 절반「퓨쳐産」",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pVGVkUDh1Y0NqMC0yODk1b3JncC0tY1dJZUdzWnBWOXhsajlFaVhZcFlTVWgxZHJNeEVJdm1kSlp4N3JYZ2luZG1rNjhvSDk2WklKZ3Bn?oc=5",
-            "date": "2005-03-22 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, IPS 통합보안 솔루션 CC 인증 평가한다",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JR2R2a1lsbVdxSUlVbnFONVE3VUdGS3MxVGVfenZET1NLNGhBa0lNcEtCMDh0U3dMSW5tMTlXVTZnbF9qZktNbUlxbzk2ZDJEMXItWmN3?oc=5",
             "date": "2005-02-21 17:00",
@@ -7595,6 +7585,39 @@
     ],
     "trend": [
         {
+            "title": "쿤텍, 지스케일러와 손잡고 클라우드·AI 보안 시장 공략 본격화",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIczBIQUY1dElFU0l1ZVBlTlg5QmNSakN0ZWliVDFFVDhkbDVSdGhGV3VnSllodjBwam9NTmVSR1loWlFuaXgyeklLTHl0Snpiak1UeFpxbW1kSlBXQ3g4VHBycUVocXVvOXFkXw?oc=5",
+            "date": "2026-05-20 06:48",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "델 CSO “AI 시대, 보안 준비된 기업은 데이터 복구 순서까지 대비”",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RNXNlM1loeGo4aURBdFZlTmpPbHd1ckkyR05PeVI3eUZJMk1ySXZhSGVpRVpWYlNHN0hZZFJmTHI0QkJlY3Z6dUFzOVd4UXM?oc=5",
+            "date": "2026-05-20 06:34",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "토크, 지트 인수...조직 컨텍스트 중심 보안 운영 플랫폼 확장",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84SjU1WEhxbHkxQmJheXFVY1YyUnZQLVM1WGFrd1dSRVBzVHA0aW1rVC1jVkF4SDhTOEk3SWExNUFLdUxWUmRRMW8xdWR1MnZuRGJOSjQ3UkFlaFR6NWh2SzlRNjRkcWJSaE9RSXBTR2lyTEU?oc=5",
+            "date": "2026-05-20 06:25",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "델, AI 인프라 '끝판왕' 노린다…스토리지·보안·자동화 전면 개편",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CX3FGRHhZOWFBNDV1emlON2t1elVLQ1J2OXc3UmQxaldJY1FxWE9UcXR4aVJ6T20xODRtU2cwSmpDLTJDX1NITmloVHZ3SWtIaksxQTdn?oc=5",
             "date": "2026-05-20 05:40",
@@ -7678,6 +7701,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[美특징주]크라우드스트라이크, AI 보안 수요 급증·목표가 상향…주가↑",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUc5Z1FJSnB1TmxRNzhzNTlDbWtlYXllcU4yR3h4aFlqQlNERDBCS2NYNmFJUnBqMlljblJ5Rm1wYWhub0llS0llUnJzRHBVUzc3d3o4MHVyMmRjdGlScGt3QW1HbXN5bExfMEVScHNaOG51cEdSMXNIdVJGVy13Vw?oc=5",
+            "date": "2026-05-20 02:46",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -10552,6 +10586,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "John Kindervag “AI와 미토스 기반 해킹 공격에는 제로트러스트가 대안”:시사앤피플",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sa2w3cm5NYmdlQ0NGUy1BY1FyaHozcFRBeXZuUG1BazAxQVI1SzFiLWVQX2RlcVpiUDZ3d01lQ0M3NG5KTWdZa9IBZEFVX3lxTFBBVm91emVPQS1xR1R3djZpbUU5ZWdlR2g4dHVWLUh2SmZ3SHBZaXZxVnNkczNodVBSMDdOQm9YbVVlNHFvQm5GaWI2UngxNjFOQ05WR2JOV3JsU0Fxb0dhbzlNQUc?oc=5",
+            "date": "2026-05-19 07:09",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "AI 기반 사이버 공격 쓰나미 경고...섀도우 AI·딥페이크·자동화 공격 대응 체계 재정비 시급",
@@ -25687,7 +25732,7 @@
             },
             {
                 "keyword": "미토스",
-                "count": 63
+                "count": 64
             },
             {
                 "keyword": "정부",
@@ -25695,7 +25740,7 @@
             },
             {
                 "keyword": "제로트러스트",
-                "count": 49
+                "count": 50
             }
         ],
         "2026-04": [

@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-20 20:00",
+    "updated": "2026-05-20 21:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -5223,6 +5223,16 @@
             "is_today": false
         },
         {
+            "title": "안랩, 개발자들과 ‘AI 기반 보안 역량’ 강화 방안 공유",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yYTE4U2lvY1pUVl9vSlQ1RnR1TVlxeGd4Rm5uLTJOZExZTFhtT3hzUTl1MzdoRmlyQ2lSckJwUk9JNVlVVThMS1c5aHhacGM?oc=5",
+            "date": "2025-09-28 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이, 100G NIC 탑재한 차세대 침입방지시스템 출시",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zc3E1VFlBekhaZGtmQVJGZHV3QXZRNkNpd2ltY1ZHYURQb0tOdUNPNGV5Q2FLUG1iVHBNeGdSZGdBTWU3TjNpeFBHTDdaNnJ6bnFiaG5ZTlp4dVU2ako3MjNoZ2NrUQ?oc=5",
             "date": "2025-09-25 16:00",
@@ -6983,16 +6993,6 @@
             "is_today": false
         },
         {
-            "title": "윈스, AWS 공공분야 클라우드 비즈니스 공식 파트너 선정",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBscG9HMnVjQ2QxS1hQSFowZDFJUW4tWEVuM0U5ZEw5SW1oS3V0M3E0NDc3Sy1hVU9ONUIzck9pblFUYWtLVDlOWXFWTWE1MVJRSFZ5eHA0MFQzbk90TVlfYVk1a0hMOVk?oc=5",
-            "date": "2022-08-19 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-피앤씨솔루션, 총판 계약 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zOXZEVTFYM2ttUFg1cEJIc2JObjJaTi1vdnhVR05CSmluTlE1T2ZDd1BFZ1NyYjdJRTE4R0docUJ5ZnUxbEVMNlFRdGlIUQ?oc=5",
             "date": "2022-08-11 16:00",
@@ -7073,26 +7073,6 @@
             "is_today": false
         },
         {
-            "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
-            "date": "2021-04-20 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[상장기업분석] 윈스, 네트워크 보안 기술력 인정·실적 양호...'AI 클라우드'까지",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CZV9pUFZvWlhKS09vVjhzRkFZM3JKM2FCUi1Sa3NHNXFWR1JWRU1LejlNVU56OW5wY1lNaFd5b09NU0pMaGYtRmJ0WEh4UQ?oc=5",
-            "date": "2021-04-12 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
             "date": "2021-03-24 16:00",
@@ -7143,11 +7123,11 @@
             "is_today": false
         },
         {
-            "title": "AI가 잠재된 위협까지 탐지...'시큐아이 보안관제 서비스' 주목",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ldVNjRDRaUnFpYldMUEh1QmJtaVlLMF9SYUhrWUUwMkY3RkRIWkhOcmNUZ0lUV1k4UC1WeWVJMDZBYnl2SnhRa3VxeHVuQQ?oc=5",
-            "date": "2019-10-14 16:00",
+            "title": "[국방기술 스핀오프 민간서 꽃피운다 ② 퓨쳐시스템] 보안엑세스 포인트기술 공동R&D..민간시장 사업화 성공 '성장 발판'",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yTU5oZjhNVTlJa2g4U3JlRUNkUjg1ZFZKSFZlVWdwa2J4RVJpdHhGNmRGNm1lc0lMbkZ3Q2VFQ2F4Njd6ajktTmMzb2hfUDVCd2x3Wg?oc=5",
+            "date": "2019-10-10 16:00",
             "description": "",
-            "company": "시큐아이",
+            "company": "퓨쳐시스템",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7333,6 +7313,16 @@
             "is_today": false
         },
         {
+            "title": "[보안·IT산업 동향] ADT캡스, 실속형 어린이집 CCTV 패키지 출시 外",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3Vm93V3BVa2Y4SjMya0xZS2tRbHdhLWhiUTVxRnBTS09fTGNJdTdraVdVNVNWT3JEWi1mZnN2bmZSVUpBQmU0ejhTM19kNFVNWkZud0VXMzFwc3NiblI2b1NicVVIa05MdDZ4RnFkT2NRNjQ?oc=5",
+            "date": "2015-09-18 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, 2015년 차세대 방화벽 기반 글로벌 브랜드 자리매김 ‘원년’",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vN3VYRjVFYXNWOGhBQXZ2TF80WmZSWUdEOVZQN0NPMmQyOG4wLXczQWRWa1VzblZRQk9tUU9ZZTdkaXZJUGZKaEtTZG1jdUVIV2p4ZFVnMUl2YlE0YnpVMHRBNTRnbjJ6UWlZ?oc=5",
             "date": "2015-01-13 17:00",
@@ -7345,6 +7335,16 @@
         {
             "title": "퓨쳐시스템, ‘2014 대한민국 ICT Innovation 대상’서 장관 표창",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CRHlkV0lvcUR5dnZnV0lhZk5SdVQyUzhMRV9CYXlQT0c5SDBEcV9aUTl5MkY4dUdVdnhYVzBTWXM4eEpWdFJVRzQwS0t4MUhYejVtY1FEdFV2b3Z3WHc?oc=5",
+            "date": "2014-12-23 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "퓨처시스템, 'ICT이노베이션 대상'서 미래부 장관표창",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lQ0tFNlRmbFMybjR5YUx3eVhZUkFhMFJydFZTa3pqVkpad0xpcVE2T0lFSy1EX3FjUXhCZVViYmNfWmg0Z2lxNE12dlF2WmRXT291QkFB?oc=5",
             "date": "2014-12-23 17:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -7463,36 +7463,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, ‘윈스’로 사명 변경",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iT011Z212QkJTOFc3ZTV5RjU0bm9CTGx0Rk9XR3c5ci0wcmhPRVpPOUNLMFhjZWt0NGZ2bmJ5SURVZGVYdmZkWUZ6QkppNWhVcFQ5Z0xLWFpFbTdjMnc?oc=5",
-            "date": "2014-03-21 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 지난해 내수매출 증가로 연매출 724억원 달성",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QOGxCQU9jd3liMXNJU2NsNk5JMW1xOEkyOXZGRUZiWFN4YWlaVVlhQXFZQ3U4TjYtRG5NTHVRZ3hWRFhrdDhneU9BY3FSQVh1QjZQYWVDZldYLUNOaVNEZk1KVVk5elFnY0dGbXY1RXRCUQ?oc=5",
-            "date": "2014-02-11 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 3Q 누적매출 456억, 영업이익 101억",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Tb0JzZ3ZnZElqWGRpWjZrWlhSUXd5VDJZQllLT0xnTnVQTjAzM1ozajh5TnE4dVlBZDVISUlSWEJRdlNPelRyZXhrdlM4UU4wNjFFTjIzQU9SX3B6cGZDaUg2b0tpSmwxRWFYUlYyTTUxMms?oc=5",
-            "date": "2013-11-01 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, 추석 연휴 비상대응체제 가동",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DSG44YTZmY1dvSWIxNkJFeG1jVGgteUE2R1BqUEZ6U3pyLWlOaWdEc3U4VVplTC1KRmJqWGw4bV9MejhYbFpGSDlNaG5BbVpSX3QwRXg4Z1gwNlk5UnVFaElTNkZtSk5lZ2FvbDJDYkl3QQ?oc=5",
             "date": "2013-09-11 16:00",
@@ -7506,16 +7476,6 @@
             "title": "윈스테크넷, 상반기 매출 285억, 영업이익 58억원",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wLUxEU0hxZlBDSHRkaFdHbl9hc19ENzQ2a1BjVUw4MTYxTUhMRnlhemVVSnZVNF9nUWxadFZiOUx4MzBOX2tuREJNSkFWUWdfeXotMXRHSHJtN25QV285RVc3ZzdKbUFEYVVFYk5xenZBZw?oc=5",
             "date": "2013-07-29 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 대학생 기업 탐방 실시",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJNEFaNk9LWVZNenc1a05CYU5RdWJnQ1JneFhnblhfT3pJMlhkeDd4Vjk2d2xUMjJfR1ZIZVU2SEtSOXdtbm9sNWtTa2d5eEdZUktKVG1n?oc=5",
-            "date": "2013-06-03 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -7543,16 +7503,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 외산제품과 경쟁할 차세대 방화벽 출시",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5Q19rV01sekNrVmpNbE5OLUhBV0NZaHRxYjliSlJCZ0FYRHlQREZBZ282LS0taVhLeU9YcTIwSkdmTk9LenhCS1o1ei1XSENaT0N2XzFCSUM2c2hYQ3BrVXNaa1JJUElfYVdDVlhtRGs?oc=5",
-            "date": "2013-03-04 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[시큐리티 톱 뷰]김광태 퓨쳐시스템 대표",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVmtHWVZHbC05ZHR6ZGZRT1lITU9Ba2xZbnBXNHZ3U3JubExEREJ0UmtTWVFPU0xBUU9qNlRyS05jUzJPbURqNWhpdw?oc=5",
             "date": "2013-02-11 17:00",
@@ -7574,7 +7524,7 @@
         },
         {
             "title": "퓨쳐시스템, 인젠과 위가디아 IPS 총판 계약 통해 중국 진출",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvMU1kUkliY0ZfUEs0b3ZHa29EWUJXSlQ2aVlINU5TNS1vWFFpcGJOTS1BQUlnVnppNmFuWlhrOG9LR29nU0l5N1QzUTJCd2VjMEFWX2h4RVJRdkNkSlJPczJYS29mam9HNzdueU8ycW41UQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43UFF5TkRoUGVFT1dYb1FYSjcyekM2TnZmYzgtdEJMbWZOYnlzVVJ4NkYtazhFQ080T0R4cHpDbEN2d1J3MUs1TWFEMWNaT2o0OFlYTWliVjl5TmFLV083SFZoZnRhbU5hOGJFWFEyaXozQ0E?oc=5",
             "date": "2012-12-27 17:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -7583,29 +7533,9 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 3Q 누적 영업이익 102억...전년대비 95%↑",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRVo0R0diTWVLUnZWeC14eFhFRUhXT1dBbGcwVld4aTJ4X1c1QS1sQmxtSkozOG9sNThmRVozbGtOX2Q1RGpuTk5ieXBXbkk1bi1abkdLWnRjYXhidFgzeVY2ZkV5RVRCOVo0QUx3a2c?oc=5",
-            "date": "2012-10-25 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, 다양한 사회공헌활동 전개",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VZlNPUUxBQVk2MUZsNXA1U1FfbHFSUVFVM19iTUFBZ05ROVJHY3pJSWlISFU2RWdJUENhMVBSVk5GVnc5YWdCY1QwdklJOGppV0dHSjBsZG9MOGVKNkJJdkN0VEsyaTFuTlRrNWxTZFo?oc=5",
             "date": "2012-09-04 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 9월 경력자 위주 공개 채용",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuVkc2YktNVE0xY2FEMEktWHVyVDVSaG5zamtacG5IN1VwbUJlbkZEZ0lYbU0xY0o2c3FSdmdPQzcxN1lNUUJwelpvdHdEczlQRUdwNEhVM2h3amRSb2drb2Z3dzNfMlFEQlJwNmVWa1lNWEE?oc=5",
-            "date": "2012-09-03 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -7623,29 +7553,9 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, IPS/IDS 부문 ‘글로벌 마켓 리더십 어워드’ 수상",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ia1JTeXZpamJpWUU0SEpRSjZVVWxLOHpfZWRrdk0xRVpoNlRuV05ITVBNUXo1bFBmWVNBTk9RODVySVoxR21hS2w4emtyZ2dOQ2RrVnI1R3AtcmhIUlE?oc=5",
-            "date": "2012-07-13 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, IPS 해외시장 진출 활발",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KUDBVSkVCUzE0Y2RKQTJUVU9SRng5RmtGY2dJUUViTjg4OXpEci1yTVFGMkpybUh3cXUtZDhsRmxiVXZRM185N1lQNl90eGFwTnc1S2N0UVZCSmh3N0wwMFh0bWVkS3E0WW1VcmcybWdYUQ?oc=5",
             "date": "2012-06-22 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 지경부 주관 ‘월드클래스 300’ 기업에 선정",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3SkZoZFNBY21kUFJjQjJ1Sk1md0hMZ1lBOWNaRUEwQm1QLXAxVTYzZ1M0eS1YbUZZSEh3N0ZDNW1hNnN5MHNGaTFiaUdaX3dnVFhNemlWcWZ5cmpWN0xOcHZqMjE4UlZBb1lIS3VMcDYyV0U?oc=5",
-            "date": "2012-04-30 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -7658,36 +7568,6 @@
             "date": "2012-04-25 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "CI 제작회사 ‘디자인스코’, 윈스테크넷 새 CI 개발",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sUmhmcHl4Sllpa0xxLXdvbWMwTEZXeGZ6cWNiVXN6RGN4cE1xbWlJdnNOdE1xY2NSdnduN1p1ZEwwYTg5cU5TVmRraUVNRHVBS0hRMUxqUHFXUmRta3c?oc=5",
-            "date": "2012-02-08 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 사랑의 집수리와 MOU 체결",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwOGpWaW9iZjBGSGlPWXN4UldGVzAyNVZ0c2JmU2pBS2k4OVl6LWU1Y3BtM1ZJRUVvek9ZSXIwcHlrSEtZT0VTdnVmbkY5QS1GMnplSm5weUxsYU9hRVpua0JVOXhIdUpZUzRGbkZZaTF6dw?oc=5",
-            "date": "2012-01-06 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 日대형통신사 모바일망에 보안제품 공급",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DN3Bud2ZDUTRPT0pvSk90aTVnRldzM1J5U211Z05oOHZKaU5taXJtMnN2MVMyZ0RuemhVN0x6R2xsZ2p5OW1JVFk5Wlo3Q01RSWxHRFFGdHZlNjgwdGhqRUJCSFhWQUJ2N3gwUjRLVmV3dGs?oc=5",
-            "date": "2011-10-27 16:00",
-            "description": "",
-            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7713,49 +7593,9 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, “올해 매출 420억, 영업익 80억 목표”",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CMF9paWt4VEw2OGlnYlFFN0h3MXgyWTdtTXdaRUFxQVhBdkMxTFdYbDhoWTdMMnhHemJDZ0ptWUYwckVVTFdwZGxxZTRMM2hwMnYzNjVCakFiMFdmUjZ2SUt3T0RoSi1lQnZOdVVtalI5RGRP?oc=5",
-            "date": "2011-05-17 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, 1Q 매출 78억..전년동기比 70%↑",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YaFNMb3pnU2lNRnFqeGpaQjVDX0tobVdWYm1jR3JIQ0FhRHkwZldIdUNXaVJLOVpncGE4Nk90a1VjZ1RGMmNQbzVYSjZaS0ZQZDEwMGVESlIxeE53Qldoajl6T1N0VF9QTXFnQ3c2NEtoQQ?oc=5",
             "date": "2011-05-06 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, IPv6지원 보안 제품군 TTA인증 획득",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWMlZUOFp5RVEzakM5c2F4RWhESG9vTjV0T1VWVnZjSnVuUk5mczYtbWtIaW9vTTA5WUIxYW9KTjFuZjRvbm93d0pHY1RiZ0hudmRjNXEzTVJZQWpJYjZabE5qQUMtczRnYzJlal94YUg0VWs?oc=5",
-            "date": "2011-04-08 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[화요기획]윈스테크넷",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
-            "date": "2011-03-28 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 어린이 보안교실 운영",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VWnJmZmpiZ2xGZ1ZRbTcxR3hGa0JVU0Q0dDRKbHlOZVB3MmhtTUlaQURzX3dOMU1NYU80OVpDOExJY0dzME8yMjBfTQ?oc=5",
-            "date": "2011-03-21 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -7873,36 +7713,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 나우콤이 흡수합병",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LcjFmNmk3MzJld1ZZNEh0c2stdmZjZ3FMakNZWXY0cTRmRzhGaXRoVG5MOEFVRFBZYkc2M2tvRUgwam1ZNzU3X3E0ZlZqNm5aZlpEb0RlNGxweUtG?oc=5",
-            "date": "2007-10-10 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, G마켓에 10G 보안장비 공급",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LaXNjU2k1ZFdqMXJjemZERjB5VUk1eTJiekZhX1VHU2ZCRk9idmlUSmdHRHFMRmprNDFfbklkSC1odmEyV0IyUGZpOV9heEFVRUhJVXp4RG9nZ2dMM1ZpeUgwaUxpSVVvOFJ5allUeXE?oc=5",
-            "date": "2007-09-06 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 올해 매출 220억 30% 성장 목표",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMXzlXLXM4NGtPQ20xZkZYZlJrcWV6LUxXa2Y4X2lrbk5FbTZCd3NtVHpfOFV2ekJNOHhWbDFyYWs5UkJFOVVrQUZhWTFsSjBwQ2ZUVzB4VGdqMWo5QmYtNXZGYUxiVnJJZk1UeVN5Tk0?oc=5",
-            "date": "2007-03-27 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, VPN과 방화벽 통합장비 소개",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mSnJ1QVRvYnd3RThLYnljTjl0aV9XekQ2d1FHRHVsazBEVnR4M3VoNTd0Z253VkYtTlB3bDFsdGlfekNISENWV2NMbUhEMHM4cHRkWkFGMnV5cUYwTXBfenZmQVbSAWhBVV95cUxObVJidmlnT2hmMmpXZzJFLXh5N3NrdVpBMnNYS2VpNGlmcXNSb0lOYlEyR3FhYnhVRnFISUFNZTJSMjNSbFhlaG5acnpISHBKVTNQUmtnVXBFc3ZDM0lfWWpwLUFDbWZsbw?oc=5",
             "date": "2006-07-04 16:00",
@@ -7956,16 +7766,6 @@
             "title": "퓨쳐시스템, 수협 방화벽/VPN 프로젝트 완료",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTY1Jva2VVZ3dsZ1ZiRVgxenl6UGdtOUNUa0x6TnFEMjB2U0RWalc5MWtFeTQzMklCdk5QZTREcmpvUlZhdkZpbUNJTVZjUmNDeXZxV1Faa0FFWTg1SkE?oc=5",
             "date": "2005-12-05 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "기존 제품에 IPS 및 바이러스월 통합한 통합보안 솔루션",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOVVo2LUVpb0cwbHc3T3N1emtkM2s4anpZS09uaVh0cHBJVzIzOTR1SVpWd1BKOGxiZXFPMzVOYnlXeE9UclZiZFhiRUw1WFROVjdlcW1Md0o5YjBnN2xPTDFteFk5U2prakxVbWk5UjQ?oc=5",
-            "date": "2005-09-30 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -8036,16 +7836,6 @@
             "title": "퓨쳐시스템, 미래에셋 VPN 구축 사업수주",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PUFVKaFMwZS1MTUkzVzB3M1BYZ1JlOW9pdVVMM3FCM1o1ZWVGazl3cm9qSXY0R0dZS2VUamhUTEIzeHBOWkN5cnkzbDNGeUUzQkdkVTQyX3FRZTVqR09zaFlMcHhGQQ?oc=5",
             "date": "2002-12-23 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템 - SecuwayGate 2000",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PaFNtall3TnBUV1NWUy1raGZrWURRcXJyd1pFRng5VWs5NEloRnZTRlJRSzB3eWYyWXl3TTVNYXVIcHR0RnRnUXlYd3JRdW1OaWhvVlVn?oc=5",
-            "date": "2001-03-14 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -15242,6 +15032,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Dell Project Fort Zero, 보안 솔루션 및 서비스 확장",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdl9ocS11TnlNN2UtSXlvWmprVGk3bGR0RzkxU2g1T1ZyZWNMeDZRd18yRDlYZnBuWWN3SUtmUEl2Sm9pNEdOTHRQeTlWdDRKYzc3RzdxanpGeUpzZUc0Q3BaZjc4SkNHUnlYV0hSM0hjLThvLVppSG5neDBzbVdsOHhhTW5ZLVdaYkw1V3J2RmZpRnNIZk11d3BnSFZybkhSQWfSAaIBQVVfeXFMT3ZfaHEtdU55TTdlLUl5b1pqa1RpN2xkdEc5MVNoNU9WcmVjTHg2UXdfMkQ5WGZwblljd0lLZlBJdkpvaTRHTkx0UHk5VnQ0SmM3N0c3cWp6RnlKc2VHNENwWmY3OEpDR1J5WFdIUjNIYy04by1aaUhuZ3gwc21XbDh4YU1uWS1XWmJMNVdydkZmaUZzSGZNdXdwZ0hWcm5IUkFn?oc=5",
+            "date": "2026-05-15 14:52",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

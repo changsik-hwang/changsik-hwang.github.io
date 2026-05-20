@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-20 22:00",
+    "updated": "2026-05-20 23:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -2308,6 +2308,16 @@
             "date": "2026-03-31 16:00",
             "description": "",
             "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "우시산-스테디윈스, AI 기반 시민참여 사업 협력",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iS3N2Mzg2Z3pIZFBsNlMwQnFXTUZteFFmODJ0ckg1bEFGdXdjMVUxMi1xMGZmZHpWRnowbmlMcU42MGJhNE8xcGRvaDdXREhlRG9vZXljcC1TNExMOThxWTNoSDNZZw?oc=5",
+            "date": "2026-03-31 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7073,16 +7083,6 @@
             "is_today": false
         },
         {
-            "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
-            "date": "2021-04-20 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
             "date": "2021-03-24 16:00",
@@ -7443,16 +7443,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 지난해 내수매출 증가로 연매출 724억원 달성",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QOGxCQU9jd3liMXNJU2NsNk5JMW1xOEkyOXZGRUZiWFN4YWlaVVlhQXFZQ3U4TjYtRG5NTHVRZ3hWRFhrdDhneU9BY3FSQVh1QjZQYWVDZldYLUNOaVNEZk1KVVk5elFnY0dGbXY1RXRCUQ?oc=5",
-            "date": "2014-02-11 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, 추석 연휴 비상대응체제 가동",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DSG44YTZmY1dvSWIxNkJFeG1jVGgteUE2R1BqUEZ6U3pyLWlOaWdEc3U4VVplTC1KRmJqWGw4bV9MejhYbFpGSDlNaG5BbVpSX3QwRXg4Z1gwNlk5UnVFaElTNkZtSk5lZ2FvbDJDYkl3QQ?oc=5",
             "date": "2013-09-11 16:00",
@@ -7526,16 +7516,6 @@
             "title": "윈스테크넷, 다양한 사회공헌활동 전개",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VZlNPUUxBQVk2MUZsNXA1U1FfbHFSUVFVM19iTUFBZ05ROVJHY3pJSWlISFU2RWdJUENhMVBSVk5GVnc5YWdCY1QwdklJOGppV0dHSjBsZG9MOGVKNkJJdkN0VEsyaTFuTlRrNWxTZFo?oc=5",
             "date": "2012-09-04 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 9월 경력자 위주 공개 채용",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuVkc2YktNVE0xY2FEMEktWHVyVDVSaG5zamtacG5IN1VwbUJlbkZEZ0lYbU0xY0o2c3FSdmdPQzcxN1lNUUJwelpvdHdEczlQRUdwNEhVM2h3amRSb2drb2Z3dzNfMlFEQlJwNmVWa1lNWEE?oc=5",
-            "date": "2012-09-03 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -7884,6 +7864,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "생성형 AI 시대의 정보 안보, 천안시 공직사회부터 완벽 방어... 전 직원 보안 교육 단행",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04dVdGNWU3eEZlOFQ1YUV5cF9PU0dzSTlxSTE3UjBSQ0hwS3M1eVdCbzFDYkplekdMbDN2WC1LS1d1cG5GX3c2dk81WHhoa2VRcHhyZUw3RzdXSDNDaEpUajVCQzE?oc=5",
+            "date": "2026-05-20 22:16",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "테너블, AI 기반 사이버보안 자동화 도구 출시",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01UjFVdUpzejFmVFFhRmlVeVNfSXFLTU9LOFRfR3BERkU5d1FTdmNyeEVmV0RjckFXdjJ3WU1yWWhVa01lYWV0RUtOVWNZNTBpcW9ZQjZ5aWFuRTBpSHlWaE0xd3hCTlBWYVk4NXNKU0E?oc=5",
@@ -9761,6 +9752,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "로그프레소, AI 기반 차세대 XDR 플랫폼 '로그프레소 소나 5.0' 정식 출시",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTaWJENnpzRThVSHVzel9NbXlueUNSZE1WWUM0T3h6SFc2eWdncHVDeTBhSWZKSTdyYmlzVnNrX1JrNy02UUNxS3E2QlZHbnNqTVNBY2dIZGp1YXYzMXlLdlpJTzJib2c1OFE?oc=5",
+            "date": "2026-05-19 19:58",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -17824,6 +17826,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KT 보안 체계 전면 재설계, 제로트러스트로 '사후 대응'에서 '선제 차단'으로",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4d3ZleFpkUnRfT1ZJT0FlZ1J0VWZaZFhCZzltcFpVT1ZEZFduZDJmRWlNcnMyYlZ6aWV0RWFNUWFSX0hua2NLT0hNZkZwX1l3YVZJTjVzQjlieGlaeTFBWUk3enI5WjY0MEJiaA?oc=5",
+            "date": "2026-05-07 10:17",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -27980,11 +27993,11 @@
                 "count": 4
             },
             {
-                "keyword": "지능",
+                "keyword": "스테디윈스",
                 "count": 4
             },
             {
-                "keyword": "안랩클라우드메이트",
+                "keyword": "시민",
                 "count": 4
             }
         ]
@@ -28008,7 +28021,7 @@
                 "count": 63
             },
             {
-                "keyword": "정부",
+                "keyword": "체계",
                 "count": 56
             }
         ],

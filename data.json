@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-21 02:00",
+    "updated": "2026-05-21 03:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -4913,6 +4913,16 @@
             "is_today": false
         },
         {
+            "title": "“보안 기업도 뚫렸다”… '비상' 걸린 업계, 자체 점검·보안 강화 나서",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GXzBwTWFkUVlEeEdyempyeXo1Q1ZybktWSjBxYnAyaVNLdHE3ZWI4M05OTmRoZmVDMFhLclk1SkFJV3hKbmFKMUNWN1d2dTdMcEh0MFA0QkxFaFRXSUdFV1ZiZ1dZVXE5eDVFNTdtTWvSAXRBVV95cUxOQUNyN3J4ZUVUcDBDamFWeE5vMmVac241YVQtWWZkZE5YbWRpeW5GS0xYWlg4REIwaXhXa2g3NW41M3A4RldJTkExMUs1M3RtRXlmQ2Z5S1VHZXIwVHhZSEJINnRfeGE5UzlUM2JuZjF6TUhZRg?oc=5",
+            "date": "2025-10-25 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "안랩, 일본 '시큐리티 데이즈'서 CPS 통합 보안 솔루션 선봬",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96VGlvOVp4bG51RmhHQkJQOHdTNENUYUVmNXY4YW1qeHdoSFM3YWJ2dkpYdG93RVJIc243Qy1zUGlLbElRbmlQMUNlc1g5UDdiUkFPUWl5aXpLMTVXTDl2dFNmbEdydw?oc=5",
             "date": "2025-10-24 16:00",
@@ -7044,7 +7054,7 @@
         },
         {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 ‘STIC v3.0’ 출시",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04Q0x3QWNxaHhBY3VPUFBHN3o3cmFKOUc4cXFadG1ZOFF6RFFKUndSOGpFQ1BRWF9oUjgzd1E3QW1Bb2UyazJOZFhpYmdBZDUyTm94TkdjS3ktZmRveThEOXFWdkh5VGxmWUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdFFSTGFMdDBiZmUteG85MWRQQmlrZDEtckNmcWQ4cE5NNDRvYl9HLVFVUzk2OWdXZTRzTk9tNDdHQWJIZ093NE80VEpPX181R1BobVFaRlAyeUtIdEotM3JvY2tsaDZCZHY1ZktoY19uczg?oc=5",
             "date": "2022-06-09 16:00",
             "description": "",
             "company": "시큐아이",
@@ -7304,7 +7314,7 @@
         },
         {
             "title": "[보안·IT산업 동향] 퓨쳐시스템 무선보안솔루션, 공공·엔터프라이즈 시장에서 강세 外",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11YVpWU0w5bjVuQjVpY0RNUG5EaThid1NpclB2Z190UUhoeEVPLUxjWUpELVNNNFBkMVFTU3UxZFc3YXM2N1hHaDdQZWFpU2xvNUpMQTBGUnpBS21NV04zTFowdXNlNUZOOW9QcGtOVDhHdw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tVFFIWHFDTFVMWXdYbW53RTRnMlBrZl9tRFp5ZHNJV3ZtS2xyRE1QX0pKa01FSDBrNFRBU04yaVJoTDhWUWFvczAzQjB4UFJwVV9QMWlSaTl4THpCS3UweTBDVThoTGFkeHlZSXUxNlVyZw?oc=5",
             "date": "2015-12-04 17:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -7503,16 +7513,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이닷컴, 닷컴 빠진 SECUI로 사명 변경",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTVZGUjByNVQtUnEtaENHQjBiUVZuNzBRTTZuOTFTaHc4MHV0aEhXNWNBSG5SQlQ4dHRERVNaV3RiVEdnTVByOGFnTjRydVY0OG1MWDhKY0FsQ015ZDJ0UnZWOXlOU19JREE?oc=5",
-            "date": "2013-03-29 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[시큐리티 톱 뷰]김광태 퓨쳐시스템 대표",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVmtHWVZHbC05ZHR6ZGZRT1lITU9Ba2xZbnBXNHZ3U3JubExEREJ0UmtTWVFPU0xBUU9qNlRyS05jUzJPbURqNWhpdw?oc=5",
             "date": "2013-02-11 17:00",
@@ -7534,7 +7534,7 @@
         },
         {
             "title": "퓨쳐시스템, 인젠과 위가디아 IPS 총판 계약 통해 중국 진출",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvMU1kUkliY0ZfUEs0b3ZHa29EWUJXSlQ2aVlINU5TNS1vWFFpcGJOTS1BQUlnVnppNmFuWlhrOG9LR29nU0l5N1QzUTJCd2VjMEFWX2h4RVJRdkNkSlJPczJYS29mam9HNzdueU8ycW41UQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43UFF5TkRoUGVFT1dYb1FYSjcyekM2TnZmYzgtdEJMbWZOYnlzVVJ4NkYtazhFQ080T0R4cHpDbEN2d1J3MUs1TWFEMWNaT2o0OFlYTWliVjl5TmFLV083SFZoZnRhbU5hOGJFWFEyaXozQ0E?oc=5",
             "date": "2012-12-27 17:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -7668,16 +7668,6 @@
             "date": "2010-01-18 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이닷컴 마이크로소프트 MAPP 파트너십 체결",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoS2YwWVZ2cUEwN3hwVG9JZzcwWWxGdTlYc0pnQ2xqb3l1RWRWb2txb3RvRmowNmc4Nlk1eHFXODFfb3BmaWJaYl9fOHc5YUxrbzIzeEJ4VFNqRXcyTFBaN254OUN2RS1PakE2SU5sNEM?oc=5",
-            "date": "2009-09-16 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7876,16 +7866,6 @@
             "title": "퓨쳐시스템, 미래에셋 VPN 구축 사업수주",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PUFVKaFMwZS1MTUkzVzB3M1BYZ1JlOW9pdVVMM3FCM1o1ZWVGazl3cm9qSXY0R0dZS2VUamhUTEIzeHBOWkN5cnkzbDNGeUUzQkdkVTQyX3FRZTVqR09zaFlMcHhGQQ?oc=5",
             "date": "2002-12-23 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템 - SecuwayGate 2000",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PaFNtall3TnBUV1NWUy1raGZrWURRcXJyd1pFRng5VWs5NEloRnZTRlJRSzB3eWYyWXl3TTVNYXVIcHR0RnRnUXlYd3JRdW1OaWhvVlVn?oc=5",
-            "date": "2001-03-14 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",

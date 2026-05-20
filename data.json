@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-21 05:00",
+    "updated": "2026-05-21 06:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -6243,6 +6243,16 @@
             "is_today": false
         },
         {
+            "title": "[화제의 기업] (주)글로윈스 박영배 회장",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKcG1DS2l5Qk8zeGdDV1lDTDJhWmNrQ1NBSl9LbjJSZC1aSlVZS1NFNlZnbkpCcS1SSXFVNmlnclZ2WW9QdEZ2eUV1RVNGOWFpTUw5aGJocHJLWHVocHZpX0pJUko?oc=5",
+            "date": "2025-03-24 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "유무선통합보안 솔루션 선봰 케이엑스넥스지",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VN0R3MzlMNTJ0Ni1KQmFqQzdCUVpqa3dWOC01eXdPQ1Z6ZE9mVzdURmJWLVhmV1NCY0xJMkppQS0yX1hGU0U2Um1EU19pdw?oc=5",
             "date": "2025-03-19 16:00",
@@ -7043,6 +7053,26 @@
             "is_today": false
         },
         {
+            "title": "윈스, AWS 공공분야 클라우드 비즈니스 공식 파트너 선정",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBscG9HMnVjQ2QxS1hQSFowZDFJUW4tWEVuM0U5ZEw5SW1oS3V0M3E0NDc3Sy1hVU9ONUIzck9pblFUYWtLVDlOWXFWTWE1MVJRSFZ5eHA0MFQzbk90TVlfYVk1a0hMOVk?oc=5",
+            "date": "2022-08-19 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스, 사이버보안 전문인력 양성과정 모집",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wV3pLVXBkZUViOHpSajVudkNuazJIUEs2U18ycTExLTdFU3lhRjQxb0JwYXBzMEZiTjBYdzk1UzB5bUZwWHMwVnhNcmhsdktrUWNseXBlcXJqa2oyNjE4?oc=5",
+            "date": "2022-08-15 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템-피앤씨솔루션, 총판 계약 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zOXZEVTFYM2ttUFg1cEJIc2JObjJaTi1vdnhVR05CSmluTlE1T2ZDd1BFZ1NyYjdJRTE4R0docUJ5ZnUxbEVMNlFRdGlIUQ?oc=5",
             "date": "2022-08-11 16:00",
@@ -7113,6 +7143,16 @@
             "is_today": false
         },
         {
+            "title": "윈스, 22년 만에 수장 변경··· 지휘봉 잡은 ‘40대’ 김보연 대표",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hVjAxNWFzLUZzMzh1T2l2SVhTenFWN1lyN3ByNkNjU0RVTDJQWF9MX1N3LWI4akdsa01uc2hHb0wwNi12N0xROTUyWWlZdWhoTjdzNWdXbENuWVlRRDV6TXRLWnA?oc=5",
+            "date": "2022-02-25 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, ‘차세대 SOC 플랫폼’ 고객 니즈↑...디버티와 시장 확대 박차",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBES01JUFQ0UUtfcndldnVPNFJzQ1ZXcXY4VE5kbzFBc3F5MkU1NVFKRzhlSUs4ZmU0SmFVaUZpc3VZaFA1T3hqeXVPdlFQeWVOWFNFZnRsZ3RfS1JPLXlUZWhta29yVERVbl9vaA?oc=5",
             "date": "2021-09-08 16:00",
@@ -7126,6 +7166,16 @@
             "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
             "date": "2021-04-20 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[상장기업분석] 윈스, 네트워크 보안 기술력 인정·실적 양호...'AI 클라우드'까지",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CZV9pUFZvWlhKS09vVjhzRkFZM3JKM2FCUi1Sa3NHNXFWR1JWRU1LejlNVU56OW5wY1lNaFd5b09NU0pMaGYtRmJ0WEh4UQ?oc=5",
+            "date": "2021-04-12 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -7168,6 +7218,16 @@
             "date": "2020-04-20 16:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스, 100G IPS 개발…\"5G 인프라 보호\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFU0NDcW12c0xkb2ozSDY5WF9CaTRwWEtMSjdDTHlHdFRfcG0wSVZSVTJJaWRmSy0tTHM4czQycVAzVm5DSTl1WFdvODNlLVlMT1UzSFJ3?oc=5",
+            "date": "2020-02-20 17:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7678,6 +7738,16 @@
             "date": "2010-01-18 17:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이닷컴 마이크로소프트 MAPP 파트너십 체결",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoS2YwWVZ2cUEwN3hwVG9JZzcwWWxGdTlYc0pnQ2xqb3l1RWRWb2txb3RvRmowNmc4Nlk1eHFXODFfb3BmaWJaYl9fOHc5YUxrbzIzeEJ4VFNqRXcyTFBaN254OUN2RS1PakE2SU5sNEM?oc=5",
+            "date": "2009-09-16 16:00",
+            "description": "",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -24272,6 +24342,17 @@
             "is_today": false
         },
         {
+            "title": "로그프레소-넷츠, IAM과 XDR 통합으로 AI 기반 보안 운영 실현",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YeXpGaFA2MnhycjZ5Y1NsRWRPbHRQV3I3SVpSYjN0eWtyWWVvT25VSUlIdERQb3NiaXVrMzNhdURCY01BQ3FCblZGLWVsYWUyNmpqZzluRUVITVowMWk2ei1BSm1iUQ?oc=5",
+            "date": "2025-11-10 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[인뱅 보안전략①] 카카오뱅크, ‘제로트러스트’ 통해 보안체계 고도화",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11d2U5V2RtelByY2Y1dVhna3hjejk1VDBVZWFsX01vRWtSOEtJT0J1X2R5S2loVkgxWlJzS1EyWDJwQjlsU3NUZ2lueTlPaGMyTk5PQjg0Q2VWQQ?oc=5",
             "date": "2025-11-09 17:00",
@@ -24740,6 +24821,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩 \"정상 프로그램 위장 악성코드, AI로 선제 대응해야\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JRk9GNndPcDNZM2RqT3BqVUp6SDVwSUhVMThZWmtqdkg0Rk5BSFE0aVZYYTJCOHVJTDI1UGVVbU1rNEVhNTNQVEl0MHd6VkgxWm5yVTZR?oc=5",
+            "date": "2025-09-30 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

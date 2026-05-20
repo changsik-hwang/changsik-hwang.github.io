@@ -1,7 +1,17 @@
 {
-    "updated": "2026-05-20 09:00",
+    "updated": "2026-05-20 10:00",
     "current_month": "2026-05",
     "competitor": [
+        {
+            "title": "[5월 20일 고용24 채용정보] 더핑크퐁컴퍼니·세방전지·하나마이크론·펄어비스·안랩",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pRUJJVm5tRE04VC04dUZwVFVOandGV05zSDdQNFlOcVYwZ29xYWJaTE52dDhWanBidFZoNXQ4cmFxcURZSHhSMEdiVm9OSl9tM0JJTzVmWU5nTVpoVnc?oc=5",
+            "date": "2026-05-20 09:59",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "단가 인상 공문으로 위장한 피싱 메일 주의 당부",
             "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1PVEFPWUNVUUhzdWU1WDFqLU1FUzhkZkFjNklLUVlvOXJ3WjNmSnI0b2NuS3FMcHpSR2c0SGtRMnI4allHaWk3clhn?oc=5",
@@ -6843,6 +6853,16 @@
             "is_today": false
         },
         {
+            "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
+            "date": "2021-04-20 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
             "date": "2021-03-24 16:00",
@@ -7595,8 +7615,294 @@
     ],
     "trend": [
         {
+            "title": "엑스게이트, ‘2026 파트너 세미나’ 개최…AI 기반 차세대 보안 전략 공개",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90c0FKRmdJQmdwTVVLTnUtTDZJM2QxaDEzNTB6R2NVd3hpQmlDa0lNcnZTSFlJUnhzT0paXzVFQTNaVTJOeHAzR2tOOHBWb3F4eU80bnFydktVZTFXWmc?oc=5",
+            "date": "2026-05-20 09:56",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 서울대와 손잡고 차세대 AI 보안 전문가 키운다",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2cHhsQk9UazJFQ01ZS3JwV3ZOdWptb2V0RnNlSFk1Ml84WVFvZ2ljcXltdXJSWVc2QmlRdzF5ZXdRX0ZueDMtUVdBelk1VzVnVkpwZlhlQ0NkWkZkZVpEVnlpRHFKRU44VXJib3Vkcw?oc=5",
+            "date": "2026-05-20 09:53",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 서울대와 인공지능 시대 융합보안 인재 육성 협력",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mQ055OHlWYnNlVzlFQnQ3RDFaY0VTSlBTSk5JOE1EYkRKV0pIeUdDNGdxX0pjb3FaNlpLZ0ZpTm9BNjlnb1ZTdThiTFdOZ0NXWnVfWjlXXzRENHN2ay15WFU5WHBoMW9ldUZaa25iRnJwZGRITzk1Yw?oc=5",
+            "date": "2026-05-20 09:52",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "버카다, 중앙대학교에 AI 기반 통합 물리보안 플랫폼 구축",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JbFZMRUpxd0RpRHVLd19Remwzd3lRajBEVTlBRlNtYnEtV0RBcWE3UTZnLUVKeUN2aVY1ci1oT1lwQTY2aU5yOW9vaXhJTkI4MW9VSGdqSS05bkVOYmc?oc=5",
+            "date": "2026-05-20 09:51",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "엑스게이트, 파트너스데이 개최…AI 보안·SSL 가시성 앞세워 시장 공략",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wSEJlelg1Z0VHSkJ2dXRPcWE3RzJOZi1EbjNZV055SnB0WmJua3AwYTc3YmV4TVFoY0tlLVF0ODhzV2N3YnRnbTE4ZlhnN2tzcWc4?oc=5",
+            "date": "2026-05-20 09:49",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "엑스게이트, 2026 파트너 세미나' 개최…“AI 기반 차세대 네트워크 보안 패러다임 선도”",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BWGs4X2JTMzQxYkZDVUZObVp6X3NpdVFhQTFXUUhqVVhzQWdubEROWHlVdlVoYUl0aEtqU0hXZTdQdTlpUllWS0dVNkl5QQ?oc=5",
+            "date": "2026-05-20 09:48",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[AWS 서밋 서울 2026] AI 시대의 창조자들 모였다",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UUVEyMkVqSEZfNlhBN2hoQnlDd1BjRUxlTE9PWXFiOF9WSnpsX3hWREx1T19TLWY2T0lYdW91NTFWWnFFdTRhUTVZVHN3NU1QMGdCamZkWUtTN016c0dLZWhRQkFsTEk2QzBYdg?oc=5",
+            "date": "2026-05-20 09:47",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT·서울대, AI 융합보안 인재 양성 협력…산학 연구체계 구축 추진",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtLWgwWUxmYnVRdzZ2T3FoaWpQM0pGM3NET3I1b2xVR0psN0VLU1kxQmsyc2ROZXlHVlg5cEd6S2RTQmZtbDl5MVZaSnFTRVk3cFo2Rkh5WExXNzVzUmYyWUY5dTdaZw?oc=5",
+            "date": "2026-05-20 09:46",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 기반 차세대 방화벽 ‘엑스게이트 AI’ 출격... ‘2026 파트너 세미나’ 성료",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CQ3FjWVVCREFWcHZTYURMNk1jYTNTcVVYLVlpYmJhRmNGSGVkbUpOREFuUzdGMFJpRktNQkNhMVh3SmlQanZnV29MeGc3enQwY3Q4T1JmdEp1RWQ2aS00dkI4eDhieHBH?oc=5",
+            "date": "2026-05-20 09:43",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 서울대와 AI 정보보안 인재 육성 나선다",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ESjNvWm1RUkFpODkyZWR1TGt3SEZvZ0Q1VndPWTBER0NKSUlTYVIzUEVXQTJXZVY1LU1kdldBT1ZLUDNILVdlb1JKUDZEQUVlRTQ3aXVfbi1BS2U1dWpVdllJVXQ?oc=5",
+            "date": "2026-05-20 09:38",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "버카다, 중앙대에 ‘AI 기반 통합 물리보안’ 구축",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Yb2xBREhVVnVSOThLNEd1d09FNVhQZHNVSHV6TldpQzdDX1ZHbFlQTWZNMUJHdEh2U05pbmNlSmZvSHp6ZG5QQ2lTYzBzbjFaVmdZVDFaUlllZXFTYWM4bzlnNS1FUnc?oc=5",
+            "date": "2026-05-20 09:29",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "인스피언, 공공·금융 폐쇄망 AI 보안 시장 공략 본격화…\"운영 기술 고도화\"",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tZ0dLUkdSM3lkSzlKYndpSzJvMWpfaWh5RlVWMERpZlRXVUZaTmJwa3dTbEpmbmVnaVRCNFdEM0NLZXFyZ2lIREpaeUlJR3BVQnEw?oc=5",
+            "date": "2026-05-20 09:28",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT-서울대, AI 시대 ‘융합보안 인재 육성’ 맞손",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85UERFR3hNWndISjBTWWEwUkl4SUxxNlRLX0Y3Y1RSRmhuQ2IwWnVDQnhNTDRoS0IzdnFZNkFqOVh4eDNZNDZFTEp1bVZwQkF5Z2VlYjJ0UnVEaXJkRGtwa2ZGNVNtbXdLQ1VWeWltVmnSAXRBVV95cUxOQURwU3Nab0FHNHhUeU9kM25JVUVBd3dnd1p5UVEzMmpkM3lZSUZSMXpfMC1PSWlRcmZ6Z3NCOEt3Vk14MlZ0cEFWMnplTkxyb2xVWDBtTF9ZcHRZQ0owUnJGT2p4TFRJbjFicG1SNWZON2FURw?oc=5",
+            "date": "2026-05-20 09:25",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT-서울대, AI 시대 융합보안 인재 육성한다",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VTWtkY0JjeDFrUTkwUzhIM1ozWG4wSGVZdFhFS3ZydDFNZi14TWw3QlhUc3BtOVlvdlpzRTE2VElqTHo2UkJUMWUxcDVuQXc?oc=5",
+            "date": "2026-05-20 09:24",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "엑스게이트, 파트너 행사 열고 AI 기반 차세대 보안 제품 공개",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMckIxYk1sZ0tWOHU2bUQxSkVwUWVMSGNKTDE1d2VZUTVIS1M1U25heGw2eGJwRVdaaXp4N1NiY3pTRllGeGtuMkVSV2kwalg1QXFKWUZtZkFVajNHbU5CVm92ckZrS3FvY1Rtbw?oc=5",
+            "date": "2026-05-20 09:22",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 시대 경쟁력은 `융합형 인재`…KT·서울대 손잡은 이유는",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EQU9MOHNwX0laVjUyOS0waVpKWlk1ZmxEbWlOSERaT2QxZ1VOdUxTY1lRM0E0YThEWEcwbVVQdGlmN1BLamY0LVFyNFRHb0ZTMVdhRTZ0WTd1QTVjTlVCdVdYYTM?oc=5",
+            "date": "2026-05-20 09:22",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, AI 시대 융합보안 인재 키운다..서울대와 맞손",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aUUpWbFNDRDlFbWgzdnROOG1kT1NtQTM5TzFJSjVWSXZjV2VaRC16NVpVSTZZd3F6Vm1KZkYzME5aaTVfUkF4eE84U19pQWtvREFn?oc=5",
+            "date": "2026-05-20 09:21",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "스틸리언, 블랙박스 기반 AI 취약점 분석 '에일리언레이' 출시",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xc1I2OVIyZmhFNU9lOHgtYl9NVmF5eHplQmQ3cGVneFI3VzZINzhWNlpCdWNVWVpXWGVMU0ZKYmEyOS1GNFdLcTIzQmVvUkNWdUtiME5VSDN6cEJzQVU3NkNqMHpfUHJJ?oc=5",
+            "date": "2026-05-20 09:17",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[AI픽] KT, 서울대와 AI 정보보안 인재 키운다",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhd1FqUUtLRE94Wld4NjhIREpwZlhxZWhzdzQ3Um04OTFheExmQm1RYi1kTXdzdDRHaER4OFlzdl9BWkRtQzlKWXBaNjFaLTBGTElCREFuZEtXS2_SAWBBVV95cUxNQS1KS2hnd3hDOE1VWEV6S1AzcGNxQ21JMkJyNzlWMkZEV3pENWNjamhJNDJ3Z3NWckdwX1g1QklkT1JoV2hCZzlYd2pFcXhDaG1Jb2UwT1Q3RFkwMXNjQWU?oc=5",
+            "date": "2026-05-20 09:17",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융보안원, 일본 금융청·앤트로픽 지사와 AI 보안 전략·협력 방안 논의",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyX2M3Vk0xcWFkSEN5YWtvV0xyb0JKVGhUVjJiSjY4UXRXSzJJNXNYTzZtcTJRNmJjUXZDSHhMdVFHOFdGRjgzVHJONEJ3WEJZd0MzOHRxR09zN1N3NUZkSA?oc=5",
+            "date": "2026-05-20 09:11",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "농어촌공사, 광주·전남 4개 대학과 AI·정보보안 협력 강화",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zck1mU1ZUYTFZaVBBMjI2VGJrZE1Yak56MTU2aDNyQW5Td0FzMW1uZGZRbXZTUXBfalRmczFwVGhfbGZrR1Q2Ulo2aUdVUmF5R0wwNzBXTUVaaDY4SEdPZFpWdW1PNm1u?oc=5",
+            "date": "2026-05-20 09:07",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 서울대와 AI 보안 융합인재 키운다",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1SNkJiMTktOS0zek1UTFFJbUcwVmctME82MDJjTE1IZ0FPOG53RTJBS2FkVjR1VHFLQlRuSEQyaWZVOGMwa2xUbXVidmUtQQ?oc=5",
+            "date": "2026-05-20 09:02",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT-서울대, “AI 시대 보안 인재 육성”",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DNDBINVY3cWZiTTRxeWtqbTRramVneVUwMEFFQV9oY3VUWEdVOUJUZ3pYYjZmTkpZdGt2cFF5VUJ2Q0JTMUx5Y0JmTlJ2Q1o4RWxQemRUZ2RaYzl6elFmWGlVWU5qV0E2UVFDZXpXYw?oc=5",
+            "date": "2026-05-20 08:59",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "데이터독, AI 보안 분석 에이전트 'Bits AI Security Analyst' 정식 출시",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uMVVuSjZtT3d5WnJTbDNvQ3J2bVJHZ01xMGJWcXItM3RaZ3dkOEFTV1Zfd2VpcUdZN1FDd0E5a3IwMm9XVDZiSlpQNjZCNHl6NVVV?oc=5",
+            "date": "2026-05-20 08:57",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "KT, 서울대와 AI 정보보안 인재 양성·산학 연구 협력 위해 맞손",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKQXFIdkFvaFJ3MENMNTQ3Tl9vY2dkSU5TMWl5X1BwZWlDMUpNQmZmTlA0ZmlWTGZOZS1WYWRMcjA4WjhXV0tUSGdXb2ZUN1hUeklF?oc=5",
+            "date": "2026-05-20 08:55",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "스틸리언, '미토스 쇼크' 겨냥 AI 취약점 분석 솔루션 출시",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01T0RXcG8zUDhCSzltN3F6dDhubnFpRG1YUHNxZXg4VWhrNEdLeUhfMWlsbUFGR21EblNDZ0NOVzJUa0w3Nmo2cDcyUHR1SXdRUkRtQWJaLWxLQ25PWWd1Q9IBeEFVX3lxTE9wZmd6QTc1WFdiYnJwQXJKVU1sZkZ0SVpvY003cWkxa3NPb0VlTjZjMlRKMHRMU1lGWGF0WU4xUEJRc21Uc1ZHNE1FX1hCU1hyVXF4YmVzeGxTNDNjMjdyNURPWkdNQUZXNHNkUU9Pejd3V0tId2ZiRA?oc=5",
+            "date": "2026-05-20 08:55",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"AI 융합보안 인재 키우자\" KT-서울대, 인재 육성 함께한다",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ET21ERXZlUGRub05OQjh5clRzYkJVSk5GemlVRG5mZGRMU29tVm9zTjlXMjlMWlcyRWFJUzE4OTZVbmJHaGJqZV80TDljVFVFRGpXOXJKLXR6N2Jqa3RyNtIBeEFVX3lxTE53b2J2WS1JblJnUEwteVhmdktyS01nQTNuV2NKN1FLa0ZYMzlnb0pRZlN4bzBDbm53RUtNVDZzSHZOVXNXS1Y1S2piTzhZaExqc0xJUVRQSVY3UFJSU3dmSlQtZzgwYkR1SkZpTEMyYzZhcE0wTm92bw?oc=5",
             "date": "2026-05-20 08:55",
             "description": "",
             "category": "AI보안",
@@ -7653,6 +7959,17 @@
             "title": "엑스게이트 “양자 보안 이어 AI 보안 리더십 입증한다”",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZE8wX2NrRGhPc05vU3Qxc2ZDTWEwZ1NvNXg0Wk1aS1U2R2prSnBxbmlDQURQdEkyRHl5bGtMZVJyTTVnZmI3Tk9kblpUcE5HNUV5TWZPdGdKSW9LVkZwUFctR0lUcVJNcFJ5LQ?oc=5",
             "date": "2026-05-20 08:10",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT, 서울대 손잡고 AI 시대 ‘융합형 보안 인재’ 키운다 |",
+            "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNeXJqZnVSbGlqdXhCTGZBR0llM1hVeWhTcVNkcUsxcFFBYWZPLVU3dUNUczEzU2pxZmh1dGZhMDk4WFU4NkplUE9xSUdUTHRxWlRiMkVQZ0l0RUVTV0FKMkY4aEM2WGdxenZPdmZzdU1EeW1xZ1RFNUJaTVNZRUdyN09YOUZkNGxWVXdTWlVJWnNKcXlPWmRRSWpMcUsza3F6c3VGUFFhRndwWjJKWUtaTDRjSHEwaUpBbUc0bW9lc1BqYWdRRG9GdV8xS0lpVU5reXdqWDR3VjlYdmdUVFJQbnFray1CNEFsVlJOUkFoMlhZVk1lak9IUV9zc2VZcmdkbXNQM0lsYnVqOVRSaVY3Qk1aX1BUYjNfekVYOGhUSTNubzJiVGNFNlREaUJiTEY5Z0ptLU1ZbEtwS09pbUljNVUtOEplcmc?oc=5",
+            "date": "2026-05-20 08:05",
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
@@ -10202,6 +10519,17 @@
             "is_today": true
         },
         {
+            "title": "KT, 국방망에 양자내성암호 적용-‘양자내성암호 시범전환 지원사업' 참여",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zSkpnNFNmYXdZRWdSbEc5cjNXbERLSW5MUldSVzJPWTJxTEpsR2x1Z3h4aFNRVS1vVUktZDcxR1dhckRDLWVCWDM0czRreVhUN0UxQmZsQ0xjSW1XMUxGZzRmS2V4OGQtc29TWG5R?oc=5",
+            "date": "2026-05-19 09:29",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "KT, 국방 시스템에 양자내성암호 적용…차세대 보안 체계 실증 나선다",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tWm40QXVpZl96WjlwZ3hucFR1Zl9CQnFCeTJ4dkRjcUV6ZnRqckJEUGVEZUQ5YzhDOFo4UFRsTDB5Q3RRYUlzSnh2YTRsaXJCNVptdEd0ejVpNlVQZTlra1hxLUo0Qm02QnhqTDNmTQ?oc=5",
             "date": "2026-05-19 09:26",
@@ -11473,6 +11801,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "드림시큐리티, 양자암호 기술력 부각되며 거래량 동반한 4.97% 강세 마감 : 금융",
+            "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PUjVMVDNHRS00b1RVdWhCU1k1eEh6alBiT3NLaDBGSjJuVVFXX3lpNVAxS2RGdkZhYjBjUVYxZXFDckxGblBjWm1R?oc=5",
+            "date": "2026-05-18 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -16874,6 +17213,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "아톤 “금융권 PQC, 인증서 교체 넘어 풀스택으로 전환해야”",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYWUIzR19nNElidGhzM3dRS2xfN25FcE42ZE1EUTJ1UThfcExJQVpoa1hYZGViX3d3eW1TZ0pnYTBGVzFqR0lJMnQxY2RGR2c?oc=5",
+            "date": "2026-04-27 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -25833,7 +26183,7 @@
         "2026-05": [
             {
                 "keyword": "국방",
-                "count": 90
+                "count": 91
             },
             {
                 "keyword": "오픈",
@@ -25841,7 +26191,7 @@
             },
             {
                 "keyword": "미토스",
-                "count": 64
+                "count": 65
             },
             {
                 "keyword": "정부",

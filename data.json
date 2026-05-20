@@ -1,7 +1,17 @@
 {
-    "updated": "2026-05-20 14:00",
+    "updated": "2026-05-20 15:00",
     "current_month": "2026-05",
     "competitor": [
+        {
+            "title": "주식회사 윈스텍, 여주시 점동면에 라면 50박스 기부",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BZ3FZMG5XZGxNaHJGSWhlNWdtMXdjTS1McWd0Umltam5hSnVieEpSZ2l3ZVBrREFSRVVfX1dTVVlnN0t1V09aeTFEWlBmdDdJZDlZbV9VcG9uZkppd3Y4MlNibHh2YWpNWUtFd2ZRemszdw?oc=5",
+            "date": "2026-05-20 14:23",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "\"따뜻한 나눔\" 주식회사 윈스텍 여주시 점동면에 라면 50박스 기부",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VczF0c3djVnpNM3cyeXRNUUE4T0tBTkZfaGlnalI4Wl9vWm4tRkppYWZLZmRmWUE2WENCSGMxUE9tTFlFTDZoRVJtMEJOV1NSMWdRVlh4dHF5YkdRVkc4?oc=5",
@@ -1358,6 +1368,16 @@
             "date": "2026-04-27 16:00",
             "description": "",
             "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[#시큐리티 포커스] 안랩 '1분기 매출 591억'·엔키 '락드쉴즈' 참가·나루씨큐리티 '디펜더 서밋' 개최·시큐아이 '문화유산 봉사 MOU'·개보위 '공공기관 개인정보 보호수준 평가' 발표",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZckFRV0pWaTZZUXFKdFhOSjFTVWRvTGlqbmZjcmoxaWtHMXJSbmVWUExVZVBVRkxQZVRMOGpsMER3aTZGd0V5SklFUVpHZmVqY0FycDVfZnpxblJYZFMzUEU4N3hrc2ZLT2NUcE5PONIBc0FVX3lxTE95cU1zWUdTOFU1ZmI2VWluVENueWZVa3hmamcxT3FERW1zSkRCWmNrYmMtYzNQSlpGRkdXVjJrMFpWRkJZV2J3NWtGMG9WWkVSakpIWW9JVEIwQzBGV0xBOWhfeGl2NWdSX3pmTTlYcEFtbFE?oc=5",
+            "date": "2026-04-27 16:00",
+            "description": "",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6913,16 +6933,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 ‘STIC v3.0’ 출시",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdFFSTGFMdDBiZmUteG85MWRQQmlrZDEtckNmcWQ4cE5NNDRvYl9HLVFVUzk2OWdXZTRzTk9tNDdHQWJIZ093NE80VEpPX181R1BobVFaRlAyeUtIdEotM3JvY2tsaDZCZHY1ZktoY19uczg?oc=5",
             "date": "2022-06-09 16:00",
@@ -6958,16 +6968,6 @@
             "date": "2021-09-08 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
-            "date": "2021-04-20 16:00",
-            "description": "",
-            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7725,6 +7725,83 @@
     ],
     "trend": [
         {
+            "title": "AI스페라, 유럽서 AI 기반 '차세대 ASM' 알린다",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OVGp4Y0xZeXFCSXBiSGpTMl9zVXR1TGxsdUE5UmMtZkJIR1B1bDFjRHNJSUZYTVJ6eF9DM0QyX1dIQ0VWVUgyUktvNkExVE1SbUd3QzBB?oc=5",
+            "date": "2026-05-20 14:51",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "“문 틈 찾는 게 아니다, 침입 경로를 설계한다”…미토스의 보안 능력",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1cUl0Vmt5WUdtT2RBdjBBOEVyWnFJbXJXbW5TVWtpNkdhQU5zM0RuVUp4T1EtbG8xZXctVzBGakxwMGNjRENfZzNPSlM5RHFUd05OaUFwS1EzQnEtUzhXWXZtVk4yMkJGSmxYSg?oc=5",
+            "date": "2026-05-20 14:32",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "구글, 사이버 보안 AI 경쟁 참전... 보안 특화 AI 에이전트 ‘코드멘더’ 접근 확대",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Zbk1JNjNJUXAtUU8xMG1ZY2RuU3NscFMzbXNOOUk4ZjFORjFJZDNzTk1ja29YLWw4bXNGSV8zczJxT3N3ZWhzbVcxYXlITzQ?oc=5",
+            "date": "2026-05-20 14:28",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "“일자리·보안 이중 충격 대비해야”…국회서 ‘피지컬 AI 시대’ 대응 논의",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50U2c3bktjUzVyLXIxVlgweWRyaUJlVHpsZmdDSWxlSDB0X0NoUEFBRU10ZlFGOVktSi1MQUF5NFpJN3pYZzBsZTBxM2xrUGs?oc=5",
+            "date": "2026-05-20 14:24",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KT·서울대, 융합 보안인재 양성·산학 연구협력 추진",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jRzFfWVdMWUR2WkVfcGRkTm9tc2RPM3dqa0RpTlNneUNNbmF1WlBJTXAwZDZyZmhUN0d1SHBMNDY3Z2lNaGxxc01KS2tBREp6R2RjQWZFUk9VMUNZemNudlBuellTNlN4N3RXSQ?oc=5",
+            "date": "2026-05-20 14:16",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "“국내 기업 84.6% AI 활용하지만, 전사 확산은 24.8% 불과해”",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3eENLT1VPamFqREVGZTBmT3lOZWhmZjlvRldXM1c1azY2VGNieVp1b0hucXlUUGpiNWFob3ZSVHBxZ2E0ZEZjZHR1THhET1k?oc=5",
+            "date": "2026-05-20 14:11",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "대신정보통신, 한국기업보안과 인증서 자동화 관리 솔루션 'UCLM' 총판 계약",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tX0QxLVk0OHBweTVoRjV3VUpTbzg1eVpfU3dReWFqZVBrMzhONjFMYUJNb3pUem96TWVVeFJtOFJialBVSkUzRjVHODNidw?oc=5",
+            "date": "2026-05-20 14:04",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "미토스 '보안 AI' 능력은?…자동 스캐너 뛰어 넘어 '선임 연구원급'",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rVF9mVkh2T3JxdFUtSWtaUDdQUWlKTzJoSW8tUDIySGI5LXZzYnFuakpVVndMdFJLeHFfRHBub2FPVlZFbTRUZVVJU3d6NTA?oc=5",
             "date": "2026-05-20 13:54",
@@ -7739,6 +7816,17 @@
             "title": "KT, 서울대와 손잡고 'AI 융합보안' 인재 양성 체계 구축",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BNXBROHBvalViY1ptZEZXOUwwUlVnVUk5d2JjaEk2WjRXakVhS2owOUExTVVzSllYN2NmNXVZZ0dacU9NMFN5MW14VjJPYnJlUEpISw?oc=5",
             "date": "2026-05-20 13:36",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "한화저축은행·오픈소프트랩, 차세대 AI 보안 거버넌스 고도화 맞손",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2SGFyM0RBLXNkY1B6Xy1mUlhLdGROVjlIb1RPTFZPRHZtdUd2eVVleGJyUmVSYk4zMldZbXhCaHVXVjhNMkFLSmZrQU9BejhtX0pLZTJoWUJGalNESnZnZUgxLXd2Tm5xUUlFbg?oc=5",
+            "date": "2026-05-20 13:31",
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
@@ -19605,6 +19693,17 @@
             "is_today": false
         },
         {
+            "title": "안랩, 美사이버보안 행사 `RSAC 2026` 참가…AI 청사진 공개",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02SVlydVljSGJ4eWk0a2J1R3pnR2p5YUpvRUJTcndlM2k4VnNfYXlPMW1jdFZaNTJQajR1WlVtbTlCT2F3TUpMbXdCMHRqRmh1TjB5SmgxeHJTSE5Xb19tRTZ3?oc=5",
+            "date": "2026-03-27 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "델 테크놀로지스, AI 및 양자 컴퓨팅 리스크 대응을 위한 사이버 복원력 강화",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rVktDU0UyaGwycEtYY3N2aTk0b0ctcl9zbG1ZeG1Ndmg5MkNzZ0JGUDF0UUpPZTFjRVdPcDBZVlNuSnRuTW1RekROUzUyZXlDWWIzamtlWGF3cTRiajlzTVQxbjdFd3M?oc=5",
             "date": "2026-03-26 16:00",
@@ -22333,6 +22432,17 @@
             "is_today": false
         },
         {
+            "title": "샌즈랩, CES 2026서 ‘마우스 크기’ 홈 IoT용 AI NDR 공개…공유기 연결만으로 네트워크 감시",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yMmRSWlJsQ2JHRFVUWTNodlpnMjFrMjYtbXZROExDeGZ6NHR0UFg0OGRXUG84d2xSclZGVGdmNlpTTWNrcWczWkdiZEZ5UmY3aE5PWXJkVjRJbUhTXzgwSU5JUHVHSFZEZXkwOA?oc=5",
+            "date": "2025-12-30 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "지스케일러, 제로 트러스트 연결 기술과 AI 기반 보안 솔루션 발표",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nV2FDYUtQQ1hrQ0Z6Yk90ZzZ4bkVpM0dndE15X0wyTTNTakpfOUVUbkRPX21zSzdDWko5WUlESkQ4My1ZX3haRVFfbllvWjJ1NzlGakc3NG9lTkJHNENzYW5RNFZNZExKWmxBZEZ3?oc=5",
             "date": "2025-12-30 16:12",
@@ -23752,6 +23862,17 @@
             "is_today": false
         },
         {
+            "title": "시스코, AI 에이전트로 SOC 역량 강화... 위협 대응 속도 높이고 복잡성 줄인다",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mR2xQb1lqYjNpVjNWTDdTZmtZdEM0TXJaeHAtOVlscFJEYnU1UGF2MDFKUUg4LWltTVhoV2UxZ2Q0OXNQdnNkZXl0Y0hsN0x4WFR3WjQxay0wRjcyS2xVVWQ2bHhjVnM?oc=5",
+            "date": "2025-09-11 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[2025 NDR 솔루션 리포트] 진화된 사이버 위협과 고객의 니즈에 대응하기 위해 성장한 ‘NDR’",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHNkRGNV9DamZwWFB4bThWWjNjcGhrLWtPbFhfcURjNE1LOFoxQkNIOFlJY3VtVHNld0NMSi0zelg4c3R3N1VXSmV1amJXMmtuQVlDSVFHeDE1UXVTakhr?oc=5",
             "date": "2025-09-10 16:00",
@@ -24198,6 +24319,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SK쉴더스, AI 기반 보안 ‘선제 차단’ 전략 제시 - 조선비즈",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcng0Y0pLT1B5RkYyZ3E3UjR6czlVUWhzYk92aVFiYkhOeXBCb3lvZUVMbEdoZUdGczZVNWlHeGt6Xy11WU1Sb0dQbWYzN19lbXRKSmdCQjltbW1vV29XSklXS3I4SGhiMk4xRWFBZ3haZUxQNml0SG5mMU44cUlFSndB0gGWAUFVX3lxTFBzNTBJY3FoeVBUUGZaaVdWdy1kOWdETHhueEZHTDgxTmc5OHk3WVlZR1Jwak9tVUR5SzhTaHFTdmxaTFRZdzdkU2ppMjl6Y2VBbzN2NHJ6d0pxcklOcVVxdS0yb1A3Tk5GX1Q3dFRlRkY3UVZrakI3LWJaeW9DRWJMZjVKTHRKQ2g0dFRwQVB2eEQ4YXdLdw?oc=5",
+            "date": "2025-06-26 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -26556,15 +26688,6 @@
             "is_today": false
         },
         {
-            "company": "시큐아이",
-            "title": "분기보고서 (2023.03)",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230515001939",
-            "date": "2023-05-15",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
             "company": "넥스지",
             "title": "분기보고서 (2023.03)",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230515001267",
@@ -26619,15 +26742,6 @@
             "is_today": false
         },
         {
-            "company": "시큐아이",
-            "title": "사업보고서 (2022.12)",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230331000071",
-            "date": "2023-03-31",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
             "company": "넥스지",
             "title": "사업보고서 (2022.12)",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230331003150",
@@ -26649,15 +26763,6 @@
             "company": "안랩",
             "title": "정기주주총회결과",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230328900910",
-            "date": "2023-03-28",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "감사보고서 (2022.12)",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230328000190",
             "date": "2023-03-28",
             "source": "DART공시",
             "tab": "disclosure",
@@ -26700,33 +26805,6 @@
             "is_today": false
         },
         {
-            "company": "시큐아이",
-            "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230228001325",
-            "date": "2023-02-28",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20221130000964",
-            "date": "2022-11-30",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "분기보고서 (2022.09)",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20221114000352",
-            "date": "2022-11-14",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
             "company": "넥스지",
             "title": "분기보고서 (2022.09)",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20221114000778",
@@ -26736,64 +26814,10 @@
             "is_today": false
         },
         {
-            "company": "시큐아이",
-            "title": "[기재정정]대규모기업집단현황공시[분기별공시(개별회사용)]",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220831001219",
-            "date": "2022-08-31",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220831000713",
-            "date": "2022-08-31",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "반기보고서 (2022.06)",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220816001805",
-            "date": "2022-08-16",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
             "company": "넥스지",
             "title": "반기보고서 (2022.06)",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220816000425",
             "date": "2022-08-16",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "대규모기업집단현황공시[연1회공시및1/4분기용(개별회사)]",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220531001079",
-            "date": "2022-05-31",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "임원의변동",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220531000910",
-            "date": "2022-05-31",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "분기보고서 (2022.03)",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220516002234",
-            "date": "2022-05-16",
             "source": "DART공시",
             "tab": "disclosure",
             "is_today": false
@@ -26817,55 +26841,10 @@
             "is_today": false
         },
         {
-            "company": "시큐아이",
-            "title": "사업보고서 (2021.12)",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220331000209",
-            "date": "2022-03-31",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
             "company": "넥스지",
             "title": "사업보고서 (2021.12)",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220331002091",
             "date": "2022-03-31",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "감사보고서 (2021.12)",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220330000304",
-            "date": "2022-03-30",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220228004565",
-            "date": "2022-02-28",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20211130000925",
-            "date": "2021-11-30",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "분기보고서 (2021.09)",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20211115002360",
-            "date": "2021-11-15",
             "source": "DART공시",
             "tab": "disclosure",
             "is_today": false
@@ -26880,46 +26859,10 @@
             "is_today": false
         },
         {
-            "company": "시큐아이",
-            "title": "대규모기업집단현황공시[분기별공시(개별회사용)]",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20210831000794",
-            "date": "2021-08-31",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "반기보고서 (2021.06)",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20210817002239",
-            "date": "2021-08-17",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
             "company": "넥스지",
             "title": "반기보고서 (2021.06)",
             "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20210817000861",
             "date": "2021-08-17",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "대규모기업집단현황공시[연1회공시및1/4분기용(개별회사)]",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20210531000595",
-            "date": "2021-05-31",
-            "source": "DART공시",
-            "tab": "disclosure",
-            "is_today": false
-        },
-        {
-            "company": "시큐아이",
-            "title": "임원의변동",
-            "link": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20210531000154",
-            "date": "2021-05-31",
             "source": "DART공시",
             "tab": "disclosure",
             "is_today": false
@@ -26959,7 +26902,7 @@
             },
             {
                 "keyword": "락드쉴즈",
-                "count": 9
+                "count": 10
             },
             {
                 "keyword": "선정",
@@ -27000,12 +26943,12 @@
                 "count": 92
             },
             {
-                "keyword": "미토스",
+                "keyword": "오픈",
                 "count": 69
             },
             {
-                "keyword": "오픈",
-                "count": 69
+                "keyword": "미토스",
+                "count": 68
             },
             {
                 "keyword": "정부",
@@ -27048,12 +26991,12 @@
                 "count": 14
             },
             {
-                "keyword": "지니언스",
+                "keyword": "공개",
                 "count": 9
             },
             {
-                "keyword": "공개",
-                "count": 8
+                "keyword": "지니언스",
+                "count": 9
             },
             {
                 "keyword": "차세대",

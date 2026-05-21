@@ -42,13 +42,31 @@ TREND_KEYWORDS = {
         "must_include":  [],
         "exclude":       [],
     },
-"AI Agent": {
+    "AI Agent": {
         "keywords": ["AI Agent", "AI 에이전트"],
-        "must_include": ["활용", "분야", "사례", "도입", "금융", "공공", "KYA", "Know Your Agent", "영지식 증명", "Zero-Knowledge Proof", "ZKP", "식별자", 
-                         "DID", "분산원장", "Decentralized Identifier", "상호연동", "연동", "프로토콜", "신원", "인증", "증명", "프라이버시", "VC", "검증",
-                        "보안", "운영", "요구사항", "상용화", "비지니스"],
+        "must_include": [
+        # 기존
+        "활용", "분야", "사례", "도입", "금융", "공공",
+        "KYA", "Know Your Agent",
+        "영지식 증명", "Zero-Knowledge Proof", "ZKP",
+        "식별자", "DID", "분산원장", "Decentralized Identifier",
+        "상호연동", "연동", "프로토콜", "신원", "인증", "증명",
+        "프라이버시", "VC", "검증", "보안", "운영", "요구사항",
+        "상용화", "비지니스",
+        # 추가
+        "표준", "ISO", "ITU", "IEEE",
+        "멀티에이전트", "멀티 에이전트",
+        "에이전트간", "에이전트 간",
+        "신뢰", "신뢰체계", "신뢰 체계",
+        "오케스트레이션",
+        "자율에이전트", "자율 에이전트",
+        "LLM", "거대언어모델",
+        "MCP", "A2A",
+        "이벤트", "연속성",
+        "플랫폼 연동",
+    ],
         "exclude": [],
-    },
+},
 }
 
 BLOGS = {

@@ -19,7 +19,6 @@ jobs:
       - name: Run Scraper
         env:
           DART_API_KEY: ${{ secrets.DART_API_KEY }}
-          KIPRIS_API_KEY: ${{ secrets.KIPRIS_API_KEY }}
         run: python scraper.py
       - name: Commit changes
         run: |

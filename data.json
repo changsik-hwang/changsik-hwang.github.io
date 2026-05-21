@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-21 13:00",
+    "updated": "2026-05-21 13:43",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -151,6 +151,16 @@
             "tab": "competitor",
             "source": "공식블로그",
             "is_today": true
+        },
+        {
+            "title": "안랩클라우드메이트 ‘애크미아이’, 공공부문 SW어워즈 수상",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOODNzREFQVGgwNlhLOGhjMVJudEFNUklXYWtyZmhqanVmX25GRXlDTnBldzc1STRsdE9RMlNhbEJtejRGSGpUNVdaOV9tSG9kdktieEpSVlRRaDlPT09VTlJpcDdPNDJW0gFsQVVfeXFMTnpWZU5rR3FTUUR2VURwZTRWeXhNUWp4MTdrYXpuRFhRUEhaV1ZjLTBNVTVtMHpKblZqS2ZMZ01UOGx5M0k5VjZWZEprZ1A1MTdyemxIY1R4YkU5Z1pVQlNMS2plbUdRVTZTdjhE?oc=5",
+            "date": "2026-05-18 15:38",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "안랩클라우드메이트 애크미아이, 공공부문 소프트웨어 어워즈 수상",
@@ -356,6 +366,16 @@
             "title": "안랩, 공급망 불안 악용…업무 메일 위장 피싱 주의보",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hczZuRGpHN2NySXJOY2NnM1ZwWjRMaUNvdDRDTjd3amFuZlZySFM4UlB4TWtPcU1nX29XNm9TeWo2T0JiQmFvVUNNOHBENFFlMlZz?oc=5",
             "date": "2026-05-15 10:51",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "‘단가 인상’ 메일 철렁해도 클릭 주의... 가짜 공문 피싱 기승",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kMk1adnFMYmNieExvSFFFLXhqTkNJZVU0NTZETnpxYkg1VkVwZ2NDZldUZTRqYXE1ZFhIcEdUdG9kQTdMSjdZNGl1VHZ1b3NpOE44Nnp0QXlzTmFMVjlMLTY5QTBQTVYwcUpDaVpn?oc=5",
+            "date": "2026-05-15 10:48",
             "description": "",
             "company": "안랩",
             "tab": "competitor",
@@ -7093,6 +7113,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템, 지능형 방화벽 '위가디아 ITU' CC인증 획득…6월 출시 후 ZTNA 개념 확산 기대",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtalpGYUtlWi1zMzFwcGdPZFlLa29UaTYxbkh5aGFFMWx2ZTFsc0FOaS05TVRhbEJ6Qk9id2dKM2J5NWx3WldDSnBxU0RpQQ?oc=5",
+            "date": "2022-07-13 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템 ‘위가디아 ITU’, CC인증 획득",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KajRuVGJVbjhnRmIyUTR6Q2FmeWdyVXNDSUh3M0JGZHM4NGIzVnZoazk2S0Y4aXFKZGxhQ0lUTWI4SE9IMHRqeGZSZy1kY28yOUZqNmZ4TVRrYzJ4amJhdXJkZHdWMnl4UGNjNw?oc=5",
             "date": "2022-07-12 16:00",
@@ -7124,7 +7154,7 @@
         },
         {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 ‘STIC v3.0’ 출시",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04Q0x3QWNxaHhBY3VPUFBHN3o3cmFKOUc4cXFadG1ZOFF6RFFKUndSOGpFQ1BRWF9oUjgzd1E3QW1Bb2UyazJOZFhpYmdBZDUyTm94TkdjS3ktZmRveThEOXFWdkh5VGxmWUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VdFFSTGFMdDBiZmUteG85MWRQQmlrZDEtckNmcWQ4cE5NNDRvYl9HLVFVUzk2OWdXZTRzTk9tNDdHQWJIZ093NE80VEpPX181R1BobVFaRlAyeUtIdEotM3JvY2tsaDZCZHY1ZktoY19uczg?oc=5",
             "date": "2022-06-09 16:00",
             "description": "",
             "company": "시큐아이",
@@ -7353,16 +7383,6 @@
             "is_today": false
         },
         {
-            "title": "(주)퓨쳐시스템 2026년 기업정보 | 60건 면접후기 3.0 면접난이도",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVlfTkY0Tk9MZnI5TkJuZDhtZlhpTWhaN1MtRUNxYnJlTThEeHZGOXFDdDJqbENYRUJ1UVJhanA4V3RrU2ZYeFdHM3BCMndJbTNxVWQybXpQMmhqTlBGWVJxdTE5eVhoem5hSVhTQVQyZ3h2bFNZYUdrZlFUVEtFZW9qSkJTZWY4MW5tRi1iUjkyS2xZS1ljYVp3bWtRZ0xwNWc?oc=5",
-            "date": "2016-02-27 05:29",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[오늘의 CEO]김광태 퓨쳐시스템 대표",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wZU4zdm9YLTNWNzY5ZFRKNHRMdVZjbWY5XzhwOG1OU0dqbU91ZEZaeUVyYkR3MXVHSUNvYkZWV2ZZbGFwTWJHaW5QdHdNUQ?oc=5",
             "date": "2016-02-24 17:00",
@@ -7563,16 +7583,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이닷컴, 닷컴 빠진 SECUI로 사명 변경",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTVZGUjByNVQtUnEtaENHQjBiUVZuNzBRTTZuOTFTaHc4MHV0aEhXNWNBSG5SQlQ4dHRERVNaV3RiVEdnTVByOGFnTjRydVY0OG1MWDhKY0FsQ015ZDJ0UnZWOXlOU19JREE?oc=5",
-            "date": "2013-03-29 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[시큐리티 톱 뷰]김광태 퓨쳐시스템 대표",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVmtHWVZHbC05ZHR6ZGZRT1lITU9Ba2xZbnBXNHZ3U3JubExEREJ0UmtTWVFPU0xBUU9qNlRyS05jUzJPbURqNWhpdw?oc=5",
             "date": "2013-02-11 17:00",
@@ -7594,20 +7604,10 @@
         },
         {
             "title": "퓨쳐시스템, 인젠과 위가디아 IPS 총판 계약 통해 중국 진출",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43UFF5TkRoUGVFT1dYb1FYSjcyekM2TnZmYzgtdEJMbWZOYnlzVVJ4NkYtazhFQ080T0R4cHpDbEN2d1J3MUs1TWFEMWNaT2o0OFlYTWliVjl5TmFLV083SFZoZnRhbU5hOGJFWFEyaXozQ0E?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvMU1kUkliY0ZfUEs0b3ZHa29EWUJXSlQ2aVlINU5TNS1vWFFpcGJOTS1BQUlnVnppNmFuWlhrOG9LR29nU0l5N1QzUTJCd2VjMEFWX2h4RVJRdkNkSlJPczJYS29mam9HNzdueU8ycW41UQ?oc=5",
             "date": "2012-12-27 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 3Q 누적 영업이익 102억...전년대비 95%↑",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRVo0R0diTWVLUnZWeC14eFhFRUhXT1dBbGcwVld4aTJ4X1c1QS1sQmxtSkozOG9sNThmRVozbGtOX2Q1RGpuTk5ieXBXbkk1bi1abkdLWnRjYXhidFgzeVY2ZkV5RVRCOVo0QUx3a2c?oc=5",
-            "date": "2012-10-25 16:00",
-            "description": "",
-            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7646,16 +7646,6 @@
             "title": "윈스테크넷, IPS 해외시장 진출 활발",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KUDBVSkVCUzE0Y2RKQTJUVU9SRng5RmtGY2dJUUViTjg4OXpEci1yTVFGMkpybUh3cXUtZDhsRmxiVXZRM185N1lQNl90eGFwTnc1S2N0UVZCSmh3N0wwMFh0bWVkS3E0WW1VcmcybWdYUQ?oc=5",
             "date": "2012-06-22 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 지경부 주관 ‘월드클래스 300’ 기업에 선정",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3SkZoZFNBY21kUFJjQjJ1Sk1md0hMZ1lBOWNaRUEwQm1QLXAxVTYzZ1M0eS1YbUZZSEh3N0ZDNW1hNnN5MHNGaTFiaUdaX3dnVFhNemlWcWZ5cmpWN0xOcHZqMjE4UlZBb1lIS3VMcDYyV0U?oc=5",
-            "date": "2012-04-30 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -7753,11 +7743,11 @@
             "is_today": false
         },
         {
-            "title": "시큐아이닷컴 마이크로소프트 MAPP 파트너십 체결",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoS2YwWVZ2cUEwN3hwVG9JZzcwWWxGdTlYc0pnQ2xqb3l1RWRWb2txb3RvRmowNmc4Nlk1eHFXODFfb3BmaWJaYl9fOHc5YUxrbzIzeEJ4VFNqRXcyTFBaN254OUN2RS1PakE2SU5sNEM?oc=5",
-            "date": "2009-09-16 16:00",
+            "title": "퓨쳐시스템, WeGuardia V1.0 CC인증 획득",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ILXNDdmJiZnNFUk1HdjJaelIxdTVvRDBORFlFcGRmbVNLMWhXWk5qVzgyR0hnZE1CV3ExclVLaGh3bVRBUFZhVTNoS1ZEUzdFbTdqUm1TT0E4dC1XWkE?oc=5",
+            "date": "2009-08-31 16:00",
             "description": "",
-            "company": "시큐아이",
+            "company": "퓨쳐시스템",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7854,7 +7844,7 @@
         },
         {
             "title": "특허청, 어울림 VPN 부하분산 특허 취소",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KcFNCbjRGYWFicmx3bjVXRzlwbVRTNGRqQnJkZTc4R2VLRHEwMm8xS25qS2xCSThwZ0daSVhhTnNPWlgtVzAtU2ZOeWgtUTRybUVsbi1sRUJfWkQ3TUJGcGxKMVZMdF9wZTFFUWh5eEQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDT3U0SzFPemxoOFVmWllIaXgyazdWOTZOWFA0bWJ3UHZMQkwxY3Z4Rml4NDdNd00weHV1OWFPTEJPTndiR3BPQVc3UlVVbFg4Z3RnME5FcmMxSXVQUXlXVGt3LXgtcjRZTkdKUjBRMTd1UQ?oc=5",
             "date": "2006-05-23 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -8004,6 +7994,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "인천광역시교육청, 안전한 AI 활용 위한 정보보안 교육 진행",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDTkx6M0hKcndpaGNGdXRaMkZKdXJVeE9rTGR5SndqZnpmMkc0U1RPY0FRUFZncGh1SVVPSkFvWmtpWTJhSFgwQUg0MkhEM1hjeENnQlZfdVV0d2NwRWZ1UmRjU2V4R25xXzZ2V2NNSXktQQ?oc=5",
+            "date": "2026-05-21 13:04",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "제18회 CPS 보안 워크숍, 6월 4~5일 제주서 개최",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9teWJvWGhvMTg0X0JZWUFHRW1LRV9JaEY0Vzl0QTVGTzNmU3BxdjBBT1RRUmRFYml5S3pPeHF4d2VHQ2FTcjdVR2UwQ1V1QkZYMXhhVmJpWlBvcFZfQjh0dmdGUWlKVmx2YV9CUw?oc=5",
@@ -8517,6 +8518,28 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "Video",
+            "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQR01xTzBOSnNEanRiNnU4eHp2cDZTOTVsUS1LY2ppV3VrWFdKZnJ1UTk3TXlGOWRCdGc5RDZqSEItNl9EY0hJXzB1NDJnYWUxUDFJWXI5bE9NUExyUWUwTEdqOVZvdFhlWGppWm9BZ1ZCTnYzZmo1QW54OWdRY2h6eE8zaFJpODZUR1pmN2U0OVVON0V5SW5fMGpxY3YzcnNjdVhTN2RFMmJYUHpXc3R0YXZSQVVCcHpKLVNQal9tMm1lcXB2aTFvendlVERZeHpMY1FRMTFUTHhDczNzZUdPVUJQOFZUWFV3RF9KQThXaGFKY3lUdzk0aVNneTV4VV83MHRlTVdibTAza3pfVDBxYW9tRnNiMUM4N215eXd4UmhQSS1oQ3pycDdjNmJqa2JuZ1lCYVhVYlFEWVZFSjA5bEtiU3JQSDdHdFZQNQ?oc=5",
+            "date": "2026-05-21 00:14",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "Photo",
+            "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNS3ZLNUw1WnN4UmhuYnVyUzMwdEswMDRzRkZKMGdham9iSGhHZmVqX0dOalVNSDJDWjZBaEoyMHBLTFFPMUZYSEl0d0xuVXplX2ZIYTQ4VUpkYVplQ2REUVU1ZkZ3emMzanQ0MjVFaWdrbDdEY1hQNGhIb2ZjOU9xU3FzVUw1cTM5WHpKSG1QNHI3MU5tZU5DTENxa3VqLUs1SW84MGdOZmZlOXBIVjZ0U25IZ3FzbjFWWlF5VGFTcHRkVUloZy1CRGVDM0ZHcDlDMGlxY0ZfM3gxelFKQVdPYThzaXpyOUl2V19ldkllblFZVEpYU3BGRVFPVUlVOTBycEVKMENLQW1GME9YbTRPWUppbjFhN1M4d01QQzNQU3A0TWdTNloxQkxlOXV3UHJRd0l2M3dJUmZzZUNjLTIzWmRQTk8zVlcwa1pn?oc=5",
+            "date": "2026-05-21 00:09",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -15628,6 +15651,17 @@
             "is_today": false
         },
         {
+            "title": "[Book Story with Keywords] Philosophy Begins at the Table",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1adHVaa0hONDhlc1pDOTBBcHVMZmZ2Y0hYRHpBbzE4Q3BaUFNMUXNaenFDNldFNUFlVjNIc0E0Q3BLd2JPdnF4TVV4eUJXUFlvb196UG56OG9wWENjWDNZVGFtOXB6UQ?oc=5",
+            "date": "2026-05-17 09:05",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "지스케일러(ZS), ARR 전망 상향 조정 후 5.9% 상승 및 소프트웨어 부문 낙관론으로 변화된 내용",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVhYNzJvX04wRWJ3UmhMUVJQc3IwNHdENmhLaVVoUHZzRUdhWWRaa1R4YjdhTDl6ejBCazJyZFhsSDZ1MDNQYW1oazZRNmh4dVIwRlJHZWtVbmZqbE5RYm9GQVluaDlwdkNCMVIwWUVzOVJZekNOWUxYeHJyOExzd3JuY3hXWGJrci1VWHpDeWnSAZABQVVfeXFMTVVYWDcyb19OMEVid1JoTFFSUHNyMDR3RDZoS2lVaFB2c0VHYVlkWmtUeGI3YUw5enowQmsycmRYbEg2dTAzUGFtaGs2UTZoeHVSMEZSR2VrVW5mamxOUWJvRkFZbmg5cHZDQjFSMFlFczlSWXpDTllMWHhycjhMc3dybmN4V1hia3ItVVh6Q3lp?oc=5",
             "date": "2026-05-17 02:15",
@@ -16717,6 +16751,17 @@
             "is_today": false
         },
         {
+            "title": "서울 재건축 단지들, 상가 제외 정비계획 확산",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWZRa3F1NVgtVzVHWjBXSkZWMC1MaW5NQmM5N2I4ejQ1TXVMLTZKaFNOX1NBb05HTVF0YnhLUkwtNVdXMG9wRDlwbDBZcUxzLVZ4T2pxd0dQRUZzUTFEY3cwY3MxR2w0UlROQXAtQ0taenhGRGRwOGZ1UkdUSS1WTEpDcElDTll5cFFkZkNrWUlzRnVGYWM0U2NVaVZLUVh2TklyaDZCVHpRUQ?oc=5",
+            "date": "2026-05-15 02:17",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "공격과 방어를 하나로 묶어 SOC 탐지·대응 속도 높인다",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YYmFBd19hYXE0ZV84UENBWFFYMDFsMEJlYWUzcTZjNEVjdHlJcUNaQ3Q1bkRUemlvc1J3M1RGN2RFR1h1eWo0UFVyd2VybDRacUxydXFsTncwN0hZUkpkM3ZKSHcxY24yTWc?oc=5",
             "date": "2026-05-15 01:15",
@@ -16860,6 +16905,17 @@
             "is_today": false
         },
         {
+            "title": "이스라엘의 현행 ‘귀환법’은 메시아닉 유대인들뿐만 아니라 아브라함까지 배제할 것",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGNveFlxbnctWUp6OHFPUjA2M0xWaW9ocGt1OFdrTlE3YmtlRHZlczg4eWZrQUpVaFE1VkdNemw0M1lfYlJKTThmR25pU0NCUGxxN1BUS1J2WTRwc3lfdFpLdlhCUGl2ajBhQmtEaVRzUHhFVGlCQnQwMVBkLU5pdjJTVjlGU2NtcGJUNDZBSVhwV3JhY0NJRDhDWDcybEdKaUJCYWVwSFUyLXZQcEV5bjd5SzRxam9SczF0MkRB?oc=5",
+            "date": "2026-05-14 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AI 에이전트 시대의 보안... 팔로알토, 아이덴티티 보안 플랫폼 ‘이디라’(Idira) 출시",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnSTNaVVJ5TGF0QTRxVVNZVU5aV1AtN1cycHE5T0hIelBBclJyVjhIQm5iOTNJWVE3ZWdtSk5JdklqLXJ4WEM2RFBxSk8zQ0ZoRjdRVURyRXg1VktxTUZJ?oc=5",
             "date": "2026-05-14 15:37",
@@ -16987,6 +17043,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "서울 재건축 단지들, 상가 제외 확산으로 사업 불확실성 줄이기 추진",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1RTV2lRY3huTmNSc3BkTWhDTWozNHdJX0c2YkpyaENHYzY1Sk92YXc4b2xmVGVkbnc3aGJINTJFVlpETV9LUTdNajJkVzIyRC0yNG5idURSQzVhSkhGTFN5eDhVc1RHZVdaTFlsVEFXd05YNUhfWkFqRWVMNXpjUzc1UVNJV0Jkd290akJtU1JIcmotbERqVldmQjE?oc=5",
+            "date": "2026-05-14 11:49",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -19819,6 +19886,17 @@
             "is_today": false
         },
         {
+            "title": "Zambia Cancels RightsCon Summit After China Push To | 내 손 안의 광장, 빠띠",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qT2lfUkhNVHhlRXIxUzZYQTFoeFgyakZJMS1lNVNXRDNSVXJCNnk2QlU4SkVVTjZYLUJmTVpDYjNWUUFCZkpYT0xZOA?oc=5",
+            "date": "2026-05-04 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AI 에이전트가 쇼핑·결제까지… FIDO “믿고 맡길 기술 정립하자”",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0QzhHdkd6WWNIckZ2b3lYSlBmQWhTRnRQcWZDOHhKX2hRNEZDUG93VmhqWmJVLWVfdjR4VTdOTEpFUmlUMGNuN0F2bWVKRVpndjNLOGF5dFpmMHpqWTNzeXBSR0ZWR2syLUpPYjYtelXSAXRBVV95cUxNUUUtWVhSZEZvRjN2SHlKbWgwaU5vS1FvZF9iTWFNdlp6dHU5TFBkQjJSNVlpRXFnSFUxTEhCV3k2cDl5MzJIOGI1Z3JwX2tYc2RmMWxZbFA0SlpHeWNSVHRYVFk2S1pZaGM0LTNCMmloMVVQSw?oc=5",
             "date": "2026-05-04 06:00",
@@ -20413,6 +20491,17 @@
             "is_today": false
         },
         {
+            "title": "Baekhyun featured in more than 10 Weibo real-time search keywords",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81LTNJN0REOHNodk90Yk9fbWxVblc3b25jTU9feW96MXdwcHppeERjdW9VZ21fR3RXekc1V09ScmFzT3dZSTZ1VUxGMjgtZmNpT3UwRXUxV0R0Qko5Qkpr?oc=5",
+            "date": "2026-04-27 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AI가 'MS 보안취약점' 수초만에 찾았다",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcEtPN0tfMnFYVmgxRjFEcHJEcVd0Y0NIdmNhZW13WjB6RUxaRGlveU8ybnlRd2oxS3ZTZXF3dlhOb3RRc2NEWV9sM0hkZw?oc=5",
             "date": "2026-04-26 16:00",
@@ -20804,6 +20893,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "지금 AI 분야에서 주목해야 할 10대 키워드",
+            "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRDBKZFVVWmRkNmJsNVJ1S3BUdFJNR05ZbWFHZjBlck5zMzkzUzFOSHdxYjlMWVhHUmVEWU5GZ2lkbjhpQU9pNFJaOFFWNGtkOHZHM2xYM0g1X1Z1Zy0xR0tDelBuSDdBaFJXbnBwaDJCZnp0M3ZYTjF4WTNJSjZULXkxQU5ZTEJsUEcxU3hrZjBEc25mSTFqWVJNOE8tcXVLb2h6NUFpbzFZVXhzZDJjMHZxeHVkVVZWbTR5aUNIbVAtd3F3cnhLZGdBRVpON1dhUjR0REZrdEN4WVNlbGpVbWxhZUpNQ2x5ajAyamh6VUtpQTloa1dudlZBeTFRbWJQRHRLY3pNaG9rdw?oc=5",
+            "date": "2026-04-22 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -21266,6 +21366,28 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "이글루코퍼레이션, AI 원천기술 특허 4건 취득...자율형 SOC 고도화 속도",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pcERDcXFGSndEa0JUaGZzMU5NTFZOZ0ZwcjBJZ1RjMi1ZalBjQUw5eWFGekVZWmQybHlaLTlfRnRadEdsS1FvNlVaUkMxTnFIYy1HcS0xeU1HVVVhQWo0dHVjdnFjMmozbjZPdQ?oc=5",
+            "date": "2026-04-17 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "South Korea Urges U.S. to Exclude It from Section 301 Action, Rejecting Claims of Overcapacity and Forced Labor",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCb3J2RWVRMWtzUm45T0pfcDNET0xoNTRmS3BEVHhJVHNkcGhTRnJ0d3hTeDlpQ2MxQ2k5MTFnd1BWaEhEelFlN0FTVXZ6Sm5fSjNB?oc=5",
+            "date": "2026-04-17 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -22261,6 +22383,17 @@
             "is_today": false
         },
         {
+            "title": "유입 키워드 분석을 통해 콘텐츠 확장하기",
+            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Bb1J2dUVBRnMzTmRreWlXdWFTd3oyT2ttQnNUYUt6dl9PVTF2bUJ4TnctSkhQRjZyYnIzeEowYWdlYVZOYkZB?oc=5",
+            "date": "2026-04-03 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "한국제로트러스트보안협회, 보안 담당자 대상 제로 트러스트 교육 시행",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nTDRSUmVSQ1ZjSjU4a0tLRVlGdm5sb1VKS2htRnlJcFBTd1J1YlRZNkZYblZGSjZKaklSVkhvQlROdkp0OXJrREZBbDRWVHNXaWo2cGxJYzZVRkxXd0pIc25wTTB0NUE?oc=5",
             "date": "2026-04-03 12:38",
@@ -23202,6 +23335,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Comeback D-3… A preview of the BTS concert through ‘7 keywords’",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kV2xqUkJ1aGRhQ1hybDVyaE9SaFVqdDhUZ2JqYlJuVmFXNW9VX1JUdTJpTkdkQ09KNG4tQS1URFQwVndBeS1oNFVjWTNhckl4TEdqNFF3T0k3Y0pfUHc?oc=5",
+            "date": "2026-03-18 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -24406,6 +24550,17 @@
             "is_today": false
         },
         {
+            "title": "트렌드 코리아 2026: AX 조직이 주목할 4가지 키워드",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSEtndHdHYW9QRzBwbTZRel9rdkN4QzcwQUY0S2pXLXJuZ3RpdEs4TklqU3k4enhVNFFXdDZqREc5MjBGUVdzUVNEWS0yMjZsMjFOQ1BSckVpNEtYRWJ1YUNmWkxVS1BmM2Rrcmh4Wi1qeU5PSnB1ZjQtb014SG9WWl9lekNvdVc5akxYUnZZc2V0Zw?oc=5",
+            "date": "2026-03-03 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "보안 산업도 AI ‘클로드’가 잠식할까… “취약점 찾아낼 수 있지만, 실시간 해킹 대응은 아직” - 조선비즈",
             "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWllSQXFJUnI2cFVWUWlWckRWNnVaaFFveHA2YnR3b2FKbzFTbVFZUUlzcjJpNjRyZzRDV3dPU2VSR2F4RnRudkZYU0MwQWV4S3Y1NW83NHhob3pjLXpKV2l4d1l0UEJieVdpQmxHZGZDQTc2Q3JwTHVOT0ZJR0V0Tzh30gGWAUFVX3lxTE1ZUWNJOEFGRGNNMEI2NE1aejMwTXZqWTNYdnZ5SVNqTFliUElUV0k2RWNwc3RYbzBJOEdCTFBwdU1QYXpwLWMtYW9SOEthbUpLUFlESE1TQm9JaFNnZm5qdjVENl9waXBvYTRTemJZMmJKWDgxQ2FsSzVHUXFHYnRndlp6ZUF0WC1QNF9tdWZ4RXBpTklvdw?oc=5",
             "date": "2026-03-02 17:00",
@@ -24544,6 +24699,28 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "North Korean Leader Kim Jong Un “Concludes South Korea Is Eternal Enemy”",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mNW9vV3BmZVhSdUVlczFzOHctWDFDTzFLM3l3MU9MU24xbmxCYm9EME4yN180ZDRFd2dOaEc0OHY4cDZ1eUpfeFZ6LWN3T0lxMWJJRXVuSlNKcllsTWZQOTFUMkNFd0pwRUHSAW5BVV95cUxQb3BqalYwd0VmWlZwaXQ4N1NDM0luWW1LeGdkd2hQUGtGcE1ZZXBCLVpCYTNRVC00ejdWV3lpWEVBM1dYTVJ3SlBHcVl1VXFoTDhvZV8zcFFtV2NGWmszcmp1YWdjaUw2REtqWEVkUQ?oc=5",
+            "date": "2026-02-26 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Kim Jong-un “No reason not to get along with the United States… South Korea permanently excluded from the category of compatriots”",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZN1otcnh3WEp0RGcySGtKWTd1RVZ6bjNwMjVVWklWUGpCaHpnVXpOakluOTFQQmpZaFpJS20zTThCQ1ViUF9aMWlaZlpHOG1iX2l1YTM1alp2N2xpUkE?oc=5",
+            "date": "2026-02-26 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -26199,6 +26376,39 @@
             "is_today": false
         },
         {
+            "title": "Trip.com unveils the Q1 2026 global travel trend keywords ‘F.O.C.U.S’",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mWi1JaU1XU2R4RUQ2TERnU2RLNG5CclZzWmdSaXdOb2NZazFSd3BCcUtmNHU3Vm1hVjFmRFhUN0dIYmJ5MnFiRmN0aXZwOUdwRkZNTXlVVEd6M3FVcFhhbkt3?oc=5",
+            "date": "2026-01-16 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "\"AI가 치료 돕는 시대 온다\"…올해 의료보안 10대 키워드는?",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWU0FwcVI2VVozZDE0cWJkOVEzZk00QjJFUUhLazVKR1gzNUNQUU5Db2xibElCdlZMbTZXX2Utc1ViNTZrOVV4Y1owM2g1cmU3empNZWFibjZqR21RSEpIWXhn?oc=5",
+            "date": "2026-01-16 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI 작곡 프롬프팅 기초 가이드",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5yMmtISF93SWY4Vll6QjFjVXd6T0hNb2dVT3FvSnlSWTdka1gtdFFZajJBbUNGSXI2Tkl4TmlURVlYTG8?oc=5",
+            "date": "2026-01-16 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "KISA·과기정통부, 1월 28일 ‘양자내성암호(PQC) 시범전환’ 사업설명회 개최",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyTGNBa0lMXzNyTmwwaWs5cVlPbU05cnlmMndXLWtZY2ZvTEdoTVEzLXl1dnlSdEZ2RGwwNnAwcHFzNmNpbVBqc2NHQjMtY0JRc3hDY0Nuc05fWHpXd2ZuelloRXFxaUxLQjR2bw?oc=5",
             "date": "2026-01-15 17:00",
@@ -26452,6 +26662,17 @@
             "is_today": false
         },
         {
+            "title": "샤오홍슈(小红书) 12월 키워드 데이터 기반 '제주 관광 산업 활성화'를 위한 전략 분석 보고서 - 마케팅 - 정보공유",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NQ0xOby1xblNtWHM1dVNnRWgxUDMzLTVKbDRGUllocjVDTVktVDBYdjN5N29wR2tQWHJTcTBZT0dKXzZHMTBMTlVmN2ZrdUU?oc=5",
+            "date": "2026-01-08 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "옥타코-굿모닝아이텍-네오아이앤이, 제로트러스트 고도화 3자 협력",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzZk9EMC1yd0RRM1IwQklRN0plb0ZKaWQ1cXRpZXByYlhJT0lubUxiTlJzWDAxUVY3bVpzT1NsbjRjMDRmay0zU3hlS0NFbllsNEtWWmFR?oc=5",
             "date": "2026-01-07 17:00",
@@ -26502,6 +26723,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "MSTR 뉴스: MSCI가 디지털 자산 재무 회사들을 지수에서 제외하지 않기로 결정하자 전략주가 6% 급등",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbS15QUhnSlIzMWNodmRxbHhTOThGR3A1bEV4Mm9zMmIycUJJTzRwZURvUVIxay1TMFNDeHoyOXZSOUQ4MFVITzFEN3lUZ1ZINU90SDlqTUJVRGg3SzZwTzRqM0tTcm1Fb0VTaFY3TF84SHBYeFY1dGthS1Q2ay1TbXdLX3RSenRZdEVzdk1CNWdIVjMxN2M1UzQ5Mi1fZE5tcTRwdFg0VXY1cTVyMjhJS0ZyWjRhaHFQYXdUUmlaUU5jdmxZZFhJaEgxSDNmcFpuYUxITA?oc=5",
+            "date": "2026-01-06 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -26760,6 +26992,17 @@
             "is_today": false
         },
         {
+            "title": "“2026년, 마케터가 집중해야 할 것은?”",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmJiaUlqUVhnRzlxQmloSDZPMFNfVkRoM3p5SVA5dU12Z1o0RVpGa0FZRjFiSHVKODEtX05CcFJBS2Z5dXJwbHBPb1ZYMGkwc0J6VE1EdUM0dWdIMTV4MXlvLVRubU1pU3lxemtwMkhPbXhPOEJNbG5sY1Vscy1tVnh6UUxLbFpmbXNrR0Rpb0htcEl6a2lEYXoxbDA?oc=5",
+            "date": "2025-12-25 01:07",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "제로 트러스트·N2SF…혼란 속 ‘보안 대개편’ 시계는 돌았다 [아듀 2025]",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aXzVZZXRkVTZ2bm9ZQ1RpN1hWY2VqaU5rbDFSaF9uZTFzdy1iTGVmT3YzSWRCS2VVXzctOGF3UmIwLXY0VHNyS0plYzNhNE50V1dUM3dsVkFPajVWdE1hVUZ5aDBlQ2pWVTg0NUpVd23SAXRBVV95cUxQUGYybEV1bDVWWmRSLTAwei1DWGhRbGFsZGRzT1BDejlsRWVQUzZMNlNPR01nV2R0VUtrS0JUTEZjYWoxaEs1eVRVbzhSMl85aXEwU2lFMElZd1VlOFdsVF9NdXV1eFZZY0F4WTdGQXVibW5Odw?oc=5",
             "date": "2025-12-24 17:00",
@@ -26925,12 +27168,34 @@
             "is_today": false
         },
         {
+            "title": "키워드로 살펴본 2026 디자인 트렌드",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMVWRhYkJxdWVXelFzTGZ4OExGZWZyY2g1UGhnZnBJM2VXWDBrNTJxcWpZdFhvaEVuMXZiXzdsMGJZejBVVkFmVUhreGI?oc=5",
+            "date": "2025-12-20 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "포스코그룹의 디지털 보안을 책임진다! 포스코DX 보안기술그룹",
             "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPYlgtb244SU9vNFFSZE5RVFoxRWE0MEluMV9CUHRaYXBKbDZVRjhUYU00SjU1TmZ5eFlhXzJqcXdmdW14SWNoZjVSeHRWdC1VU0hKSEI3RHFCRlBoNWxySC12ZXRyUzY2c0todjZkVzAtelVrb1FhMzZ6TXJtQTJ4R3lfTjVMLWRWdTFobFNULWpTNHZHakM2T0Y3Y0prSWxUbk1yQ1VWczQ4WTVHc1ZwWEpVa28xNDB3YnpKSUhIdEtzRkFkS3NnbENLZzl0cjR6VWN6bzhYTkJFM1cyenBGWlpObXNEajUzMGFCMkpSNWZxdm0zcHYyZGV6SGZBaTF0bE9obS1UVXp2N0tTNTU5aTlNWjNQU00yWFFaQllxTklNdjNsWDUzdXkyb2RPeWtDdFpBWDduaFRtbUdhdEZJcXo0Zmx1ZDliVmJr?oc=5",
             "date": "2025-12-19 17:00",
             "description": "",
             "category": "제로트러스트",
             "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "올리브영, ‘2026 트렌드 키워드’ 발표… “웰니스 중시 흐름 확산” - 조선비즈",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQjUzeHVKYi1VcmVOSXQ4cUxMd29WUVhhNWhTTGJNMzY5aGNlT1d0ZEF0Vk92SkpnNTA1N1lKLS1oaUxXWVVPM3VwTjc4end4OTF4aFYwc1lyQ3JObzNJeUY0UFFaLXJqbHhpMHA0NXlKcTRlYWJLaVNWcVdRRFNBVnVqZ1YzRERnVmxpR2FVRkxmYmvSAacBQVVfeXFMUERzRkk1Y2QwMk1VYXVZdmE1T3YtTFFvZFo3MXcxMUxWNXJkcjRDdzdiT2Y1V1pDYlpRRlhtUjRPT2w2ejdfRXdzbS1JMmxNVjJYMmpxZHNzNFB6Smw2NWNjcmxPbnBxUVlDX3dTcm9yTTFpUi00VElDSGpRQTA0cXRZeHVKVUZvcjJGWnNNZEF4MmIzRmtBSmM3X2NGbzFMcXVHbTNlczg?oc=5",
+            "date": "2025-12-19 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -26986,6 +27251,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "에프엠어소시에이츠, ‘2026년 HR 트렌드 키워드 Top 5’ 발표",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UNWtTekN2ckZnSjhsLU5KVXEzM1BVYnhnczNxS1RJVlR2OWdGY0lqMlBWenk0UmhUcFExRFdwRlRmSWpTQXZ3Mmlnc2V5cWRHS3lMeTNkRWVDOTV5ZDVSRm5LdmM?oc=5",
+            "date": "2025-12-16 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -27552,6 +27828,17 @@
             "is_today": false
         },
         {
+            "title": "[DMI 2026] ‘초개인화’와 ‘최적화’ 키워드로 톺아보는 ‘2026 디지털 마케팅’의 미래 전략",
+            "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxORzJHVTRFU29kRmowbHJCLXlTb1pmb3NYTm82bUxBWFRpNldRTWd6SUdwYm5JZ0ZnYVNXQXBmNFA0cGEzSndGemtoSmhfY19Ma09DSWlPcTZieWtrUS1wWmdGZDFMSVJOcDU0RDNLMms5X2h2MVFKZzQyQVBFd0w1QmppY3g3ZmlPU3lHUWNkaWlKM0FDVklROWVRWERaOGJVOUUxODdDUUJWMnotcVNSTTVicFhMaGYwM2JvLXBUakxCTW1YNEFIVGtLNm5hMGd3NW9GVll6UjJ2MVdPU29ia1ZTSWY1d1R4bVJXaXpUT3ZERjB0YUduUURrcndlLUpNUFEyWnlVQ0FjNmZkem93?oc=5",
+            "date": "2025-11-19 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "코닉글로리-국민대, AI 기반 차세대 사이버보안체계 공동연구 착수",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkSnhwczdJbzZvWkxBSG00X2ozbHNKRS1EN3pnWHNQTkZjWXppX2hvM0J6WGc0Q0NpZXhPaDIwMTAyaDBzZ01jdmJsQ0pDUQ?oc=5",
             "date": "2025-11-18 17:00",
@@ -27613,6 +27900,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "2026년 뷰티 트렌드 키워드",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsSHFwMGNaeEVvWTdfM0FxTXluLWEweDFuZVhhaHk1ZVpmWktaMEM1ZmZCaV9OMll0bE5IUW02ZkEyd0ppdjdEc19iaUo?oc=5",
+            "date": "2025-11-14 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -27816,6 +28114,17 @@
             "is_today": false
         },
         {
+            "title": "[트렌드로 읽는 소비문화] 2026년 트렌드 키워드 요약해드립니다",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9adTJRZXl1RFQ2bzQtQncxX3BzSXNkN2F2TVNsQ1ZzQmtHZUlfZ3dGU1RwZkdZREpLNk5waVdTbE9GMFV5Ujd5Qmc5MkNrQ3Q4RFcwcHhQcEFLRjl4LWFzaTR4VFpsX3lVN0FJ?oc=5",
+            "date": "2025-11-05 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AI 악성코드와 LLM 오용: 다음 사이버 위협의 물결",
             "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaE1jRWdkQ00tT1lTNkF0aDJnVHB5YVktdVduYmt5QUdFMDFWd3lBb3BSbGhJX3ZTdmN6NG5pWWlZZXJMR2VxV09FdnpqYkgwWkliWFUxSTV3cmJ1ZEpOWjJfWHFycTB1M29TX3VacmVyczZWeU90NWM0TTBLTk9EOUZrNWFaekVENmFGM0E2RU1kVFQ2R3M5UEFlQ0tBLWdrLXhYa2Q1Z2M1ckhhWVlTUFhYcFVaZW8?oc=5",
             "date": "2025-11-04 17:00",
@@ -27954,6 +28263,17 @@
             "description": "",
             "category": "DID/VC",
             "keyword": "VC 자격증명",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Z세대가 이끄는 2026 트렌드 키워드 ‘메타센싱·적시소비’",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqT082NlNZQVlocVpMa0l0akdmek5wUFdrTUx6ZWZMN2dZSHV1VEhvRGpWY2N2WlNab1l0WXY5MEFzcnNaX055eWk5dm9MVVFBeHlnUW5TX2JXdTRNTFHSAVZBVV95cUxNdTdLNEFLVnlnZ1JwelY5MF9NVVB5dW9ockhZVkhCcS00ek9uYWk2ZHlNMllsYVA4dmFZcHlUOTFkRVZ3WTZucTVIVklGMVVuRnpjaVYyZw?oc=5",
+            "date": "2025-10-29 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -28119,6 +28439,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "트렌드 코리아 2026 핵심 키워드 완벽 정리",
+            "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUDByYk82OHkyV19LTzNmVUFYZm5UX1pmNnF4MnQzZGFiQ0VqWVRXV3V3TFZsZk8yRUtzV1dxRHR3QjBOMnlXbXI3N3BGWkQyalR2dm5id0VXbkJ3YUdEcDJwU0tLZVg1YjdWWkVyeEZRd0xhaVgtOVNZZk9nQ3o3UXZmcGRBdTgxMERpdEdhWTNrc1FSZFBWWnVCVl9YRDZXaXNLT1cwZUl4Z2k2eWVfM19Ga05jUFBfN1RDeUhpWTRzdGFjeG1nVkp6ZzdkTktSWV94YWptdGxYczUtMkVzWC1IZXY1emIxWHJQZlYtaEtRdTVudFhEM0IxNjNTSnNyOEV1Zg?oc=5",
+            "date": "2025-10-22 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -28465,6 +28796,28 @@
             "is_today": false
         },
         {
+            "title": "‘트렌드코리아 2026’ 김난도 교수, 10대 키워드 공개… “AI와 인간 공존이 핵심”",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQVkFWdVBDSWRiN1BjdFI5eTZEb1k4dllNR0pZenhOcEZPb3lFY3dHWllmY1hwdDgxTGpLc2ZLa3JrLTJRVVVLRkxzbER3Rm95MlVQMWdIYjBiS1EtNnJv?oc=5",
+            "date": "2025-09-25 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "“AI가 모든 것을 압도하는 2026년, 결국 답은 사람” 김난도 교수, '트렌드 코리아 2026' 10대 키워드 발표",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEl2R2FRQXFnT3REMC1WanQtLXFJd0FzWWg2T09Icm5jZk5GbDhJclROVjdMZEN2cVUxbGRFRG4zWG5GemV3SlNTM0toZTJYYmtKZm9NV3pwMlBBWE9IelZJcFlKUVlPMHNfVElwdXIwaTBrcUE0RlFfNVlUNFNxd3psR0d1RnfSAXtBVV95cUxOYzViYXZTT0VaU3h6b3A0eFR2ME13RFFxMlkwSWpWS3djRlZwdlFrd005THk1TkxacnBLTmZCbERXTGk0UDQzQnZGN2xCMGFzaWNTQ1VDOU9FUEdDc2s3RUNSSGFFRlRaQS1TMWcwd1NmeV8xZkNQX3NaaEE?oc=5",
+            "date": "2025-09-25 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[KCSCON 2025] 드림시큐리티 윤준수 실장 “N2SF 핵심 전략과 인증·접근관리 강화 방안 제시”",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoVGJoSHFPT2VoNUl4VlVJQU1fMTcwQnlwSmxYVjhwX2RISzhEaVJLWjVsdWJSWFo3M3hOUElBNktXSFpSTEtUd09zWHJ1QWlIam4xTTV0eHlpcGJIQjRIMzNUaUNiZlV5MnRyaQ?oc=5",
             "date": "2025-09-24 16:00",
@@ -28674,6 +29027,17 @@
             "is_today": false
         },
         {
+            "title": "전자상거래 키워드 연구 초보자 가이드: 2025년을 위한 팁과 전략",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFlqMzZmUkJtelBqekVmMkZsZ2RqYmNubGJUem4xVVN6a1R2Qy1LRGxUTEgtR0JJaEZXWUFiVmk5bUpNamVnT1JZTFAyeGlNMVBLVDNibmFGV3RKQ2RON1dwWDR6QXhQLUJIVWxVWENzUXFlb2xON3JRNEZ1MVhnNHNLVGNTdk15VEVvSVdn?oc=5",
+            "date": "2025-09-09 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "리플, XRP 레저에 ‘신원 인증’ 업데이트…기관 유치 본격화",
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nZzFrNFlmVGVIM3E1bEFNcE1XenhDajVENE9OTHJyRm0tYklhQUtBSjlFdnNVX0FlbXNNZFlRcTFlVENGZHdzOUNHalhtbElVUjg0dTN0MA?oc=5",
             "date": "2025-09-07 16:00",
@@ -28779,6 +29143,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "비트코인, 크리스마스까지 16만달러 가능성···“평균적인 4분기 반등 시나리오”",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YQVIyVm1KdF9VWkdwY2ZuallTczEwbGlSOFd4ck5VNHNaY1dMZXNXckR1QmZpazBJUWlndHVzcDZPNGlWWmtzaTZoR1NXWW9UbHpTc1FZTQ?oc=5",
+            "date": "2025-08-28 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -29186,6 +29561,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[1인셀러 온라인 판매]키워드 추천 프로그램 BEST5",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3SlJoVV9CbWtuQnZQQnhwcjNSZmFjRVhmS252Skl2MEUtUURiNnZueWNEeFRqLVN1dFpGcE81amJUVFBQXzNTb2tPYVduWlMt?oc=5",
+            "date": "2025-07-10 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -29609,6 +29995,17 @@
             "is_today": false
         },
         {
+            "title": "키워드로 읽는 2025년 스타일 트렌드 10",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QVkZTSFFJNzhQTElQNzl6VXI2NUtQZVlRVFdlZU9hbFBkLTdoVzViTENfTTR0RXg1RXJOWkQ0OFd5MFZQTi1ZMmlFak8?oc=5",
+            "date": "2025-02-12 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[Hit. 스타트업] 블록체인 기반의 신원인증 서비스를 제공하는 기업 ‘크로스허브’",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vaThydkZ3VEpTd1JtSVNvTm5kTDVGemF4Mm1wZ09DS1pFMHFFYlB2QlJLZVZxenE4bWdTWmNZdTM1RXR6Y2NaaWkxUi1OT3ljUFJRQzlaLWJKcjg3NHFGUGFHY1g4MW5RdHp1RGtDSdIBc0FVX3lxTE9aOHBVUU5aSGwzQUYyeFVlZl96ZzNwUzhHWDNRSVd4ZjJVaW9CbU5JUWV3WVVpRXFQX2EyRUI3WE5QOENvTi05WUtzY1RiLV9NSHJ0MXJXdll0SzFLd1VQeTJQUmk1TVhtX1ZzTzFZUnFJRkk?oc=5",
             "date": "2025-02-10 17:00",
@@ -29642,12 +30039,45 @@
             "is_today": false
         },
         {
+            "title": "2025년 뜨는 뷰티 트렌드 키워드",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNek9BaW5yZDEzRk55dzhyVVlSYU1yb18tMWlRT2JZdko0YVZuWG1fZ1BGSUxPWXpvSk1WLUFkUUhHZmlpTnllcFZ3V0pFVW5jMVlrN3FJNEhNdE5GUFRPdzJPamF0T2lKNDhIYnQwWWtWR0U0UG9XbUFtSndRMkp4UUZucDNaRDZjWHc4cVlid2tQUXlJTWc5WEhYdDd6ZzF3Y1o5VXBNbENXNVAySEU2cEcySEgxR2lYYkV3SDY3bDAyQ0Nlb0JxOHNnVFFrZ3NuREVqX0xhQkhzZw?oc=5",
+            "date": "2025-01-31 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "프라이빗테크놀로지 'ZTNA', 정보보호제품 성능평가 확인서 획득",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PaHpOZVE3TWs3aHp6SGFJSmJ0Znl4bmwtak1wR1J2S3B4bzBONzZaaWh0eVBFZ1BzWHlBbUZ1YXoyNTBwOVAxclNYU0hJQQ?oc=5",
             "date": "2025-01-22 17:00",
             "description": "",
             "category": "제로트러스트",
             "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[2025 제약·바이오] 새해에도 핵심 키워드는 비만약·의료 AI·ADC·CGT",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6bXpUTGFwbzQ5b1RLbnRONktGMTZFUlM2RXFuQkhJcWhhTGN3ZU9nZjN5SmJfMXhubE1PbGh3RnFqY0ZiZEpfVDJiZXlnWHl2ZjRMUEM4WUE2ZVpkWnVNU1N2Zk9TMjRxVndzZA?oc=5",
+            "date": "2024-12-31 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "구글 선정 2024 올해의 검색어",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UNVF5bzNWbDZ0UVdWQkdET1ZkOHVLRzExdE8xN0JLTHE4ZVk3VlZFVXJKcllRNlIyd3hKSVBUWkQ4MVFGRXQyS0lELWlXOTJidXd5TFpZU0pWMEhIVkRYMXl1NEFqTlFqaFE?oc=5",
+            "date": "2024-12-27 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -29664,12 +30094,67 @@
             "is_today": false
         },
         {
+            "title": "4가지 키워드로 살펴 본 2025 마케팅 트렌드",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYQUd0U1RORTltcldyTmx5ZEVGUEp4dC0yQjZuTkYyN3YzbUdwQ1RkUnRCV2daei0zS1BxOXJHMVVrRHlvc3VvOC1kbWdqVVZ3el9ZOEdObXJlRGZsdnV3bzRwUmN2dw?oc=5",
+            "date": "2024-12-12 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "2025 S/S FASHION WEEK 12 KEYWORDS",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DaGRkek1nTW05X3A2NzJGV1VmOFVkT0tLc1Qta3ZPMDZtdUJnNjNYaTA0QWZtNklWTGw5VlNEd3haTFA4N0RscHA5LVJEeEp1OG1tUm81SFhfd2ZmU1Z3dUk3Q0xZQQ?oc=5",
+            "date": "2024-12-11 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "데이터 인사이트로 앱 성장을 가속화하는 키워드 연구 도구",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yQXJqU09EWkZaN0ZPdk84Ty1IZ2c0SGV2cGg3Z054OUlXcFJoeDB6M0RUOW83VFVrU3JJN0dHMzNsRHRabXMtOGJlNTdSZGVmNV9KSkw1T2k0Ylk?oc=5",
+            "date": "2024-12-04 22:45",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "\"규제를 지키면서 프라이버시도 보호한다\"-지케이미(zkMe)의 미래 전략은?",
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LdDRwQTVRSlZ0bi01anNBb1gyQTFFbTVkOFRyRFptNzZ5RWJWRjNxSnFJODFJeWk3TlB4OVF6UnNmdmRmVjVsLUJTc2UxZTBwd0VfTFJFQQ?oc=5",
             "date": "2024-12-03 17:00",
             "description": "",
             "category": "DID/VC",
             "keyword": "탈중앙화 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "버전 2024.33.40 (FSD 12.5.6.4)에 대한 테슬라 릴리즈 노트 - 테슬라 소프트웨어 업데이트",
+            "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNDFfRVFmVU5wRDFpb2VzNzNrZUwydjYya2JuRF9UMTdVcVJoVllGbHB6Yk1WQzgtQ2RFYV9Pb1h1ZW9OaTJuTnZXMXp3aWxsQ0V5d1Z5c0t1SWhzNkdmbGdKVXotanM0dzR0SGxPSUpZcFBMZUFSWWd5SWctUWFCZGJ4VVhhWFR2QURaNGp2TDYtQ3hqTURIbjRXNGQ1LWhmVDNyOHVURDMwUXNaN2RrUU4yYnBQRHdhcTJtTlZBbmlFY3pfRTB4MUFwU0RuOFJpR1hTcHVjQWRIWXN1cGQ0UXdRM3pQS3I2UFBibmFfUFpKOFRCOW56OEU0RUduQzZ5ZTdONDRDd1ZyYzRvTDNpR3lCeV94UWFSYnlZ?oc=5",
+            "date": "2024-12-03 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "MWC 2025 키워드 '융합·연결·창조' 모바일 산업의 미래상 제시",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NdklqZEJ6dmY3T3NaOS1Ia2hZZVlSQmJVWkIzbVdMVXZXY0JRSmdfNG04eTNVWWMwckdRRWpXRDhRZkUxUjBJQlNUQlZnUkRRcmJwNmZySzg1cHo4?oc=5",
+            "date": "2024-12-01 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -29763,6 +30248,17 @@
             "is_today": false
         },
         {
+            "title": "버전 2024.32.20.1에 대한 테슬라 릴리즈 노트 - 테슬라 소프트웨어 업데이트",
+            "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaEhSOGxJYXZWZ0doeENJZHRIZVJDVTRUUHRVa1paUlVySVJZQXFmQVUyTkZlMjBFcW0tUGRDM0x0VlFURjZEc01jTDFaT2Uxa185NXhNTWNFeWpkR0hvWlRYY1NLX1hacVNpenNFdnFxcTJTS2QxZ2ROZHFNX1RYSTA2ejdzbF8wNzBKbkdBcXBkNlh5RUk1cU1KVGtRcHNzZ25CUlQ5Uk5lWm1iMlRmZ3dhNHVyREFOZElKSFk5VFJWeHM2RXZvNjhkM2U1blR6cy1BN0RJY01HOEtsLU5yakRCVmIzU25OcFhySjF6dFY4REFuaVQwZVhIbnFKY3pjakV4SW5LUGszTnpNQndwUUdqV203Qm0wVnBKSXlR?oc=5",
+            "date": "2024-10-09 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[기고] K-DID, 오픈소스 연계해 국제표준으로 도약해야",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nS3hteXVBTE40eWxSekxrcXBRaGd4dFp4Rmtpa2ctN2ROelBVZnZzRmJHRjBaaWV4OU9CblZTRXoyOXNZVmcyZW5oenlCaldwcmhqV19R?oc=5",
             "date": "2024-10-02 16:00",
@@ -29829,6 +30325,17 @@
             "is_today": false
         },
         {
+            "title": "버전 2024.32.3에 대한 테슬라 릴리즈 노트 - 테슬라 소프트웨어 업데이트",
+            "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTzBNRTlGd3VuMXhWUmYxTS16djJUREtjbHVnbFVvZ3hzRWUtTjRibFhPS1FUcWxybkF3blRDT0liUVVHLUEzWkRrcmsxMGlkMXJHUUpvUmJEX1VrdWdhaEJZVURQY2dPM0doR1MyMnVhS1pLeFZkLUJzNHh0TTUxaDRCVmVEQlJTY05QbTdDeF9UTU5fOXhRWW5uTnR6YzV6b0ZodXV1MFpILUwtOXhSa0R4OWUxU2k5VWc4NzhNeENZenRNZHJNenBEekpHNER6bWpzVUl3VnpUc28yTFR2d28tY1V3bEFWUHNmN1NXMlIyZWhyNDUwMWFZNFl4Q2ZZdzVjTFhRNVdfdnpxZ3FHb3R6d0x1Q0pva2c?oc=5",
+            "date": "2024-09-01 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "알체라 사진 판별 AI, 2025학년도 수능 응시접수에 사용",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jVTRkOGNtOXVYbGtmaVVNbkhJX0R3TjJsc3NZNGJYQjJMSDlIMlMybHdwQk90cnhGamY4aUx0U0NmT29hdHBsNWxlc1d3Y1Z5VHFGVXdR?oc=5",
             "date": "2024-08-29 16:00",
@@ -29884,6 +30391,39 @@
             "is_today": false
         },
         {
+            "title": "키워드로 알아보는 LG전자 2024 상반기 결산!",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tV1RDV1dvQml5SFlITlBodFI1bF9fOGFiZ3pIZ1prWHdLYUNfQWxPNUZOZVJBaGpoMkFHbkdFVW1wLVAwU1FGNFVseHJHeFFKdTJJ?oc=5",
+            "date": "2024-07-31 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Home Office signs £3m assisted digital deal as immigration transformation ‘may exclude customers that are not online’",
+            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUTAtaWNqSHk1ME1TbkRtQlotSzZVVklWUGRnQW92d1dTZGhzeFJSWEVGSGVlY0ZSTWEtMVZoNVZzZHlSa1FMNVVXak9fZlRFd1RCWUx3YlEzbnVlallzTThPblFXMDV2empjbnZpbDVCcnRBZlRmOFlDSkU2WjlMUFM2VVRXQi1fX1VQUlUtQ3diRV9Famh5eE1NUWNaaFhqcmZrWGVySXBGYWRQLXpYWC1rX2dSUVFTWkhMV1dVVHpvVmtSR3VhOGpObkMwTXI1QnlSQmwyN09sYVk4ajhuQk1YczNCUTU4cjVuVDZNWml2aktCcGtfNkNRWG9ZbUFtZWNteUJqYVZKNmM?oc=5",
+            "date": "2024-07-22 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "미리 보는 애플 ‘WWDC 2024’의 ‘키워드’",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13ZjMwSVVIZDQxZjZ0NFlWSXJuVTBrR0xHekxrNGdqMkdaeVY1RzVsQnlpVnBsbnhOSXZxaW40NUVHTk95Z2I1QmdBWDlpM1BRM05ZLUtUX1JKbTE5Zm92M2gyVWFsdw?oc=5",
+            "date": "2024-06-07 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "부산e스포츠경기장, 선수 인증에 블록체인 활용",
             "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rSXQxa2VDaFAyNTZCanVLUUlPV1RJTUZYTGhLTFJIOGZzTGZodkVRUllSOWE5NVp0RnFFcEJ1LTFuZFJZckJaa1BzU1UtYnk2NWRVamJmOU3SAVtBVV95cUxNa1pkZ2QyTFZfLVVlZ2JDMVBwOS1WcXRZZ1JCcmFxdkJkY293NkY5SjZhelBhUnM5YmZLZGtWS19RZlZwX0F5TEZJc216N2lzTWhDZ3JqMDJySWt3?oc=5",
             "date": "2024-05-08 16:00",
@@ -29917,12 +30457,45 @@
             "is_today": false
         },
         {
+            "title": "[흰둥이도 따라하는] 키워드 발굴 노하우! - 마케팅 - 정보공유",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10RWxMaHZ1alY3MUlyZ2Z4Z1I2cFljYzFhb0YyZ3ZDaGNEU04wV19hb3ByaWtxbE1ubHgwSjFiT054UDlPSWgwTGk1SWZMNk0?oc=5",
+            "date": "2024-02-07 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "SSI KOREA, 분산 신원 기초 개념과 구현 교육 실시",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41SDFMaVQtTFhielZZOWpiMFk3akFIQ1R1QjA1TjEyeXI2VnQ0ZXJ6a1hxY00wVW53aGxMbVllX29rZ3VJNFZtckpWUE1vbW5nLWtzV2dSNWlKYkFBY1JMSzJqbmtFc2tYcWNoQTdR0gFyQVVfeXFMTWk4bDQ0ZW4wNmpuRW4yT18yMWZybGVuQ00xNktvVWg4ck1obDFUZTNQMXNpeGQ0SVdCc2J4d3VQbVlqTXlJcEJSdHNjNTVHSjRjeTFnNUlCd3dETlhoYlBtNUVmeVZVaW84N1ZIZjVGMER3?oc=5",
             "date": "2024-01-16 17:00",
             "description": "",
             "category": "DID/VC",
             "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "2024년 주목할 만한 13가지 AI 키워드",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qd2FfUlhhZzAtWlVULXpSN0NJUjB2cWpaMzhfNmZ4dE1FSUJlaEhINS05Y19MaHhSQlEyY1hJV3VuRVdFRDVyNFdaMWU?oc=5",
+            "date": "2023-12-30 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "2024년 소비자 기술 키워드 ‘디지털 헬스’를 주목하라",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Od20xR3BKcENVdFdaSmpyS2FzN25TeEFvS2d3REY4M0lLVHFSeGQ1NE42RVhKLWduZXFUQnJBcHpCZHZIOV9RbmtWLW5JQXNqcjdWN1pLbi1kaGlHZVplNnRwQktrblQzYmc?oc=5",
+            "date": "2023-12-28 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30115,12 +30688,45 @@
             "is_today": false
         },
         {
+            "title": "블로그 인플루언서 마케팅 상위노출 방법-키워드 챌린지",
+            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1OM2ZJd001S203dDMzLThrMmxHN01MMm1XNExKdXdWeGNkQXFWWFduUndHMlItZ3p2bkdTMGxxN1J5Wmpr?oc=5",
+            "date": "2023-03-20 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "2023년 이끌 트렌드 키워드 10가지는? - 전체 | 카드/한컷 | 멀티미디어",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkUlB3RE81V3hHeXRyb19ySjllSTJhY3k4dGJDSlJlT1NRRUNpbktfdTk5TGEyNHJvQm5zNDhORi11aF9XYVFWOFh6WktLMzVrZUx1dmtsQXgwYXhpVUdJbDFRZjVPYzB4R05BLWtB?oc=5",
+            "date": "2023-02-10 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "스테이블코인 vs 토큰화된 예금",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CaHdoVUMxYlRHbTdCSmRiVXdfdXFDbnR6d04wRTA0Y3FLZFZSZHY3OS1FYjdHcmFXUDNTZUh3Si1aU0tXQ2Rjd1hRRzQ2enlvbWlBOVM2MWV1Z9IBVEFVX3lxTE4tekNjRzFlNDVoRzdRX2daS1RHdl8tSDFJd0N0TFdHbmIxeHNNOXFMTlM1NE1rVk5uOXNiTVVvRnYwd3VzUHdaV2ItbjZFMkVaRXhHVw?oc=5",
             "date": "2023-01-12 17:00",
             "description": "",
             "category": "DID/VC",
             "keyword": "VC 자격증명",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[카드뉴스] CES 2023, 주요 키워드는 '메타버스'",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5X1FQNmZaS1FBTzBSbGtaa3lINEhnR0l5UzNzRFJIenZ5aFhCM1Z4Q3hydFZ4ODJUUC1ObjJWcmptVGpRZzRlek1kWXVadDZ4VHdvTEx2LW01U0NNenUzS2lsTUg2QdIBakFVX3lxTE92V1FHOGhoek5SbmVQTDFteWlXYWRjcVRiZnEwQy1ObTRKU0hvaFlhcXFoNHBwWkxtbWFsQjF6ZzZWNG9qdTExbDBqOGlndm1JUEVRYVZzUWpnVU1kdEkzTUFVZXpONThScGc?oc=5",
+            "date": "2023-01-10 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30137,12 +30743,12 @@
             "is_today": false
         },
         {
-            "title": "LG CNS, 블록체인 적용 모바일 사원증 '띠딧' 사내 서비스",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDbmNQVFdWUXByVFh5aW9Ec004NHlSSEZGZHVudXJCVEFIRFE1Z1RIS2pyNWVTYjI5MDBZRUt0cWJMX0VHVkk5X2J3bTc2WURoeHJfV3Q4SjdJOHPSAWBBVV95cUxNYUVHbnN0Qllyb2hxOWdXdEZMaFVaUUhNTFpMZnBDR1hWNjhKNGRhYzBFc3FueE5jV190Q1JhWGEtbnB3dG03WlRvMUZja3YzbzRsMlJTRjFJWlNIY3VYcHk?oc=5",
-            "date": "2022-12-12 17:00",
+            "title": "'Godsaeng' becomes Instagram's keyword of the year in Korea",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV196alpwQnhjWWNnckppUjZMRWcteFh1Y1lucUQydEdhQUV3QlJvbzJmblpzdDNBcHQ0M2RrM2U3cTFlRHdWQWhuU0l2NlhpM3B6RGVNSEhTOGg1WVNicHlra0xWOTd2aEVuTTNDQXdJUFFsNUVZM3JmX0tLX245UmlVLW5ZVFBoUmVIcm9jeE1LdzQtSDlKTTIyd1hqQ1hPYjJyZmYtR3paRWpsSkplbVdjSWJxWkRPU19r0gHAAUFVX3lxTE8yb0EwemM2T3phbDNqN3pkY1NJaTBldnB3blVuREw0YnhlVHQxRmdFYUNOZjFqZ0VHZDE1Y1lubTAxOU1nY2hMTXZ4YW1JV0ZIYVQteWhpczVyQ1doSnRwYXpCRTlkTGZsVUNFWVJtSXl2UEJzb3JKUXJaRWdzbWtaRzU2OE9qUk50ejF3QW9za2N2Q2Y4cGNiWXZQcGhnY0JLRmx2Q1lmdFhrMTY5c1owblVmbnhKMEtyc2xYQ1drdA?oc=5",
+            "date": "2022-12-14 17:00",
             "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30203,6 +30809,17 @@
             "is_today": false
         },
         {
+            "title": "키워드 광고, 중요한 건 기준이다.",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4WC1kc2xUZk83NW90NnhYZVB5NjZxdkxkQ0hCWTc1MnplZm1adTJyRGRwVjI5ZlZVVDQwRnJ3djVnZjMxVkE?oc=5",
+            "date": "2022-11-05 22:23",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "탈중앙화 신원증명 DID가 온라인 개인정보보호에 미칠 영향",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBReVRtMmJrVGN0eFBCakhuSU5uUW5NZFFldlhiXzVDczY0VWRESHYyaXFUbUxHQkhQb1pPeGxjVGN2NDNQcWVUWjk2c0xHMWtVdVZnb3NvZkxzOVNSaXplcFdzaU91SWJsaDNCNnR1aUo?oc=5",
             "date": "2022-11-04 16:00",
@@ -30220,6 +30837,39 @@
             "description": "",
             "category": "DID/VC",
             "keyword": "VC 자격증명",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "우크라이나 축구협회, “월드컵에서 이란 퇴출해야 한다”",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzNWdThyTnpXZVh3ckVlOC1vNmVIRHBESzB0VHJuZ1VYbVFnQTkzWG9KT1FVUDZmMzE5TVZWMXd3MVRqcnM3MjQycURwZl9zUVBqMGhwYThUcWxiOGtQZlk5NUVQU2w1ZlA0TjlYUHo5emN0U1o2SGNjTE9oSkVxRXRBRHdZNVdhUUNvUl9US1JIdw?oc=5",
+            "date": "2022-11-01 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "알아두면 쓸모있는 해외 키워드 분석 사이트 5가지",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZOVVaemIwLTJVMEpkRHVVSmsydFpDX0hZeXdXZExuT2NUTXJxZFVNU3hEMm1VcnVuZ2kwQ3BXMjBwa1NkaTFxUDF1dEdMSjVNZ25GMFdsck1qSm50QkRHWm4wUkxSZnJWM2VvMA?oc=5",
+            "date": "2022-10-26 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "마크애니, DID 신원·자격증명 플랫폼 개발 \"비대면 부동산 거래 지원\"",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11QnpyaUt0eG80aUpWQ0hEdjBmMEVEXy1kSHpUbnFnd1p5Vm9nLXRRVGJPTFFYSFlMQnZLM2E5VGw4cXdnZFk4OU9GYVVobGFUdkZlOG1DYTJ2UFo3eWFWSWp4eWlvVUoy0gFsQVVfeXFMT0VlQnRpcmkxRXo1Vm1lQ2dsRFNJZGRhQmljaHBMNExLa2FRQTBwcnZZS3RtT1Exd0hNUF9HRVJYZllNWWRzM1R4bnotUXIwdzJXSnFVbzFCOHk2ekNySEd1YWJ1V1c2eFBTcHc1?oc=5",
+            "date": "2022-09-04 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30269,12 +30919,34 @@
             "is_today": false
         },
         {
+            "title": "ALV 툴바 Exclude FB, FG",
+            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE51TTNBSjN5YWRNMFlwOWtMelhjQnNNQTl1VHdEc1JmWEtfNWRObm9GQmFEM2RJWm5zT2VYWEtsUEs5ZkxH?oc=5",
+            "date": "2022-06-03 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "라온시큐어-사이버링크스, DID기반 전자증명서 사업 추진 위한 MOU 체결",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBRFFhLUFHeDlTUl9RZUxJZWVOdThoMUdqR0lPdGQ5UTNVZWtIRmlwc1B5N2Z3cktoSE9aS29HTWZYOEtEN29kRF9CNnBvOVgtYy15SXRqdm83elJxdUsw?oc=5",
             "date": "2022-05-18 16:00",
             "description": "",
             "category": "DID/VC",
             "keyword": "DID 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[오늘의 키워드] 카타르(Qatar)",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTNEcW1pX1A1LUxBcU11VmZDeGNlbXZXenJaNTdOZ2NvWjA2UDNteVM0UXdOR2tGM2ZPQ25vNVNyMFpFSUNMbEZIQWJiTlZvbWd6VVVKY2hVMEZxUnRiQkFxdC1ubEcyOGk1dEhUQ18wVVhEV3pTVGRNTkVQZ1FvUm44aUVqR0ZCcnRVYnpESkdZWGpMT3c?oc=5",
+            "date": "2022-05-04 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30313,12 +30985,12 @@
             "is_today": false
         },
         {
-            "title": "편의점서 '모바일 운전면허증'으로 성인 인증한다",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vc0c4M2YyU0tValV6Y1dsX0p0c3ZCbnJoSUt1OTMxdHNodWx5WjRYdDVBSUJkSGpycFN2YjRNS2J4WGFveFhKNjZsZ2x5OUVzanM3Vm96VzFLOVRod3RjNdIBeEFVX3lxTE56YXpDMFdPaV9ROHk0WkI1UTN2Zy0yUzVsckREWXlRUDl4VENVaDVkNkhNb0NtVXhoSFROZmhtWS13ZXFkY1ZkYmlaN0ZlR3BtaXFnQWRwSE5FNTJoQXNVY3pncHVFcnhLUmJPSEdTT000SGVuc2xNSA?oc=5",
-            "date": "2022-01-27 17:00",
+            "title": "완다 다이아몬드 리그, 모든 러시아 및 벨로루시 선수 제외",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMndHWDNHYzJxMkN6MWNpOE5HMmVWdzN1ajdkSzE3aW1reTlBTDNoRUxncEZxSm5RV1owdEpaVUlkNVVVMER2NWZmc2VwNmR4VXY1aldLdldWbzF1bk5rWWV5TFBPNUJJZks1UXY3Rm9MUS01OWROdFcwbmFkLUk3WG45UmhVd0hEY0cwQlBoSFpDMElhQ3k4OWZROF9YSUNzTWcyUU5qc1N6Z9IBxAFBVV95cUxQWEpodUhqTUdac3d5UWxadjNXMExJZ0t5aWw4N3NQZEg4VWo4VVBLRjdHSjRNTENtWVVEYm8xajJFRkhXcUE0RTNCYkhXc3EwNDhzSmJWa015SHhnektBa0xBU0ppaHFFQWt4YWJVcktoVVU4MmJjc1pkNjYwR2dJTEFVTW5mWE0zbjhqcHpoMFE2Wnh3Z3NFSUR5UTFDSG9tN1hjX3lqTG5GazNkOTVhS0w0Q3ZIR2huWTRVS1VMcFM3QTFN?oc=5",
+            "date": "2022-03-18 16:00",
             "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
+            "category": "AI Agent",
+            "keyword": "exclude",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30368,6 +31040,17 @@
             "is_today": false
         },
         {
+            "title": "트위터, ‘2021년 화제의 키워드’ 발표",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QbXdUcXlsVGhHdDgzUExMaC1CN3FBYzNWb1dtbC1Md0VVMG0wa2NDc1pVdldtYy1PelB6RjRkQTNVdml2YmdyQTB0LXFiUGZ0ZWtHQWVPcTZlVkNZNHloWE1Wd1JzckxJ?oc=5",
+            "date": "2021-12-09 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "지역경제활성화협동조합 중앙회와 에듀블록플랫폼, 탈중앙화 신원증명 및 전자지갑 플랫폼 구축 사업 계약",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwVGRVcWRPWV9VdlFnMEd1NGp6Q19tcVpKazVwUXV4ZDYzZ3p3MmtxekF5cVZwcDdtcDZkLU9kZktKRnlmNXdPUzNmcmhRQ3ctUHdCRzFXZkluZUFvWkE?oc=5",
             "date": "2021-10-29 16:00",
@@ -30385,6 +31068,17 @@
             "description": "",
             "category": "DID/VC",
             "keyword": "탈중앙화 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "맥도날드 코리아, “햄버거 속 양상추 빼기로 결정했다”",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDA3azAyQjFnVHR6SDkwUjJ0NlJXRHYxRkNzanlnT1NwOG9VX1d0Rk83dVUwSlBYMHNKZi16Wm1kSlZ4QVlXbU9mMHZ0cUphcUtlR3JOb0IxbzIxQ1AxSXJta0dIUzN4X2tZazFHUDhFZUNLQ0FBWi1wbFNfQVhkMkxUMERzUQ?oc=5",
+            "date": "2021-10-22 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30451,17 +31145,6 @@
             "description": "",
             "category": "DID/VC",
             "keyword": "VC 자격증명",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "‘블록체인’ 기반 은행 공동 정보지갑 나온다",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rUlZaUjEwQl8xNjhIeW85RC1LZXhwSjZxMWpXcnEwd1oxRUpUMUZINWR5ck9xTzhoYjhoeEZBWnJDbV9fdDJCYnMwbWx5NkZkdmdpdWkxdUJYSTR3Y0xNZTAtbVlXWi1uUWkyMzFMVjRZSUhvdzI0YTNsTmw?oc=5",
-            "date": "2021-07-13 16:00",
-            "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30687,6 +31370,17 @@
             "is_today": false
         },
         {
+            "title": "2021 S/S 메이크업 트렌드 키워드",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vamNnVnZFOTUtWVdaUWMyeE5sLXpmaGpINzNfRklqTlFRV1FaM2RqTjdTd1BNT0VkcFRvTXhYMTZoWGt3T3V3Z3UyMFgyUU42ZDVMeDNTVFFYakFwb3pRcWFNSDdWakVYZUE?oc=5",
+            "date": "2021-03-07 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "블록체인 기반 '금융DID' 구현…10월 국내 첫 상용화",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zZnU2VlhKSjdlYVh1RTc2ZHNMbURQdWJ6MlRpeFZiMlQ1WnZnUXFnc2lFUTVJZ0d1N3N1UjYySmlvT29vZjVoQ200c2Vtdw?oc=5",
             "date": "2021-02-25 17:00",
@@ -30704,6 +31398,17 @@
             "description": "",
             "category": "DID/VC",
             "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Openbox + Debian 테스트 구성",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWVBGeV9BNVFVT0Y0NTBNdzdGTGZmaGUzaHJGSnVpbG5KQVJKTTNzN2xzZkgxa0JEYncwWE5RWUZtU1Nyc1dwSE5OTmNyNXNMVC1EX29DdEg1NnVJRFZyUUU2OTlGMnU5TnhpT3JQSjVmOHNudVJUcWRsRHdjVndfdU5pckRXa3lPRHU0WS1PZFA2bWliVEpGaGdmVEgzWDFtQ0w5Sk5nOTZqS3FYUE9KcVJEa19uMFQwb0kydHpTUWpJNmZ2bC1rbzY3Q2NDeEdlU0hLR1Q1TlpVUWpi?oc=5",
+            "date": "2021-01-23 09:06",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30764,17 +31469,6 @@
             "is_today": false
         },
         {
-            "title": "[리얼 블록체인 포럼] 이순형 라온시큐어 대표 사용자 중심 국제표준으로 한국이 DID 시장 선도",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKYkdEUG9LZVhqbXBkSzc1R1RJODJrVmh2U1doRmdmSTljM2psX2Q5aDQ5aTl2bXR5cDd4VHdTWXk0N1djQ0NoRWZFM1AxUUhLeXA0RzE3c0Jsd9IBWEFVX3lxTE54ZXBMSlRGalZGb2NQa0RoRHVKbGRvYUE5aXpjdVBNbDROYmFfWlVvRHo0LWpuSlgxekczZkpReEl1WDVoSlJ3bVlndHczbmhsM1VJdEZpVkI?oc=5",
-            "date": "2020-11-04 17:00",
-            "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퀄컴-LG CNS, 분산신원확인(DID) 보안 기술 협력",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BSHIxa2diWVVnTnNteElLb3hIdFA1Q0R3M1lXZGxkbDZWTHBMZzFiOVVVSm44TlNMZTNSYzl6SjFhS3pzeEhIZTRicnNLdkF6YVgtU0RzRVA1YkpiZnpDMmFLb0Q?oc=5",
             "date": "2020-10-13 16:00",
@@ -30792,6 +31486,28 @@
             "description": "",
             "category": "DID/VC",
             "keyword": "DID 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Swift Package 에 리소스 추가하기",
+            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Gdy1hV0hVbFowMHctdGs1T19ZYUljamQ0QnZEeDZROEFWamtReXRjdzQ4R21DYW9BMU52Y09yVk10YUtWYWJj?oc=5",
+            "date": "2020-09-26 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "케이사인, 분산신원확인기술(DID) 기반 비대면 서비스 플랫폼 개발 과제 선정",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6TUNhLUd6UC1JTHVxZ1Y4LWFZcFgyYmZEZzRxVVdTaDRYUE5pWlhDelIycXZtMTg5R19zNFFEcms0WmYxUUQ0MVoxLVdxdE4zd09kQlRLLUtDT1FUbHpyRzJtQVRuYUltNzNHLQ?oc=5",
+            "date": "2020-09-15 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30819,6 +31535,17 @@
             "is_today": false
         },
         {
+            "title": "신한은행, 분산신원확인 기술 도입",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LYS1Pek9OVWVTRGg2X3JYaVp1a3BWQ0JobW92al9xRHRJd2FaOU1fS0Z2dkZfLW5aVGZTYS1RZkVBYXFiVVQ0b0ZYSS12YjZIcnBpbVUwbkZqaC1mejVMUGRpWXdfQdIBakFVX3lxTE5LdnhDRzRYbXZfb0ZUa2ZuQmdKR1d0UHZUeTZiNVJIUkN6ek1Ca1AzUk5XZ1dRdDVNeEFHcFQzRS1EWDYwQTZSTG5hTlExRkdrc09NTTdpX29SbTZfQzBkSVlKSlE5aHBDZGc?oc=5",
+            "date": "2020-08-26 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "아이콘루프, 신한은행과 금융권 분산신원확인 서비스 상용화",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ca05YMW9BakNoa2czbk5CYTE1eXc2bHd0cjhGTTRFdG5sSENkdGJHY0dBRDVTdVotM0R5QmpGTTZMdUxBNDFnblF1d1NhQmcwYzd1TUZwOXNjWnQ3aEdManJQSkVyM2lWOGRZODhNV1nSAXRBVV95cUxNU0JwOE1KbjcxYjVxQ0poVmc2VVlSRVpydWJJLVJrR0NvTGE4MHBNUmJUaHlLNVBZbzloWHFpS0REVTRfSnA0T1czdkliZFJWbGdxWjkzZE03eWhFQVFXZjZrUTlZUkdGTFQ5YndrOGxUMmF2Rw?oc=5",
             "date": "2020-08-26 16:00",
@@ -30832,6 +31559,17 @@
         {
             "title": "신한은행, 블록체인 기반 신원인증 서비스 도입으로 절차 간소화",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XZ1I3cUtMZ1Y5SVAySEl4YXJpX0QyRGJhQTlzVzNVMUpicm8zY3JhNTB2SkFhekRBSmdUbUhPMnZiUzhYb21rOXRyeWJ2cXRPZ1hqcTZSU2xFSGdDbUZMNHF2TQ?oc=5",
+            "date": "2020-08-26 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "신한은행, 블록체인 기반 신원인증 서비스 도입",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiUkw0UFpYQ3BVMjA0dUpjbnY1NGppbkdPd3FiakFTV3h1dzNFX0dOOVBTcUhVUjRtMVpSZmowbnY5bjBaUUZzSlVoZWt6WjZKN1A5SjNJTmtzZnlpMHo2Ymg2OVI3R1Qx?oc=5",
             "date": "2020-08-26 16:00",
             "description": "",
             "category": "DID/VC",
@@ -30863,6 +31601,17 @@
             "is_today": false
         },
         {
+            "title": "키워드 4개로 보는 ‘하스스톤: 스칼로맨스 아카데미’",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LV0FKRi1EVlJBVjlrUVhqRjAwdGVndVdHT2F4YWlQbzJkM0hEVFV2Q1MzVGQtV19XbUdySWRDVUl6X3c3ZWg4b1p0aEZINlR3RlRpMjN3TFI0QllMNlFDYTJIMDJfTmhXWHdnREZ2QXFHUQ?oc=5",
+            "date": "2020-08-08 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[기획특집] 차세대 신원확인 기술 ‘DID’를 주목하라",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKMUxKbGpLWjdQUnJFUDlEY2tIellfb1BfeEYzc05jQzJJanlkckNkaGJ1UnV0VHpMbEgtRTcxdDRwY2Z3MldsWWxPMTdpWjNvOVVtQmRmTGgwbF9sYVVfUHdwbm9MZ0dQZXVoUQ?oc=5",
             "date": "2020-07-30 16:00",
@@ -30885,23 +31634,12 @@
             "is_today": false
         },
         {
-            "title": "금융결제원, 블록체인 기반 DID `모바일 사원증`으로 회사 출입",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwZDNMZGJaWG5aSzYzVzBGaXZjNDlFWmlZeVRFa2htZjNsZTE2d0F3QVVVY2pPNnRfdHowbkxTazJ2ZU5TRTlkMlpiaDBXeF9EaTFDU2pYWnNpNzRKSTR2Xy1B?oc=5",
-            "date": "2020-07-13 16:00",
+            "title": "[개발/검색] 엘라스틱서치, 문서 핵심 키워드 추출",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PNjh0Sko3TVNvNnp1VHZVNVRlWFZnNDdLSTFTTk90RE1oLWNWd2JMN00xUzJaY201NTJ6ckdqRnlVX3F1RGc?oc=5",
+            "date": "2020-06-16 23:52",
             "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "금융결제원, 전 직원에 블록체인 기반 모바일사원증 발급",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sb3FsY2UwZS1qbzd2aXVWWmVldEVKYTVRaHh0V0Z0ZFpfLXd3bldtdEpIN2NRemlwM0VBc2tiWmFiZlg4dmNhVnhGRnl1M2hHQ2dYUjFKbUhMZWY4b0dYcGN3a3UyeVlCYUpMUHRFcW3SAXRBVV95cUxNd2dNcG5yYmRqTmhRTXNjSy0wSlV5dHJLc3dwZFR1Rk4wTW1xYzlUenJCRWlndm1McHdzYXZrY1IzWjY3OHFoLVY0emdFMTFaQkNmSmkzMVYzUi1naHJyNlhvUW9RNWtKaXNmalhLbmM3MUY1aA?oc=5",
-            "date": "2020-07-13 16:00",
-            "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30924,6 +31662,17 @@
             "description": "",
             "category": "DID/VC",
             "keyword": "DID 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "경남도, 블록체인 기반 디지털 공공서비스 구축 본격화",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sU1hYamlpdmlITmpaN2RVdFJVSXRKdUdGUHpnekFHM2VDSzc0ZEM0NWZ6SmRhZW01NndKa2NxNHZSd2otUkExTkZ3dEpjaEFUbktuSzQyNTlKeFnSAWBBVV95cUxPODFIN1hxeVc4clNvdTJqc1c3YnJ6d1dfVWE5bE9aWUJDN1FCOHV1UDE5aXo4N2s1RXNkdmRicmFicVRaa0dyeTNQaTNKR1Y0NXl0SkR4UElOTWw5SjdsbkI?oc=5",
+            "date": "2020-06-03 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30984,6 +31733,17 @@
             "is_today": false
         },
         {
+            "title": "LG CNS, ‘에버님’과 분산신원확인 국제 표준 구축 MOU",
+            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVnRxZ2hCOGZpQ1pLSVEyQ3VQbEZzUHl3c2R2LVFkUVhKVDh2d3JYWU92V0JqdXlWZk9mTXhXQVJpWWE3aU15Q0FJaTI4cmdvd3FCVEhZSy1qNGp3YkV0YWQzdlpiNFlWWEZpcUVId3lTS2tucDUxWVg2d0NWTkVvbmNZWE90YjFGdm02Z0Zyakhhcm4tZFRwZEc5ekRvU0dWRzluaE56OHVaQzlUSm1XY0lENjBSNE95cnFSLThRM004Rk1sYXZoWDgzNG83bzRjMnB4MlNra0dzLURlYUF4YkhsZXc2Z0h6TmZYazl0MEpQdUhDeFNZ0gH6AUFVX3lxTE54MmU1VUt6Q2ZtaHN3YVpzaXJPRVlKZkduU0kzZy1xb3ljaHRIcmxlNlJYXzRkSFd6UFBIRjBNN044MVhOUG1xX01EMmFoY29Fcnc1WWx2VFhNa3JOY1VQSnBNczg1QnQtb3FoaC1GRHVQU0ZNbmJoMGN4YlRHelBSS29aUUZQdl9Ec3pWQlBpVVJEMXVkcFNsN3lCS0lGdzAyLVM5ejIyZ2JUc19RVXR4Ri0tRjY1N0FUV3VyTy1nbFJDYWtpNWtoZUx5OXpFYklFLXB6NFhpNklpRWhjSHptbjgyT0NJc19QdG5kbjBTNlloRXRKWkE5OWc?oc=5",
+            "date": "2020-05-26 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "라온시큐어, 자율주행 차량 분산ID 기반 사물인증 체계 구축 본격화",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oTEpOSm52cGhDNzl1YzNXM3Jvc2s2VlFUcmVwNHg0ZnJJMEVRblRvYXNOZmRWMlBkNUZsbTlvalI2U2hiRjY2SFZ3ZW9Uc1p3TGY2ZlJNUkxwb1FpRzJnLTV3VW1Md3AtVWZ6c2ViOA?oc=5",
             "date": "2020-05-18 16:00",
@@ -31006,8 +31766,30 @@
             "is_today": false
         },
         {
+            "title": "경남도, 모바일 도민카드 활용한 디지털서비스 도입",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUMnpWdEphTUFOYjJZVzBmWWRZX2lCMDlySko5ZV9pQUdwYk5YcTFCWFFGRTdlU1JsS3FZYWQteUR4X2hSWVlPa2lSQzFDaEdIa3NGRWktNzVmQjB0d0VnOUpBdWhvTFZ5emtLdm43UHVLa2s?oc=5",
+            "date": "2020-05-12 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "라온시큐어, 지자체 공공서비스에 블록체인 기반 DID 플랫폼 최초 구축",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oVWZWclFKNzJCWk5ybFAzQld1aFhFTElwVjJFOFBLZ250XzRlb3pPOU14aDFSNGp2eGlOQkJIVXEtQld1cWJpQWo1Ml9aeHJTM0hxb1JHOTEwZjBsU2F1WXZiNWJJSi1SUnNhWHZB0gFuQVVfeXFMT2hVZlZyUUo3MkJaTnJsUDNCV3VoWEVMSXBWMkU4UEtnbnRfNGVvek85TXhoMVI0anZ4aU5CQkhVcS1CV3VxYmlBajUyX1p4clMzSHFvUkc5MTBmMGxTYXVZdmI1YklKLVJSc2FYdkE?oc=5",
+            "date": "2020-05-12 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "라온시큐어, 지자체 공공 서비스에 분산ID 적용... 국내 최초 사례",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qcDJQaWdsRHVuY19mazRLTkpwQ0gwYkFJUDFlUm45Rkl1SS1uSkwxdzN3UXZvUGFsQm5DTGc1dnFtLVQzVXdybVd4djB4azJmeXFIc1dqdHFJd9IBWEFVX3lxTE54bVNqY3BqQnhqbWowTVV0UDhOT2gyMnozV1BLa2xXaDFTMkJsaDV1QWRWa3RrMEE4WGtkWXVTVWMxYzdaNjBHV1J2NkhmNnRmTS1Hd3BucE0?oc=5",
             "date": "2020-05-12 16:00",
             "description": "",
             "category": "DID/VC",
@@ -31050,12 +31832,78 @@
             "is_today": false
         },
         {
+            "title": "10개의 키워드로 본 2019년: 기생충, LoL, '어벤져스: 엔드게임', 손흥민 등 | Hypebeast.KR",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVkJVb0FHRjJiQkNGY3lROHNaRjZsaTY0ejZDQW5YM1VoRU5Sdk5Jc2dpQ3V0MS1IbzJvQ3BPSzNLdlFKdTNjOGNiVk5vLXRkZ1pPYzk3NWZ3SkpCRTRocDRmVnMtdGhhd2tZWHBpZmFlakp2SDRLZE04SXdPTHd6SExEZTdXbDIzZFVWVDhITjRjUEFUYjRGZnZwd3VrVVRqbjVQTg?oc=5",
+            "date": "2019-12-31 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "금융위, DID 신분인증 ‘제도화’ 진행",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50MEV3UnVXZXJqYVRWVHFZTU9FS2lkZzJqNFRfZHRQakdhM2R5S29VZGV4eEVaNnNxZnRMc05SZ3plNS1TQ01iZXFjYVQwZw?oc=5",
             "date": "2019-12-12 17:00",
             "description": "",
             "category": "DID/VC",
             "keyword": "DID 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[11월 18일 : AI가 뽑은 국가별 Top Keywords]",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BRm8tY1hyYjlGX0psYlNvNFVKaVc5TE9GZFRYMVVuQzJOSTM1ckIyY0Z0Nkx0X19WcExWYU5WMHMzY2NRM2dtQkd4R0Vxd2ZKWXpSZFZwbG92MmVyczd6ZDh0V1p5ZHM3YWc?oc=5",
+            "date": "2019-11-18 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[11월 14일 : AI가 뽑은 국가별 Top Keywords]",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tWlQ2S1JDU3dOcTduYl9DTGdTZGkyR0d2SmVaeGVwUE5YRHVjNmlYcENTbURPVVVMREx6aExTdnlwdkJBVVFBUGo0MzRaa1paRFA1bzBiazJvTjR0LXdNdHBOVmhHaDdOT1E?oc=5",
+            "date": "2019-11-14 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[11월 13일 : AI가 뽑은 국가별 Top Keywords]",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16WFBISk9ycnpRRzZHUTBSZ2JMT0tyQU9IajgtRG90d1ZxWXY5NWZYWW01c0RaY2NfOUcxbXJLYkFUNXl5SHp0VUQ2cjJKbkRhMExLcU01eHhXdElwbENLNkJzV2hVNWs5dEE?oc=5",
+            "date": "2019-11-13 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[11월 8일 : AI가 뽑은 국가별 Top Keywords]",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZ0RpWkF3WHV4dGxuYmQ5b3NJVUpkOU1wZ2RXc0VqdFRieUpQQVVsaGlTWnlfUlRub1ZtTjVjdEFIRU01QWdhazN0Zm9EN3paU1ZLMFJQbnZhTGx1dmdnSE1lSDg2MVR0LUE?oc=5",
+            "date": "2019-11-08 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[11월 4일 : AI가 뽑은 국가별 Top Keywords]",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GNUFWMjJGRUFEVTZWVDdIdmF2S3pEOG5YMkZhV3BVVW5wVWxLa1ViMUhLZlVFYUFhOXJNSU00dlN1UjcxMTZHY0pPSGNqQWJpdG9lZVJxNHlleXJMODU4N09fTDZOdDIya3c?oc=5",
+            "date": "2019-11-07 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -31094,12 +31942,34 @@
             "is_today": false
         },
         {
+            "title": "[기적의 영단어 필수단어편 (31)] amend , exclude , cease",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40WGNuQmtoaWdsMEx6WFU4eFBpSXNwRlFtaTA3TkpYUjNsejBVYjIxUnA1VGtEa3U4bzJObXpsdGZGM2VmMFo0MXMxWXRtcEFlS1A4NWtyWDg2MW1DTmdVWkc0bGpRSmM10gFsQVVfeXFMUFZHdlVXWjJYa1MzdTlzRHJNYzJjN3JMb1piSFN0VzU4SmVfNHp6N0Fibmw3ZExENkZGc1A0RmVDTmF1VDc4bmQyWnhlYzdVNWJYaWtVN2JNd3JXZWxZc3VWd3FRWDkzdkw3S1pk?oc=5",
+            "date": "2019-08-25 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "이통3사 일제히 모바일신분증(DID) 연합전선 참여...통신-금융 얼라이언스, 판커지는 DID시장",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iNU1BMXp6UUlaejBSTmNrSGJuSVQ1M1Z5bm5MVDdTNld0QVN5dF85WDhuZURXT2x3RExpeFh2eWNTYXdCcjNkTVRtVndSUQ?oc=5",
             "date": "2019-07-11 16:00",
             "description": "",
             "category": "DID/VC",
             "keyword": "DID 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "S. Korean Government and LG Uplus in trouble over U.S. demands to exclude Huawei",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZME9BMXI5cXJBV2piLXpMWnRsS0tHSkdFdlF6VnpnMHkzWXdTTVB4aTRucmZ2eXI3SlIyeUVwLWF3T2M2cU5wbGE1N09yaHlmUENTZjY0SVZDWDlMc213V2NfNV9lM2dvTEt0RnZn?oc=5",
+            "date": "2019-05-27 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -31127,12 +31997,111 @@
             "is_today": false
         },
         {
+            "title": "Cho Yoon-sun Confesses Existence of a \"Blacklist\"",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fMU95VlNPT1hhQ0tzcUVlZHViZzBkOGRweW82OVZYNzJjM3NqZ3UwUVJlTlNUVTR2dmZ0N1lKajZrZlpITkgtcXVqQTg5VDkxZWg1QkVsWGVxcDZZaVE?oc=5",
+            "date": "2017-01-10 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "2017년 디지털 마케터가 주목해야 할 10대 키워드",
+            "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9wYkN4elU5UGt0UWtlMWppWnRRUFFEbm5WWm9WUTYyUUN4dlRrTVdqMFEtUFJFSTRpZWRlREZjRHdSdHBIQk4w?oc=5",
+            "date": "2016-12-05 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Keywords Studios 2026년 기업정보 | 12건 면접후기 2.4 면접난이도",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mNi12M19iV2Nza3gxQVhmMFZNcWUtaFhGdE9STlhhaDdHS1NNTVhFaE9xbGFWeHo4V2JJQ3RyZHpaVjJnbFMwdU8zMWt3X21IemhLMmI4ZzBCVnE2RkN1RUM3UUdCMDhWQncyYUdHdEpIS29fczRGTTRyRmQ?oc=5",
+            "date": "2016-11-01 02:03",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[Movie Preview] 10 Keywords before seeing 'Captain America : Civil War'",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zdnNfTXhsNk5VdDZjNUlNcU5XWXlxRHY2eFRQVHdHZkZrLUo2Q2RIYkVtVl9RdEVjTGF2YVprdXVYWUVZZ2NFeVpIUC02SGZuZ0kwQVZ3cWg2cTVwRVJzTzE5YzZ6SEU?oc=5",
+            "date": "2016-04-21 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KEYWORDS - 혀로 ‘보는’ 장치 / 태반섭취",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKYUlUSkFJTHNOOW5lOS16Q2cyMkZzY0M2UHRrNFZxT2tJYmh4aTdkUk5qLWZCVEU5TWI1QnAxTGZSQ19nbkNUaXdUZnFTQmJUNi1JanpUcHZieWtobFdoYlln?oc=5",
+            "date": "2015-07-19 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "투자규모 늘어난 VC에 전문인력 몰린다",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXQlB3SGR2Ymxpb213bGk4aFR4Y0Z2dXNIdFBqRzQ1S1Yyd1dZME5RX2NkdDZYSk1TYUduRXRuWDBIZTBSenhzX2JQZjFPQQ?oc=5",
             "date": "2014-09-15 16:00",
             "description": "",
             "category": "DID/VC",
             "keyword": "VC 자격증명",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "창조경제타운, SW/앱 분야 아이디어에 대한 멘토링에 나서",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSW41TXcwcmRxRENoSC1MODdDQmdjWm5Ya2ptTXNtZU1hODZfUlFNVGxleGlCTnQyNUduWFZ3RkNDZVlSSnQ4d2hpc2RGYlczVlMxcTNvTndqWW5XTkotOGV2TElGZmczSzFrZUUyNjIwV2h5UHZPUTVsSlotbVlOcEpuTEpuaTk2WG5XOFA2Z0NHRU5rWE42UURvUGdNdHVpM00zSjc1c1RWWFdodzlFVk9ZZmpvVHdyYWYwT0JzaVRIdDV3R0JKLWw0Rlh4UXYyOHZybg?oc=5",
+            "date": "2014-04-24 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[Inside the Founders] 홍민표의 4가지 성공 키워드",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sdDlrbmRJSGhYWnlQbVFRd3BJdU9qdnhESW5aZGpNSjdiNU4yMmEtREh4cDZ6N2tFblZROHJ5Wk8yWWMzYWNSR1UydEZYZWc4aHRxSUxoQVlwVVFueFB0Rg?oc=5",
+            "date": "2013-08-05 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "101개의 마케팅 키워드 - 홍보의 모든 것",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zVVBnMmVhMl8wcE9VV1J0RVBXRGFkNEJpMktwME43XzlaQl9qR25fTUkwZktJRlFYZjZ0dU1PaXNkNENMTWNzNzdKQQ?oc=5",
+            "date": "2013-03-19 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "keywords",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "첨단 과학적 방법까지 동원해 ‘신상’ 파헤친다",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95a09iRVdvNkh6cWxwVWxxd2dvNGJUeXMtanRhM0t1aXhlUXVfSXg0WVRDN2xaaDhrYkNYbFR5d0hTX0F0bVZTTE5GUDdLZ1lFVnNmSnJFRkpRR0V0OEZSMjF0WTJlRzEtSHl0YkJIQdIBc0FVX3lxTE9YLWZRVWszeDh1R3Y4c0w2WVdQWXFNM0t2UGx6aDhrb0pmQmYzMkthNm95dVZRNVgxTURmdjFqNVFRVmgyaGdSWEtVbXpTOWViOHVqazh0WGtGUDlYUEVkYUs5MjJXQXJaWUk2U0VZSmlVbUk?oc=5",
+            "date": "2012-01-02 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "exclude",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -33655,22 +34624,22 @@
         "2026-05": [
             {
                 "keyword": "피싱",
-                "count": 16
+                "count": 17
             },
             {
                 "keyword": "단가",
-                "count": 15
+                "count": 16
             },
             {
                 "keyword": "인상",
-                "count": 14
+                "count": 15
             },
             {
                 "keyword": "대만",
                 "count": 14
             },
             {
-                "keyword": "중국어",
+                "keyword": "공문",
                 "count": 13
             }
         ],

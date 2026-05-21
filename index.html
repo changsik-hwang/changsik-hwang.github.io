@@ -220,7 +220,7 @@
                 </div>
             </div>
         </div>
-        <div class="metric-row cols-3" id="trendMetrics"></div>
+        <div class="metric-row cols-5" id="trendMetrics"></div>
         <div class="news-card">
             <div class="news-header">
                 <div class="news-card-title">최신 기사</div>
@@ -249,7 +249,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
 <script>
     const COMPANIES = ["시큐아이","안랩","넥스지","퓨쳐시스템","윈스"];
-    const TRENDS    = ["AI보안","PQC","제로트러스트"];
+    const TRENDS = ["AI보안","PQC","제로트러스트","AI Agent","DID/VC"];
     const PAGE_SIZE = 30;
 
     const C_COLORS = {
@@ -260,9 +260,11 @@
         "윈스":       { hex:"#4ff77a", bg:"#4ff77a22", text:"#4ff77a" }
     };
     const T_COLORS = {
-        "AI보안":      { hex:"#f7c94f", bg:"#f7c94f22", text:"#f7c94f" },
-        "PQC":         { hex:"#4f8ef7", bg:"#4f8ef722", text:"#4f8ef7" },
-        "제로트러스트": { hex:"#f74f4f", bg:"#f74f4f22", text:"#f74f4f" }
+    "AI보안":      { hex:"#f7c94f", bg:"#f7c94f22", text:"#f7c94f" },
+    "PQC":         { hex:"#4f8ef7", bg:"#4f8ef722", text:"#4f8ef7" },
+    "제로트러스트": { hex:"#f74f4f", bg:"#f74f4f22", text:"#f74f4f" },
+    "AI Agent":    { hex:"#4ff77a", bg:"#4ff77a22", text:"#4ff77a" },
+    "DID/VC":      { hex:"#a14ff7", bg:"#a14ff722", text:"#a14ff7" },
     };
     const SOURCE_MAP = {
         "공식블로그": { label:"블로그", color:"#f7c94f" },

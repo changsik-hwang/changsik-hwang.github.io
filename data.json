@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-21 20:56",
+    "updated": "2026-05-21 21:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -808,6 +808,16 @@
             "date": "2026-04-29 11:09",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 산업부 주관 ‘2026년 K-수출스타 500’ 사업 선정",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04Nm4tTnNTUURJekpuV19NZDNCQjRnUlNXNWVZU0RhU3AtUU80cjc0Y1VmWkhvR1ZRVEpnMXM0MHhfV1FLTDdJcldHeExaNk1ULUx4LVVqNWJnTElncWZORWFhekFzRjZi0gFsQVVfeXFMUFoxZV8zXy1pckZRYU5GRlFuQ0tnSEhpalBvRGY5NmVqZ0RsTjFQc25KV3I1VV9saGxhWGFLOHNYa0M3MDcyNE9sLWgwamw1SW15SG5aVTRZd3pVZDRfZWpxZ25YTFJGcHpWNHZs?oc=5",
+            "date": "2026-04-28 20:38",
+            "description": "",
+            "company": "안랩",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -3533,6 +3543,16 @@
             "is_today": false
         },
         {
+            "title": "[이슈조명] 차세대 방화벽과 EPP로 구현하는 제로 트러스트 보안",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xRVpST1Z6ZlZNb2xqX0pwWV90MU5TN2dqNzZHY2p3NW9TeDJiM2FQbW5Oc3lMVnBXVGpCRVNKSXBoci1sOWVSRTFnOGZyZi02cjgxM2NwRXo2OWgyRU1XbVNha3BuM0YzUVpMMQ?oc=5",
+            "date": "2025-11-30 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "안랩, 기업 보안담당자 대상 ‘안랩 ISF 스퀘어 2025 for Enterprise’ 성료",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zdG1MT0ZWLURST05mZjAtWUJGdGJVTmZ6WjM0WTRtWjZsNVhJY2N2SzdHNEJxS28zM3hKMEZwUzFseTd6OEdOb0ZvN2YzdVZ1QTZFSkFGQlhrWnE0S0I1MkxITVl2M0lDaGxjVg?oc=5",
             "date": "2025-11-28 17:00",
@@ -5683,6 +5703,16 @@
             "is_today": false
         },
         {
+            "title": "\"북미 본격 드라이브\" 시큐아이, 차세대 방화벽 '블루맥스 NGF' 선봬",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OcHAyWlh4cW4takltV2FCYnl1dGJxRFhQcWN0LUxzeC1HLURhZmZ2M0lZbW9tQk9Wb3lab3lsNHI1WXFTczlUOW9sUVBRNDZPVndaM3p4SVYyMUE1b0xFdmswOA?oc=5",
+            "date": "2019-01-23 17:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "뉴스",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WOXFnRXdPUXJEOEpvZS1VRDF5UkZ0OXo2VExzM3ZRcXRQR2NjZzRiaDNLOFJkWEp2MmtjZDlZcFhwVUFEREcxM1c0STVxVzdaQ3BabngweTR5emswcGFkWTFxSDA?oc=5",
             "date": "2018-07-31 17:58",
@@ -5715,16 +5745,6 @@
         {
             "title": "퓨쳐시스템, '위가디아 XTM' 시리즈 조달청 등록",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3QnVTeEVfWVRONXR1NWUzRWQzNjJBT2kyenNsTGduU0l5cXh4RUVTVC02MlNSckxhbjRpaFo2NXN0RWUzVWxDT3RheFo?oc=5",
-            "date": "2018-03-08 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템, WeGuardia™ XTM 시리즈 조달청 등록 완료",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PcmFBWU5EbVA2NE1id0tVRjJtTlBaYkZlNHZyZXJ5Yzl1RkEwcWl0Q1lwaHRwbVZrTzZJUGkxejRra1Rya0NRZXJsM1RIa1BKaU94S2x1OHF6NC1zTTZxN1c1T3pFVlZNVFk2UW41VGY?oc=5",
             "date": "2018-03-08 17:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -6023,16 +6043,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 외산제품과 경쟁할 차세대 방화벽 출시",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5Q19rV01sekNrVmpNbE5OLUhBV0NZaHRxYjliSlJCZ0FYRHlQREZBZ282LS0taVhLeU9YcTIwSkdmTk9LenhCS1o1ei1XSENaT0N2XzFCSUM2c2hYQ3BrVXNaa1JJUElfYVdDVlhtRGs?oc=5",
-            "date": "2013-03-04 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[시큐리티 톱 뷰]김광태 퓨쳐시스템 대표",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVmtHWVZHbC05ZHR6ZGZRT1lITU9Ba2xZbnBXNHZ3U3JubExEREJ0UmtTWVFPU0xBUU9qNlRyS05jUzJPbURqNWhpdw?oc=5",
             "date": "2013-02-11 17:00",
@@ -6053,6 +6063,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템, 인젠과 위가디아 IPS 총판 계약 통해 중국 진출",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43UFF5TkRoUGVFT1dYb1FYSjcyekM2TnZmYzgtdEJMbWZOYnlzVVJ4NkYtazhFQ080T0R4cHpDbEN2d1J3MUs1TWFEMWNaT2o0OFlYTWliVjl5TmFLV083SFZoZnRhbU5hOGJFWFEyaXozQ0E?oc=5",
+            "date": "2012-12-27 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 3Q 누적 영업이익 102억...전년대비 95%↑",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRVo0R0diTWVLUnZWeC14eFhFRUhXT1dBbGcwVld4aTJ4X1c1QS1sQmxtSkozOG9sNThmRVozbGtOX2Q1RGpuTk5ieXBXbkk1bi1abkdLWnRjYXhidFgzeVY2ZkV5RVRCOVo0QUx3a2c?oc=5",
             "date": "2012-10-25 16:00",
@@ -6066,6 +6086,16 @@
             "title": "윈스테크넷, 다양한 사회공헌활동 전개",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VZlNPUUxBQVk2MUZsNXA1U1FfbHFSUVFVM19iTUFBZ05ROVJHY3pJSWlISFU2RWdJUENhMVBSVk5GVnc5YWdCY1QwdklJOGppV0dHSjBsZG9MOGVKNkJJdkN0VEsyaTFuTlRrNWxTZFo?oc=5",
             "date": "2012-09-04 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 9월 경력자 위주 공개 채용",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuVkc2YktNVE0xY2FEMEktWHVyVDVSaG5zamtacG5IN1VwbUJlbkZEZ0lYbU0xY0o2c3FSdmdPQzcxN1lNUUJwelpvdHdEczlQRUdwNEhVM2h3amRSb2drb2Z3dzNfMlFEQlJwNmVWa1lNWEE?oc=5",
+            "date": "2012-09-03 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -7455,6 +7485,17 @@
             "is_today": true
         },
         {
+            "title": "그렙, 모니토에 LLM 에이전트 적용",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xbWgtTXVwdGVnNkxpYmZZeS1ic2dmbmtNMkdqb0JZRFF1cnRaUFQ1UlZlemdiTXVTcmM0eXNBYzMweEp6MFczNndSUVNwV21SMF9KUEd0bXlReXUtOVd2OEFNdlI?oc=5",
+            "date": "2026-05-21 08:36",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "AI 에이전트 실행 전 권한 통제...MCP 보안 계층 부상",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HT25ob2FkMTNCa1YxNHlJYTZISXRrTzQwWU5lYmhGQXd4VFlCQ0pMaHBDZU1mQ3B2dHVMczhwMkpycE4xMEFCeU1uWlVFZ2VfZzVPU2tDN0tqbTllbnd2MzdaUUMwVGJKUVE?oc=5",
             "date": "2026-05-21 08:28",
@@ -8030,6 +8071,17 @@
             "title": "KT, 서울대와 손잡고 차세대 AI 보안 전문가 키운다",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwbEFYbUxqVHFWSzc0SkpZQ2J4YmVjZjc5Mk5fVlF3RjZCcFhFVlJvVDhLVkNCWmVxanBRT0EybFRrZzI5dEtHd2JZUTZEYnNWelgyNThpRG1yTVRWTEdNLWkwMVhfNXkybDhVeTBMSHo?oc=5",
             "date": "2026-05-20 09:53",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "버카다, 중앙대학교에 AI 기반 통합 물리보안 플랫폼 구축",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ub0l6dEt4bkdqcThkNzd5R2RrNkNFOGtwSFJkZ2EyVE5Weno1b1d3Wko3eGY5Qm8xUnkwbzQ5TklVcFpuUzVCYXhSUjFzZ0g1NTVHaFl4amJDUHMtNGcwcGNtdEhxbkY4?oc=5",
+            "date": "2026-05-20 09:51",
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
@@ -12858,6 +12910,17 @@
         {
             "title": "`금융 제로트러스트 보안 안내서` 발간…구축 예시 포함",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90U2FkMUx6T3BaVHhkVFB6ZWEwM1pDbmVsQmJzbU1xRXNEZVpFWFUwcGJSckh1Z1ZIZi1sa2ltbEczdll0cThKQjYyLVA5NmNpVS1lTFVyZC1oZGp5TXRhS2pR?oc=5",
+            "date": "2026-04-09 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "금융보안원, 금융권 제로트러스트 안내서 발간",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SdDZEMWJvWmJWZFdaSTF6Q3VnanpTaFhSM1BIdGVCM1hkRWM2M21tM3pwUHFOWGd1ZU13WmUzOG5xWjF1U2FpUHZmdEZPZw?oc=5",
             "date": "2026-04-09 16:00",
             "description": "",
             "category": "제로트러스트",
@@ -19798,19 +19861,19 @@
                 "count": 9
             },
             {
-                "keyword": "일본",
-                "count": 5
-            },
-            {
                 "keyword": "주관",
-                "count": 5
+                "count": 6
             },
             {
                 "keyword": "선정",
+                "count": 6
+            },
+            {
+                "keyword": "수출",
                 "count": 5
             },
             {
-                "keyword": "락드쉴즈",
+                "keyword": "일본",
                 "count": 5
             }
         ],
@@ -19867,7 +19930,7 @@
             },
             {
                 "keyword": "금융",
-                "count": 15
+                "count": 17
             },
             {
                 "keyword": "미토스",

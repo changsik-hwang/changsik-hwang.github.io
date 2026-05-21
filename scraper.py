@@ -14,7 +14,7 @@ from kiwipiepy import Kiwi
 # =============================================
 
 KST       = timezone(timedelta(hours=9))
-KEEP_DAYS = 1095
+KEEP_DAYS = 1095  # 3
 
 DART_API_KEY = os.environ.get("DART_API_KEY", "")
 
@@ -26,16 +26,27 @@ COMPANY_KEYWORDS = {
     "윈스":       ["윈스", "윈스테크넷"],
 }
 
-TREND_KEYWORDS = { 
-    "AI보안": ["AI 보안", "AI 위협탐지", "인공지능 보안"],
-    "PQC": ["PQC", "양자암호", "양자내성암호"],
-    "제로트러스트": ["제로트러스트", "Zero Trust", "ZTNA"],
-    "AI Agent": {
+TREND_KEYWORDS = {
+    "AI보안":      {
+        "keywords":      ["AI 보안", "AI 위협탐지", "인공지능 보안"],
+        "must_include":  [],
+        "exclude":       [],
+    },
+    "PQC":         {
+        "keywords":      ["PQC", "양자암호", "양자내성암호"],
+        "must_include":  [],
+        "exclude":       [],
+    },
+    "제로트러스트": {
+        "keywords":      ["제로트러스트", "Zero Trust", "ZTNA"],
+        "must_include":  [],
+        "exclude":       [],
+    },
+"AI Agent": {
         "keywords": ["AI Agent", "AI 에이전트"],
         "must_include": ["활용 시나리오", "식별자", "DID", "신원증명", "VC", "보안 요구사항", "운영 요구사항", "상용화 가능성", "비지니스 모델"],
         "exclude": [],
     },
-    "DID/VC": ["DID 신원", "분산신원", "VC 자격증명", "탈중앙화 신원"],
 }
 
 BLOGS = {
@@ -227,9 +238,9 @@ def fetch_dart_by_code(company, corp_code):
         params = {
             "crtfc_key":  DART_API_KEY,
             "corp_code":  corp_code,
-            "bgn_de":     (datetime.now(KST) - timedelta(days=1825)).strftime("%Y%m%d"),  # 5년
+            "bgn_de":     (datetime.now(KST) - timedelta(days=1825)).strftime("%Y%m%d"),
             "end_de":     datetime.now(KST).strftime("%Y%m%d"),
-            "page_count": 100,  # 최대 100건
+            "page_count": 100,
         }
         response = requests.get(url, params=params, timeout=15)
         data     = response.json()
@@ -277,8 +288,8 @@ def fetch_dart_disclosure(company, company_name):
 
 def deduplicate(data):
     """
-    - 뉴스(competitor/trend): 링크 + 같은 탭 안에서 제목 기준 중복 제거
-    - 공시(disclosure): 링크 기준으로만 중복 제거
+    - 뉴스: 링크 + 같은 탭 안에서 제목 기준 중복 제거
+    - 공시: 링크 기준으로만 중복 제거
     """
     seen_links  = set()
     seen_titles = set()
@@ -289,11 +300,9 @@ def deduplicate(data):
         title = item.get("title", "").strip()
         tab   = item.get("tab", "")
 
-        # 링크 기준 중복 체크 (모든 탭 공통)
         if link and link in seen_links:
             continue
 
-        # 제목 기준 중복 체크 (뉴스 탭만 적용, 공시는 제외)
         if tab != "disclosure":
             title_normalized = ''.join(c for c in title if c.isalnum() or '\uAC00' <= c <= '\uD7A3')
             title_key = f"{tab}:{title_normalized}"
@@ -405,10 +414,24 @@ def main():
     print("\n[탭2: 기술 트렌드]")
     new_trend = []
 
-    for category, keywords in TREND_KEYWORDS.items():
+    for category, config in TREND_KEYWORDS.items():
+        keywords     = config["keywords"]
+        must_include = config.get("must_include", [])
+        exclude      = config.get("exclude", [])
+
         for keyword in keywords:
             print(f"  검색: '{keyword}'...")
             for item in fetch_google_news(keyword):
+                title = item.get("title", "")
+
+                # 제외 단어 필터
+                if any(ex in title for ex in exclude):
+                    continue
+
+                # must_include 필터 (하나라도 포함해야 함)
+                if must_include and not any(m in title for m in must_include):
+                    continue
+
                 item["category"] = category
                 item["keyword"]  = keyword
                 item["tab"]      = "trend"
@@ -420,6 +443,9 @@ def main():
     trend_data.sort(key=date_sort_key, reverse=True)
 
     print(f"\n  → 트렌드 총 {len(trend_data)}건")
+    for c in TREND_KEYWORDS:
+        cnt = sum(1 for d in trend_data if d["category"] == c)
+        print(f"     {c}: {cnt}건")
 
     # ── 탭3: 공시 ────────────────────────────
     print("\n[탭3: 공시]")

@@ -68,6 +68,7 @@
         .dot { width: 7px; height: 7px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
         .metric-value { font-size: 22px; font-weight: 700; color: #fff; }
         .metric-sub { font-size: 10px; color: #4fcff7; margin-top: 3px; }
+        .metric-row.cols-4 { grid-template-columns: repeat(4, 1fr); }
 
         /* 공시 요약 카드 */
         .disclosure-summary { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin-bottom: 14px; }
@@ -120,6 +121,7 @@
             .metric-row.cols-3 { grid-template-columns: repeat(3, 1fr); }
             .metric { padding: 12px 14px; }
             .metric-value { font-size: 20px; }
+            .metric-row.cols-4 { grid-template-columns: repeat(2, 1fr)
             .disclosure-summary { grid-template-columns: repeat(2, 1fr); }
             .news-item { flex-direction: column; align-items: flex-start; gap: 5px; padding: 12px 0; }
             .news-item-row1 { display: flex; align-items: center; gap: 6px; width: 100%; }
@@ -220,7 +222,7 @@
                 </div>
             </div>
         </div>
-        <div class="metric-row cols-5" id="trendMetrics"></div>
+        <div class="metric-row cols-4" id="trendMetrics"></div>
         <div class="news-card">
             <div class="news-header">
                 <div class="news-card-title">최신 기사</div>

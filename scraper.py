@@ -44,7 +44,9 @@ TREND_KEYWORDS = {
     },
 "AI Agent": {
         "keywords": ["AI Agent", "AI 에이전트"],
-        "must_include": ["시나리오", "활용", "요구사항", "식별자", "DID", "신원증명", "VC", "보안", "운영", "상용화", "비지니스"],
+        "must_include": ["활용", "분야", "사례", "도입", "금융", "공공", "KYA", "Know Your Agent", "영지식 증명", "Zero-Knowledge Proof", "ZKP", "식별자", 
+                         "DID", "분산원장", "Decentralized Identifier", "상호연동", "연동", "프로토콜", "신원", "인증", "증명", "프라이버시", "VC", "검증",
+                        "보안", "운영", "요구사항", "상용화", "비지니스"],
         "exclude": [],
     },
 }

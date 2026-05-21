@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-22 04:00",
+    "updated": "2026-05-22 05:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -5833,6 +5833,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템, ‘차세대 SOC 플랫폼’ 고객 니즈↑...디버티와 시장 확대 박차",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBES01JUFQ0UUtfcndldnVPNFJzQ1ZXcXY4VE5kbzFBc3F5MkU1NVFKRzhlSUs4ZmU0SmFVaUZpc3VZaFA1T3hqeXVPdlFQeWVOWFNFZnRsZ3RfS1JPLXlUZWhta29yVERVbl9vaA?oc=5",
+            "date": "2021-09-08 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
             "date": "2021-04-20 16:00",
@@ -5918,16 +5928,6 @@
             "date": "2019-07-15 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "\"북미 본격 드라이브\" 시큐아이, 차세대 방화벽 '블루맥스 NGF' 선봬",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OcHAyWlh4cW4takltV2FCYnl1dGJxRFhQcWN0LUxzeC1HLURhZmZ2M0lZbW9tQk9Wb3lab3lsNHI1WXFTczlUOW9sUVBRNDZPVndaM3p4SVYyMUE1b0xFdmswOA?oc=5",
-            "date": "2019-01-23 17:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6086,16 +6086,6 @@
             "title": "[마켓 리포트] 보안 인텔리전스 핵심 ‘차세대 방화벽’ 시장",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13enVmMm55SFVGZURmSWw2UzhzMkJOMlU1dUkzYTRiRmd3QWNZNk1GTWVUYzU5NlU0em12MVpfVVZ0Y3JpWlg4U0R2clp1ak1jUGdPeWh3ak1xRUFnWjg4M25xWDM?oc=5",
             "date": "2015-10-06 18:55",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[보안·IT산업 동향] ADT캡스, 실속형 어린이집 CCTV 패키지 출시 外",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3Vm93V3BVa2Y4SjMya0xZS2tRbHdhLWhiUTVxRnBTS09fTGNJdTdraVdVNVNWT3JEWi1mZnN2bmZSVUpBQmU0ejhTM19kNFVNWkZud0VXMzFwc3NiblI2b1NicVVIa05MdDZ4RnFkT2NRNjQ?oc=5",
-            "date": "2015-09-18 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -6304,8 +6294,8 @@
         },
         {
             "title": "퓨쳐시스템, 인천국제공항에 고성능 방화벽 공급",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mRVQzdGlKSGhtNVBDZ1JTaDhrTklBZEZSb3dmRmVDblp3SGRvWnFBaHZCdkQ0ZV9xT3VzS1lSOElyWG9lWjJyME5TX3VKLVM5SkVCYXNxQU52M0dDcmQxaUVUUFpEZWx5MWJNbw?oc=5",
-            "date": "2013-01-02 17:00",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBma1ROTTZoLVpWYXBDay1wa0p1cEVVd1FFT2NPaUFPcEVteTIwQVJFbTFCa3hrNFZhNjliQUJ6M3NkUnN4d1Q3MHhXTQ?oc=5",
+            "date": "2013-01-01 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -6333,9 +6323,9 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 상반기 최대 실적 달성",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XNV9MNVRXOXJ2SDBDaUZwLXE3WXg3R000OEM2RHBpZ1puZVhPd045c3VvZ2xPOU8yNmFnck9ZcUl4ck4ycmFQM0lMZzRXZ29DTHB3VEVBcmxTVm9EcGs5RVMwLUF6WVNtRldlQWYweVh5QQ?oc=5",
-            "date": "2012-07-26 16:00",
+            "title": "윈스테크넷, 9월 경력자 위주 공개 채용",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBuVkc2YktNVE0xY2FEMEktWHVyVDVSaG5zamtacG5IN1VwbUJlbkZEZ0lYbU0xY0o2c3FSdmdPQzcxN1lNUUJwelpvdHdEczlQRUdwNEhVM2h3amRSb2drb2Z3dzNfMlFEQlJwNmVWa1lNWEE?oc=5",
+            "date": "2012-09-03 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -6343,9 +6333,9 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, IPS 해외시장 진출 활발",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJOTRic2o0Q0NEUkRoSTIzdnVXWERpWkU1ekFBY1JibXVrN0ZtRnhVQlVfSHJLV3pjM2c3UlRCNTdFdmh4VXlwLWhHVHZZLXJ1MzRkZnBLTlZUYVBZUXh2N3JMaXlDS2VzRjd1STJVNWtKWVE?oc=5",
-            "date": "2012-06-22 16:00",
+            "title": "윈스테크넷, 상반기 최대 실적 달성",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XNV9MNVRXOXJ2SDBDaUZwLXE3WXg3R000OEM2RHBpZ1puZVhPd045c3VvZ2xPOU8yNmFnck9ZcUl4ck4ycmFQM0lMZzRXZ29DTHB3VEVBcmxTVm9EcGs5RVMwLUF6WVNtRldlQWYweVh5QQ?oc=5",
+            "date": "2012-07-26 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -6533,6 +6523,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, G마켓에 10G 보안장비 공급",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LaXNjU2k1ZFdqMXJjemZERjB5VUk1eTJiekZhX1VHU2ZCRk9idmlUSmdHRHFMRmprNDFfbklkSC1odmEyV0IyUGZpOV9heEFVRUhJVXp4RG9nZ2dMM1ZpeUgwaUxpSVVvOFJ5allUeXE?oc=5",
+            "date": "2007-09-06 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, VPN과 방화벽 통합장비 소개",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mSnJ1QVRvYnd3RThLYnljTjl0aV9XekQ2d1FHRHVsazBEVnR4M3VoNTd0Z253VkYtTlB3bDFsdGlfekNISENWV2NMbUhEMHM4cHRkWkFGMnV5cUYwTXBfenZmQVbSAWhBVV95cUxObVJidmlnT2hmMmpXZzJFLXh5N3NrdVpBMnNYS2VpNGlmcXNSb0lOYlEyR3FhYnhVRnFISUFNZTJSMjNSbFhlaG5acnpISHBKVTNQUmtnVXBFc3ZDM0lfWWpwLUFDbWZsbw?oc=5",
             "date": "2006-07-04 16:00",
@@ -6696,16 +6696,6 @@
             "title": "퓨쳐시스템, 미래에셋 VPN 구축 사업수주",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PUFVKaFMwZS1MTUkzVzB3M1BYZ1JlOW9pdVVMM3FCM1o1ZWVGazl3cm9qSXY0R0dZS2VUamhUTEIzeHBOWkN5cnkzbDNGeUUzQkdkVTQyX3FRZTVqR09zaFlMcHhGQQ?oc=5",
             "date": "2002-12-23 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템 - SecuwayGate 2000",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PaFNtall3TnBUV1NWUy1raGZrWURRcXJyd1pFRng5VWs5NEloRnZTRlJRSzB3eWYyWXl3TTVNYXVIcHR0RnRnUXlYd3JRdW1OaWhvVlVn?oc=5",
-            "date": "2001-03-14 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9396,6 +9386,17 @@
             "is_today": false
         },
         {
+            "title": "AI 보안 위협 커지자… 비탈릭 부테린, ‘형식 검증’ 중요성 강조",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ObnJtcXZ4akRqS2xoVzMydUpHcVF1amZsdFEtSGZPdHRmbFZLUmR6ZGZQbDBJQTY1SHVpcGh3SHhvenk1OE83TWJ6SEhaUFplaDIyRWJnRVVBdjlDbno5a3kybGF1WE3SAWtBVV95cUxOS1lMRW9mSVhSeTdDRmk1bEFNZ1BwTWhBRXNmVVhoV2w2UTlCczB0ekZxMzQwMHdMMU1fOGlfdUpVd3pDeGhVZmlDdm0tV1hFUWtSUVliWFF4SlpsYmw5TG9NTktEd3FaWlVtdw?oc=5",
+            "date": "2026-05-19 15:13",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "한컴위드가 꺼낸 세 카드 “미래는 디지털 자산·양자·AI 인증”",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40dFo3NURTMkZPTUxOcW55c2VBLW91T0tRWlZpYW1FMkJCN2xIRDNOS3pwQnBWV013NURqdDJCMEgxeC01anN6NTIxMnJva25uWDgtendBNkliV0pGSFN5M3A0UjZRaWcwNFNn?oc=5",
             "date": "2026-05-19 15:12",
@@ -10062,6 +10063,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KT, 국방 통신망에 양자내성암호 적용 나선다",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EaS1IMTdJX3NIMnZLQnpjN3dJOE53MERfcUpINXVuajFCdTZlcjhWaVA0SGNHVlk0OXdIR3pPWmdiU1A3S2V1NEd1R0NXdEgzcWd5YkFjZHFaNUl5QjVhTUg2ZnRYdWUwZmtJdVVZRG5PX2_SAXdBVV95cUxPYmN1TGRkaVNZY0k2R1JJSlhtd2V3UEVVcTFvTDlkSnZtMGtGODNJVGtvcGYwWkFGYVRUdUpJQm8wT3JHVHdkOXpEWEFiSlpzUmd1Tk1hdXhOSTA3Mm1Na0Q3cm10bWtwZFNpRVEzVFV6UnBZRDJhUQ?oc=5",
+            "date": "2026-05-19 10:30",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -28265,7 +28277,7 @@
             },
             {
                 "keyword": "국방",
-                "count": 92
+                "count": 93
             },
             {
                 "keyword": "오픈",

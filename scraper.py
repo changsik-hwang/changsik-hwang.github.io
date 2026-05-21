@@ -30,7 +30,11 @@ TREND_KEYWORDS = {
     "AI보안":      ["AI 보안", "AI 위협탐지", "인공지능 보안"],
     "PQC":         ["PQC", "양자암호", "양자내성암호"],
     "제로트러스트": ["제로트러스트", "Zero Trust", "ZTNA"],
-    "AI Agent":    ["AI Agent 보안", "AI 에이전트 보안", "AI 에이전트 인증"],
+    "AI Agent": {
+        "keywords": ["AI Agent", "AI 에이전트"],
+        "must_include": ["활용 시나리오", "식별자", "DID", "신원증명", "VC", "보안 요구사항", "운영 요구사항", "상용화 가능성", "비지니스 모델"],  # AND 조건
+        "exclude": [],  # 제외 단어
+    }
     "DID/VC":      ["DID 신원", "분산신원", "VC 자격증명", "탈중앙화 신원"],
 }
 

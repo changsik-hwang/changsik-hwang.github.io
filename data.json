@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-21 12:00",
+    "updated": "2026-05-21 13:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -4333,6 +4333,16 @@
             "is_today": false
         },
         {
+            "title": "[TOP CEO 391] 친환경 스마트 윈도우의 개척자, (주)글로윈스 김미숙 대표이사",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kaDh6SzdzdTJXSkdjNmthNXNUSE1YWURVTlVCQ0IzYkRla0tqZ3lrbUpyU2c5WGVBRFRDbXNTaThDdmE5NHNLVmZVUS1TTzlyQkFPMUlOb3dEQmlRcm9N?oc=5",
+            "date": "2025-12-09 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "안랩 ASEC 양하영 실장, '시큐어코리아'서 ETRI 원장상 '영예'",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02Vlp5dlNZQzhvVS1EMjk5RlZCNE0waUhCdUY1dFJYVUZPaGdlV2xUOVZ6eTJVeHVyNW5UQWVDWERDZGFvMUpLU0Q3ZG9qLU5Pb2JhWGZB?oc=5",
             "date": "2025-12-08 17:00",
@@ -7153,16 +7163,6 @@
             "is_today": false
         },
         {
-            "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
-            "date": "2021-04-20 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
             "date": "2021-03-24 16:00",
@@ -7403,29 +7403,9 @@
             "is_today": false
         },
         {
-            "title": "[보안·IT산업 동향] ADT캡스, 실속형 어린이집 CCTV 패키지 출시 外",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3Vm93V3BVa2Y4SjMya0xZS2tRbHdhLWhiUTVxRnBTS09fTGNJdTdraVdVNVNWT3JEWi1mZnN2bmZSVUpBQmU0ejhTM19kNFVNWkZud0VXMzFwc3NiblI2b1NicVVIa05MdDZ4RnFkT2NRNjQ?oc=5",
-            "date": "2015-09-18 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, 2015년 차세대 방화벽 기반 글로벌 브랜드 자리매김 ‘원년’",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vN3VYRjVFYXNWOGhBQXZ2TF80WmZSWUdEOVZQN0NPMmQyOG4wLXczQWRWa1VzblZRQk9tUU9ZZTdkaXZJUGZKaEtTZG1jdUVIV2p4ZFVnMUl2YlE0YnpVMHRBNTRnbjJ6UWlZ?oc=5",
             "date": "2015-01-13 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨처시스템, 'ICT이노베이션 대상'서 미래부 장관표창",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lQ0tFNlRmbFMybjR5YUx3eVhZUkFhMFJydFZTa3pqVkpad0xpcVE2T0lFSy1EX3FjUXhCZVViYmNfWmg0Z2lxNE12dlF2WmRXT291QkFB?oc=5",
-            "date": "2014-12-23 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -7623,6 +7603,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 3Q 누적 영업이익 102억...전년대비 95%↑",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRVo0R0diTWVLUnZWeC14eFhFRUhXT1dBbGcwVld4aTJ4X1c1QS1sQmxtSkozOG9sNThmRVozbGtOX2Q1RGpuTk5ieXBXbkk1bi1abkdLWnRjYXhidFgzeVY2ZkV5RVRCOVo0QUx3a2c?oc=5",
+            "date": "2012-10-25 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 다양한 사회공헌활동 전개",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VZlNPUUxBQVk2MUZsNXA1U1FfbHFSUVFVM19iTUFBZ05ROVJHY3pJSWlISFU2RWdJUENhMVBSVk5GVnc5YWdCY1QwdklJOGppV0dHSjBsZG9MOGVKNkJJdkN0VEsyaTFuTlRrNWxTZFo?oc=5",
             "date": "2012-09-04 16:00",
@@ -7763,6 +7753,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이닷컴 마이크로소프트 MAPP 파트너십 체결",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoS2YwWVZ2cUEwN3hwVG9JZzcwWWxGdTlYc0pnQ2xqb3l1RWRWb2txb3RvRmowNmc4Nlk1eHFXODFfb3BmaWJaYl9fOHc5YUxrbzIzeEJ4VFNqRXcyTFBaN254OUN2RS1PakE2SU5sNEM?oc=5",
+            "date": "2009-09-16 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[기획특집]다양한 네트워크 환경에 적용 가능한 MultiCore 기반 통합 보안장비",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfR0I2T28yRUZGd0RLc1ZqbE40d0Fac0dHay1BMlV0bUlWNHYyUjRfZ0RTX0tmZTh6QVVSZEE0SXBTMmppcVF6SE0tTzN0RWN5QmR3Q0ZldGdfM01fX0RaTWxjZkU?oc=5",
             "date": "2009-08-24 04:16",
@@ -7774,7 +7774,7 @@
         },
         {
             "title": "[VISION 2009] 퓨쳐시스템 “확장형 통합보안장비로 VPN 명성 재현”",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iUkpFYnRqcHR0ZGdyTTc4S01lNTdfcEg2eVdoby14RWRTQ0lwWUpaV3pSNXh2SGNtbXFfaVM5TVM2dmVRVm1SYjBIVDRaVVYwamoyYzVXSVhndEJHbkRYYkdJYnJNMEpxQW9TZENoX2I4QTA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZaGlQOFhycEx6d2lBbHVWWjJCcGdxdDJsN19MZ1lTcTFMb1lGMU1WRGZmaVIwcEdSM3JDdWYtbEpkMDgtYTJyaThhSEdDWWwtZTlXd2F4WEp3LUxtY0Q4SUp3T0VGUnZLYVkzRmkwUDhPZw?oc=5",
             "date": "2009-03-12 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -7854,7 +7854,7 @@
         },
         {
             "title": "특허청, 어울림 VPN 부하분산 특허 취소",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDT3U0SzFPemxoOFVmWllIaXgyazdWOTZOWFA0bWJ3UHZMQkwxY3Z4Rml4NDdNd00weHV1OWFPTEJPTndiR3BPQVc3UlVVbFg4Z3RnME5FcmMxSXVQUXlXVGt3LXgtcjRZTkdKUjBRMTd1UQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KcFNCbjRGYWFicmx3bjVXRzlwbVRTNGRqQnJkZTc4R2VLRHEwMm8xS25qS2xCSThwZ0daSVhhTnNPWlgtVzAtU2ZOeWgtUTRybUVsbi1sRUJfWkQ3TUJGcGxKMVZMdF9wZTFFUWh5eEQ?oc=5",
             "date": "2006-05-23 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -7916,16 +7916,6 @@
             "title": "퓨쳐시스템 _ 대상 VPN 사업 수주",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00bTNRRWM0NzZlWm1xWmRNakt1eFRaZXNXVEdVaUNOb0FkMkdialhhd1o0TlJCbHFTa2l3WUZtdHFQMXI3RjBPQUh1emdLbG5zbldvZzZrdXFSRUE?oc=5",
             "date": "2005-04-18 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "행정정보보호용 VPN 제품 절반「퓨쳐産」",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pVGVkUDh1Y0NqMC0yODk1b3JncC0tY1dJZUdzWnBWOXhsajlFaVhZcFlTVWgxZHJNeEVJdm1kSlp4N3JYZ2luZG1rNjhvSDk2WklKZ3Bn?oc=5",
-            "date": "2005-03-22 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -8014,6 +8004,50 @@
         }
     ],
     "trend": [
+        {
+            "title": "제18회 CPS 보안 워크숍, 6월 4~5일 제주서 개최",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9teWJvWGhvMTg0X0JZWUFHRW1LRV9JaEY0Vzl0QTVGTzNmU3BxdjBBT1RRUmRFYml5S3pPeHF4d2VHQ2FTcjdVR2UwQ1V1QkZYMXhhVmJpWlBvcFZfQjh0dmdGUWlKVmx2YV9CUw?oc=5",
+            "date": "2026-05-21 12:19",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "철도부터 보안 회사까지…마이크로소프트,글로벌 AI 최신 사레 공개",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDcmdKaXBSXzQ3aDVTWkdhd2ZTS1RFYWlwNDVwVEY5R3l5bUc5UzFkVjlmeGF3eGNkT0xISXhySTdJSTdldmVoc3JQekk0eDVLUUVz?oc=5",
+            "date": "2026-05-21 12:09",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "(다른 기사로 대체)인천공항공사, ‘AI 사이버보안 허브, 인천과 함께’ 협의회 개최",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iajhweFhNUVdMdGxpczJFZEJZYmVxVzJxeTlTNngxdW5FcXlzZ09zdjVEVFNBZy1mckdTNFV3UWxzRFlrQmhfaHRCc1A5bEZURVEyVWc5RjN3OERXaVdDd21iMUJMc2oxQkc4?oc=5",
+            "date": "2026-05-21 12:03",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "인핸스, ISO 27001 인증 획득…AI 에이전트 보안 신뢰성 입증 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBbkpMbzhvMEFuT0VjeFBSdUFaWFBiUDk5Ym51eFoxT1J2dmNYWDdVVWpWbXhITXIycjRQbmZaTkFVbjFjc0p0VnlLU3VRYkYyaXZCeW50R255U0plTVdWbjlqSXZESUNS0gFuQVVfeXFMUHRkYXFFMm5sbEV4c19VVl85U2o0bGI1bVBPYWhWQ0FHWGk1Sld1VE13YlNiei1yZlZ0TzBYaS1BenRBRHlqc1ktOUQ3TUJidFd4U05YdWlTTVB0ZGxSR0d2di1fQVJDTWZUSTJld2c?oc=5",
+            "date": "2026-05-21 12:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "국내 최초 방산 AI 공방전 해커톤 ‘DAH 2026’ 참가팀 모집…총상금 2,000만원 규모",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11NGFjcUdaZTB6aGVBMzR0ZDMtOEJLejBvNWFWZWoyT2JpY2ZHYUxSLUlzOXM0ZXdZWWZXTkRtWGNjRm9sUVlWM0RINF9Kclk?oc=5",
@@ -8336,6 +8370,17 @@
         {
             "title": "아우토크립트, 피지컬 AI 보안기업으로 전환…사업 영역 확대",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13RGc4T2dJVGY0dGV6RHBFd2NhLWJYOGtiYm5QY0xocEJuTmd2bktyWi0xcHVPajlyaFNPaVJ0Y2ZSNHF0d19fbkxrT2Jkbk4xMElr?oc=5",
+            "date": "2026-05-21 09:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "아우토크립트, 피지컬 AI 보안으로 사업 영역 확대",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IVEtCeWlzdGh5RzVlRmZyM2pRdlpEcU5sdlByWHZQMFNreWZ4Y3ZsV2UwWlhGTXluWjZiTUFqZnY1OENlUzBNQjNZYXVlTjJOSFNoVnluWklaQ2xBOE9VT1FsbU5FZWFQbHdJRzFqVDFFZw?oc=5",
             "date": "2026-05-21 09:00",
             "description": "",
             "category": "AI보안",
@@ -10534,6 +10579,17 @@
             "is_today": true
         },
         {
+            "title": "KT, 국방 시스템 ‘양자내성암호 기반 보안’ 체계 적용",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44aUY0dVBXNjd2aUJYcnpsRGVTUzlPN3FQNW1xdDJVVUowSlBuVzdNdXBlYllpRDdhSFdCX0JCZC15UC15VmN3d1ZmMkZwMl83a3dqR3FfY2pWamFpLXRZVU9sLUFiQUVmVmxj?oc=5",
+            "date": "2026-05-19 18:18",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "과기정통부, 오픈AI TAC 참여 추진…내주 제이슨 권 CSO와 세부 협의",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zVUFqWW9EVnFET1FQbFI4eEl6VUVIVVZuRHVHaE1mMGZFRWxXNExXMHR6T3d5MUV0YXAtZmJocm95ZUQ3c1pINXlOZGdneTRfMndjbjY5X05lR05DY1dPbWtHX0VfMWF2anFtQmY4Z2hyU1U?oc=5",
             "date": "2026-05-19 18:14",
@@ -11062,6 +11118,17 @@
             "is_today": false
         },
         {
+            "title": "KT, 국방부·육군정보통신학교에 양자내성암호 적용한다",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oWTVlM0ZNV3JNRmhsZlhRREs5OXNNY1lnRllQaS1US0dweF9yb2Q4Tkg1Zl9JdVBTUDBBakJISjF1SG9RNmRpV2NDLW9NMDRSR1pwVWVjZ0Q2aHRCVk8xcExZQlVOZzlw?oc=5",
+            "date": "2026-05-19 15:56",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "소프트캠프, 일본 공공기관 AI·SaaS 보안 시장 공략 나서",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYOGJjOWhWOTYyMEpzQ2ppVzduZS0tZG5FMUZqZmN3MlBpX2RzbzAwc2lZbVJqMFA5YlYzdUtXdXF6TjRSS3BSRWpTaTVJQVBuVVZQRmdHUzl5eWxETkFtUlU0cXJFX3VTRGMw?oc=5",
             "date": "2026-05-19 15:55",
@@ -11379,6 +11446,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "KT, 국방 시스템에 양자내성암호 실증…국방 사이버 보안 강화 나선다 By 알파경제 alphabiz",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZnpEZlhPLWkxYWs2dG0ycTFCaUJveXN2a0dWX1Y5WmV5SEY4dVEtZk9ORjVVVng0WE00TlhpTWRyTC1MOTRXQ2ZOQkNwTlk0RGkyNlFUaFNoQXFMWVR2OWo5R2dGbDBReUFoZlZUc00?oc=5",
+            "date": "2026-05-19 14:33",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "[POWER COMPANY]‘안전한 새벽 편의점’ 가능케 했던 에스원 관제센터, 이젠 AI관제로 ‘무인경제’ 시대 연다",
@@ -17519,6 +17597,17 @@
             "is_today": false
         },
         {
+            "title": "엔키화이트햇, 과기부 ‘2026 AI 보안 유망기업’ 사업화 과제 선정",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SRG1mdUJISVdiYnhndER4dldVUUQ1WUd1bW9NRmNHTkN3OUUzdDV3SzQtWDFLd1lrbi1Gc3dpSy1OZEhSTFZkbWtlTEs1VHdwT1Yzc1RTS0p5enRWQVNMVGhZRmlIMVUycGY3Sg?oc=5",
+            "date": "2026-05-13 09:52",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "제로트러스트보안협회, 'ZT 아버지' 존 킨더바그와 간담회",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05NFpRbjM5VEs1WXRKa3d6U00wMXVDMmNPNnh5c1lIVW52TXRYU2FoS0J6T0hTLVBITjUwYUQzNGVmM0FjZ1M3SV9qSzNNUm8?oc=5",
             "date": "2026-05-13 09:40",
@@ -20313,6 +20402,17 @@
             "is_today": false
         },
         {
+            "title": "[젊은 과학포럼] 양자암호통신이 여는 안전한 사회",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pa0hqMEZiNVdMQ2NBVzdYZ0p4V3k0NDBlOGNXbjhUT2FOeWh3NnNFQVJaV2ZVenJvUFhFdnBaYUl6c3dfSmRxZXRLMDdRc1pnTGpLcnJqV1RXVjVSaFU2SElkbk02ZzRKeExYMFp3?oc=5",
+            "date": "2026-04-27 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AI가 'MS 보안취약점' 수초만에 찾았다",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxcEtPN0tfMnFYVmgxRjFEcHJEcVd0Y0NIdmNhZW13WjB6RUxaRGlveU8ybnlRd2oxS3ZTZXF3dlhOb3RRc2NEWV9sM0hkZw?oc=5",
             "date": "2026-04-26 16:00",
@@ -21072,6 +21172,17 @@
             "is_today": false
         },
         {
+            "title": "월드, 신원 인증 앱 '월드 ID' 전면 개편…코인은 12% 급락",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MMlNDZ19OSWFsQ3M4Q1dmcGNtU1NKeGxlUjNkT0lRdmVpbUh0WlZqbGpLNHlfR0V4ZlVyc01OX2g2NUxCc3ZXVVByQThubDAyOFhEaDFNTFVlWTdEOXlmdHlTUlZUVkl0VWJpbA?oc=5",
+            "date": "2026-04-18 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "탈중앙화 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "사이버 위협 탐지의 새 무기로 떠오른 AI, SOC 번아웃까지 잡는다",
             "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPbTVyNWJJWDBQSEREVzA1M0ZaUEQ5aEF2cFRndGR3bTdrcFQwUFZsV3g5cU45MUVRblB1NEtxcFg4M1hTS3ZYdm1hWG1rcm9xOWNMeXNxcVctT1NoZFcyNnQzLTNSZHpNWHAyZGdlMmo5TXBSdEhsVnA0MmNZN2szN3RwNU5icFlnUnVRVU9CNnNsNjVHY0dXRkxRRWt3VWRCenhTTzhSNWJvZHJIWDB5RUppRXctWGJ6TVZucFVzQ3gwcVJiamFiSnBKRFg0OFA3blpidmgzdjdGLWFTN2FQM3JORWRzc0o5TFdGOFBMYnNZMTV1dmZFaHphVmJWbmxTRFpjdWU2LU1ReHBQem5MVkJITlNITUJ1T0F1VjhET281ZXd5LXMxV1JwQlhNWU9BRndIeUhrV0JWSVItZzZDdDFCY2dZaWlhMnRMeU9VckNYLWRKZDB2T2FTY2w?oc=5",
             "date": "2026-04-17 16:00",
@@ -21617,6 +21728,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[비즈톡톡] “너무 강력해서 위험”… 앤트로픽 AI ‘미토스’, 보안 판도 바꿀 분수령될까 - 조선비즈",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNDdyOXRMN2NNQ0h6cHRYWDFPU3Z5a0h3Z1dTZDk5WXNBMUF4QU1rTW1ZTExGeDRQQ1IzcUJERmtYM3NkMkFNSW1hdjVyODlGYzNrZ1ZfLVRhbGdGWFFNV05kenpiME9UZldCejUxX19Ic1A4UDZiQjNfSklpQTFhTjVB0gGWAUFVX3lxTE8ySE1WaDRnTktLWGZEQUt0WXY0WXpISFVtVjF4c3QyeDN0b3hBUkVPTlVBUEFaam95eEdmSjJBTjFXVzI5VTBBVjNGTmFreDIwcWF6SnBWTHJCMjF4R29mbnVjRXlUc0hyX3FqckZVa0tlWHVHb3h5SHVTdTlpQy15bllvd1lzaWlzS211QVFXb3BrcktpQQ?oc=5",
+            "date": "2026-04-12 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -22249,6 +22371,17 @@
             "is_today": false
         },
         {
+            "title": "디토닉, GS인증 1등급 ‘쿼드러플’…국내 최고 AI 데이터 기술력 입증",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwTkRSRElDeW13SFB5Y3JDUUE2SVlxVGRBdm9pajRTa1AyUWVSemdFSGREanhzSFJMWG5CRC1QUUQxaTdZUHVSdGRhaWNSclVVTUxXZGxNNTRLRndramJR?oc=5",
+            "date": "2026-04-02 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "구글 퀀텀 AI, “양자컴퓨터, 암호화폐 보안 체계 근본 위협”… 포스트 양자 암호 전환 촉구",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WTWQwdDJueDBobC0tTzN4cm1UY0FFRU94ZmE2NkxVazdQbjlZX09NQWJIRFJUVXNMT1FQSDZNLXpDZlR3UGJ3b2ZSQnBUb3pLNEd2Si1QUk1ycDMyMjJNNDY2cm52SVpxbDlaeGJRNA?oc=5",
             "date": "2026-04-01 16:00",
@@ -22365,6 +22498,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI 에이전트 실행 시점 권한까지 통제하는 런타임 신원관리 기술",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VVW1MZXZta1FKTU0tVXlaRzdXTUhtRjk1Q0s4QzVfSHdtTFd2WlI4U2cydE1mSmJFVEdkU2ZlYVNDZEZ5ZGo3S2pkMVM2QV9UWWZobnY2SlF4NU9OeE56bGwtaEo0ZnF0Tnc?oc=5",
+            "date": "2026-03-27 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -22629,6 +22773,17 @@
             "description": "",
             "category": "DID/VC",
             "keyword": "DID 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "모바일 신분증 민간 개방 확대…디지털 신원인증 일상화 속도",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BX3A5Njl4MnZmZG96cGM1ajdQNVFGamdNRWZYWDIwOFVuZVFwbUthb3NWdU41eGxYQVZVYkdMeWloMDRCbFMzVUt0VnhHdTVSSDBfNmRR?oc=5",
+            "date": "2026-03-23 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -23131,6 +23286,17 @@
         {
             "title": "월드는 Coinbase가 후원하는 x402와 함께 AI 에이전트 뒤에 있는 인간 신원을 검증하기 위한 agentkit을 출시했습니다",
             "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVDJlWTkxOTJFZ2g2NFYzZ2JJWHJ6STdyeFZ5NXBIWGpiR1F4akVpTmxOM2daNHpjQldsZVpZUXlBOFNLenZxOFY0MDdnVVd2LXVYM0VBNlYzcENiSzVQTGZ6N2xsR2NTZmVMYi1HekNHMVBTaVFTdU5VN3IzQzhCVWVFOWczeW5zRnVHckFYYnJ0cUFNR0VNY0VDUEVLNk5QNjVIZElYZHNOdmZUSFoybk1iTE9Fc01MRE40RHdDT0UxQTVBdmFZRHpnazZXeGE0TUtmQ2Q1bzhaRk9CQUE?oc=5",
+            "date": "2026-03-17 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "월드(WLD), AI 거래자 신원 인증 툴킷 출시…코인베이스 협업",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWSGlYOG1rYWVPUG5JdHYwam9Nb1JjTnVWT1U1Q001SnVCMjl5TkU4SlFnTGdEOWV1MW5Db1F5M0VXT19GTFNMSW5kaEI1QVly?oc=5",
             "date": "2026-03-17 16:00",
             "description": "",
             "category": "AI Agent",
@@ -24229,6 +24395,17 @@
             "is_today": false
         },
         {
+            "title": "\"MCP는 죽어가고 있다\" CLI가 AI 에이전트의 표준 도구로 부상...MCP의 한계",
+            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9Jb1I0bE1uQ216T0RkcTZMSC0xOTNBaVY5aUhiNXU4M3lUQU9rXzhUR2xkTnpQVTEzTjFXWFB3LWU?oc=5",
+            "date": "2026-03-03 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "보안 산업도 AI ‘클로드’가 잠식할까… “취약점 찾아낼 수 있지만, 실시간 해킹 대응은 아직” - 조선비즈",
             "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWllSQXFJUnI2cFVWUWlWckRWNnVaaFFveHA2YnR3b2FKbzFTbVFZUUlzcjJpNjRyZzRDV3dPU2VSR2F4RnRudkZYU0MwQWV4S3Y1NW83NHhob3pjLXpKV2l4d1l0UEJieVdpQmxHZGZDQTc2Q3JwTHVOT0ZJR0V0Tzh30gGWAUFVX3lxTE1ZUWNJOEFGRGNNMEI2NE1aejMwTXZqWTNYdnZ5SVNqTFliUElUV0k2RWNwc3RYbzBJOEdCTFBwdU1QYXpwLWMtYW9SOEthbUpLUFlESE1TQm9JaFNnZm5qdjVENl9waXBvYTRTemJZMmJKWDgxQ2FsSzVHUXFHYnRndlp6ZUF0WC1QNF9tdWZ4RXBpTklvdw?oc=5",
             "date": "2026-03-02 17:00",
@@ -24408,6 +24585,17 @@
             "title": "AI 에이전트 실행 인프라 본격화… 서버키트 ‘BeSir Browser’ GS 1등급 획득",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XSWxZOVM4N3BCU3hzUkhNMlQ0ZUhBd01vS2NSZ2NZWlVKVTR0emV6Zlo1dndQU2txejFKVldGblJNdzhQYzU5VzYxMW5QVDU3X3NuRllvcXhGVUpENmdB?oc=5",
             "date": "2026-02-25 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI 에이전트 입문기: 클로드 코드 설치",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSFdJWnUwLWo3VU43WnJ4aW9QbDZwWjRsY1I0ZGhtc2hsNUpkcVlNVm5WM3ZhRmxkazdGaWVib1pERVlYZlJBQnQ1LVd5eWd0S2c?oc=5",
+            "date": "2026-02-25 04:04",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 인증",
@@ -25280,6 +25468,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI 에이전트 시대, ID 보안 업체 옥타(Okta) 뜨나",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0s3UmlMbl90WHQ4MXlrOHJ6NGxMNVpXcmRwdDdlZnNiZGlOWkt4SGQxSEVuQUJsN1ZnUEg4RldCbV9yYXdQVjdJMllqLTJpRjA1LVo2aXd0dklvYlNEVElWRjAwb3FLd0ZDNDU5M2J3SktrMVRqSGNmc3lac190cmxUbEhacVVw?oc=5",
+            "date": "2026-02-06 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -26165,6 +26364,17 @@
             "is_today": false
         },
         {
+            "title": "Skyscanner & Cloudflare | 고객 사례",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yWjAtUDhFTUwtbXUzbEhUanQ3MndKRkR4UmpqSmNhM0RKa0E3ejBlTy1DcEtNU2JQbWFjZjV3MnZKMGJrLXR5RWM2N01FUWJWOTR0MjJ6OTlOUThYM29SdmZ0U1BEZmEw?oc=5",
+            "date": "2026-01-13 09:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[Special Report] 생성형 AI 활용 환경의 N2SF 보안 원칙과 구현 모델",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MYlF3bFktd2pUbjRVVjFPRHc3YXF2SGxzbXdoMkVSMmdTb0xwZ2VYOFpyMjBkdWpJVG5ySkVxMGdCWmFLR2p6c040bTJYbVJVTzU4Zk10VllILTRYME90VWJBdnM4aDVQSkF0VA?oc=5",
             "date": "2026-01-09 17:00",
@@ -26409,6 +26619,28 @@
         {
             "title": "“아무도 믿지 마라”… 美·유럽선 이미 대세 ‘제로 트러스트’ [망분리 금융보안 ③]",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUWXRSTW9SQTZYODZvYlFidy1JQ2NkU2ZwNlJLUWRwTnJrdnZoOWk4TmlMRDQ0TzN5N2E1ZGRuUGRGTDczX0ZiRktKYlhCeWxhWlJOc1VPR0FPdjMxSHlOTTB4WS1tejFxQXpRc3FGQmQ?oc=5",
+            "date": "2026-01-02 17:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[칼럼] 2026년, AI·웹3.0·제로트러스트가 여는 ‘초신뢰 사회’",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ucnNMWFRzYVhHeUN4R20wZjd0NFpPaHBWM1VuSkZ6WG04NjJ4T2FDMkhReFFVdjVVcEN4S3RMNWZtUmhwWFU1ZEhFRFMtN1BOSUxsWmlDdDFja2djQTlyZ3BBVUZlUGRkUGY1WmpR?oc=5",
+            "date": "2026-01-02 17:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[IAM ②] 국산 제품 강세 속 제로 트러스트 등 변화 바람",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1welZBOERBNVNuSFJXbzh2X3ZwTW1qZUFOUTZ1UEwwLV9NRUtpSVh5bl9ENHZack8ySkJqemotYXJQNDlockJYVDVSXzRsWlRBazB5ZEVhbUhnSEtXWjMtUzBFOVRDMHc?oc=5",
             "date": "2026-01-02 17:00",
             "description": "",
             "category": "제로트러스트",
@@ -27399,6 +27631,17 @@
         {
             "title": "\"신뢰 대신 검증\" 클라우드 보안의 새 공식 '제로 트러스트'",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YRE5fTGs5NTBKUTdJVkl0M1dodlZ5bWtQT1REeVhMLUwxblI5cVRSNlY4aVI3M182RWc1Mkx1V0tCZV9wVGVLRkt2ejU4YWJ2YXAtck4tN1NEWG5yaVFqaXRRS3dNajNzcms4eWppQdIBc0FVX3lxTE1PbDRMR2V0ZGY4T0ZaMWtQZ1FEV0otcFJ3YUZ1Y1hPQWhCeERyRGZWMVBQcWN6V0pCeW5sTE9JWHhKQmEwVXdJc0VESk9ZNmRUN19vbGNGSFpMOGhiNWNPQjY4dE4teEhtd2FxVWRIV0tVbEE?oc=5",
+            "date": "2025-11-11 17:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "한싹-알서포트, 'AI 전환·제로 트러스트' 사업 동맹",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYYmRzZW5aZFYxTmZuaTBLYWN0bU5aMVhiRTZXX0p1NzJzRTdrY1pCTmszMFNjdnBVdXVtckRaMTlvTHdNYWR5bnFuZUJJTlRUSXE1ZTRn?oc=5",
             "date": "2025-11-11 17:00",
             "description": "",
             "category": "제로트러스트",
@@ -28552,6 +28795,17 @@
             "is_today": false
         },
         {
+            "title": "클라우드플레어, 기업 안전한 AI 도입 위한 제로트러스트 보안 기능 발표",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDbXQzdW1laENJQVllQnozZG5ETDJvWnB0MFNXd0dVbGxMVWtQT0l1cl9PYzFlRTVsYmdmRDR3VnNqN3ZTSllULTVnT1R3UlNQcllNMlJPbHVzNWVsTnZneklCS0Jkc2RWaGJTUUV3?oc=5",
+            "date": "2025-08-27 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[보안칼럼] AI vs AI : 자동화된 위협과 지능형 방어가 맞붙는 사이버 보안의 최전선",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwZTI3bVdWTWtLWFdCVDUzSndyYlRuVU5JVU1nY0VqQ2wtTDA4OGN2MkhVUTVvbG91SWFjbnl3bG81NVlIQTMySzVhMTI3UQ?oc=5",
             "date": "2025-08-26 16:00",
@@ -29113,6 +29367,17 @@
             "is_today": false
         },
         {
+            "title": "월드-KAIST, 분산형 신원 인증 네트워크 구축 협력",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vMlE5OEtsWHkzOUJmU3dVTWVQbjg0UC1pd05IaV9POUtuc21MOXlTclhJNEhKRVNIcHJDSG5DVm5sMWxVR3JuUEo1X3k4RXFnVHNXTHJVa2J5Nl83d1c0VFF0T3otZWVE?oc=5",
+            "date": "2025-06-05 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "한국VC협회, '벤처투자분석사' 자격시험 일반인으로 확대",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16RFZZYWdHd205b0J1OGJCVHVLMVprcldHWlhMMnh5eld4MkxLYVdrUlpfWURxNGFQU183SFE1N2NtdlM4OGlOVmJjTnBxd25SQmVvY3FQYUU4SkVw?oc=5",
             "date": "2025-05-16 16:00",
@@ -29445,6 +29710,28 @@
         {
             "title": "분산 ID 솔루션 스타트업 호패, 60억원 규모 시드 투자 유치",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wU0JXUUNqTVRuNkhURFFlSGdaNlViWHk0ejVobzRPRmpnWUxKNXNuYUJwZ1czdkZJMm41N2hKV3RuQl9IcjdBTEkzTVh5WG1hdjFJSFVVRnRaNGpiWkFlWVZLRloxcjdfbjZrMGdsT29tSU0?oc=5",
+            "date": "2024-10-29 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "ID 테크 ‘호패’, 60억원 규모 시드 투자 유치 “디지털 신원 시장의 테슬라 목표”",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsUFhmai1Bc1VoYklFSXRlQW40VWp2UUhlY3lNM1hEU3JlSUVhallnREppejZrMkVDcDhWV3lObjg0ckNBTy1qb3FhSGp4bmM?oc=5",
+            "date": "2024-10-29 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "DID 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "ID 테크 ‘호패(Hopae)’, 60억 원 규모 시드 투자 유치",
+            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQTJSUHRQQkJuQUlOQ0tXRnB2aHk1bk80STBrdHdIRDhPZmFZNlpMM1lSbXctektuYW5lTFU5anpWTngydXlOTmZNTWtRZzRDdVJlaTBSRzZDeVFmbEZYZk5RdXN5RmZKYnhUM1lOZHlwV1IydmdwYUp6X0dJMnRkb1B0czM2ZlA5aDZQX05CMFRPbi1JNER3LWtfMEdiOXhlMGZoNEpiMVpqUXNxVVlqNWVZM3hOX2xkWE1QZzduQjVDQldBdzBjRHZGZUtpeC1jem15U2JmVUtNS19pOXFKaC1PM09RY0E4SkFrQ193NHNQeTVqeWVxSk9n?oc=5",
             "date": "2024-10-29 16:00",
             "description": "",
             "category": "DID/VC",
@@ -29850,6 +30137,17 @@
             "is_today": false
         },
         {
+            "title": "LG CNS, 블록체인 적용 모바일 사원증 '띠딧' 사내 서비스",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDbmNQVFdWUXByVFh5aW9Ec004NHlSSEZGZHVudXJCVEFIRFE1Z1RIS2pyNWVTYjI5MDBZRUt0cWJMX0VHVkk5X2J3bTc2WURoeHJfV3Q4SjdJOHPSAWBBVV95cUxNYUVHbnN0Qllyb2hxOWdXdEZMaFVaUUhNTFpMZnBDR1hWNjhKNGRhYzBFc3FueE5jV190Q1JhWGEtbnB3dG03WlRvMUZja3YzbzRsMlJTRjFJWlNIY3VYcHk?oc=5",
+            "date": "2022-12-12 17:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "개인정보의 모든 통제권 스스로 행사할 수 있는 인증? DID 바로 알기",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OU01jTm9IRUszbWlyb2otOEFEUVNhZWRFQjk5UkRPNzVDVEtYclhjaEl1WUxvTTU0REdOZUpZOGZkSkJLVXBidWxtYVgyWjFRUmhQRDJJTUV6TXU3a3c?oc=5",
             "date": "2022-12-02 17:00",
@@ -29872,6 +30170,17 @@
             "is_today": false
         },
         {
+            "title": "마크애니, '애니블록 DID' GS인증 1등급 획득",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrRVQxU2JTNkFFSGNjZGVGUlpndlVGMXJlZEY2aDJacHpkVGpDcFgtVVFOWG5KdVlwdEZYczVYa19ZbUp2aXhTWlg3NEdGRGt6RmRWLXVR?oc=5",
+            "date": "2022-11-28 17:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "DID 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "EDGC, 유전자 코드 기반 분산신원증명(GDID) 특허 신청",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4MTNnc21MUmd3ZXdTWElNYWQ5ZWcyTGQyNHFmRXdrUllrdWFkMmg4MkdZTzBTNUgwNWdqLVpTQUlIY2wzOHNSME11d1d6ODN0UTA4UWx2X0JwQnZzMHhwQk1EcXhwSlc2SVJmZQ?oc=5",
             "date": "2022-11-18 17:00",
@@ -29885,7 +30194,7 @@
         {
             "title": "[모바일 신분증 시대③] 해킹·도용 위험 없을까",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tRjBTUUk0Smw1NVRGdXdEMU9IQkpScTZGaWl5Zzh6WFluVXNHVUw4UDBSRlFaRnBHUDRCUUNKT0d3TlZSaVFzdUYybkdzUDE5aHl6cGhNU3FCYkV0TmlPY9IBeEFVX3lxTFAzdEU0ZGdPOGlQMHJVSU9UdTdfMUVwTG5jazVNMDNOODdnemtUd05icDNSamJMX1ppY2hHS09adXZxR2RHUDAzbm1EOHM4U0pUT05PZXF5azQ3YUpIS3BGbW5iejY2VDZyNE85U3pOVjRyUXowejZwWg?oc=5",
-            "date": "2022-11-12 17:00",
+            "date": "2022-11-14 17:00",
             "description": "",
             "category": "DID/VC",
             "keyword": "DID 신원",
@@ -29999,6 +30308,28 @@
             "description": "",
             "category": "DID/VC",
             "keyword": "DID 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "편의점서 '모바일 운전면허증'으로 성인 인증한다",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vc0c4M2YyU0tValV6Y1dsX0p0c3ZCbnJoSUt1OTMxdHNodWx5WjRYdDVBSUJkSGpycFN2YjRNS2J4WGFveFhKNjZsZ2x5OUVzanM3Vm96VzFLOVRod3RjNdIBeEFVX3lxTE56YXpDMFdPaV9ROHk0WkI1UTN2Zy0yUzVsckREWXlRUDl4VENVaDVkNkhNb0NtVXhoSFROZmhtWS13ZXFkY1ZkYmlaN0ZlR3BtaXFnQWRwSE5FNTJoQXNVY3pncHVFcnhLUmJPSEdTT000SGVuc2xNSA?oc=5",
+            "date": "2022-01-27 17:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "인공지능 기업들 '블록체인 합종연횡' 가속화",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WTFM0dC0zQkJJeFAzblNDcXF5TGFnNkFFTjBHVlIwQkxrbmVvd3NBdm1Nc0h1LUQ0MzBEVkw2eDhpNDVHRmdLc25wcUVWdHFtSUlUUF82UHk3dUJ5aTRob1pyVnpYMXpJNkE?oc=5",
+            "date": "2022-01-18 17:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "탈중앙화 신원",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30125,12 +30456,12 @@
             "is_today": false
         },
         {
-            "title": "[블록체인 혁명 ④] “신원증명도 이젠 모바일로”… 언택트 시대 필수로 자리잡은 DID",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mSjRyY1RnbTkwcUZIdWhXRUV3eWRpWEU2MGFiZlhwT21hRXA1bXVUb19OR0haZVF1RDdOZFBUM0ZBWE12RFVKamo4dkdpaWYwOHRwbWJJcHRxUERNQk5RT1F3TXZsZ9IBakFVX3lxTE9jR0FpVzUyWUR1TnNDWWp2cHVyTnp2c0Jld1NXUTZUT0xDNDBaY2tORU1kVXhkZ0NydE9iSEFvYXhZWTZCdWFwZUhxVEJZdUpwQ09qY3lJVFdnSjNJODcwemRYbjFsdlM1dEE?oc=5",
-            "date": "2021-07-16 16:00",
+            "title": "‘블록체인’ 기반 은행 공동 정보지갑 나온다",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rUlZaUjEwQl8xNjhIeW85RC1LZXhwSjZxMWpXcnEwd1oxRUpUMUZINWR5ck9xTzhoYjhoeEZBWnJDbV9fdDJCYnMwbWx5NkZkdmdpdWkxdUJYSTR3Y0xNZTAtbVlXWi1uUWkyMzFMVjRZSUhvdzI0YTNsTmw?oc=5",
+            "date": "2021-07-13 16:00",
             "description": "",
             "category": "DID/VC",
-            "keyword": "DID 신원",
+            "keyword": "분산신원",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30191,6 +30522,17 @@
             "is_today": false
         },
         {
+            "title": "코인플러그 DID 인프라 시스템, 조달청 혁신제품 지정",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OX3ZNT1hSS2lWV3RQNldPdWE1NDQtUlhMQkdvZ3BOQ3NGMFpOOENtczBtd2VJSExPTm1yV0lJMWMyaWQxZ2FaaTF0bzZlSVBiLWZrSzlTUVJmTGN3MEVNNUVFRDDSAWhBVV95cUxQNUU0RnhFWldnN05yZ0RaZUVhcmNMUVpZLUw1WjhBSWVqbnVxUkhrYkRIZkRDUG9HVjNKTjcwVms3M3YxNklSSU1IUDcxRURJNTVpTTI3dzdsTFhMT2tDUzkwYzdNTjVhSA?oc=5",
+            "date": "2021-06-15 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "탈중앙화 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "블록체인 기술로 건물 안전진단도 할 수 있다고?",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pZkNkZVFWYWYtTkgtUHE5Y3N4LVhVX1FNMXdxdDc0NFJRalc3X0pzbmZiX3QzLTdFVFZBLWVXcjVZWEU3UWdQVg?oc=5",
             "date": "2021-06-07 16:00",
@@ -30240,7 +30582,7 @@
             "date": "2021-05-31 16:00",
             "description": "",
             "category": "DID/VC",
-            "keyword": "DID 신원",
+            "keyword": "분산신원",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30356,17 +30698,6 @@
             "is_today": false
         },
         {
-            "title": "[이슈칼럼] 민간인증 활성화 위한 디지털 ID 이용자 보호 및 편의성 제고 방안",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QclRWRkI5RGJ6OEVveXRMbGljSUVEQktac2dIczhlcWU0bVYwYWtaZ1RWYTEtWWZwLTJSV0dqdWRyVW5FYTlEeXpSQ0l4ejVFSUV0d0NfbUVPZkc5OEE?oc=5",
-            "date": "2021-02-20 17:00",
-            "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "서울외대 박근덕 교수 \"민간인증 활성화를 위한 디지털 ID 이용자 보호 및 편의성 제고 방안\"",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mQU5sbGRuZ3JHLTdYSnFPNUEwS2d1Zk8yS2RRdmNPcDVoTEZmUmRVMU9fUUxaTG9zaEQzUWU5bkpxTnJTZDVHT2FVTEU4OU9TaTRUTjFWWDJaRVlJeEw1S3ZHc2pYYzJY?oc=5",
             "date": "2021-02-11 17:00",
@@ -30433,6 +30764,17 @@
             "is_today": false
         },
         {
+            "title": "[리얼 블록체인 포럼] 이순형 라온시큐어 대표 사용자 중심 국제표준으로 한국이 DID 시장 선도",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKYkdEUG9LZVhqbXBkSzc1R1RJODJrVmh2U1doRmdmSTljM2psX2Q5aDQ5aTl2bXR5cDd4VHdTWXk0N1djQ0NoRWZFM1AxUUhLeXA0RzE3c0Jsd9IBWEFVX3lxTE54ZXBMSlRGalZGb2NQa0RoRHVKbGRvYUE5aXpjdVBNbDROYmFfWlVvRHo0LWpuSlgxekczZkpReEl1WDVoSlJ3bVlndHczbmhsM1VJdEZpVkI?oc=5",
+            "date": "2020-11-04 17:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퀄컴-LG CNS, 분산신원확인(DID) 보안 기술 협력",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BSHIxa2diWVVnTnNteElLb3hIdFA1Q0R3M1lXZGxkbDZWTHBMZzFiOVVVSm44TlNMZTNSYzl6SjFhS3pzeEhIZTRicnNLdkF6YVgtU0RzRVA1YkpiZnpDMmFLb0Q?oc=5",
             "date": "2020-10-13 16:00",
@@ -30477,17 +30819,6 @@
             "is_today": false
         },
         {
-            "title": "신한은행, 분산신원확인 기술 도입",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LYS1Pek9OVWVTRGg2X3JYaVp1a3BWQ0JobW92al9xRHRJd2FaOU1fS0Z2dkZfLW5aVGZTYS1RZkVBYXFiVVQ0b0ZYSS12YjZIcnBpbVUwbkZqaC1mejVMUGRpWXdfQdIBakFVX3lxTE5LdnhDRzRYbXZfb0ZUa2ZuQmdKR1d0UHZUeTZiNVJIUkN6ek1Ca1AzUk5XZ1dRdDVNeEFHcFQzRS1EWDYwQTZSTG5hTlExRkdrc09NTTdpX29SbTZfQzBkSVlKSlE5aHBDZGc?oc=5",
-            "date": "2020-08-26 16:00",
-            "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "아이콘루프, 신한은행과 금융권 분산신원확인 서비스 상용화",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ca05YMW9BakNoa2czbk5CYTE1eXc2bHd0cjhGTTRFdG5sSENkdGJHY0dBRDVTdVotM0R5QmpGTTZMdUxBNDFnblF1d1NhQmcwYzd1TUZwOXNjWnQ3aEdManJQSkVyM2lWOGRZODhNV1nSAXRBVV95cUxNU0JwOE1KbjcxYjVxQ0poVmc2VVlSRVpydWJJLVJrR0NvTGE4MHBNUmJUaHlLNVBZbzloWHFpS0REVTRfSnA0T1czdkliZFJWbGdxWjkzZE03eWhFQVFXZjZrUTlZUkdGTFQ5YndrOGxUMmF2Rw?oc=5",
             "date": "2020-08-26 16:00",
@@ -30501,17 +30832,6 @@
         {
             "title": "신한은행, 블록체인 기반 신원인증 서비스 도입으로 절차 간소화",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XZ1I3cUtMZ1Y5SVAySEl4YXJpX0QyRGJhQTlzVzNVMUpicm8zY3JhNTB2SkFhekRBSmdUbUhPMnZiUzhYb21rOXRyeWJ2cXRPZ1hqcTZSU2xFSGdDbUZMNHF2TQ?oc=5",
-            "date": "2020-08-26 16:00",
-            "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "신한은행, 블록체인 기반 신원인증 서비스 도입",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiUkw0UFpYQ3BVMjA0dUpjbnY1NGppbkdPd3FiakFTV3h1dzNFX0dOOVBTcUhVUjRtMVpSZmowbnY5bjBaUUZzSlVoZWt6WjZKN1A5SjNJTmtzZnlpMHo2Ymg2OVI3R1Qx?oc=5",
             "date": "2020-08-26 16:00",
             "description": "",
             "category": "DID/VC",
@@ -30565,9 +30885,20 @@
             "is_today": false
         },
         {
-            "title": "커먼즈 파운데이션, 퍼블릭 분산원장 기반 분산신원증명(DID) 개발 시동",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00T3psd3hyMDdRVlAzcXNBM3BaWHNIYmxzMTVSUHAwektVMUxEUFhBVVc1NTFZT3VWQURVZ2hfalozczVLa2tGTnRxZDcyN2lTRV9NSlgyQ3Z4Um1CRDMwa2dCTFp2NTNZS3c?oc=5",
-            "date": "2020-07-16 16:00",
+            "title": "금융결제원, 블록체인 기반 DID `모바일 사원증`으로 회사 출입",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwZDNMZGJaWG5aSzYzVzBGaXZjNDlFWmlZeVRFa2htZjNsZTE2d0F3QVVVY2pPNnRfdHowbkxTazJ2ZU5TRTlkMlpiaDBXeF9EaTFDU2pYWnNpNzRKSTR2Xy1B?oc=5",
+            "date": "2020-07-13 16:00",
+            "description": "",
+            "category": "DID/VC",
+            "keyword": "분산신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "금융결제원, 전 직원에 블록체인 기반 모바일사원증 발급",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sb3FsY2UwZS1qbzd2aXVWWmVldEVKYTVRaHh0V0Z0ZFpfLXd3bldtdEpIN2NRemlwM0VBc2tiWmFiZlg4dmNhVnhGRnl1M2hHQ2dYUjFKbUhMZWY4b0dYcGN3a3UyeVlCYUpMUHRFcW3SAXRBVV95cUxNd2dNcG5yYmRqTmhRTXNjSy0wSlV5dHJLc3dwZFR1Rk4wTW1xYzlUenJCRWlndm1McHdzYXZrY1IzWjY3OHFoLVY0emdFMTFaQkNmSmkzMVYzUi1naHJyNlhvUW9RNWtKaXNmalhLbmM3MUY1aA?oc=5",
+            "date": "2020-07-13 16:00",
             "description": "",
             "category": "DID/VC",
             "keyword": "분산신원",
@@ -30593,17 +30924,6 @@
             "description": "",
             "category": "DID/VC",
             "keyword": "DID 신원",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "경남도, 블록체인 기반 디지털 공공서비스 구축 본격화",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sU1hYamlpdmlITmpaN2RVdFJVSXRKdUdGUHpnekFHM2VDSzc0ZEM0NWZ6SmRhZW01NndKa2NxNHZSd2otUkExTkZ3dEpjaEFUbktuSzQyNTlKeFnSAWBBVV95cUxPODFIN1hxeVc4clNvdTJqc1c3YnJ6d1dfVWE5bE9aWUJDN1FCOHV1UDE5aXo4N2s1RXNkdmRicmFicVRaa0dyeTNQaTNKR1Y0NXl0SkR4UElOTWw5SjdsbkI?oc=5",
-            "date": "2020-06-03 16:00",
-            "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30664,17 +30984,6 @@
             "is_today": false
         },
         {
-            "title": "LG CNS, ‘에버님’과 분산신원확인 국제 표준 구축 MOU",
-            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVnRxZ2hCOGZpQ1pLSVEyQ3VQbEZzUHl3c2R2LVFkUVhKVDh2d3JYWU92V0JqdXlWZk9mTXhXQVJpWWE3aU15Q0FJaTI4cmdvd3FCVEhZSy1qNGp3YkV0YWQzdlpiNFlWWEZpcUVId3lTS2tucDUxWVg2d0NWTkVvbmNZWE90YjFGdm02Z0Zyakhhcm4tZFRwZEc5ekRvU0dWRzluaE56OHVaQzlUSm1XY0lENjBSNE95cnFSLThRM004Rk1sYXZoWDgzNG83bzRjMnB4MlNra0dzLURlYUF4YkhsZXc2Z0h6TmZYazl0MEpQdUhDeFNZ0gH6AUFVX3lxTE54MmU1VUt6Q2ZtaHN3YVpzaXJPRVlKZkduU0kzZy1xb3ljaHRIcmxlNlJYXzRkSFd6UFBIRjBNN044MVhOUG1xX01EMmFoY29Fcnc1WWx2VFhNa3JOY1VQSnBNczg1QnQtb3FoaC1GRHVQU0ZNbmJoMGN4YlRHelBSS29aUUZQdl9Ec3pWQlBpVVJEMXVkcFNsN3lCS0lGdzAyLVM5ejIyZ2JUc19RVXR4Ri0tRjY1N0FUV3VyTy1nbFJDYWtpNWtoZUx5OXpFYklFLXB6NFhpNklpRWhjSHptbjgyT0NJc19QdG5kbjBTNlloRXRKWkE5OWc?oc=5",
-            "date": "2020-05-26 16:00",
-            "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "라온시큐어, 자율주행 차량 분산ID 기반 사물인증 체계 구축 본격화",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oTEpOSm52cGhDNzl1YzNXM3Jvc2s2VlFUcmVwNHg0ZnJJMEVRblRvYXNOZmRWMlBkNUZsbTlvalI2U2hiRjY2SFZ3ZW9Uc1p3TGY2ZlJNUkxwb1FpRzJnLTV3VW1Md3AtVWZ6c2ViOA?oc=5",
             "date": "2020-05-18 16:00",
@@ -30697,30 +31006,8 @@
             "is_today": false
         },
         {
-            "title": "경남도, 모바일 도민카드 활용한 디지털서비스 도입",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUMnpWdEphTUFOYjJZVzBmWWRZX2lCMDlySko5ZV9pQUdwYk5YcTFCWFFGRTdlU1JsS3FZYWQteUR4X2hSWVlPa2lSQzFDaEdIa3NGRWktNzVmQjB0d0VnOUpBdWhvTFZ5emtLdm43UHVLa2s?oc=5",
-            "date": "2020-05-12 16:00",
-            "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "라온시큐어, 지자체 공공서비스에 블록체인 기반 DID 플랫폼 최초 구축",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oVWZWclFKNzJCWk5ybFAzQld1aFhFTElwVjJFOFBLZ250XzRlb3pPOU14aDFSNGp2eGlOQkJIVXEtQld1cWJpQWo1Ml9aeHJTM0hxb1JHOTEwZjBsU2F1WXZiNWJJSi1SUnNhWHZB0gFuQVVfeXFMT2hVZlZyUUo3MkJaTnJsUDNCV3VoWEVMSXBWMkU4UEtnbnRfNGVvek85TXhoMVI0anZ4aU5CQkhVcS1CV3VxYmlBajUyX1p4clMzSHFvUkc5MTBmMGxTYXVZdmI1YklKLVJSc2FYdkE?oc=5",
-            "date": "2020-05-12 16:00",
-            "description": "",
-            "category": "DID/VC",
-            "keyword": "분산신원",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "라온시큐어, 지자체 공공 서비스에 분산ID 적용... 국내 최초 사례",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qcDJQaWdsRHVuY19mazRLTkpwQ0gwYkFJUDFlUm45Rkl1SS1uSkwxdzN3UXZvUGFsQm5DTGc1dnFtLVQzVXdybVd4djB4azJmeXFIc1dqdHFJd9IBWEFVX3lxTE54bVNqY3BqQnhqbWowTVV0UDhOT2gyMnozV1BLa2xXaDFTMkJsaDV1QWRWa3RrMEE4WGtkWXVTVWMxYzdaNjBHV1J2NkhmNnRmTS1Hd3BucE0?oc=5",
             "date": "2020-05-12 16:00",
             "description": "",
             "category": "DID/VC",
@@ -33436,11 +33723,11 @@
         "2026-05": [
             {
                 "keyword": "국방",
-                "count": 97
+                "count": 100
             },
             {
                 "keyword": "에이전트",
-                "count": 90
+                "count": 91
             },
             {
                 "keyword": "미토스",
@@ -33462,25 +33749,25 @@
             },
             {
                 "keyword": "양자암호",
-                "count": 24
+                "count": 25
             },
             {
                 "keyword": "인증",
-                "count": 20
-            },
-            {
-                "keyword": "개발",
-                "count": 18
+                "count": 22
             },
             {
                 "keyword": "미토스",
+                "count": 19
+            },
+            {
+                "keyword": "개발",
                 "count": 18
             }
         ],
         "2026-03": [
             {
                 "keyword": "에이전트",
-                "count": 37
+                "count": 39
             },
             {
                 "keyword": "플렉스라인",

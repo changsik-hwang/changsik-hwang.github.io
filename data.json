@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-23 06:47",
+    "updated": "2026-05-23 07:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -1055,6 +1055,16 @@
         {
             "title": "AhnLab Q1 OP jumps 84% on steady growth",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZX0pOSlJJWmhGYlk0azFpczR6em5RMXVmR3JSTFoyeTRtX0c4OTlITkpqdTNHRVRmc1VZdXU0YW9FaU5qWHdYMnhEWXdDUThxanV3?oc=5",
+            "date": "2026-04-28 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 산업통상부 ‘2026년 K-수출스타 500’ 사업 참여",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92anl4RXZwaGNkdE9FdGlaY1BwaDZxV3dvTEJjdnlyLXM1bzJYZlZkV0NhdTdaVkVsYVVlcm91eG14a04tZ0dSQURUdHNWLXE3eF9FOC14Q3FSN0RvRlJrYXJVMEc5Z2NsUG00b2VsLUQ5bmM?oc=5",
             "date": "2026-04-28 16:00",
             "description": "",
             "company": "안랩",
@@ -7173,16 +7183,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷-경기대 산학협력 MOU 체결",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83bFhUYVo1VXhZNUNHQV96cVkzYVZlTkxGa09WMm94Y3R1MjYxZjNBbEg2WUxaNklRQWxaTlcxQXhlV1hXWHBscUVuZ1ZVYVBadm1aLWZCVHRFUGhUOVE?oc=5",
-            "date": "2013-03-11 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, 외산제품과 경쟁할 차세대 방화벽 출시",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5Q19rV01sekNrVmpNbE5OLUhBV0NZaHRxYjliSlJCZ0FYRHlQREZBZ282LS0taVhLeU9YcTIwSkdmTk9LenhCS1o1ei1XSENaT0N2XzFCSUM2c2hYQ3BrVXNaa1JJUElfYVdDVlhtRGs?oc=5",
             "date": "2013-03-04 17:00",
@@ -7368,16 +7368,6 @@
             "date": "2007-11-28 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 나우콤이 흡수합병",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LcjFmNmk3MzJld1ZZNEh0c2stdmZjZ3FMakNZWXY0cTRmRzhGaXRoVG5MOEFVRFBZYkc2M2tvRUgwam1ZNzU3X3E0ZlZqNm5aZlpEb0RlNGxweUtG?oc=5",
-            "date": "2007-10-10 16:00",
-            "description": "",
-            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -18274,6 +18264,17 @@
             "title": "넥써쓰 AI 에이전트 재단 'AAIF' 합류",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vMEx6VzNFZ2tULWpNQXAwLUxsN1JUcGxPZkYzVF9sR25mN2JJanNYb3lVQmpQTEZMdDdWV3lfOW41SGM1NDJ6QmU2a3JjMEtrdTUtTklLT2V3Y1RjRi1oblM0WkxvNktpNTVCZQ?oc=5",
             "date": "2026-04-29 10:38",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 표준",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "넥써쓰, 리눅스 재단 ‘AAIF’ 합류…에이전트 AI 글로벌 표준 선점 나서",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hRVFzNUFrdkxRR1kwcmNPREd5WWxGMzVNWkZ6N1R1ZVlyalg3b0RfbERIOGswVDRQVzVYM0gwUGF0bVA5LV9LaFZSY01IQzFIMllfd0JleC1kMlBpUFdhRVNWWHFybllEZjFwWWxR?oc=5",
+            "date": "2026-04-29 09:55",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 표준",
@@ -35343,11 +35344,11 @@
         "2026-04": [
             {
                 "keyword": "에이전트",
-                "count": 106
+                "count": 107
             },
             {
                 "keyword": "표준",
-                "count": 39
+                "count": 40
             },
             {
                 "keyword": "결제",

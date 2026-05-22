@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-23 02:28",
+    "updated": "2026-05-23 03:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -6573,16 +6573,6 @@
             "is_today": false
         },
         {
-            "title": "윈스, 사이버보안 전문인력 양성과정 모집",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wV3pLVXBkZUViOHpSajVudkNuazJIUEs2U18ycTExLTdFU3lhRjQxb0JwYXBzMEZiTjBYdzk1UzB5bUZwWHMwVnhNcmhsdktrUWNseXBlcXJqa2oyNjE4?oc=5",
-            "date": "2022-08-15 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-피앤씨솔루션, 총판 계약 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zOXZEVTFYM2ttUFg1cEJIc2JObjJaTi1vdnhVR05CSmluTlE1T2ZDd1BFZ1NyYjdJRTE4R0docUJ5ZnUxbEVMNlFRdGlIUQ?oc=5",
             "date": "2022-08-11 16:00",
@@ -6933,16 +6923,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, 통합보안솔루션 ‘SECUI MF2 VE’ 일본서 출시",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4MEVOVjdNVEdNWmhobFJoOU1iUTFWYzVOaS1ibmhqdHdacUNTMFFjY0I4QjcxbC1TZWJaTGVGSEJweXowazNYVUFEbGFnczJZdk92dHVsTnVGck9hNl9EQmJJYS1iakxZM1E?oc=5",
-            "date": "2014-12-17 17:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, IoT사업본부에 이현규 부사장 취임",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lZmxyVW5Pb0U3ZGhsYkZiUEN2T0Y3eW1FTmx1OHNNMXZYcXdlU2MtTE5NbGtDdFY3VTAxdXk0bDIxa19kR0k1Vzc3YVZIZndhd3ZJbHRIa0hZT3BQS1E?oc=5",
             "date": "2014-11-24 17:00",
@@ -7113,16 +7093,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 지경부 주관 ‘월드클래스 300’ 기업에 선정",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3SkZoZFNBY21kUFJjQjJ1Sk1md0hMZ1lBOWNaRUEwQm1QLXAxVTYzZ1M0eS1YbUZZSEh3N0ZDNW1hNnN5MHNGaTFiaUdaX3dnVFhNemlWcWZ5cmpWN0xOcHZqMjE4UlZBb1lIS3VMcDYyV0U?oc=5",
-            "date": "2012-04-30 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "핸디소프트, 다산네트웍스·퓨쳐시스템과 스마트워크 시장 공동개척",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qc1Q2UzRFaFFpZG0ySEx0NHhCN1EzdHpBT0RRUTAwUVloWWxJeWowR1BZeGVfXzRTUGE3NjFhaDY1cUdTMnExdjNQM3ZKckJvYnFDT3B3?oc=5",
             "date": "2012-04-25 16:00",
@@ -7268,6 +7238,16 @@
             "date": "2007-11-28 17:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 나우콤이 흡수합병",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LcjFmNmk3MzJld1ZZNEh0c2stdmZjZ3FMakNZWXY0cTRmRzhGaXRoVG5MOEFVRFBZYkc2M2tvRUgwam1ZNzU3X3E0ZlZqNm5aZlpEb0RlNGxweUtG?oc=5",
+            "date": "2007-10-10 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7516,6 +7496,17 @@
             "is_today": true
         },
         {
+            "title": "트럼프, AI 안전규제 행정명령 서명 미뤄… “맘에 들지 않아”",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oNTNTSGVjeGpjLUpSTWNuZzJyVHdpdWlUcENLeTZ0Mi1fVEZsTzVoR080TnN3ZUd3UXBkemo1SEExMXpCZU1BT1U1Wmd5Q0RKSTNkSExleVcyc2JjeEV5MDY4V3AyTTJuUzQyOFB5LXXSAXRBVV95cUxOX3ljVGRPLS1KOUpaUWRKVzNlSTNhb3pQQ1k3UV9lVnpMcUVaOE82cDFvVlVuZEdfbnl2dGF2QXlxRUxBSUxoYnNwZ1RrcEJhZklNdHJxQzJXcUJuRnRTNEkzWTU3a2YzRWdBMTctNFVYVUJkYw?oc=5",
+            "date": "2026-05-22 21:05",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "현재 사용되는 많은 암호화 방식이 더 이상 안전하지 않을 위험에 처해 있습니다.",
             "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUVBENE43RVIxdUpwTnM5b0JRRlpZLTNURjNuVHh0bVQ0eW9La1lRX3JqMjRoUUxjbDQxOUpxWlBhcGJFUnhudDVPQ3lVSi12THlMSHNBVkVwS1ZRMW54TTk2MF9XZXExUU1EMTg0N1JmMGVXUDRnaWpaMFlSS2VGOWJidmRZTHpCenNrRm9fTFZDUE1qcmtyRDJ0NG8?oc=5",
             "date": "2026-05-22 20:44",
@@ -7657,6 +7648,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "비브라늄랩스, AI 에이전트 기반 IT 장애 대응 플랫폼 ‘바이브 AI’ 한국 진출 — IT뉴스모아",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LZUdKRm5KekhpOTB6cWxfZ1FpcE1rek53MkFCTXVyR1o4SFV6VGhkWnduTG1tbWs2alJrbWl3MHl5bVpjSE82cW0wN244WjZfdERn?oc=5",
+            "date": "2026-05-22 16:44",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "한국인공지능협회, 창립 10주년 '체인저 시대' 선언 — IT뉴스모아",
@@ -9054,6 +9056,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "국가정보통신망 등 '양자 보안' 체계로 법률 개정 파장",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yQy04V3NxcUJPNlJ4ZV9FaXR4YzZwVkZPSlQ0bUhHb09MaFh3MEk4ejlseFpXc0RVaUZsOXVVczJISlZKVTJ6RXBsMXRhM05pdjQ4OXJqZFlDNXl4ZHh1TlVJZjM2bUpFbm91bVhR0gFuQVVfeXFMT3JDLThXc3FxQk82UnhlX0VpdHhjNnBWRk9KVDRtSEdvT0xoWHcwSTh6OWx4WldzRFVpRmw5dVVzMkhKVkpVMnpFcGwxdGEzTml2NDg5cmpkWUM1eXhkeHVOVUlmMzZtSkVub3VtWFE?oc=5",
+            "date": "2026-05-22 04:27",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "마이크로소프트, 프론티어 트랜스포메이션 글로벌 사례 공개, “지능과 신뢰 기반 AI로 비즈니스 성장 지원”",
@@ -14265,6 +14278,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "멀티에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "“말뿐인 혁신은 없다”…SKT, AI·고객 신뢰 혁신 여정 생생히 기록한다",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qYjdzTDJtV1BIRThqSTlQQ0xDdkhWWExkOHBhRHExMWdHZDJ4Z3E4RmYxcFFYLVRQck15Sk9odE5aM2NYejdsSlZOdjhBX0xhaG5ZR3JOZmtDQ21WdmlZNkNWT0tXdTVzUzVBQXoxZ1_SAXRBVV95cUxOZFBCSUU5a3NvMXBzUERMd0NiN0M1Q0JLRWNwaXE0TElQUVBoZGxzTk8xemFWaW0tMXF5NjVQVEVVbmhaZmlma2NlNlc5dzVYY0JZWVllTURMdWdaNWFSR2NQaW1YRjZNTnpqOURtWE1MWVJVXw?oc=5",
+            "date": "2026-05-18 09:08",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -21475,6 +21499,17 @@
             "is_today": false
         },
         {
+            "title": "[기고] AI 경제 시대, 왜 ‘인간과 AI를 구분하는 신뢰인프라’가 필요한가?",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVQ5SVVEUTN1NDRBVUV6ZHNZRGNMZDllTm9zUzdVTWlxdlhPOG1CRGhLMnJ0cjkxck93eXVHN3ZzM3hQemREaExKMU1BSklFNWI5aXFuRXdUVEl6alN0OUpaNXEzSEpQdi04TnpfMWMxcENVYkhPb2pyOHhCY0k1VA?oc=5",
+            "date": "2026-03-26 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "‘AI로 제로트러스트 가속’ 아카마이, 가디코어 세그멘테이션 기능 강화",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kN1AySXlzMU80Q25FOXhLVWxYOWZ3eU85RVVoWm1NSWRrVUwxMVpjblNaZURWUW8xa0VqNUhKOVNTT2ljZW5WTUtxX1FNc2ZmUVk1VTBLdWNXdUtVamJjM3NxR2U0cEVlWkdlOEZn?oc=5",
             "date": "2026-03-25 16:00",
@@ -23796,6 +23831,17 @@
             "is_today": false
         },
         {
+            "title": "[MWC 2026] 6G 개념 구체화⋯ “초연결·초신뢰·지능형 AI 네트워크 시대 온다”",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJZ0ZqdzlNdXZORFhxTk85OXh1dUhHOUN5Q21nNkw2enR1ZUtaYTRkbUx4SDVyYnpKb1RsWTVuTDQ5NHR5TlBDMk1KR3F0NmdVbG00TDc5M1hBUQ?oc=5",
+            "date": "2026-03-05 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "화제의 몰트북(Moltbook) 자세히 알려드립니다.",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3cWg1V0ZUXzUxRFgyaG8zSE11RXpLZmlqTTFPOS1qdWVlVGsyQWpEU2k0ajJLR3BGSE1OVmJFVk9INjZWWGhhRTZDeGxEQmVRVkZR?oc=5",
             "date": "2026-03-05 13:57",
@@ -25122,6 +25168,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI의 부상과 ‘SaaS 종말론’, 생존의 핵심은 ‘신뢰’ [줌인IT]",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2YXI2Mk1VUHZuTjRrM0ZneUE2dWVKNFZBb2t2UUVnQTVQMmtlRHpDLXo3QzllY2puZHc3WjYwc1psU004emVOV1cxRUJIVzFiZjlNel9nMkRYYzdjdGhucl9sd2tWeE9RdzhaUHEzTC3SAXRBVV95cUxQUVRjTTJHc2RFek80YVdQSkp3djg1azZjcVluRVVabWYxcm11anRPQXhlTDRCZUFyREdBeW93S3hhczNHeHdTY2NMZWFsWDBxS09ybFpHeGhJVVpaa1JBNTg3QU9mRzNrclZGanl2Z1NSaXB5OQ?oc=5",
+            "date": "2026-02-12 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -34939,7 +34996,7 @@
         "2026-05": [
             {
                 "keyword": "에이전트",
-                "count": 178
+                "count": 179
             },
             {
                 "keyword": "국방",
@@ -34987,7 +35044,7 @@
             },
             {
                 "keyword": "신뢰",
-                "count": 22
+                "count": 24
             },
             {
                 "keyword": "플렉스라인",

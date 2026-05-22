@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-22 22:00",
+    "updated": "2026-05-22 23:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -1273,6 +1273,16 @@
             "is_today": false
         },
         {
+            "title": "안랩, 1Q 연결 영업익 19억…전년비 84%↑",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tT08tRl9UbVdNQVR6UWIwNnljMGhwSHZPMlJYZUhxLU9YYk5wSy0tNEdMcko3aTh2M08td1RVQWFJQ3FlYy0tQk5VbXVCWHpRZUZORjBEVzkyUUhfdFFha1JaWktGZF9EQk44M1ZSZ0lHSFE?oc=5",
+            "date": "2026-04-27 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[IT/보안 상식]  AI도 속는다? 생성형 AI 시대, 프롬프트 인젝션이 위험한 이유",
             "link": "https://blog.naver.com/kxnexg/224266777121?fromRss=true&trackingCode=rss",
             "date": "2026-04-27 15:20",
@@ -1775,6 +1785,16 @@
         {
             "title": "안랩, 일본 IT 전시회 Japan IT Week Spring 2026서 CPS 보안 솔루션 전시",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VX0ZzdmwtY0RHQUFjTGJUZkFFNlRpZV9nWHpaamU4TVdHQjEwbHhKeC1LVjJfWWtnNzYxU0RJZEU2RG9tWmllTnBJSlQwMEhidnM0Tm9nQ1JYMFdrVklXS0dWVUtISUdvUEl2TGp3TTdJNU0yWklnQ0ln?oc=5",
+            "date": "2026-04-13 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 日 'IT 위크 2026'서 CPS 보안 솔루션 전시",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wNVBHUy1oaXBrWGw2dU9sbVE3amt1ZndxcGVxMmRuSE1zTEprVml5Rk1JbmNRcTVwRi1CbmNPdXFIN0ZxUklhVHFxcnlqQQ?oc=5",
             "date": "2026-04-13 16:00",
             "description": "",
             "company": "안랩",
@@ -6503,26 +6523,6 @@
             "is_today": false
         },
         {
-            "title": "윈스, AWS 공공분야 클라우드 비즈니스 공식 파트너 선정",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBscG9HMnVjQ2QxS1hQSFowZDFJUW4tWEVuM0U5ZEw5SW1oS3V0M3E0NDc3Sy1hVU9ONUIzck9pblFUYWtLVDlOWXFWTWE1MVJRSFZ5eHA0MFQzbk90TVlfYVk1a0hMOVk?oc=5",
-            "date": "2022-08-19 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스, 사이버보안 전문인력 양성과정 모집",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wV3pLVXBkZUViOHpSajVudkNuazJIUEs2U18ycTExLTdFU3lhRjQxb0JwYXBzMEZiTjBYdzk1UzB5bUZwWHMwVnhNcmhsdktrUWNseXBlcXJqa2oyNjE4?oc=5",
-            "date": "2022-08-15 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-피앤씨솔루션, 총판 계약 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zOXZEVTFYM2ttUFg1cEJIc2JObjJaTi1vdnhVR05CSmluTlE1T2ZDd1BFZ1NyYjdJRTE4R0docUJ5ZnUxbEVMNlFRdGlIUQ?oc=5",
             "date": "2022-08-11 16:00",
@@ -6563,16 +6563,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-씨커스, '보안사업 역량강화' SCA 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydjR2OG1ldlUwMmc2WjNpN3hfQUZBYUVUUlhXXzZycE9HM3NqeXF0RUxmajZBYWNRanA2d2NhNnE1Z3U3T2ZnWDhIblJKZw?oc=5",
             "date": "2022-03-16 16:00",
@@ -6603,18 +6593,18 @@
             "is_today": false
         },
         {
-            "title": "[상장기업분석] 윈스, 네트워크 보안 기술력 인정·실적 양호...'AI 클라우드'까지",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CZV9pUFZvWlhKS09vVjhzRkFZM3JKM2FCUi1Sa3NHNXFWR1JWRU1LejlNVU56OW5wY1lNaFd5b09NU0pMaGYtRmJ0WEh4UQ?oc=5",
-            "date": "2021-04-12 16:00",
+            "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
+            "date": "2021-03-24 16:00",
             "description": "",
-            "company": "윈스",
+            "company": "퓨쳐시스템",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
+            "title": "퓨쳐시스템-NSHC, AI 기반 한국형 자동화 위협 헌팅 플랫폼 개발",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03bUpaWTFqM3pGb3Vic0lJb0pmazVCUmI4VTFsWWd6eWZYbF8tSmZwbkpUU3QyVm1KN1M2SWZ6SVVISm9pRy1BdWdYajhodlNVWVhR?oc=5",
             "date": "2021-03-24 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -6715,16 +6705,6 @@
         {
             "title": "퓨쳐시스템, '위가디아 XTM' 시리즈 조달청 등록",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3QnVTeEVfWVRONXR1NWUzRWQzNjJBT2kyenNsTGduU0l5cXh4RUVTVC02MlNSckxhbjRpaFo2NXN0RWUzVWxDT3RheFo?oc=5",
-            "date": "2018-03-08 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템, WeGuardia™ XTM 시리즈 조달청 등록 완료",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PcmFBWU5EbVA2NE1id0tVRjJtTlBaYkZlNHZyZXJ5Yzl1RkEwcWl0Q1lwaHRwbVZrTzZJUGkxejRra1Rya0NRZXJsM1RIa1BKaU94S2x1OHF6NC1zTTZxN1c1T3pFVlZNVFk2UW41VGY?oc=5",
             "date": "2018-03-08 17:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -6853,6 +6833,16 @@
             "is_today": false
         },
         {
+            "title": "[보안·IT산업 동향] ADT캡스, 실속형 어린이집 CCTV 패키지 출시 外",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3Vm93V3BVa2Y4SjMya0xZS2tRbHdhLWhiUTVxRnBTS09fTGNJdTdraVdVNVNWT3JEWi1mZnN2bmZSVUpBQmU0ejhTM19kNFVNWkZud0VXMzFwc3NiblI2b1NicVVIa05MdDZ4RnFkT2NRNjQ?oc=5",
+            "date": "2015-09-18 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, 2015년 차세대 방화벽 기반 글로벌 브랜드 자리매김 ‘원년’",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vN3VYRjVFYXNWOGhBQXZ2TF80WmZSWUdEOVZQN0NPMmQyOG4wLXczQWRWa1VzblZRQk9tUU9ZZTdkaXZJUGZKaEtTZG1jdUVIV2p4ZFVnMUl2YlE0YnpVMHRBNTRnbjJ6UWlZ?oc=5",
             "date": "2015-01-13 17:00",
@@ -6873,11 +6863,11 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, 통합보안솔루션 ‘SECUI MF2 VE’ 일본서 출시",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4MEVOVjdNVEdNWmhobFJoOU1iUTFWYzVOaS1ibmhqdHdacUNTMFFjY0I4QjcxbC1TZWJaTGVGSEJweXowazNYVUFEbGFnczJZdk92dHVsTnVGck9hNl9EQmJJYS1iakxZM1E?oc=5",
-            "date": "2014-12-17 17:00",
+            "title": "퓨쳐시스템, 망연계 솔루션 납품실적 호조",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXcC1rdnh5QlU1anAxaGJyQjhEa0FnMHpvbFNrMEMwSGVCZ285aVVSU1ZjMlpzYUtuSnFVQTRiSTg4eFQtM3FsRVBkV1I0VkkyakNlM0d5SFIwRmJpOGw3WGhCRnhCbThCR0ZBeElYa0VGUQ?oc=5",
+            "date": "2014-12-18 17:00",
             "description": "",
-            "company": "시큐아이",
+            "company": "퓨쳐시스템",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -6906,6 +6896,16 @@
             "title": "퓨쳐시스템, IoT사업본부장에 KT출신 이현규씨 선임",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91UEdvMzNtN2RLLWRDM2cxamp4ME9JOFFtRHhJWVBFQ051QWN5OU0xbU9hM05ZSDlfeEdzUjZJRE5qcW5EaHlnYXp6OTVtNDFjVWphMUl3?oc=5",
             "date": "2014-11-24 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "퓨쳐시스템, 창립 27주년 기념식 개최",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RTFFTbWQxRzBsNERJZExaTzlWMWlmYVI2RzJMTVIwTzFmU3I4YnRtOXpmZzhxTXF4bDJNQ2k2ZXE2djBCSFRzajRqcW04ZnNkbmlyb3ZlWVc1alEtNU14Z1I3UjRIdE9rWldN?oc=5",
+            "date": "2014-11-18 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -7014,8 +7014,8 @@
         },
         {
             "title": "퓨쳐시스템, 인천국제공항에 고성능 방화벽 공급",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBma1ROTTZoLVpWYXBDay1wa0p1cEVVd1FFT2NPaUFPcEVteTIwQVJFbTFCa3hrNFZhNjliQUJ6M3NkUnN4d1Q3MHhXTQ?oc=5",
-            "date": "2013-01-01 17:00",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mRVQzdGlKSGhtNVBDZ1JTaDhrTklBZEZSb3dmRmVDblp3SGRvWnFBaHZCdkQ0ZV9xT3VzS1lSOElyWG9lWjJyME5TX3VKLVM5SkVCYXNxQU52M0dDcmQxaUVUUFpEZWx5MWJNbw?oc=5",
+            "date": "2013-01-02 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -7273,6 +7273,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템, 우리투자증권 VPN 프로젝트 완료",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kR0JlSlVNZE5oLXlkYjFUZV9KTjJCSGdqVE9WLTlYdFBvY2VUdUowSnBGOG1NZVdkZm9mYnVZOVZUSkRmX295eG1uUWtTVlFiMmJkeU16bTFLckpV?oc=5",
+            "date": "2005-11-17 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "기존 제품에 IPS 및 바이러스월 통합한 통합보안 솔루션",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nX3VHaVhSeElmSDNXSTNtWE1UWUJ0UGtBNEp2SnZWYzl4MVJaaFFLNnc3YXF6WE5neHliQjZEYWRCeEZ3OGdOVnJLYWFlbjJjZFJwbTJBaVhNZ1BDdXNXU1ljUHc2QXZ6Mnc0M05sOA?oc=5",
             "date": "2005-09-30 16:00",
@@ -7294,7 +7304,7 @@
         },
         {
             "title": "퓨쳐시스템 _ 대상 VPN 사업 수주",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3N05kLUE4R2FxM3pzMzluZVFlWG8wczBram9pNWFhUTB3alhDZHJrcjJGc1VtZGUtNWFzVVVVZEltUWx4bzhzVXlfUVQ2T0FORjBFdnhiM1VsQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00bTNRRWM0NzZlWm1xWmRNakt1eFRaZXNXVEdVaUNOb0FkMkdialhhd1o0TlJCbHFTa2l3WUZtdHFQMXI3RjBPQUh1emdLbG5zbldvZzZrdXFSRUE?oc=5",
             "date": "2005-04-18 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -7336,16 +7346,6 @@
             "title": "퓨쳐시스템, 홈게이트웨이 신제품 출시",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12RWlMQlREQ0hnM3pzc3UwN1JNVDlqTGpOWEtLZU1wRVlUOEZOZG9yRVJmQUFENmxzaFE3YXNTS2N2OVBMWkdrTjNQcDNCWVJDTktQWkVscXFMQnMz?oc=5",
             "date": "2004-10-13 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템 동부건설 VPN구축 프로젝트 수주",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdEJGeVg3LS1JQ3JZSzlSZkNrY0FjYmFfSXFCQUVDdGF6dTVscGJsUng3ZDFTYWdvQlZ2cHVQQ2pqbXdvclRKWHhlRXpyUG41SGlhUjBoRXJOaWJERzg4WUMyekxKUk1EODByMmVsT1RoXy1vV29XQk5yZzc4Sm1FZQ?oc=5",
-            "date": "2004-02-27 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -29744,6 +29744,17 @@
             "is_today": false
         },
         {
+            "title": "[기고] 국가 안보 위협하는 사이버 공격, AI 에이전트 자동화로 정부 보안 역량 높여야",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6Yi1SNVNkNlZKMXB5Qk81R3lRQWZySUtxcEZGbk5YNHdaZ05HRDk0LWNrTXZYN0FNdS1aM1Y5Q254Y01nV213Y2NyUm9NUQ?oc=5",
+            "date": "2025-09-25 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[KCSCON 2025] 드림시큐리티 윤준수 실장 “N2SF 핵심 전략과 인증·접근관리 강화 방안 제시”",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoVGJoSHFPT2VoNUl4VlVJQU1fMTcwQnlwSmxYVjhwX2RISzhEaVJLWjVsdWJSWFo3M3hOUElBNktXSFpSTEtUd09zWHJ1QWlIam4xTTV0eHlpcGJIQjRIMzNUaUNiZlV5MnRyaQ?oc=5",
             "date": "2025-09-24 16:00",
@@ -31980,17 +31991,6 @@
             "title": "“원격 액세스 보안 업그레이드” ZTNA 솔루션 17종 선택 가이드",
             "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPM1FHUjRudU81WVZEb1c1ZE13UFdCQ2NtUmdnODVmTkttZllBVHNTVFBLOWlkYTBrYUV5WHVtZUFPRnFUZjUtNUk4cm93d2hfTUh3Q24tZzYtanNlYTQyMG1TQktXLUxhWklXQ1lHeFpIblR1R29yMmExelBtTGRfaTcwU0hYSU4wZzBPZEdqMm5GVVFXZGd3dDIxWXlLeWdSYjBNb1ByaERzcWNpOGtrbTZOc0VTSF8xUTdfaVl1aFdpZktwa0xUbEhNSjNBb0p0cENPWnlnZllfbXFpWXh3RGJ3d2VjeWhoT3dZNGNpaV9nTFNTdmlKR1V1bHlvVzRUZC1DYlpMZklLdXBrWHZtMFZ4T2lxMl9PU3FVSGtwTVk0Q2ZaUV9hakl2ZS0wVjM1eGJqNXJlQmtWYTZNSWplRlYxTnA?oc=5",
             "date": "2023-08-10 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "팔로알토 네트웍스, 2세대 ZTNA 위해 원격 접속 보안 솔루션 기능 강화",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtcU42dHQwcUpBMDg4WHA5TC15YUdDM2gyNmJoQWVSbk8zNnh4UFo4Qzlacm1icThybFl4S1ptZ0NnNmRWZU01NHBoY0tXZ2xoUjZrM0xrNTdyMkJrRE1Z?oc=5",
-            "date": "2022-05-19 16:00",
             "description": "",
             "category": "제로트러스트",
             "keyword": "ZTNA",

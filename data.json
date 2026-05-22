@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-23 06:00",
+    "updated": "2026-05-23 06:47",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -6053,8 +6053,28 @@
             "is_today": false
         },
         {
+            "title": "윈스, 경북ICT클라우드협회와 클라우드 보안 구축 MOU",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fN2F1QUE3T0xRWXNrNEVOUVVyMTZDUE1vRUtJQVVsQXEzSGVYek02bGhkU2VNOTg5b3RJYnhzejJfamZlNEZQRUUwSmJWRFZ5Q21TTWdLQ3JtV1VvaUhn?oc=5",
+            "date": "2025-01-22 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스-프라이빗테크놀로지, 제로트러스트 보안사업 본격화 위해 손잡았다",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DU2w4MEdjWDlOSFlSQlRfdmFFNzZ3VEdKczRKdjhuN0hDZV82ZmlPZnFlZVVWQU9aVFNXbVBNa1RJZ0IzM0J1czFiak91TFI0TnFWQm1ud0dVMHVFX2p3?oc=5",
+            "date": "2025-01-15 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스, 제로트러스트 시장 공략…프라이빗테크놀로지와 맞손",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtbm5zd1dTTXNXcTJFbE8tWGg3YWMxMWZOTDF0ZWstMWxoR1hnOElGbkNyTEVmbGlqemVWOGs3amhHdFJvNXpRQ1MyVU1SUGpYZFZVNVZn?oc=5",
             "date": "2025-01-15 17:00",
             "description": "",
             "company": "윈스",
@@ -6673,6 +6693,16 @@
             "is_today": false
         },
         {
+            "title": "윈스, 사이버보안 전문인력 양성과정 모집",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wV3pLVXBkZUViOHpSajVudkNuazJIUEs2U18ycTExLTdFU3lhRjQxb0JwYXBzMEZiTjBYdzk1UzB5bUZwWHMwVnhNcmhsdktrUWNseXBlcXJqa2oyNjE4?oc=5",
+            "date": "2022-08-15 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템-피앤씨솔루션, 총판 계약 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zOXZEVTFYM2ttUFg1cEJIc2JObjJaTi1vdnhVR05CSmluTlE1T2ZDd1BFZ1NyYjdJRTE4R0docUJ5ZnUxbEVMNlFRdGlIUQ?oc=5",
             "date": "2022-08-11 16:00",
@@ -6713,16 +6743,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-씨커스, '보안사업 역량강화' SCA 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydjR2OG1ldlUwMmc2WjNpN3hfQUZBYUVUUlhXXzZycE9HM3NqeXF0RUxmajZBYWNRanA2d2NhNnE1Z3U3T2ZnWDhIblJKZw?oc=5",
             "date": "2022-03-16 16:00",
@@ -6738,6 +6758,16 @@
             "date": "2022-03-07 17:00",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스, 22년 만에 수장 변경··· 지휘봉 잡은 ‘40대’ 김보연 대표",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hVjAxNWFzLUZzMzh1T2l2SVhTenFWN1lyN3ByNkNjU0RVTDJQWF9MX1N3LWI4akdsa01uc2hHb0wwNi12N0xROTUyWWlZdWhoTjdzNWdXbENuWVlRRDV6TXRLWnA?oc=5",
+            "date": "2022-02-25 17:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7086,6 +7116,16 @@
             "title": "시큐아이 차세대 방화벽 SECUI MF2 3.0 CC인증 획득",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuOWhBbnpsNmJKeHlHcGF2WVZiQjVydWZiMnhQYzJzUV95amoySjk1YVBjeDA4Tk5jYzZzM3JDSXB1NXc3azBNYXlXeXBxYTFTcFE2bFR6N0NNQUZDZHpQd0RPQ2Y4dUp3Q2c?oc=5",
             "date": "2014-05-19 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, 채널사 대상 파트너스데이 행사 개최",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zOUtlWkNVVHcyWUsySnBFMkdDaE8wWXVLZ2c4Y29GZ2c3RjhTdE5QdnpsRV8xRHUwTlBLaFBGUGVrNzgtRVRjalZBS29iamZER2JfajdiNHFXZVZiZEU0am0tQjFyd19CSzMyX2VLckV0ZlU?oc=5",
+            "date": "2014-03-26 16:00",
             "description": "",
             "company": "시큐아이",
             "tab": "competitor",
@@ -7604,6 +7644,28 @@
         }
     ],
     "trend": [
+        {
+            "title": "[AI돋보기] \"위험해서 공개 못한다\"…스스로 빗장 거는 빅테크",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jaEZnNHRJS2JPcHJQdko1UVNCVVdtM09XMktxNVN5U1VYNnk4NFRkekdMaWk1WE9SUS12dFBqUTRZWjU2bW04QUE3S3Y5dGs?oc=5",
+            "date": "2026-05-23 06:35",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI·IoT가 만드는 스마트 시티의 현재와 미래…아시아 태평양이 성장 최전선",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzSjdJSW84bnVnYk1IMlFlbV95X3Q4QUNjbGtmY29nbjgtdml1bVpUQUxSWlRRRDExUmNmeW02bVR2WElEZVBUWDkzSDY?oc=5",
+            "date": "2026-05-23 06:21",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "[Pocus 기획] 대답을 넘어 작업실행 나선 구글, AI에이전트 시대 열까",
             "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE05ZHVTUVItNlliMXUwYk9sSDBOQU9NTC1MVE01WXI5aU9udjduVTVUaTFRQzlGWUtTSnZwZ1kyWWJValk?oc=5",
@@ -29044,6 +29106,17 @@
             "is_today": false
         },
         {
+            "title": "China’s Moonshot AI Sparks Global Buzz With ‘Kimi-K2’: “Smarter Than DeepSeek... at a Lower Cost”",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hQVhha0hIeUkzY091dzZSbnM1dGhqUzIzZzNBVTVNcnJqc25xTlJKeEh5VHpMVVV0eS1yYUJzeV9aNDR5ZzJwQUVkdXBhLVpTank5NHB4YVNTYUFPUW1RZnhWRWlmMzBnb2c?oc=5",
+            "date": "2025-11-14 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "Naver shifts AI strategy toward “AI that senses and acts first”",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XZ0VjQkxFQUl2TmQyNnY2TnpBZzdTZ3dQblBGbUtfN3RxdU5wbjh5UEtKVXBwMkRHX3MwT3hXVlpBS0RkNWxDbWpvbEdnM0pZc2pNak9rWWdiN2NSdy14VzIyNllnWFd2WC1qTExGclPSAXRBVV95cUxPY3EzMXNkSW9aM1kwUDl2U0NRRmgtWktKTHZLYkxHNU11d2Uzb3M4TFF0Wno0WFBCOGl1c0JTWDVpTlowUnFoWmZIMUhPZVVEOTh0TDVtdkN5b0Q5NC1xUGpPZkVwZEtNOVVNMHY2dzU3eFJvTA?oc=5",
             "date": "2025-11-13 17:00",
@@ -29710,6 +29783,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "MCP, A2A 등의 프로토콜이 보안에 미치는 영향",
+            "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWExGWjVjRlJaRzBWRjhuS1EtZmtBWFdRME4xZlV4S0R0bVROdDVBTGlyV0N4VWkwVFdOX012NzBET1dDRzkxaW5SLWNDcEhxMFQ0emotbndKaThKWnZMaHd5OHdUclNCYTZqejltT1RlbTlZU3hHTXExdmFGMUdKVENpWFB2M3o3MERLcDZHd3RxSEU0MzdKLWhfS1hNcEY1QlJCcGZXQ1hLQkUwckN6UHBDREpEWEFjUHpnX3M2YVdxekVoaXdMbFlrZVdyTmk4RlJPVGxZdHVCdFJNME80NVRvbF93R2xqdUNKMzUxRVZBY1BaNDN4TVkyb3RGd3RKSk5FUGMyWWlOMU5fMTZBV2YwRVBXeUFNeU12bVpR?oc=5",
+            "date": "2025-10-23 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 인증",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -31437,6 +31521,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI 결제 대행, 정말 안전할까? 보안·신뢰 문제 부상",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lU2V1N1Z1NVJybTFnNDZXcWRiM09tQ1RseDhzSkNCQWJHSUFzSmZCdkxXQTBnNW1nZFZXMFF1a0YzamstX3AtZlNYZzB6Rlh2Tk9TZE5mSHdaanJKWFJ2T1pxTDMtcHVFMWo4SHhQZjlaeFU?oc=5",
+            "date": "2025-06-17 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 신뢰",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -35238,7 +35333,7 @@
             },
             {
                 "keyword": "공개",
-                "count": 59
+                "count": 60
             },
             {
                 "keyword": "시범",

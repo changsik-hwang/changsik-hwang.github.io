@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-23 23:00",
+    "updated": "2026-05-24 00:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -7063,16 +7063,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-씨커스, '보안사업 역량강화' SCA 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydjR2OG1ldlUwMmc2WjNpN3hfQUZBYUVUUlhXXzZycE9HM3NqeXF0RUxmajZBYWNRanA2d2NhNnE1Z3U3T2ZnWDhIblJKZw?oc=5",
             "date": "2022-03-16 16:00",
@@ -7235,16 +7225,6 @@
         {
             "title": "퓨쳐시스템, '위가디아 XTM' 시리즈 조달청 등록",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3QnVTeEVfWVRONXR1NWUzRWQzNjJBT2kyenNsTGduU0l5cXh4RUVTVC02MlNSckxhbjRpaFo2NXN0RWUzVWxDT3RheFo?oc=5",
-            "date": "2018-03-08 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템, WeGuardia™ XTM 시리즈 조달청 등록 완료",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PcmFBWU5EbVA2NE1id0tVRjJtTlBaYkZlNHZyZXJ5Yzl1RkEwcWl0Q1lwaHRwbVZrTzZJUGkxejRra1Rya0NRZXJsM1RIa1BKaU94S2x1OHF6NC1zTTZxN1c1T3pFVlZNVFk2UW41VGY?oc=5",
             "date": "2018-03-08 17:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -7443,6 +7423,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템, 창립 27주년 기념식 개최",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pUDhiNTdwV0FYdTRXUjdTV2YyUnJqVUZub0tFTmdFejFKZEFKY1lYQTc3T2llM0ROR3NfWk9FcVNxY0t5WlBYN19TQnR5ZmpEVmxNSldEeVBRcUdvV3c?oc=5",
+            "date": "2014-11-18 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이, 네트워크 보안 솔루션 SECUI MFD 시리즈 출시",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ERWNOWXM0N3NHWHlnWUNDcG9BYi1ZeUNsd0w3TGZjdHRoelFMX2k5eTdyYk04VG9BUUdFQTV0dGVVTC1zMG9mTnlZamZVRnNZc1VERm1hZ1QxSHFaUTlFUGtRc29DMUFybFE?oc=5",
             "date": "2014-10-21 16:00",
@@ -7455,16 +7445,6 @@
         {
             "title": "퓨쳐시스템 악성코드 탐지·차단 망연계 솔루션, 국내 최초 CC인증 획득",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SWlo4VjhzTC1vREJXRmh5eUlpZ3F0cEdEaEZqaFNSSE1ZNjhEZTVrR3FoVzVEamQ1X1ZyZFNDN2hmV0l0WnZFbjE2M0VWcnNLOVlQSlpKWkxKcUN5b2hpNjlCSEVFdFp6UUlrOHlFMTc4Zw?oc=5",
-            "date": "2014-07-29 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨처시스템, 망연계 솔루션 CC인증 획득",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLQm0xRllVWUdtTFowOGVhT19qQzBjWkY2NEYtLUlsaGwyZ2Y3QlZNSHRCZjJndXZuOEtVSUxwbl9Cb2xUdzl5emJQVGx6WVo0Tkp6eWNB?oc=5",
             "date": "2014-07-29 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -7623,16 +7603,6 @@
             "is_today": false
         },
         {
-            "title": "나우콤서 분할해 보안전문기업으로 돌아온 ‘윈스테크넷’",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56eHJmb1R4UE55c2VrM0hKaDZTM0VpYUdEaVowZy0zc1hHaDFiUzktS2lERFE5QkcwMUpDckQ2V3dVamNtN0g4WHJDS2dna3NPMTFRZnJsVkw2UFRodkE?oc=5",
-            "date": "2011-01-10 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[특집-3]퓨쳐시스템 통합보안솔루션 WeGuardiaTMXTM",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBQ1YwNzNOMmpsOU5STjA5eEtYQXNMSmJHNkFtYVJsYjN4aUhIRE1xUHU0b1FHUmthazRwMS14blQxUjVGOXlOenhDYWIwbmtDTmJaZjVYSU9CYk9jaEE?oc=5",
             "date": "2010-07-02 16:00",
@@ -7676,6 +7646,16 @@
             "title": "퓨쳐시스템, 위가디아 V2.0 EAL4 CC인증 획득",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10akxaTVdMRGNqYUJSeGZZZktlZnFHQ211Sm4tMFUxNFJlVG5kYjlIbHB2NG1vMGczbnhIYTNRQndqUUtJRm5INmdCRDdoQlktZEZxS3JNTGZXVUlxTVU5N1dpeFk2SnI5d2dabkpsYjdqT1U?oc=5",
             "date": "2010-01-18 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[기획특집]하이브리드형 SW 프레임워크 개발로 성능 한계 극복",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xWVJKQURxd0Q4RDhySzVtbGV0Skp5Q2pyVzNIY29QemJlLUxCSzBFaFA3NVA1UGtOWERmR0RYS01zNDhDZVF4RjBBOUE0Vl90XzFpVEs0MURxUmxMQ0E?oc=5",
+            "date": "2009-09-17 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9994,6 +9974,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Western Digital, Ultrastar UltraSMR HDD에 양자 후 암호화 기능 추가",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajFycDNPbWt6X2N6SEJMTmlXM1NpQkJNYTdZdmh4VlRMdXMySzhRMERDSUpjaVhlUGxPNzdKTmp0NnotMDZZOWlKYVhkalU0d0oyOWVHcmxTRl9nU3ptaVJVcS00cU1BMjRfb3U0TTEzVjgwVTI1YzZOVDJ0NXAzemo3RU9kOVFfbmpvUzd3OUVIRWU2NGxMdmdndUdqZlZKcnRzV3JncnZZeWPSAbABQVVfeXFMT0lLZE1JcmZDZUtVeDBlbDhsZ2EwZE5qWHNWdnB4V2hlMnJZTGpZanJYOGV6SFVxYmRoeV9INmMtcmhNOC00dEtFYVllZmkyRW01NkJUTVpETHhGRHlGaVJQaEUtMHl0T3pOYVYyMkhOY0R5cTJjUUhPdkxRUWY4OXlzSHZYRGRicVY0TDFhRHhxaVVIQ0NSbjg4dlNCN1FsM05faU5fWmVNalJScEhGRmw?oc=5",
+            "date": "2026-05-22 03:15",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -25091,6 +25082,17 @@
             "is_today": false
         },
         {
+            "title": "[NGSV2026] 라드웨어 “AI 시대 핵심 인프라 된 API…비즈니스 로직 공격 94%”",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lS0gzSERidlRta2pRWk13U09mTmpHWVNTNkdzdnFLakdWSVpfY1JJQnVaYVNMaFI0NGR5UGZCdHZDQnJVQzNMTk1TaGNQZ2FHcnF1Rko2YWRQemxkWGRBaGtaaEJOZGVnOEhYYQ?oc=5",
+            "date": "2026-03-10 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[VPN은 죽었다③] 제로트러스트 구현 서둘러야 '한국 보안 업그레이드'",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xRGdDQWI5SHhlbldhcWszdEpOOXZrQTlMOHhSTDNxMW1aV25fekhud2d4SWx5akxua2RyOWdKUjlka1drVnlVMEhZSll4OC12bFlzQlB6c2FIbjZiZHA3ZVFoWUZ2ZlgtY3pHak9WZ9IBc0FVX3lxTFBsVmEwazlhZEFNaDlXLUg4WnJCWW1yRnk0UWp6eWJiLUxYY0JnRkN6aHgwekVVbFBQWFNUV2MtcXJaRjdPaGZoODFTME4yTFdscFB1WEZJN2N1MnJPUnZGY0c5MFVRcERPMGFzcEVsTmFUUkk?oc=5",
             "date": "2026-03-09 16:00",
@@ -34444,6 +34446,17 @@
             "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
             "date": "2021-06-07 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "키오스크코리아, 초슬림, 초박형 스마트미러 사이니지(DID) '미르4K' 출시",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFYzEwX2xaVnZBeTF1T2tjLXRSUjEyeFp3TE5hdUNMMFA4UlFyV2lJeTkzcHhsT2FLTjMtanJDaGljWXZTRWd6S3NKS2ZKeUJiU1NQLTFUbU9rQTNDUzZzckw5VQ?oc=5",
+            "date": "2014-08-21 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",

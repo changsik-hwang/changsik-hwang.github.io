@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-24 01:00",
+    "updated": "2026-05-24 02:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -7596,16 +7596,6 @@
             "title": "윈스테크넷, 상반기 최대 실적 달성",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfQjExYXAwQ2MwYzk4UkJRSWZVTHh4V0k5TEZNT0t6elBPRVVCaExyc25GUVpQTE5jdUVrX3M5b1RPNmRJemEwTUZpSERRX2JZRWRoc3NqWm5ZOTNoTlBSZnlsVjBLZFFncWFFMF95Z0tPM3px?oc=5",
             "date": "2012-07-26 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 지경부 주관 ‘월드클래스 300’ 기업에 선정",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3SkZoZFNBY21kUFJjQjJ1Sk1md0hMZ1lBOWNaRUEwQm1QLXAxVTYzZ1M0eS1YbUZZSEh3N0ZDNW1hNnN5MHNGaTFiaUdaX3dnVFhNemlWcWZ5cmpWN0xOcHZqMjE4UlZBb1lIS3VMcDYyV0U?oc=5",
-            "date": "2012-04-30 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -19065,6 +19055,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "CVE-2025-32711 취약점: Microsoft 365 Copilot의 “EchoLeak” 결함이 AI 에이전트에 대한 제로 클릭 공격을 가능하게 할 수 있다",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qdVBINmhKUFBJWDUyaXlDNVpqX1lvcG43cVJfTWxfZ3hJbUNoRXN2eVJHUUxMTklzQVFwNGpSRW0yb3pxMTVFZ3NMT0gwWV9fM19PSzRQNkx3RWZYdVZ1SFpPb3JCTG1KZ2J0OXVhZ3dGUnF2ekNTLUJuRDc?oc=5",
+            "date": "2026-04-30 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -32919,6 +32920,17 @@
             "is_today": false
         },
         {
+            "title": "[ISEC 2025 미리보기] 안랩, 차세대 방화벽 ‘안랩 XTG’ 최신 보안 요구사항 해결",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92cHVUWW5WamphbzVaVnNyR1R5X0M5Ym5lSTZKQ2k1WWdobjBwNWtnYUJIemcxYkVNQXFwOWxrNWRHX1BZX25qZG1xeXU5MUotbVIxSzJtcHE0dTI3eUE2SDNONFIzekk?oc=5",
+            "date": "2025-08-06 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[ISEC 2025 미리보기] 시큐리온, AI 기반 모바일 위협 탐지·악성 앱 자동 분석으로 지능형 위협 대응",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tbWRJQk11Z2dJZW9WWmN0WTRxU3pSRGNqNWE2YWhHdHIydEVNVEZnN0Z3S2l3WGlWT0xsY3hQVHFWMTJqb3NYWTlfZFFrZ0VhQ0dDS3RKZzRLX2N5RWNJ?oc=5",
             "date": "2025-08-05 16:00",
@@ -37143,7 +37155,7 @@
         "2026-04": [
             {
                 "keyword": "에이전트",
-                "count": 113
+                "count": 114
             },
             {
                 "keyword": "표준",

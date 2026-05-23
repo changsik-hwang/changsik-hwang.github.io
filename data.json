@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-23 17:00",
+    "updated": "2026-05-23 18:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -7023,6 +7023,16 @@
             "is_today": false
         },
         {
+            "title": "[상장기업분석] 윈스, 네트워크 보안 기술력 인정·실적 양호...'AI 클라우드'까지",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CZV9pUFZvWlhKS09vVjhzRkFZM3JKM2FCUi1Sa3NHNXFWR1JWRU1LejlNVU56OW5wY1lNaFd5b09NU0pMaGYtRmJ0WEh4UQ?oc=5",
+            "date": "2021-04-12 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
             "date": "2021-03-24 16:00",
@@ -7453,6 +7463,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 지경부 주관 ‘월드클래스 300’ 기업에 선정",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3SkZoZFNBY21kUFJjQjJ1Sk1md0hMZ1lBOWNaRUEwQm1QLXAxVTYzZ1M0eS1YbUZZSEh3N0ZDNW1hNnN5MHNGaTFiaUdaX3dnVFhNemlWcWZ5cmpWN0xOcHZqMjE4UlZBb1lIS3VMcDYyV0U?oc=5",
+            "date": "2012-04-30 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "핸디소프트, 다산네트웍스·퓨쳐시스템과 스마트워크 시장 공동개척",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qc1Q2UzRFaFFpZG0ySEx0NHhCN1EzdHpBT0RRUTAwUVloWWxJeWowR1BZeGVfXzRTUGE3NjFhaDY1cUdTMnExdjNQM3ZKckJvYnFDT3B3?oc=5",
             "date": "2012-04-25 16:00",
@@ -7578,16 +7598,6 @@
             "date": "2007-11-28 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 나우콤이 흡수합병",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LcjFmNmk3MzJld1ZZNEh0c2stdmZjZ3FMakNZWXY0cTRmRzhGaXRoVG5MOEFVRFBZYkc2M2tvRUgwam1ZNzU3X3E0ZlZqNm5aZlpEb0RlNGxweUtG?oc=5",
-            "date": "2007-10-10 16:00",
-            "description": "",
-            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7855,6 +7865,28 @@
     ],
     "trend": [
         {
+            "title": "딥시크 한국 서비스, 정말 안전한가…“저비용 AI 혁신” 뒤에 숨겨진 개인정보 리스크 논란",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sOHNlRlNFTE14RnBNUHZWcjBxZVpXcEVaY2dVcTYwcVFpRDNvb0I0UEFPMXdKdUZQdXR5WkxHSWlQWFNnendoWlNsZmFhaXJCdW9YeTFMOGYwVFU?oc=5",
+            "date": "2026-05-23 17:31",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "EU, ‘미소스’ 공유 압박에도 진전 없어…\"미국의 보안 기술 독점에 우려\"",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTb1hVWWlTMzhad2JPQnlYamdCMFRKUWlDSlN2cUJrV1gwSzJCaHZIM0FlaXU2VE1BZFZ4X0VJczNMWXU2ZmRRQ2cwSUVmZGk0am80eGdPUE9jZTZFNUgtOUhyWklzUnR1eHc?oc=5",
+            "date": "2026-05-23 17:06",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "직원 1인당 AI 에이전트 100개 시대, 에이전틱 보안 거버넌스가 관건",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zQ1B0dXIyTGM5QmVnVHh4UEotRFhVWDc3aXkzR2IxVG4tZTE1MlBvZ1U4ZTdzU3pDdzRfZjNNdE5rY1g3dWwtLWlYemRxOHVXWUE?oc=5",
             "date": "2026-05-23 15:36",
@@ -7883,6 +7915,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "사카나 AI, 거대 모델 지휘하는 ‘7B 지휘자’ 공개…\"오케스트레이션 완전 자동화\" — IT뉴스모아",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HdWh1R25IVVM3ZEhaWXlyeDB3SDhSSlo3SUQ5ZW1KZUhsU21tYnJkcTU2ZFVWaXJOVlMtVDNxV1QxelhsaVVVc0UxSzNSWnIyYnZZ?oc=5",
+            "date": "2026-05-23 09:45",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 오케스트레이션",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -12871,6 +12914,17 @@
             "is_today": false
         },
         {
+            "title": "멘로시큐리티, 금융권 SaaS 허용 리스트 포함… AI·클라우드 보안 시장 공략 강화",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBia0EwbEx4QVNZa3FsaHhtVjJBenVuTHl3R2NVdUpfcVl3SUNOamxUMnk0aXp6NmtXa21ZS0F6RlR3RDFPNjJEd2wtWmIxdmdqVFQwbjZPVHhqbnhZSEZrUlFvNTI3LWdl0gFsQVVfeXFMTjBQelo2MTNtZzhfb1dsaVFZOGJGSks2XzhzQzRUZXM2UlIyN3dGNW9vcEZ4OVJJeGE0b3J6UmVWX0lFYkg1bWdKai1PNTBZR1I4MllPVUpyd1FHVURpQ1RMaF9PS2tkeVk1NFJ6?oc=5",
+            "date": "2026-05-19 15:07",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "KT, 국방부와 양자내성암호 기반 보안체계 실증 추진",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LNTNTd0w4Sy1TbnZrVFppSUxYcjJmUWVRWUNjUHBha3dwSk4xQnhqcm9HTXMtenNpLVlqLTdaeVZacTUwZGR6Y3pkc21uMURhTkJEU29qVGxaVVZweHNsX3F2ano3NHc0TEpnZko2T1U0LTQ?oc=5",
             "date": "2026-05-19 14:56",
@@ -15242,6 +15296,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "“애플 보안도 뚫렸다”…앤트로픽 '미토스'가 촉발한 AI 해킹 시대의 공포",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmUXRKQmZNdkFWckJ5dFVHWlRUNk9WOVlacFBjNHN5emtlOTVXZkNRZmtBb2VhM0RtMEZ1cnBVSTc2dE9ZT3g2bXJKS2szZjhmdFY4Ql9zN1MtYTNXOEwxTlRWcTk1WlE?oc=5",
+            "date": "2026-05-17 17:43",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -24993,6 +25058,17 @@
             "is_today": false
         },
         {
+            "title": "AI스페라, 'RSAC 2026' 참가…\"AI 보안 탐지 기술로 글로벌 공략\" - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FWUNITE9XaExqZktOeUF2MWJRZ2pZd1JTdGZwRUZ2b2FjZk5wWW5wUElab1FHWV95bzJ2b1MtMTRmWjhEbks5OXB3WWRBQ193ZVNwSERuaDNIUmhmc0lHY3F5M1JFdTh5U3fSAW9BVV95cUxPd0tWWkM2MWVzZG5JNElzbEVVdHpHaGs5Nnc5NmhZTTYxQm1JaTZHOGJPQnJVV0ZBZnYzeWE2eXREQnFjYWZlckMwTVpOYzMzcVBpRUVQN1F2THJPM2NpRmpubkpyRXRSZGR6V1NraDg?oc=5",
+            "date": "2026-03-03 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[eGISEC 2026] 케이사인, AMI 분야 PQC 전환 시스템",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSRzE3bEtLbHN5TkNBbG9oazQ4eTJ4b2tBbll2NVRPRVFmSTllUHZTM1dmS1BobmtPa21ma2o2LTVwT1VjOUhaVU1JLUlOeDVlTjFJQm81UWVXY3lxSWdYMU9PclhtTGVYVlBETHJ3?oc=5",
             "date": "2026-03-02 17:00",
@@ -33692,28 +33768,6 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
-        },
-        {
-            "title": "키오스크코리아, 초슬림, 초박형 스마트미러 사이니지(DID) '미르4K' 출시",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFYzEwX2xaVnZBeTF1T2tjLXRSUjEyeFp3TE5hdUNMMFA4UlFyV2lJeTkzcHhsT2FLTjMtanJDaGljWXZTRWd6S3NKS2ZKeUJiU1NQLTFUbU9rQTNDUzZzckw5VQ?oc=5",
-            "date": "2014-08-21 16:00",
-            "description": "",
-            "category": "AI Agent",
-            "keyword": "AI 에이전트 DID",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "비티씨정보,70인치 초대형DID 출시",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44ZXd4VmdXUGd4ZS1iTHMxMHlRZ09fdXVtMk9vbWxCM0h2REhWU2pFbmNQQkFvV01ETXpqTHh6bGYyMl9qRUozTjhxWQ?oc=5",
-            "date": "2008-02-11 17:00",
-            "description": "",
-            "category": "AI Agent",
-            "keyword": "AI 에이전트 DID",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
         }
     ],
     "disclosure": [
@@ -36313,7 +36367,7 @@
             },
             {
                 "keyword": "공개",
-                "count": 61
+                "count": 62
             },
             {
                 "keyword": "시범",

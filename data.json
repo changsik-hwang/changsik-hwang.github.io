@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-24 21:00",
+    "updated": "2026-05-24 22:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -640,6 +640,16 @@
             "company": "넥스지",
             "tab": "competitor",
             "source": "공식블로그",
+            "is_today": false
+        },
+        {
+            "title": "안랩 대만 사이버섹서 IT·OT 통합 보안 플랫폼 공개",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEckNLZW83YnFKWHhaNHpCMUNqcDBqMXdtZ3dCX0M5clBQa3pXUHpYY2xMSDhzN2llSWFmVktCZ0R6b01LZFdzWHhzYUdBTi1tbEw3X3paT1BPNjl1VlZ2ZzJ3WE5oYXfSAWtBVV95cUxQY05xdTNGQmk4MFlFX1Q2bndueE45UGxnVWNYaFZQaXZTTnJ1UzNreGhna3ExdTZGNnRTUlg2WFJMSlhMVVN1MG1UckxuVmRaWHZGYWptZl9RbkJMMU5aRUk1N3dRaGxmR1FRMA?oc=5",
+            "date": "2026-05-08 21:45",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
             "is_today": false
         },
         {
@@ -3478,6 +3488,16 @@
             "date": "2026-02-08 17:00",
             "description": "",
             "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 2025 4Q ‘피싱 문자 트렌드 보고서’ 발표",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PMS15VlJFaEMwV0ItTnJxdUVlalVtdDlBWlZqekY5NlRwMWZ5ODN0UFpEcFM0ejVZOFczUjZmb2ttZ0VDcG9iVXp1NGMta0M4OWEzWXJ1VEJtUm1xOWNhQV9CZUhrWnlhWGpj?oc=5",
+            "date": "2026-02-06 17:00",
+            "description": "",
+            "company": "안랩",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7233,6 +7253,16 @@
             "is_today": false
         },
         {
+            "title": "KX넥스지-진네트웍스, 공동 ‘조달 파트너 데이’ 개최",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fdUxrS1NXVHVvWll1N01wVnBJajNBTHVRS2RNbGpKRXJHVXdvUGE1UXBwS0tKQU5MUm1KeE1BQnExX0RhN3E1ODdWMkpiZw?oc=5",
+            "date": "2023-05-19 16:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "KX넥스지, 클럽72서 조달 파트너 데이 개최",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSVGNkOGJ0d256VTYyUUwta2tTVUx4b3FybExsdGZFZTF4eHllSHFkWkpxYTRtOWkzR1JPd3dOcGFyMHF5Nno0TDhUdjU3a0xwX1dLN1FRVmdxOWEwMzQxc0lYWQ?oc=5",
             "date": "2023-05-19 16:00",
@@ -7243,11 +7273,11 @@
             "is_today": false
         },
         {
-            "title": "KX넥스지-진네트웍스, 공동 ‘조달 파트너 데이’ 개최",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fdUxrS1NXVHVvWll1N01wVnBJajNBTHVRS2RNbGpKRXJHVXdvUGE1UXBwS0tKQU5MUm1KeE1BQnExX0RhN3E1ODdWMkpiZw?oc=5",
-            "date": "2023-05-19 16:00",
+            "title": "'삼성SDS 보안 자회사' 시큐아이, 이익률 상승 속 현금흐름 '뒷걸음'",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpd1ZoVG5aRC0yV25KUThZWXZvd3R4OVVSc0VkVTZNWnBXdV9mejR3R3BTMTgxNUFSVndrTGMzODFqRjc5SFE?oc=5",
+            "date": "2023-04-17 16:00",
             "description": "",
-            "company": "넥스지",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7388,6 +7418,26 @@
             "date": "2022-07-11 16:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, 11년 연속 국내 네트워크 보안 시장 1위 달성",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZajlDTU5Dc3Zxck1oN3hmUG5COHJteFpUY3JRMnZ5ODNKU1MxSVNubkxtSmhFd2xCTGFrek16Q2h2RlZ2OGJGVi1LbjBZREZpWUFkSk1BaWF0SDFvTmV3?oc=5",
+            "date": "2022-06-30 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
+            "date": "2022-06-10 16:00",
+            "description": "",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -7668,6 +7718,16 @@
             "date": "2014-12-18 17:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, 통합보안솔루션 ‘SECUI MF2 VE’ 일본서 출시",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4MEVOVjdNVEdNWmhobFJoOU1iUTFWYzVOaS1ibmhqdHdacUNTMFFjY0I4QjcxbC1TZWJaTGVGSEJweXowazNYVUFEbGFnczJZdk92dHVsTnVGck9hNl9EQmJJYS1iakxZM1E?oc=5",
+            "date": "2014-12-17 17:00",
+            "description": "",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -8033,6 +8093,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이닷컴, 'SECUI NXG' 지식경제부장관상 수상",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50SWpKdFJuQTNSWGMzaFRoOWVGaWd1VkxHeGVyZUVGeWRwODBFYW9XdDRpYzZsT2VwOGdYTGtkSjVJOTFlaWxXMjJNRm1Sa1ZuTUptRjEteWQ3dHJqbGZEVk1LUnlDdGZmV2w5RGRVQllUU0U?oc=5",
+            "date": "2008-12-01 17:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, WeGuardia 지방 로드쇼 개최",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jVXQ1NmUwVjFkRzh6TWVOb3RiNzJUSXpNN3YwSEdmYnJ2Q2JXWjRRYktLVldSWTFtQUwzLWdfNGFMVkVHbTdJdmdZTGZZMm94Zks4YjU2c01UcmN0MUVsTXE0a3ZLOGxEeWhjcUxKWWg?oc=5",
             "date": "2008-11-13 17:00",
@@ -8274,6 +8344,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "금융위 망분리 규제 푼다…권대영 “AI로 AI위협 맞서는 보안체계 전환”",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YY3N4a1lvLVRRNTdhcTh6NmFEWElvQjkzVV9PZnBDWUo1WHVibEtXTC1WYUNpN1BtNG9EeWlyRmdUWlJmaGRVdFczcC1iRGNSbW10NXlvdTZZaXhTcmJLN0U4OXI?oc=5",
+            "date": "2026-05-24 21:21",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "금융위, 망분리 한시적 완화 추진...\"미소스 보안 위협 선제 대응\"",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEVFZldE5ucVhyTkFyZndhMU4za2czNnBGaEtkal8xTUV1UXZUM2tkSmt1T1lRYzUxczNZOGhPYVMwZmdJTVM1MEFwMExNUU9xc1VkUngxZjBYQ2dBb0lzSkxIR1dmUWxOQXc?oc=5",
@@ -9076,6 +9157,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "팔로알토 네트웍스, ‘AWS 서밋 서울 2026’에서 AI 시대 통합 보안 전략 제시",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GcDNSMkVkYkdTal96VUpSTUpFMUVnVFc5eEgtUDFTSzQ5QnpOdmotb2h5QjNzdlhEeS1OSkpvWmMwMkhqYXY1WkozcnZBMWRiVGlpc0U3dGh5RDdlcmcyZGR6Vnk2WUwwc1E?oc=5",
+            "date": "2026-05-23 09:32",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "창립 50주년 SAS, “AI 시대의 경쟁력은 신뢰”…에이전틱 AI·거버넌스 대폭 강화 — IT뉴스모아",
@@ -23620,6 +23712,17 @@
             "is_today": false
         },
         {
+            "title": "모니터랩, 2026년 중소기업 클라우드 사업 공급기업 선정",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSTdiWFlROVFwWTY5YzZrX01JeVZCNXVMZE1qSTJSaURMeVJsLXRSU0lqcmoyWjlXRkpwMl8wYm4zdS1RLUJHdC00TWZhdnh0SVdmQUpibGVLM0lUZ2htbHJyVXI1dWJl?oc=5",
+            "date": "2026-04-06 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "카카오페이, AI 에이전트 결제 표준 ‘x402 재단’ 창립 멤버 합류…국내 유일",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10Mng0QTl2Nl91c1lDMGN1bDFIX0s1TXRnT0hqQjVTdE1Zeks4NjJCN1c3WXN3eTlKcFpIbjA4WHEyaHE2Nm9ZQQ?oc=5",
             "date": "2026-04-06 11:42",
@@ -24088,6 +24191,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "과기정통부, ‘에이전틱AI 얼라이언스’ 출범…발전·신뢰 모두 챙긴다",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FX3VWUmFrODZDbUF4YnF5ZnJzRXN4TnRjOHFJcHhKZzc3LVR1VW8yN1Exbl9zSHd4dlMwZVFsX3pjaGU0Um9HMHNNZXR6bFBLUWtLTw?oc=5",
+            "date": "2026-04-01 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -35137,6 +35251,17 @@
             "is_today": false
         },
         {
+            "title": "제논, 기업용 생성형 AI 플랫폼 ‘제노스’ GS 인증 1등급 획득",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFU3ZjMEFXc2E3RDAzNGtqOVpvc09STEtqMjdyVy1vcnhHNUp2UVRlSWh0VnV2S3phLWU1UVJ6Z050QWFiaHk5Szhubk50emY0YzRsOGdjM2dab3RtQXc?oc=5",
+            "date": "2025-07-10 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "엔터프라이즈 기업을 위한 AI 보안 - Trend Vision One™",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wRnNZelFfUy1XMzg3ZU9jWUJGOUw3Rlh2bmFuYzZQRmljQS14alFKU1lqMDlUZ1lKS3VySkZ6TFV1cWRlM2pnTTZ2ZldaOC1RQVU1dmM3WS13cWJ0R2NRQ0k2Ujg5RW11MWhzUEJEZy15QnpSajZSaEtIYw?oc=5",
             "date": "2025-07-09 09:14",
@@ -35896,6 +36021,17 @@
             "is_today": false
         },
         {
+            "title": "위즈코어, 국제표준 '산업 AI 인증'으로 기술 우수성 증명",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SZ0hKNlJPNmstNHVMYWp3V1pIRVNwZS15RWFHbEVzLWFCZVZvb3JmTkNCUlZ3UFBwOFYwei1yMEYwdkRMZjlHdlVWR2JPQQ?oc=5",
+            "date": "2025-04-03 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "MCP는 AI 업계의 표준이 될까요?",
             "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1jY083Qmpkb2RlT3pyUUs0bWFkaWlDTXh6N00tZ082VjZ4ZEZrVTFFWWNhZmk1dmlzWThfQlRIVzJiaXlRS01JSEN3?oc=5",
             "date": "2025-04-02 16:00",
@@ -35946,6 +36082,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "멀티에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "가트너 “AI 에이전트 활용한 계정 탈취 위협 증가...다중 인증(MFA) 도입” 강조",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qUjJLMXNPV1VkbzZVZk1TU09ueUpmU0dyYXE1RGxFNTBXX3ptWm50M2ZrTXVxVFZMak9IWVlOcUE5WDFvUU4yck9BTUx1d3hWcEZNQ2IxZUdOclpZX3czakpTSlJIc2ZxMmU4dg?oc=5",
+            "date": "2025-03-20 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -39143,7 +39290,7 @@
                 "count": 12
             },
             {
-                "keyword": "중국어",
+                "keyword": "대만",
                 "count": 12
             }
         ],
@@ -39230,11 +39377,11 @@
             },
             {
                 "keyword": "에이전틱",
-                "count": 25
+                "count": 26
             },
             {
                 "keyword": "신뢰",
-                "count": 24
+                "count": 25
             }
         ],
         "2026-03": [

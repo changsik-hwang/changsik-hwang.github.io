@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-24 20:00",
+    "updated": "2026-05-24 21:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -7334,7 +7334,7 @@
         },
         {
             "title": "시큐아이 송병걸 프로 “악성파일 분석 결과, 한 눈에 파악하는데 초점 맞춰 개발”",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QMUdEazdtTk5waXotOHVaRUFUTnRRRHlQVFo3NU5acGg2OW02SWdoUk1vLVgtOVlSNVNsWmhHd3VDTHFuMDVsd2hHdE1EX2dGZzNhUnIyekRMd1lzV0c4?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wb1owMEl0SHRMV2hVZEM5T0tRWUtZVHRuSVhyN3ctNWFES1B1SV9zR1NPTVlDcUNvSHFjTnJHN19JWTY0eDN2WnFFWXd6QlVGTGwwbkF0c1VXRWhHV3c?oc=5",
             "date": "2022-10-05 16:00",
             "description": "",
             "company": "시큐아이",
@@ -7543,16 +7543,6 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, 기업 회생계획 인가",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcGdDUkdKYlZLQjRETThrU0lxaTllTHBXOG9qUUZ6S1QwV1JFcFcydkVBU2d2dGQxY09IQzBVaWdSQkhOdnZLQmtuMHc5QQ?oc=5",
-            "date": "2017-12-20 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스, 퓨쳐시스템 방화벽 사업 인수…차세대방화벽 시장 본격 진출",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03aFdzZXk4VGxqdUNhUml2WUdlZzFlb3lYMlo5OUYxRzdmblVYZUgxTHBBcUNqWmNTR1plQS1aX1hubW01R0FnSmpMNk1YZw?oc=5",
             "date": "2017-10-23 16:00",
@@ -7603,6 +7593,16 @@
             "is_today": false
         },
         {
+            "title": "(주)퓨쳐시스템 2026년 기업정보 | 60건 면접후기 3.0 면접난이도",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVlfTkY0Tk9MZnI5TkJuZDhtZlhpTWhaN1MtRUNxYnJlTThEeHZGOXFDdDJqbENYRUJ1UVJhanA4V3RrU2ZYeFdHM3BCMndJbTNxVWQybXpQMmhqTlBGWVJxdTE5eVhoem5hSVhTQVQyZ3h2bFNZYUdrZlFUVEtFZW9qSkJTZWY4MW5tRi1iUjkyS2xZS1ljYVp3bWtRZ0xwNWc?oc=5",
+            "date": "2016-02-27 05:29",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[오늘의 CEO]김광태 퓨쳐시스템 대표",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wZU4zdm9YLTNWNzY5ZFRKNHRMdVZjbWY5XzhwOG1OU0dqbU91ZEZaeUVyYkR3MXVHSUNvYkZWV2ZZbGFwTWJHaW5QdHdNUQ?oc=5",
             "date": "2016-02-24 17:00",
@@ -7614,7 +7614,7 @@
         },
         {
             "title": "[보안·IT산업 동향] 퓨쳐시스템 무선보안솔루션, 공공·엔터프라이즈 시장에서 강세 外",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ObUpoVE1aLUU5Q1M2ZVczRFJZU0dtclVWQ1JudVFWZW5pWnRpQjJMbjF0U1A4ZnZzVTlXNlFyMDdqZFpvdVBybW1vN3NiNXJQTllYMHNFZXkzUXZidVFQYlFaUUxsYk9Ja0lKOHBFU0c?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4ZHpNWXRfaWE2bWtjWVFXbkRnb0hCRllROWtpQWRlc1J1Y21JLTdLMElVV2NaQkFldGoyRTZ1bXc1aWY4YUFDblhLa2lGVzdhTDR6TF9CR19tWWFPR2c?oc=5",
             "date": "2015-12-04 17:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -7868,6 +7868,16 @@
             "date": "2011-09-28 16:00",
             "description": "",
             "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "퓨쳐시스템, '40Gbps급 고성능 방화벽' 출시",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwUzBJTkZIR3VHemlfRjFDWWFfVHVmM2NYSW5LbVJpZTcwTmUtR1Q1a0hGc3BnV3R4bk10Q0s4bWdmOGJZdHNVd1pIZWhSbW0ybUtZNjU1NUZuTTRoZGc?oc=5",
+            "date": "2011-09-20 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -8133,8 +8143,8 @@
             "is_today": false
         },
         {
-            "title": "기존 제품에 IPS 및 바이러스월 통합한 통합보안 솔루션",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nX3VHaVhSeElmSDNXSTNtWE1UWUJ0UGtBNEp2SnZWYzl4MVJaaFFLNnc3YXF6WE5neHliQjZEYWRCeEZ3OGdOVnJLYWFlbjJjZFJwbTJBaVhNZ1BDdXNXU1ljUHc2QXZ6Mnc0M05sOA?oc=5",
+            "title": "퓨쳐시스템, 방화벽 ‘윈백’ 사례 급증",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SS21uUThxNjNwZTBzVzhoZjBWckRIei1aeUs5TDV1TU45MXhPYTZJTjMzYk1NNWoxT3hfdm9XUDRrVm9maXowY2tkSFdoNy1ubV9MMVNSREQzVmM?oc=5",
             "date": "2005-09-30 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -8233,16 +8243,6 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, 미래에셋 VPN 구축 사업수주",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PUFVKaFMwZS1MTUkzVzB3M1BYZ1JlOW9pdVVMM3FCM1o1ZWVGazl3cm9qSXY0R0dZS2VUamhUTEIzeHBOWkN5cnkzbDNGeUUzQkdkVTQyX3FRZTVqR09zaFlMcHhGQQ?oc=5",
-            "date": "2002-12-23 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "서울외국환중개, 퓨쳐시스템의 파이어월 도입",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FQW82cmplODFaVktjX3ZJZV9MSEtfSWxJUVlHUEU0d1JkQ0JFcFFjbHRLdzlnWEJTaGVrUWNWdHpuQnFtMjV1ckRfVVRBQk0tU2NDSndB?oc=5",
             "date": "2002-03-12 17:00",
@@ -8274,6 +8274,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "금융위, 망분리 한시적 완화 추진...\"미소스 보안 위협 선제 대응\"",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEVFZldE5ucVhyTkFyZndhMU4za2czNnBGaEtkal8xTUV1UXZUM2tkSmt1T1lRYzUxczNZOGhPYVMwZmdJTVM1MEFwMExNUU9xc1VkUngxZjBYQ2dBb0lzSkxIR1dmUWxOQXc?oc=5",
+            "date": "2026-05-24 20:23",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "'미토스發 해킹' 위협 막는다… 망분리 빗장 푸는 금융위",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UNDBNOUV6elFBOERtQ3Jqd2JMTUtPTk5uaS1UcENTNS00ZHZJVlpXMXJkaW9zSUhCQmZwbzM3WEJDQ1oyT0lvSldlV1o4NkRuX1BJNHdIM2MyQdIBXkFVX3lxTE54OGNXNlQ2UVRGVE8zekVaTzVLZmwzR1ZjeHljQXIzOExTNXhnMG0zcm5yTjd2UW1HS1o2UEtrZkRna09ZVVJFUVJiaTRYWE9hTDh6dTItODlsZmhkbVE?oc=5",
@@ -18947,6 +18958,17 @@
         {
             "title": "“모든 디지털자산 양자컴퓨터에 탈취 위험…’Q-데이’ 이르면 2030년 될 수도”",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSEdFUnZUbGZySVp5WC1oZVBBSnRHR3VUMEdoNHZqR2JPUDBsTk9LTHlzOVV6cnJKczJJb1Fpb01VZ0xDQTN1MWVCZUxsdnBTRkdMcWJCZ0ZkSGlNc2gyNjFJWTJ4TUxyWGJlN0RUb2RVdTVOcVZSM2lpTW56dHRtUg?oc=5",
+            "date": "2026-05-10 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "'미토스 쇼크' 현실화…AI·양자 시대 국가 보안망 뜯어고친다",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QNE0yY2pYV2VoZGl4MXRpaFNhdWd4RFFvamNoWVBlOWZUZlFnUF9SY005dEE1RW5HTlMxVUNoc1hiUXpySUcyREhxdw?oc=5",
             "date": "2026-05-10 16:00",
             "description": "",
             "category": "PQC",
@@ -35071,6 +35093,17 @@
             "is_today": false
         },
         {
+            "title": "네이버·토스도 모바일 신분증 발급…디지털 ID 시대, 수혜주는?",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15djkzWXNYanRVOWVGVXhPQWhZUGtRR0FYaHdrTVU2cFZ2OTJBLTNHalFKSGVIYmpOcS1kSVMyLXFiSkpST2Z6NHVjWHNvR20zMGZ1MHFZbWpqQ090RHU5SmtFcVc?oc=5",
+            "date": "2025-07-17 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[ISEC 2025 미리보기] 패킷고 ZTNA, ‘데이터 중심’ 제로 트러스트 보안 모델 제시",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VRHBNOV9wbXlYMmpkbWlTVC1ucVVMY0p1bVFOODhITlBuZFI5ckRWblZZMFZCUVJ5Y1RYbkJtMlhQNGpxZi0yT0xub19JejExVTJZcHgtS1FSdC1JTHc?oc=5",
             "date": "2025-07-16 16:00",
@@ -36548,6 +36581,17 @@
             "title": "“2020년, 모바일 전자증명 원년 만들자”",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zSmdkWFE3d011aU92dzJyLXRCMEFUcDNZYWtCZlROa0JNcUtVQzRMck52VmFMdUpxQjFQRy1YV3ZzdzNXOEZ1SFNZcWVhSGFKaGZ4MGtDOGZIOXNkVkE?oc=5",
             "date": "2019-12-07 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "키오스크코리아, 초슬림, 초박형 스마트미러 사이니지(DID) '미르4K' 출시",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFYzEwX2xaVnZBeTF1T2tjLXRSUjEyeFp3TE5hdUNMMFA4UlFyV2lJeTkzcHhsT2FLTjMtanJDaGljWXZTRWd6S3NKS2ZKeUJiU1NQLTFUbU9rQTNDUzZzckw5VQ?oc=5",
+            "date": "2014-08-21 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",

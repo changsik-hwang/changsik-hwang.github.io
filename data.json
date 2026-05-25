@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-25 14:00",
+    "updated": "2026-05-25 15:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -5463,6 +5463,16 @@
             "is_today": false
         },
         {
+            "title": "AhnLab CloudMate will supply AI assistant platform to KDI",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MbFF2MU91WUxEOTlyODZZWXBQSVhSd2NUakY3SmRrTHBwc0ZzX2tVb0toMm5NWUF5UkpUc2FydThUeDA5cEt0RzMwa1h5RGt3U3NnQ0tsbUw1enhwY1JwbnZYcE9vaVgwNTB3QkgzbzBDRExyTkc0?oc=5",
+            "date": "2025-10-20 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이, 23일 보안 플래그십 컨퍼런스 ‘맥스 서밋’ 개최",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAycGZNMk9CdXV2VlMxLXZRd3ZEUW8tUkItRFAxUWY2V3NUVWg4dlFwNTJ6SWdrLUViTlNIcWY0UTFHYVROcndMRTRrRVI3eFhDVXJuMk8zZHkteDRJdjBZeXZqMnRLa0xQT2RubzhkN2FaUQ?oc=5",
             "date": "2025-10-16 16:00",
@@ -6693,6 +6703,16 @@
             "is_today": false
         },
         {
+            "title": "윈스-크리니티, SaaS 솔루션 협업 위해 MOU 체결",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tX0ZpMXdGRUFFTlJKbGNNMWhCRGRJWkpnWnRNZDNtbG1UTWtUYW5YTk5DUXpzdDVpbkxUMXNCaE5LbHhGVXlueTNibmpyLVRVTlFXd1lkWnJzTUZrSlNv?oc=5",
+            "date": "2025-02-11 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이, ‘BLUEMAX ESP 내PC지키미’ 조달 등록",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fQUVOSkgxQm5zMEdJYUJoY0VpcVZCckpWWjJmekNxWmtzNlQ0eG5FeW1vV0lXLTljcXM0UDAyOTU0c21Hel91OEVlQ1czMExncDVFTkJ2c1V2M0t5X2p3?oc=5",
             "date": "2025-02-10 17:00",
@@ -7803,6 +7823,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이, 통합보안솔루션 ‘SECUI MF2 VE’ 일본서 출시",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4MEVOVjdNVEdNWmhobFJoOU1iUTFWYzVOaS1ibmhqdHdacUNTMFFjY0I4QjcxbC1TZWJaTGVGSEJweXowazNYVUFEbGFnczJZdk92dHVsTnVGck9hNl9EQmJJYS1iakxZM1E?oc=5",
+            "date": "2014-12-17 17:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, IoT사업본부에 이현규 부사장 취임",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lZmxyVW5Pb0U3ZGhsYkZiUEN2T0Y3eW1FTmx1OHNNMXZYcXdlU2MtTE5NbGtDdFY3VTAxdXk0bDIxa19kR0k1Vzc3YVZIZndhd3ZJbHRIa0hZT3BQS1E?oc=5",
             "date": "2014-11-24 17:00",
@@ -7908,16 +7938,6 @@
             "date": "2013-06-11 16:00",
             "description": "",
             "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이닷컴, 닷컴 빠진 SECUI로 사명 변경",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTVZGUjByNVQtUnEtaENHQjBiUVZuNzBRTTZuOTFTaHc4MHV0aEhXNWNBSG5SQlQ4dHRERVNaV3RiVEdnTVByOGFnTjRydVY0OG1MWDhKY0FsQ015ZDJ0UnZWOXlOU19JREE?oc=5",
-            "date": "2013-03-29 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -8405,9 +8425,42 @@
     ],
     "trend": [
         {
+            "title": "금융권도 '미토스 쇼크'…美·日 접근권 확보, 韓·EU는 '신중 속 우선대응'",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuS3o4ZUVGczctMlFuOFpOaDc5ZDJOUzZzb3JfM0l6X1U0NDdHb25MVEEwMWxsNW1TTzFLSi0wWDBPYkFaRUVDS0x4WGI5SEY1ek9B?oc=5",
+            "date": "2026-05-25 14:43",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "앤트로픽 '미토스', 한 달 만에 SW 보안 취약점 1만개 확인",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12bmlQLV9Fc1NiaFlpdGFiTDRQUThDSXJlQ3RuXzZrX080UHlHTldfTE5zWW9IQ2hMdlFYSkYzd2VLRmNoVElVQmt1MkFFdw?oc=5",
+            "date": "2026-05-25 14:15",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "앤트로픽 \"미토스, 한 달 만에 취약점 1만건 찾아\"",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90dzh2QTFnMkdsLTh2WWpsa3pCU1FOYW5NbGFaWnVmV3JRRXhVYmpGa1BaTVhmeTRMTEs0b09VVjViRlV2clRCemxuM2pXczhmUVRDQkVR?oc=5",
             "date": "2026-05-25 13:53",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "비메모리 가격 상승 뚫은 한화비전… AI 카메라 앞세워 고마진 사수",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfZUZtaE5kMXItYmowVUNVLXFSZkJyVWdKclIxbTVnc05SREtoM2xWbDJoZ3BZcTBMc3NvOVF4aHhQd3d5YTZoVHlXQTlyNmRLeW13YmVZZHN6cnZBbExpX05hZkhkQXo4ZnNsVUJjeVFROGPSAXdBVV95cUxPYnNrZFpSWHNBQ1lVR0RrajJZdXJOUS1WUHdKaFo4cHJvMkJOQzFNSjUwaDZTWjZVc3FDU3VZOTFQazM2OEI5dFd5dEtrRTBnWXZmbEFKMmJ3ZlNyM1hUZzVmM01nc2tBWTFGcmNQZmVKQmg2X055QQ?oc=5",
+            "date": "2026-05-25 13:28",
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
@@ -18558,6 +18611,17 @@
             "is_today": false
         },
         {
+            "title": "정부, 양자보안체계 구축 의무화...양자 보안 법제화 속도",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84M0YzZ1dPZTVVRDdJRWdIUlhNdkZxWGR3UGVFQUVYRVY1X2lNYUtHQWFqZjM3dEFNTWZlTFV6OTBoTDBTdGZJbi16RkNtMTY0U3BoV3BBNThldDNMaDBxSkE0emYxalFKQVNXMkJaZw?oc=5",
+            "date": "2026-05-13 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "컨텍·케이사인 컨소시엄, 국내 첫 ‘위성통신 전 구간’ 양자내성암호 실증",
             "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrcDR5czA2aDNGa3NkY09OVHlfRTJKa0c2OWpTSXdNSWstWFluSXlPbFg2RE94TF9rNXdZbTk4YUJXVXREVGxIUWtZbHNXejlicWF2VA?oc=5",
             "date": "2026-05-13 15:57",
@@ -21094,6 +21158,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI 보안 ‘검증 체계’ 본격화…실전 공격 기반 테스트 프레임워크 등장",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvV0pMZmZqaXQ2VXJ1RGtDOWJnRjRjQ0prWkdmVDR0dFB4NFMwS1dOUTRGSy11akRGU20xSklDS0JLOFRvdW9Zc1ZZeWE5UXhVR0RGRERXbW8xLTRrYlE4Rk5WY0ZHb1VxekE?oc=5",
+            "date": "2026-04-30 05:30",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30845,6 +30920,17 @@
             "is_today": false
         },
         {
+            "title": "\"2035년까지 양자인력 1만명·양자기업 2000개 확보\"",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iZHdvUU1kWEJyZ0FZYTdPTUtFTnVtSTZmNGc3T3FMTHYtcWVfTEJhQlJaWC1RSWc5Nzd1ZU10TzBEbzhRc1AwcVRpRm05dHlmYWtJNg?oc=5",
+            "date": "2026-01-29 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[영자와 보안] 펜타시큐리티, 암호모듈에 PQC 적용 완료",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QeHh6QWRBaXNzMTREMEg0cFhHNzRBLUlBb2pxc1FnRS1QYXlNVC1rYzBQbVVtU0dxZXo5TTFLcGhmcmNJaFZUclg4SHQ4RkhDVVJIcjRKMVNORlpwTUp0LQ?oc=5",
             "date": "2026-01-29 10:43",
@@ -34079,6 +34165,17 @@
             "is_today": false
         },
         {
+            "title": "노타, KISA 지능형 CCTV 성능 인증 획득…AI 영상 관제 상용화 '가속'",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pYVczS0ZsdkxJc2g3S1BLUUxqUGdUc19aVTY3YU9tVGg5RkJDWFRnZjA3eW94NjFVd21rSUV5VTA4elFEdGFLakl2bXI0ODNiSU9sWDh3?oc=5",
+            "date": "2025-11-06 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "아이젠사이언스, 370억 AI모델 개발사업 공동기관 선정",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qaG9hWk41RFhTZUZhX3lob0NHTVdqWG9EUHgwS3NfbXVJSWdMOEY2QUZaQlUtX0pDZk9tQzZzVS1zOHFoNEdfM3VKdVF0M2U5ZF95YnE4U3BGYWZ5U1ZMNURDVVM5RjZ0ZldJ?oc=5",
             "date": "2025-11-05 17:00",
@@ -36645,6 +36742,17 @@
             "title": "정부, 공공분야 초거대AI 서비스 수행기업 공모",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZ21VVERERHdoNEhUMXFNY3VURTJzdkNhNUVCcUNIekNwYkkwTHRCelBIdXBkMG5TSUYyaTFCZk10RW5ZRXBGTWo5Y1gySEJJV1NXem5R?oc=5",
             "date": "2025-06-20 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "그루브, ‘에이전트포스 코리아 2025’...세일즈포스 파트너로 참여",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uNjRQU2VPdjZ4aEpwQUxCQmE1YVdsUlFkT0liUTZCb2dvNExjbGtQRnY3M0VoTEdyT1k2SF9xTEdwaEpGU1NjY2FQeGo3ZnRUQVFFM0pNanJjdjJJT1g2X1JldExkTmg1?oc=5",
+            "date": "2025-06-19 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 인증",
@@ -40632,7 +40740,7 @@
             },
             {
                 "keyword": "금융",
-                "count": 83
+                "count": 84
             },
             {
                 "keyword": "제로트러스트",

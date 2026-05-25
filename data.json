@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-25 12:00",
+    "updated": "2026-05-25 13:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -7483,6 +7483,16 @@
             "is_today": false
         },
         {
+            "title": "윈스, 사이버보안 전문인력 양성과정 모집",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wV3pLVXBkZUViOHpSajVudkNuazJIUEs2U18ycTExLTdFU3lhRjQxb0JwYXBzMEZiTjBYdzk1UzB5bUZwWHMwVnhNcmhsdktrUWNseXBlcXJqa2oyNjE4?oc=5",
+            "date": "2022-08-15 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템-피앤씨솔루션, 총판 계약 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zOXZEVTFYM2ttUFg1cEJIc2JObjJaTi1vdnhVR05CSmluTlE1T2ZDd1BFZ1NyYjdJRTE4R0docUJ5ZnUxbEVMNlFRdGlIUQ?oc=5",
             "date": "2022-08-11 16:00",
@@ -7586,6 +7596,16 @@
             "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
             "date": "2021-03-24 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "퓨쳐시스템과 리얼시큐 상호 협력을 위한 MOU 체결",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UbVlaU3hIZWRPd05QYnZ6YnpWYm5lTVBlalVseUdWcDJFcXAxdWh4NmNldDZpMlB1ZmFBUmVVb3lpMlhKWXBodDFqYXhZdw?oc=5",
+            "date": "2021-02-25 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -7948,6 +7968,16 @@
             "date": "2013-03-04 17:00",
             "description": "",
             "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[시큐리티 톱 뷰]김광태 퓨쳐시스템 대표",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVmtHWVZHbC05ZHR6ZGZRT1lITU9Ba2xZbnBXNHZ3U3JubExEREJ0UmtTWVFPU0xBUU9qNlRyS05jUzJPbURqNWhpdw?oc=5",
+            "date": "2013-02-11 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -8323,16 +8353,6 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, 한전 배전자동화 시스템 VPN 구축",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92SVRzczEwdE5lcEV6ZWQ5MDktTFhZdVZKNFFaZFppRDB6UnV1U0RLbDFWVl9pOF9wOXVlQ2NVZDhmUVQta2VJS3hvMGdweFpRd1FNczA4aURRRDlCdjh4UF9xTjc3QQ?oc=5",
-            "date": "2003-12-20 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, KISA VPN/방화벽 구축",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01N1VQUmt2cUR0ZTZsU3E5eUpkdWItbGR5UldIcEtjcmtoOUVqcGpMOFV4VC1YQWhaQVpRbl9ERDhEX2pzZHBCZEY3amhYSEdLUk5kLWpvSWpSSlcwb1RiUW1hNF9QZw?oc=5",
             "date": "2003-12-06 17:00",
@@ -8414,6 +8434,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "300억 인수 거절한 '나노클로', 180억 시드 투자 유치하며 기업 시장 진출",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vd2tfakhtVGNuemY4RDF1OEVyNVFTeTBVc1BtTEtZNGw4cXJjeHY3Qnp2M2NxZ1hEcXRrbkMtT29uQlFXczZBZG9KMjdQSm9oOTU3SDd2S3QxTFdld3BGTGZaZTNwWENqRkE?oc=5",
+            "date": "2026-05-25 11:52",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "미토스 AI해킹 대응 … 금융위, 망분리 규제 1년간 완화 추진",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yTDd5eGZlZnFWR21hN1hOVTVIOU5kaEJmRGlwYlUxcnVlX2JpWDlWc2k0Zm9vN0RyMXBIZ1RSbUlBa2d2SFpoczJjZU92RjdzXzJsQVdDa29WNW81TEZmaWMyb1FaMUZoa3BIM1F0VHFWTV9ISm16NU5Xcw?oc=5",
@@ -32610,6 +32641,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 표준",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "\"이제 AI가 대신 사고 결제한다\"…AWS·비자, '에이전트 커머스' 표준 만들기 박차",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkRURxS2NSbXplRW5jOFk0MEJ6SUNTMDJSVWhpcEdyTmhsbjkyRWxKZGEyRjZDY0RxbjBLZXRTa0F2ajNaTnpLbTZvUi1VZ2lUWDdSRTJn?oc=5",
+            "date": "2025-12-15 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 표준",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

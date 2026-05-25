@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-25 20:39",
+    "updated": "2026-05-25 21:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -7463,16 +7463,6 @@
             "is_today": false
         },
         {
-            "title": "'삼성SDS 보안 자회사' 시큐아이, 이익률 상승 속 현금흐름 '뒷걸음'",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpd1ZoVG5aRC0yV25KUThZWXZvd3R4OVVSc0VkVTZNWnBXdV9mejR3R3BTMTgxNUFSVndrTGMzODFqRjc5SFE?oc=5",
-            "date": "2023-04-17 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia™ ITU·ITM 선보여",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FMDJ4TVV1TWVIYnBoTWUwNG90WEowWHd4VTB1N3dhU3J0dGlGRU45QjhfU0M2dER2Y2pJY21oaVQwSHhSSW1FYlZiakRhdw?oc=5",
             "date": "2023-04-05 16:00",
@@ -8228,16 +8218,6 @@
             "date": "2008-12-16 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이닷컴, 'SECUI NXG' 지식경제부장관상 수상",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50SWpKdFJuQTNSWGMzaFRoOWVGaWd1VkxHeGVyZUVGeWRwODBFYW9XdDRpYzZsT2VwOGdYTGtkSjVJOTFlaWxXMjJNRm1Sa1ZuTUptRjEteWQ3dHJqbGZEVk1LUnlDdGZmV2w5RGRVQllUU0U?oc=5",
-            "date": "2008-12-01 17:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -19595,6 +19575,17 @@
             "is_today": false
         },
         {
+            "title": "AI 다음은 양자컴퓨팅?…IBM·구글·MS, 차세대 연산 생태계 경쟁 확대",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqdWI5VUNUOHNhaDZEU2xMZDlyT0Uzamg5LWdsS2hVdXl0V2dfRlhpMWhhSkVyMkNrNU1UZUtHRlN1YVU2QllUNGd1NlpVYzJDY0xGWVRreXlURk11SWNENlNNUktoODdsM3dIa3hUOA?oc=5",
+            "date": "2026-05-12 08:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "기업 문서 업무, AI 에이전트가 바꾼다… 솔루션 경쟁 본격화",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92NEprWUdjdEFhUGVZOWlZZkpyMjcyV3pCQzdHMndLY0xURkZXeEpXYzdEaUtGc3EySGw1anJBTXA3MVVLUURyanlrU0pLNWRzWEdvUjk4MlQyMEJBdmpCaEVLcndoQmhjSWtJekhGTUTSAXRBVV95cUxNRl9XdXlOSjU2TjlqMWtwbDNhQnlVcmZFTGRQNjZMaEtYN1Z6Vm93dlB6OTA5RzVCcTgwZUx6dVd6UVRuS2tCNnRqVnBUeTl5MnlGNXlURzhOUmlzVk5lNFU3RlNDWkhJR3o5ZXk1c19mci0zQg?oc=5",
             "date": "2026-05-12 06:00",
@@ -20464,6 +20455,17 @@
             "is_today": false
         },
         {
+            "title": "MicroCloud Hologram, 양자 암호화 계획에 주가 상승",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyaWVoMmJybjJLMWhXSnBzUTZZV1NRWjV2UklySUJILTNKektWUEJKelhZcHpxdXU0SlhLNVluNGx2U0FCbWpHcXFjbmFUaEQzRjdvSEVpSVlFTDd2ZWtRSzFrWnpwYzVtTUdOai1vU0FrZk5kdzJJ?oc=5",
+            "date": "2026-05-07 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "구글, 차세대 인증 기술 클라우드 프로드 디펜스 발표...리캡차 진화, AI 에이전트 보안 강화",
             "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFA5OUFadFR3eVFYMjg0NWRhMTBpUkpvaEpNNTRuUlhKd1FLbHJXaWYwMHkwbUY4WW1IR3pxRFJOTlM?oc=5",
             "date": "2026-05-07 15:48",
@@ -21234,6 +21236,17 @@
             "is_today": false
         },
         {
+            "title": "AI 대화 중 실시간 위협 탐지...조작 언어·악성 링크 결합형 사기 공격 대응",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKU3h5cElrc2lnM2JUd3o3NzJOamZLU1ZFd01oTGdEUFdSWWYzSTkyMy1Mck1IS01wVWdVUXlPYjAycHZHaGI0Q1Z4NTdPbWxLM0YyTnh1OEVEbFV5X0VoVVBydUpITGJZbFE?oc=5",
+            "date": "2026-05-01 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "너무 빠른 ‘에이전트’ 보급에 큰 ‘재앙’ 우려도",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zbGxrdW93UDZFUmxxVUFuUzlnWmtOMWU4cGFtbm8wUE5nV1lCb05MZ0ZoaTJKeFF1dkdiejRTRklubDZ1T1pHVEQ3eXJFTzRFMjUwUWJBN0tlVm81Tjh2dnBMZFlqVnBCV2lEWF9PTXY?oc=5",
             "date": "2026-05-01 10:42",
@@ -21460,6 +21473,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "이글루코퍼레이션 “쏟아지는 보안 위협, 해답은 AI 자동화”",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qRVJodlR1VjBkRUdnMk54cmVad2ZmZHRsdE0zd1htaGIwMXFlekpVUTAxRHB3cDdvRC1KMVJVUWx2YUlQM0dRWFhYd3lYVjdCZzdqcDVMdm1SbmJpb0FxdDk4bU55VFAyRjlFaVhFYjbSAXRBVV95cUxNUldNd1c0VnA1RFF3QmZrUUdsUjRZdUpvQnZqaHN2YzgwVlQtb2F4RGdhcDFzTEtuZ2hZTWpZbklkWHFzcGg0QXJJdFJUMUQzMjd1VlNsU0RNQm5HRksyTEdabkp6bU5wSWJGZE53VGppTlhlTg?oc=5",
+            "date": "2026-04-30 07:15",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -24144,6 +24168,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "한전KDN, ‘차세대 사이버보안 체계와 안전한 AI 국가 전략’ 워크숍 개최",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1USmxmUFlSLThVbGlfR0JLSFAwbjBCUEY0QWR4QVJiS1o0V2w2MUYzb1pGS1dVcXNxWGZ0S25TbFdaSTZ5SnlmblQ3Wk9IaHpOZzN3aWM3ajB1cl9xWlNGcHNGSHh2a0doelJDUUlZZzhNZw?oc=5",
+            "date": "2026-04-13 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30546,6 +30581,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "신뢰 없는 생성AI 확산, ‘AI 탐지기 시장’ 검증 인프라로 부상...연평균 27.9% 고속 성장",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KdVRuVnFybDdMdnl1ZzcyVDZaZ1ZnSFZieXRvNkhsYVJWMzdHc3RqR1NVZ3pHVTc1WENYVzR1UDQzQV9JYUVqWnVNcTFkeGhOME16ZnFMbGpoY3AzTk9MejFoVkF2bW5ZWmc?oc=5",
+            "date": "2026-02-09 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -38782,6 +38828,17 @@
             "title": "“원격 액세스 보안 업그레이드” ZTNA 솔루션 17종 선택 가이드",
             "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPM1FHUjRudU81WVZEb1c1ZE13UFdCQ2NtUmdnODVmTkttZllBVHNTVFBLOWlkYTBrYUV5WHVtZUFPRnFUZjUtNUk4cm93d2hfTUh3Q24tZzYtanNlYTQyMG1TQktXLUxhWklXQ1lHeFpIblR1R29yMmExelBtTGRfaTcwU0hYSU4wZzBPZEdqMm5GVVFXZGd3dDIxWXlLeWdSYjBNb1ByaERzcWNpOGtrbTZOc0VTSF8xUTdfaVl1aFdpZktwa0xUbEhNSjNBb0p0cENPWnlnZllfbXFpWXh3RGJ3d2VjeWhoT3dZNGNpaV9nTFNTdmlKR1V1bHlvVzRUZC1DYlpMZklLdXBrWHZtMFZ4T2lxMl9PU3FVSGtwTVk0Q2ZaUV9hakl2ZS0wVjM1eGJqNXJlQmtWYTZNSWplRlYxTnA?oc=5",
             "date": "2023-08-10 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "팔로알토 네트웍스, 2세대 ZTNA 위해 원격 접속 보안 솔루션 기능 강화",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtcU42dHQwcUpBMDg4WHA5TC15YUdDM2gyNmJoQWVSbk8zNnh4UFo4Qzlacm1icThybFl4S1ptZ0NnNmRWZU01NHBoY0tXZ2xoUjZrM0xrNTdyMkJrRE1Z?oc=5",
+            "date": "2022-05-19 16:00",
             "description": "",
             "category": "제로트러스트",
             "keyword": "ZTNA",

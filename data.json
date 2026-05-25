@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-26 02:00",
+    "updated": "2026-05-26 03:11",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -7473,16 +7473,6 @@
             "is_today": false
         },
         {
-            "title": "'삼성SDS 보안 자회사' 시큐아이, 이익률 상승 속 현금흐름 '뒷걸음'",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpd1ZoVG5aRC0yV25KUThZWXZvd3R4OVVSc0VkVTZNWnBXdV9mejR3R3BTMTgxNUFSVndrTGMzODFqRjc5SFE?oc=5",
-            "date": "2023-04-17 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia™ ITU·ITM 선보여",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FMDJ4TVV1TWVIYnBoTWUwNG90WEowWHd4VTB1N3dhU3J0dGlGRU45QjhfU0M2dER2Y2pJY21oaVQwSHhSSW1FYlZiakRhdw?oc=5",
             "date": "2023-04-05 16:00",
@@ -7623,16 +7613,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, 11년 연속 국내 네트워크 보안 시장 1위 달성",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZajlDTU5Dc3Zxck1oN3hmUG5COHJteFpUY3JRMnZ5ODNKU1MxSVNubkxtSmhFd2xCTGFrek16Q2h2RlZ2OGJGVi1LbjBZREZpWUFkSk1BaWF0SDFvTmV3?oc=5",
-            "date": "2022-06-30 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
             "date": "2022-06-10 16:00",
@@ -7664,7 +7644,7 @@
         },
         {
             "title": "시큐아이, 국내 중소 보안전문기업과 일본·동남아 보안시장 공략",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zYlp3MjVOZUY3SDJDNGY0TFFWYVM0VE9YRGlqZ3MxYUEzQWV0Z3UyZ0FzMThQY0d3RFY4T2JKSkwzTXhOMjFpUUM4dXpkWVdWVFB6Q1U2TXJxLTZCUUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VeTZnLVhSLU0yMlg2VGViN0dsM1hOTGMzSHk0dE9RZzdTaFRvenk4cEpWLWUxY090VFBrN19IeUFUcEtsU3ZCQ0ZPNV91WHNTVnFXd2owWEpuVTFPcFFCaGM0dGpSbkh2M1g1d3I2VzJNc19R?oc=5",
             "date": "2021-05-26 16:00",
             "description": "",
             "company": "시큐아이",
@@ -7676,6 +7656,16 @@
             "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
             "date": "2021-04-20 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[상장기업분석] 윈스, 네트워크 보안 기술력 인정·실적 양호...'AI 클라우드'까지",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CZV9pUFZvWlhKS09vVjhzRkFZM3JKM2FCUi1Sa3NHNXFWR1JWRU1LejlNVU56OW5wY1lNaFd5b09NU0pMaGYtRmJ0WEh4UQ?oc=5",
+            "date": "2021-04-12 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -8023,6 +8013,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 추석 연휴 비상대응체제 가동",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1obDVNc1lSTGFJMmEzNDI5VmtDU1lteGp5bjRKLTdCR2ZqU2Qxc0FrZmV0Z0xNVFJ5aDFsbm56b1RrZXNKbl9EcTNDTkd5Y3JLVlV0MDRJMDdMOHhEbGdlNUc2UHR0RzlEMWVxUFpoTUc?oc=5",
+            "date": "2013-09-11 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 상반기 매출 285억, 영업이익 58억원",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wLUxEU0hxZlBDSHRkaFdHbl9hc19ENzQ2a1BjVUw4MTYxTUhMRnlhemVVSnZVNF9nUWxadFZiOUx4MzBOX2tuREJNSkFWUWdfeXotMXRHSHJtN25QV285RVc3ZzdKbUFEYVVFYk5xenZBZw?oc=5",
             "date": "2013-07-29 16:00",
@@ -8036,16 +8036,6 @@
             "title": "윈스테크넷, 개인영상정보 내부통제 솔루션 출시",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iV2h3VVgwUk9yeVM5UmktU0tieF85RWwtSUFLVjkyYlo5a0d0Uy1CQzE0Zjg3djJXS0ZOeUdPM3MyckNEVW42R2JHNUUyZjhDdW50VFhxMFhtZjJaYnc?oc=5",
             "date": "2013-06-11 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 외산제품과 경쟁할 차세대 방화벽 출시",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5Q19rV01sekNrVmpNbE5OLUhBV0NZaHRxYjliSlJCZ0FYRHlQREZBZ282LS0taVhLeU9YcTIwSkdmTk9LenhCS1o1ei1XSENaT0N2XzFCSUM2c2hYQ3BrVXNaa1JJUElfYVdDVlhtRGs?oc=5",
-            "date": "2013-03-04 17:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -8532,6 +8522,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "이훈 에이아이매틱스 대표 \"차량 52만대로 검증한 온디바이스 AI, 산업 표준 될 것\"",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LeTY4RzVQbm9ud2RUMG5xU0gzOG9mRlpjQlJTaUh5VXY2OU1aNEkyZVVjM0ROQjdDaWR1eUVacU1uOF9XckE1anJ4OFMzbmlxWkQwbXdROXdsWVBhelBMS01hWG84QXNKNHc?oc=5",
+            "date": "2026-05-25 21:53",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 표준",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -33760,6 +33761,17 @@
             "is_today": false
         },
         {
+            "title": "앤트로픽·AWS·오픈AI 外, ‘에이전틱 AI 재단’ 출범···기술 표준화 나선다",
+            "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOcEhNUll2WDU2OEhfTlRiSWRzSmk4OGpnZzFGc1RXNUtkQWcxUDZLb1c1UF85MG9RLWVSNC1TcWF5ZkJVX3BiYkZtRndhZVlpaGpYUXZLX0lfNHpvcVlUYVZ2X3VoOEtwbEJlZkV4YzU2OFpWYUVyMnJWbll2Mm5XN25RaGR6OEFFbjNWQk13NFpzQXc3bi1oUnZNQlhOYzd6LUloN0JxVUJvd1pCajhuLVc1MFhrU19HMnJUVEEwaFhwTk1ma2l6YzZadU9iY0dBdGJwYk9SQXR3U203WFRzd3hySmpWYXNabVVqUHJIVEdhQkpTcHg1X0Z5ajltdFg0SFNaSEFxclhyNGh6dExDM0hRSV9obDhoazVoTHJDVTRfakpfZjFkRXhYTllzV3R2cU9mZHZTaGwwVGwyMkEwQ0dPTDRfMVhvd2Q4djlNZXhIVmtlV1E1UFJB?oc=5",
+            "date": "2025-12-11 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 표준",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "공격자, AI로 속도·규모 확대…위협 무시한 조직이 더 취약하다",
             "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOemlXMzJ5WVBnWW44ZUlmQ0J3aFNiVVdkVWVLcHRaTk1SYnJ6NFhvcDBpcnlHME53MkhuWXNlVnFMS2Jzb2UyZnUtR24xY2d5NS1pVWpKOWtnQXlTbW0ycUNYYXhGRm8xUG1ZNGw0WkVWdVgwb2t1djBCZTVjNFBROXMzM1ZIZmY5S09YWVd4WXFXTlQ3Q29aMzI5aW9mQ1lyM3ZSS3cyLWZwVnE5bW1relZMZ3g0LV9FTGdxal8zM3hIWUhhQm5BWC1GLWZ4bEFUU2U0NFl4djJPcTVVODJJRUZfenBwQjF1RkUtSks1WnJPRklzeVhERThncW5weEJhVjVQRTU3UFVrVFkxdTlZZDFnQmZHQmEyN09KRWlOUGZrc1hRTTBOblBqUWVtcGJSWHB2TTRaRlFFY2ROanZPNUotMEVQOEhpS2drWnpMbXBLZw?oc=5",
             "date": "2025-12-10 17:00",
@@ -35823,6 +35835,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "NHN KCP, 에이전트 결제 프로토콜(AP2) 지원 계획",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wekhqZlVRa0pSRkVWbnpsendBUHFNWTU5emZXR2J4SnBBeXp2WTk5N0JoUzcwU1FlT2ozOWg4U0duczFEeEFhWGFFN0RsNWZxT2d6cTlMY2pyRC1IdDlhNlNVUUk5SjZTTDNON2U2OGJVZWpo?oc=5",
+            "date": "2025-10-16 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 표준",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -39040,9 +39063,9 @@
             "is_today": false
         },
         {
-            "title": "SKT, 블록체인 DID로 캠퍼스 혁신 돕는다",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZbE91TDhNUEJfYVNuejFrRkpJc1BvYkt5dnlIZGc0X0duS1FCaUNVMHQ2YUxIV1c3Z0haRm9SbUpTbERibjZ6Z0xsRWs3NE1YRUlwY2I1VENjcW1QYno1U3lkdjRSVE9FVEQ3T2NJV0hMMXM?oc=5",
-            "date": "2022-08-17 16:00",
+            "title": "NH농협은행, 모바일 운전면허﻿증 비대면 실명확인 서비스",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TQVlELXpNTnE0ZVkzbWExY2pxSXNqc0hUOHhHYzRmNG44d1BvUkwtcUd6aDFFTmRpbEkzVHB1azB1V0VJcUE1MUFBYWVjb3pqdFdYYUh6cmJDNUFFVTdteHVsQkFuZjNKd1dB0gFvQVVfeXFMTlpQaTE5Wmg1MVJhNzZlUG1zcm52ZDU3cmxkNDBXLXZRYVVGNmZoMGEwV0paZXpkVlp4c1kzWnNkbmhxNkZ6dEZaVnl5Y1I3aFlOV1JRWUZVUWx1MWVhRmtFSGROTllQQi0xVU9TeU9R?oc=5",
+            "date": "2022-07-28 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",

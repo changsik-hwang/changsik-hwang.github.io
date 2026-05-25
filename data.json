@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-25 17:00",
+    "updated": "2026-05-25 19:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -7574,7 +7574,7 @@
         },
         {
             "title": "시큐아이, 국내 중소 보안전문기업과 일본·동남아 보안시장 공략",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VeTZnLVhSLU0yMlg2VGViN0dsM1hOTGMzSHk0dE9RZzdTaFRvenk4cEpWLWUxY090VFBrN19IeUFUcEtsU3ZCQ0ZPNV91WHNTVnFXd2owWEpuVTFPcFFCaGM0dGpSbkh2M1g1d3I2VzJNc19R?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zYlp3MjVOZUY3SDJDNGY0TFFWYVM0VE9YRGlqZ3MxYUEzQWV0Z3UyZ0FzMThQY0d3RFY4T2JKSkwzTXhOMjFpUUM4dXpkWVdWVFB6Q1U2TXJxLTZCUUE?oc=5",
             "date": "2021-05-26 16:00",
             "description": "",
             "company": "시큐아이",
@@ -7953,6 +7953,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이닷컴, 닷컴 빠진 SECUI로 사명 변경",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTVZGUjByNVQtUnEtaENHQjBiUVZuNzBRTTZuOTFTaHc4MHV0aEhXNWNBSG5SQlQ4dHRERVNaV3RiVEdnTVByOGFnTjRydVY0OG1MWDhKY0FsQ015ZDJ0UnZWOXlOU19JREE?oc=5",
+            "date": "2013-03-29 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 외산제품과 경쟁할 차세대 방화벽 출시",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5Q19rV01sekNrVmpNbE5OLUhBV0NZaHRxYjliSlJCZ0FYRHlQREZBZ282LS0taVhLeU9YcTIwSkdmTk9LenhCS1o1ei1XSENaT0N2XzFCSUM2c2hYQ3BrVXNaa1JJUElfYVdDVlhtRGs?oc=5",
             "date": "2013-03-04 17:00",
@@ -8038,6 +8048,16 @@
             "date": "2011-09-20 16:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이닷컴, 차세대 방화벽 SECUI MF2 시리즈 출시",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oMklPbzZyem1QVXdyWDZWN2VicEI1MW5lRWUxaFdIWEFuei1fZVAwTFVMMlVHR1NHOWFFNjhlQTJ1Z3JUendpMVdFVWpjRW5ZdGdITTlxeUp6R3NW?oc=5",
+            "date": "2011-09-16 16:00",
+            "description": "",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -8425,6 +8445,72 @@
     ],
     "trend": [
         {
+            "title": "AI 에이전트 보안, 신원 및 데이터 센터 분야 최고 유망주",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TX0FrazgyUTdHOHlraC1FY2pRWk15S1ZTck1kOGpjSXpWOEhrbmZNUm9hdWd3WU1oS3poejIzbFhwbHZXeFZGLXFac3ZPZWxqU1B0S203dHlFOTFiTk85M2lTMlo3bUFOWWs4T2hPRGR6N3k2RXY0?oc=5",
+            "date": "2026-05-25 18:40",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "코그나이트·ABB, 산업용 에이전틱 AI 협력… “산업 시스템끼리 스스로 협업한다”",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GbWY5cEZsSkN1U2lPcF9yWVB1Z1NmQlpHQk8wS2JCU1BPQmtkYXRiWXI5SllfZ3RTTVRZM3VPSWd2dEtuV3Vnc2VjVUNDV3dkSUxQYzlGV0g0OGhrNS0yS2Zpb3NGQTg?oc=5",
+            "date": "2026-05-25 18:22",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "영국·호주, “AI 보안 위험 공동 대응”… AI 안전 연구 협력 강화",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLWkt5dnRSTFI3TjFTQU10cFhxVmdjWjgzazJSWlZsbW1qbnlaR3dsaG53b3RxV3Q3NDlETWJ1VHl4TUZyTVNDTnlOSG5qM2h0cEZQYldMTl8wVnNqbUgtNUVkT0s4MDA?oc=5",
+            "date": "2026-05-25 18:10",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "“만들긴 쉬운데 관리는 어려워”...기업 위협하는 ‘에이전트 스프롤’ 주의보",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4TEI5dFVCMzZmYUN2NTBXTnlSTHRJT0tFMmtMc2RJS0VRZndmdWgzMFlKMWw5a1cyQ29mM2RxY09oZ3pwenRTSnVFRXhUUGhkb0tFdHJtbnV2RWlFOGV6cHc2cklLRkstcXc?oc=5",
+            "date": "2026-05-25 18:08",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "제미나이 과금 논란 속 구글 \"AI 보안 전략 처음부터 짜야\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93T29vaDRrblNicERaUlBSSmNUaFJvNXh6UUh3SWVYVFpGMzdkOGM5NGg4Z243TnpTM0hwS0N0S2l4WTlrbS1IT09NdEo3WUVnYVFiekhR?oc=5",
+            "date": "2026-05-25 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "앤트로픽 '미토스', 한 달 새 취약점 1만개 탐지?보안 지형 '흔들'",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40T1Q4eWc1aTFjUmJjM0pScUZ5T3pzMk1iZzJ6QTBzZkVqOU9VY2JCbkRhZEtKd2VjN2NQVzJvRFBJckpVM24wNkg3YnhkTmhQdW5Z?oc=5",
+            "date": "2026-05-25 16:53",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "AI 보안모델 ‘미토스’, 한 달 만에 1만건 취약점 발견...글로벌 보안 지각변동",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XT09jdEZjbGpsUlNaZEFnU3NNWnYwbDhkbEFOcjVFMk0xS3FEZG9BUlRDOTFqNEo1aGdHbVUwZUdIT2pQZEVBU0E3cVBDNktIY0gxSmp4TE45MFBwbWstLTlDMHRtanc?oc=5",
             "date": "2026-05-25 15:52",
@@ -8695,6 +8781,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "디웨이브 수주 20배 급증… '양자 컴퓨터' 거품 가릴 핵심 지표 3가지",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzFyaUVLMWlDc2JDSzFWVXd6MmprQ200ZWp1SmZSQTF1Y1hITE1PRGdNb3FQZXVmbE5wekhsWHRJUmZXVWc5Z0duTDY5TXpxZTJQSFZaOWFBSGk5YWtzN19EdHlJX2lXLXE2VkthY3dqT05Vb1IxVlpvOXctcWdieTJKc1RWdlpW?oc=5",
+            "date": "2026-05-25 07:25",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -10708,6 +10805,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "NH농협손해보험, 제로트러스트 보안 체계 도입 시범사업 참여",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpXzRWSWZwb1VBZ2F4cHg0LWowMXRMcVY4R3JreFlBbUtjdFBjMHZ4ODlyOE91Z2dCaVpIMEdRYXJNR2JhRXpYcFFHY3lOekNkd3JYdnl1czQtMTUyMW9yNGhwWWFQSDg?oc=5",
+            "date": "2026-05-22 11:42",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -19777,6 +19885,17 @@
             "is_today": false
         },
         {
+            "title": "[단독] SKT와 양자암호 VPN 상용화 성공 소식에 매수세 몰려 -> 양자난수생성 기술 탑재로 철벽 보안 생태계 구축 완료",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rR0VreWRZcUJEVXlmaGRWdVdvRElvd1R6bDJ1ZTJZWmNoczM0LU95dHZJUW5zNFFvbDM5aFpZZ2U5N0hyUXI1SE9acTJWV2hoMUc2ODR6X1NkVWlFYnVEZkVxNng5aUg0Tm5iWk91eUltZw?oc=5",
+            "date": "2026-05-09 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "한컴, AI 오케스트레이션 전환…에이전트·오픈소스·일본 확대",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjUnBseXlIdE9ZaHNDYnB2OHJvR3dFdmhJU01vaC1mcGNIc1Z1eXhiSWxPT1B3aEpIMHlVSExkYnR0Z2diZGpDSzVySjJoazI5TTVqTFJZSWtPUWlsZTF1UlY2aTVjekZMUDdN?oc=5",
             "date": "2026-05-08 19:02",
@@ -21235,6 +21354,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Kite AI, AI 에이전트 결제 인프라 ‘카이트 메인넷’ 출시",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Td241RDh6ZzlpeGJrVHhoT2lBSEZfNmdZLXZBSVhjRmh4aVVMYmpEZVN3bEdrTUZlOUFjZlJlVDJpLWZNa3hDZWVCVndPci05V0VhUU1IcEV6YjdtV2RaZkln?oc=5",
+            "date": "2026-04-30 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신원",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -31492,6 +31622,17 @@
             "is_today": false
         },
         {
+            "title": "이데아텍 AX iPaaS 공개… AI 오케스트레이션 기반 AI 실행 전략",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13Y3FTWVA2aVREYnI5a0VNOEJaZVlOVmR3ei05MHcteEw5OWMtUktOX0IwWEY3cXE5eHdlMzlLcktSTDlzQkE?oc=5",
+            "date": "2026-01-26 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "멘로시큐리티, Zero Trust, 웹격리로 해킹 100% 막는다.",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLb2dWbkZLbVdXYzFVRUthQ1dVUVNoVVc3T0RteC1kczhfWXNVQjZ1amFJdDloM29uV29wMGNxUUljMWFpaXQwSHY4TlBtbk9vM2dtVk1LMzY4WG9ZdU4tYWZ2eEtoTXpTV19z?oc=5",
             "date": "2026-01-24 17:00",
@@ -33819,6 +33960,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "엠클라우드브리지, ‘Microsoft AI 기반 Ai 365 오케스트레이션 플랫폼’ 세미나 성료",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Dc2ZTMFNmMFQ3RzVCdURNUWV4N2RyRy1MUXdQdG1xbUsya2V2Yko2RXZha2x1Y0lFWEJyUlFEdFlKQmhTcE9abDI3LUpvaEMyRFhYYW8wb2I5X3M1TjlzU0FfbFdZRmU0bldqcURGY3VxZmVIdXNB?oc=5",
+            "date": "2025-11-25 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 오케스트레이션",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -40963,7 +41115,7 @@
         "2026-05": [
             {
                 "keyword": "에이전트",
-                "count": 202
+                "count": 204
             },
             {
                 "keyword": "국방",
@@ -40975,7 +41127,7 @@
             },
             {
                 "keyword": "제로트러스트",
-                "count": 76
+                "count": 77
             },
             {
                 "keyword": "공개",
@@ -40985,7 +41137,7 @@
         "2026-04": [
             {
                 "keyword": "에이전트",
-                "count": 119
+                "count": 120
             },
             {
                 "keyword": "표준",
@@ -40997,7 +41149,7 @@
             },
             {
                 "keyword": "결제",
-                "count": 32
+                "count": 33
             },
             {
                 "keyword": "에이전틱",

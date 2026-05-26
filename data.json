@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-26 22:00",
+    "updated": "2026-05-26 23:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -8605,6 +8605,17 @@
     ],
     "trend": [
         {
+            "title": "구글 공동 연구진 “AI 에이전트 보안, 모델 아닌 시스템 전체의 문제”",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nMksyc1RPbnI1WFc1NUQxTnNkQ0R3cnkxdjBybHVxV0NsOV9CVE1zMGpCNDE4OU9pMVJPS01xWUo3azV2SWRsamxSTHoyWU9vN0VPTjFKbmFVOGtOQy01RHB5UUZzQWR2X2MzSGxtblZtRmc?oc=5",
+            "date": "2026-05-26 22:25",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "KB금융, “AI 공격엔 AI로 대응” … 그룹 통합 보안체계 고도화",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uNUVvV1kzMGlRYzNqd0dPY3c2MGl6Q0daUlJmQUZieHNKX1YxclhIbGNaUnBRbzY0dTNHdUl3a2VFcTZwQkpMV1hKczdYNEdyY3dKSVhwYkpudl9leEFrUC1mRktxMkIyTUpDTA?oc=5",
             "date": "2026-05-26 19:58",
@@ -10202,6 +10213,17 @@
         {
             "title": "로그인 후에도 계속 검증…한컴위드, 지속 인증 솔루션 출시",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpb25UeVFuZUE0ZnR5eWZITXNSdTQwbVpEWkhSNS0yZm9XdTRkWHdWQ29vekllaXk0cEpueG5MQWptdkkwZFBSWkYyRkxDZlNWNThB?oc=5",
+            "date": "2026-05-26 09:31",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "한컴위드, 지속 인증 솔루션 ‘한컴 엑스씨오스’ 출시",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15U0VrYjM5S1ZyUm05MWs0eUY5dklhZWxRaVNJQnE0bUhvaDB0eThzTE5vWG1vc1lSOF9ibnc2YU9DTTJxMENpX1U4bmlLeXZOU3M4NnR2ZkF0Uzd5LXJBa0JPTGt4M1hN0gFsQVVfeXFMUFVWODlpaExCZnlSLXd0TG9lbVdzRDF4LWZoRTlIZGtUV1d5akl1U0RaN0tZb2otejVLMTJ4SHQtajhQLUdxekF1UHg4RGtid3FfZ3RLQjh3TVEzamRjbHhxbkVKYkcyQTBId0Jm?oc=5",
             "date": "2026-05-26 09:31",
             "description": "",
             "category": "제로트러스트",
@@ -44399,11 +44421,11 @@
         "2026-05": [
             {
                 "keyword": "에이전트",
-                "count": 225
+                "count": 226
             },
             {
                 "keyword": "금융",
-                "count": 152
+                "count": 153
             },
             {
                 "keyword": "체계",

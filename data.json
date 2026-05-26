@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-26 16:00",
+    "updated": "2026-05-26 17:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -5283,6 +5283,16 @@
             "is_today": false
         },
         {
+            "title": "K-보안, 일본 진출 박차…보안 수요 급등에 대응",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZVA5ZUY4Q1I2WUlBa2RoTWhVcU0xcWIwTGIyZFo2ZUVHaHFPR0FEcGFCWUtwRUFLcV9wT0wteVJiWXpuMVQzNmdNRWVFcG90aGpJNkdETFdQTm9rVWhhYQ?oc=5",
+            "date": "2025-10-27 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "조안랩 종합 카다로그 JOANLAB, 에이투지바이오랩(사진 클릭시 상세페이지로 이동합니다)",
             "link": "https://news.google.com/rss/articles/CBMitARBVV95cUxNUEVJNzJvSXZkTnA0a3ZhWEVVVW9DOE1WaHZURUZPX05USERkbTdBYlZfVEJSbXY4NFZ6YTd5VldSZ1BlbHM0MW1MdENhSEw5WFROVUt5WEJUbV9tYUZ3OUZtTjhybTcwVlMtYm9KWGJjX2dfQWdTZ3g1dWc2WlgxSWpNclZNTjlWN3JMNDk2SHdTRGVyM09Sck05V2FkWnVnZzBrUEJVTUliUWU3Q2dOXy1reUtOSFlOdTFuQ0FRYjVoLVo5TW1za09GazNUV1VreE9QemVpeFE0d3pfVzlNUWlfa2hYUlNIeTVGZUo0SnJZU1JlU1VfbnRKaGYweGMwSDNnR0FDTjRDTlNYWTlaQnFVa0FaMjNvWHhmSWlfQUZqejdKMVBqSGg2dml6Tmx0RGk3M1MzWk44N1Rmd3Q4empRRHY4Y0ZxY1liQWEzcE1WS2QxY04yamF3dFp6bTRmdjlCang1WG5NWnFIdEhSZjk2UkV2QXo3QW9VNy10N0IzVFplcTRnUkNpSmp5VjR0VjNLeFNmMTdtWURJUGRZU2FReDhZMDhqX0V6TkdITVNYNmpnYkpSNmFSeXJGXzI5NmljcmFfMGdPWHI3bkVPSFN2M0p6dEdFREMyZWQyazdzc3pZZUZVandlLVRmWnRnTEtGQkNXSUo3WlRmbWpzTE85TlJzVlFlWGxZa3FVMWlCQm9lZS01ZXJIN0F5MG9rYm9QRDQ5OUwwNFlvVXl0RHZPbDY?oc=5",
             "date": "2025-10-25 18:53",
@@ -7683,16 +7693,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 STIC 출시",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YU203OWhvTFFhTGVhTE5ndTNzcXdpYXVxQUVGS2pSTlM2eGF1d0xYbW54eDlSSm16NGo5c1ZxS1dSWERTVnZueno3dVJWcUlKNzVpRS1n?oc=5",
-            "date": "2022-06-09 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-씨커스, '보안사업 역량강화' SCA 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydjR2OG1ldlUwMmc2WjNpN3hfQUZBYUVUUlhXXzZycE9HM3NqeXF0RUxmajZBYWNRanA2d2NhNnE1Z3U3T2ZnWDhIblJKZw?oc=5",
             "date": "2022-03-16 16:00",
@@ -8066,6 +8066,16 @@
             "title": "윈스테크넷, 지난해 내수매출 증가로 연매출 724억원 달성",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QOGxCQU9jd3liMXNJU2NsNk5JMW1xOEkyOXZGRUZiWFN4YWlaVVlhQXFZQ3U4TjYtRG5NTHVRZ3hWRFhrdDhneU9BY3FSQVh1QjZQYWVDZldYLUNOaVNEZk1KVVk5elFnY0dGbXY1RXRCUQ?oc=5",
             "date": "2014-02-11 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 추석 연휴 비상대응체제 가동",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1obDVNc1lSTGFJMmEzNDI5VmtDU1lteGp5bjRKLTdCR2ZqU2Qxc0FrZmV0Z0xNVFJ5aDFsbm56b1RrZXNKbl9EcTNDTkd5Y3JLVlV0MDRJMDdMOHhEbGdlNUc2UHR0RzlEMWVxUFpoTUc?oc=5",
+            "date": "2013-09-11 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -8545,6 +8555,116 @@
     ],
     "trend": [
         {
+            "title": "\"AI 투자액 20% 보안에\"…금감원, 금융권 디지털통제 강화",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SR2F1MXNJWGpEZVI2a01FM1Q2QnJvdDN3VnJxMlN0VVVQY2g4SGFJaXBTeXpaQlRueFNEdXRJaUJ2NHVwM1FyZVRwNDRWV3JsTXVJ?oc=5",
+            "date": "2026-05-26 16:49",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[미토스 충격] “미토스 접근 안되면 하위버전 최대한 활용해 빨리 패치”... AI 신속 방어론 ↑",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sc1FTczNCdFIwUjRrSzM1SEt1LWZYQkFsbEZtVlpTN0gzcG5ZczlhODlvY0s3cTRxRkpRQVNtTDFKdDhZZXl2NVBaTklVbXc?oc=5",
+            "date": "2026-05-26 16:46",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB금융, 고도화된 'AI 공격'에 'AI 에이전트'로 맞불",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5selF6TUJfMlJkZVY5WVIyWnZqbmJNSDYyRkdGYWNXbUVyU1BLMUdycWdJbjlKLXZkVTdPcWl6VDdGaW1qYjNScGVQMnZNNjlWUzJr?oc=5",
+            "date": "2026-05-26 16:26",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "구글 클라우드 API 키 무단 도용으로 개발자 수만 달러 피해...“AI 보안” 강조와 엇박자",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OT0tRRXF6N1hIN1o1aTB4a091QjRienZ6U1FCUVNqUWZHb2RTOTJRTHZFLVEzUlZJN1pmbEZFM2tHaFd1RzVlcHV1a1R2MVo0MGZCUWpRYkRuUXdGb0NZ?oc=5",
+            "date": "2026-05-26 16:22",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[데일리 뱅킹 브리프] KB금융, AI 기반 사이버 보안위협에 'AI 대 AI' 방어체계로 대응 추진 外",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZzFMWHpjZ2VsMktmMWxTWkFjNmcyV21SYkp0dnFrTTB4WUIyMF9QNm0tLVhZbDg3d0J4MkVsaWMzamJIX3E2VjBid1IxNi1SOUFF?oc=5",
+            "date": "2026-05-26 16:21",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB금융, AI 기반 사이버 보안체계 강화...'AI 대 AI' 대응 본격화",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BbUx0YnpiMFhRdDRvNWpWTGJzT2FBajdsckFQVUtYOFVpdjh2THR5QjRfS1NyWFcxODluOHdaZ1JCRlV5eUM1dTNoanhMblpiY2xnYm91TnlYRFdSWjBDa2cwV0twZw?oc=5",
+            "date": "2026-05-26 16:20",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB금융, AI 사이버 보안 위협에 'AI 방어체계'로 대응",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hYktUVWlKVFVjQzlBa2xzWW04SURvVlo0ZHBRS0JSOEtyZ0ZMc2FhcldMUXRRM3IzNlB6cWdITldqUHV3VU56MDlESGlJdlpjd2lQWXVxTTMxYWkxWGcwT9IBeEFVX3lxTE5PdzhJbXBZZnV6dFZ4UjNfZDNBVlB0RTVmZ3hGOUNaN3ZSQWczd3VQa3h4WDgtUDJvVmlVNFNMR2JicFZnZzV4VVd3NllZQy1kT2hmdTlQVUJQSUowVmYzZHNRVlhQQWFfZ0ZUcnJnUkxjdEZ4VzU5Wg?oc=5",
+            "date": "2026-05-26 16:20",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "챗GPT 등장 후 해킹 '63일→5시간'…\"미토스 대중화는 곧 해킹의 자동화\"",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OdmdVRmRiYlNldEJFRmVrY2hFNVo0R015aDZ5VXRuVDJ5M091MUZQc201Y29JNFhjU0I4S2dVNHU1SFJva3NJTGNmbVlXdGM?oc=5",
+            "date": "2026-05-26 16:17",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "정부, 글래스윙 대안 찾기 ‘사활’…보안·과기 분야 AI 접근권 확보 특명",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BVl9vdmNTWmc3QkpXVmVhZkY4QUlXQ1hvU3ZlWktJTjdTdExzRGZFVVZuLU5kYXhUdEpjbXRONjZNZEQyZU1rNFZRd1Y1SHJFTWhlZ2gxcWVfN080UWdMdTdxMVk?oc=5",
+            "date": "2026-05-26 16:06",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB금융, ‘AI 공격에는 AI로’… 선제적 보안체계 강화한다",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CWTF3QzdVbm1yUThEOFRPXzFkbDQySnZMTU80WklIQTRjenlWUktZUGZTQnY3Y3ZWaWQ0QXMxM2FLVnExS0NDa216T1pYYUJvcVBaNHZhUEtmbVpkUUh2Xy1sS3E5R0FvZ2d4YUV3?oc=5",
+            "date": "2026-05-26 15:49",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "“양자내성암호 전환, 지금 바로 시작해야”... 제7차 양자보안포럼 개최",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SWlBzTkduYUNheXlrSWpjdE05Nml2Uk1BVGFYQWtGVW11UWZxa2lzaW44V09kOVRpZklTTHJIVlRONkt4YU0xNUpIN2FndFk?oc=5",
             "date": "2026-05-26 15:39",
@@ -8787,6 +8907,17 @@
             "is_today": true
         },
         {
+            "title": "[#시큐리티 포커스] 지니언스 '양자 보안 게이트웨이' 개발·한컴위드 '엑스씨오스' 출시·라온 '마이데이터 시장' 공략·엔키 '데프콘 CTF' 수상·스패로우 '글로벌 레퍼런스' 확대·샌즈랩 '커넥트데이'·KISIA '글로벌 인증 세미나'",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BN2NjcnBxQ2c1MHd1eGxNc1Nma19tSDBEakxXUVJuM0FGNmdXbzVNTWpMS0pUQ3R1RmlIdERUaC03dFg1WWVTN29jbndyTkpibzZWNHd5STUydWMzb1Y2RWpYQnpTdkZVU1ZIdTlpUdIBc0FVX3lxTE5lWlA1SThtcklEaUdQMWtHOFVRVUFOMGZmRVZ3RVhpdnQ5emdQWW04bGFVclZXZjMtUE56bTlnNTBJaGhGMmkxaHdUQVNtaWJ2TVl1c1pKWDFDb3BKZ21hR2p2Y3NYTHNySVpJOUpSZ3VyVU0?oc=5",
+            "date": "2026-05-26 14:23",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "[신뢰 대신 검증보안]한컴위드, AI 기반 지속 인증 솔루션 ‘한컴 엑스씨오스’ 출시…제로트러스트 보안시장 공략",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qTzhkRE1qSUdZMExKZm1fLUpDSTZlay1qOGpjdWc4bmh0LWRwNzBydG4wNFBoUmpJUURickZhQWxrODdVUE9lVzI5UGUxMklsbjVnejctU29yM0pmQnZVbC1nVnViNnFPM3prV20tOW4?oc=5",
             "date": "2026-05-26 14:22",
@@ -8881,6 +9012,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 에이전트 시대의 보안 위협, 방어 중심 정책으로 전환해야",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzd2Y3Y05wMmpmQzc0STJGQm9rZUt1TGxLT0JMUFJGdTRqNWswNWlITkRaUGx3VGhSV3JkVjhFSi1abUtkMXpGUWItTmNpT3hDSm5YSXpTMlNvbV9uYngtZk9DUmNyd1E?oc=5",
+            "date": "2026-05-26 13:57",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -9464,6 +9606,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB금융, AI 기반 사이버 보안위협 'AI 대 AI' 방어체계로 대응",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kY3A3NFJqb0EwU1pRSVMwMThLRXlSYkNDM1BGLTJmcmdQSVB5ekdrQ0dEQ0w4bUNkdjg4Wm4tSUhud3BXUzFyTlR3VEVaYUlyb1YwQm1TVThzWGVqQVNKTEVHUjFIR3A3VFZDQ1czcjY?oc=5",
+            "date": "2026-05-26 10:15",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -10311,6 +10464,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "“AI 에이전트, 성능보다 통제가 중요”…보안·신뢰 경쟁 본격화 — IT뉴스모아",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54bE1RbFhvRjJlUFlvcVVzLXBQM1lmdFl3MWlyU2FaYnhXdm1kTlpQdGw2ZnVtQ1VELXZaaHZGU1hNX09oV21HX1V1X2xLeUtwUzJn?oc=5",
+            "date": "2026-05-25 23:36",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 신뢰",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -30424,6 +30588,17 @@
             "is_today": false
         },
         {
+            "title": "메타, 보안 결함으로 입소문 난 AI 에이전트 ‘소셜 네트워크’ 몰트북 인수",
+            "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOUWV2OG1VYi1XT2RObDhZUjlaRWdVQk96MTNMMWFoa3YyOFNTV0dyYU1FZHo2MW9RXzBKRXlwcElhbEJrQzV5RDdkR3VTRElISWt0UXNIbVFNVUV4ems5bnBNbVVMRW9Zang1Z05TY3ZkamR3VFAta2xvTktXOV94ZlNtQ0NENG1wT3VQb0QzOTJnanZWb1licmhhZTdyUmYwODN0Rms4YVFMelcwWWwtd3Rmb3pjZDJXYTFnUzBQY2c4U1QzUkQ1Tm1kX1hCbjN6LTd6NURhdEthX3UzRTROUEdwbVlrWk1qYzdtY3VKOWROMU9ITTUzYzF1Y3FDdTRHWjdSdk1YejRkWjVSbnBDcjV5d0ZyeXVjVC04WmtQSlBqY1JGeXpTZ01nUkxwNW9BWHMwVl9NZGZfZXg1RDJTdC1nTTFDQUp0NERnUkNIN3FBRFFCcnBRMTJiM3k0RkdTQ2lubkNsUjBOY2w5RTVsQndGTFFpSnhoaV9TUXAtaHZkbG1lOHdqSnZxN1A5YkV5T2loTWpLYVRmeS1QSjVhZU9kZ0M5TXZsVG1TNUJWbUl4dnlQNE11cg?oc=5",
+            "date": "2026-03-11 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "美 방산 플랫폼 '모빅스랩스', “AI 드론으로 숨겨진 위협 실시간 탐지”… 국방·인프라 감시 플랫폼 개발",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96a2lKa1RSZkU5eUlKVnM3aHlOV3ZrM2lvclBTOFpNNDBWa2xSd0RnODNmOXBId2lJamVodVdXQzhhdl96OHZlbDRGUnNnOFdSRnkzb3c0NnMyaGpjNTZoWUNmZWt1a28?oc=5",
             "date": "2026-03-10 16:00",
@@ -43866,15 +44041,15 @@
         "2026-05": [
             {
                 "keyword": "에이전트",
-                "count": 219
+                "count": 222
             },
             {
                 "keyword": "금융",
-                "count": 139
+                "count": 143
             },
             {
                 "keyword": "체계",
-                "count": 105
+                "count": 110
             },
             {
                 "keyword": "국방",
@@ -43910,7 +44085,7 @@
         "2026-03": [
             {
                 "keyword": "에이전트",
-                "count": 98
+                "count": 99
             },
             {
                 "keyword": "신뢰",

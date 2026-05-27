@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-27 17:00",
+    "updated": "2026-05-27 18:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -8303,6 +8303,26 @@
             "is_today": false
         },
         {
+            "title": "비욘드솔루션 “퓨쳐시스템 `위가디아 WIPS` 공급...유무선 통합 보안 제공”",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FTjVLLWk0d0szOFNNcEEyczNmdVI1aUJfUnJsc1lNZ0planlfdDBWOXR5M1ZzaklHUGR0QUdwX29aaVE1UVdhU3RSWVN5Zw?oc=5",
+            "date": "2016-04-01 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "(주)퓨쳐시스템 2026년 기업정보 | 60건 면접후기 3.0 면접난이도",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVlfTkY0Tk9MZnI5TkJuZDhtZlhpTWhaN1MtRUNxYnJlTThEeHZGOXFDdDJqbENYRUJ1UVJhanA4V3RrU2ZYeFdHM3BCMndJbTNxVWQybXpQMmhqTlBGWVJxdTE5eVhoem5hSVhTQVQyZ3h2bFNZYUdrZlFUVEtFZW9qSkJTZWY4MW5tRi1iUjkyS2xZS1ljYVp3bWtRZ0xwNWc?oc=5",
+            "date": "2016-02-27 05:29",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[오늘의 CEO]김광태 퓨쳐시스템 대표",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wZU4zdm9YLTNWNzY5ZFRKNHRMdVZjbWY5XzhwOG1OU0dqbU91ZEZaeUVyYkR3MXVHSUNvYkZWV2ZZbGFwTWJHaW5QdHdNUQ?oc=5",
             "date": "2016-02-24 17:00",
@@ -8516,16 +8536,6 @@
             "title": "윈스테크넷, 다양한 사회공헌활동 전개",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VZlNPUUxBQVk2MUZsNXA1U1FfbHFSUVFVM19iTUFBZ05ROVJHY3pJSWlISFU2RWdJUENhMVBSVk5GVnc5YWdCY1QwdklJOGppV0dHSjBsZG9MOGVKNkJJdkN0VEsyaTFuTlRrNWxTZFo?oc=5",
             "date": "2012-09-04 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, ‘히든챔피언 육성기업’에 선정",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5saU5IcDJHX3lZOFR4dFRwdmxQaWQ1LUhBMExJaWNuSEhGUEVCdzk4S1J6dkxFaUVTb3NyU1VFeDkyWGszUm5fYTJvSkRhOVotdDlhNlNVSC04bjlNZ0E?oc=5",
-            "date": "2012-07-30 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -8793,16 +8803,6 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, IPS 통합보안 솔루션 CC 인증 평가한다",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JR2R2a1lsbVdxSUlVbnFONVE3VUdGS3MxVGVfenZET1NLNGhBa0lNcEtCMDh0U3dMSW5tMTlXVTZnbF9qZktNbUlxbzk2ZDJEMXItWmN3?oc=5",
-            "date": "2005-02-21 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, 훼미리마트에 VPN 장비 공급",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tY3llSHZBVEk3M0Z2ME1rT2pTZGN4MFhFUy12U25hVlJqSTFhQU85R2pVSTFKVHVhdzd5eTlTZElfUGNFUi1HaEV5a3VnZm1vRG1OM3dSTVlZc3At?oc=5",
             "date": "2004-12-13 17:00",
@@ -8925,6 +8925,94 @@
     ],
     "trend": [
         {
+            "title": "\"미토스 해킹 막아라\"…오픈AI, 보안 AI로 韓 방어 체계 구축",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81emtoem5kQVBNSWJOMk56WVB1a040YnVpMUFCUHFBWUlYSXJCVk5UM01Xb010RVFoOEVUcFVMSG1ueVk0eEtlN2NfOU9IMTA?oc=5",
+            "date": "2026-05-27 17:40",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "韓-오픈AI, 공식 글로벌 파트너 된다…“한국 사이버 보안 역량 강화에 총력 지원”",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmVU5jcDBiSDZEektNc2JmMFFDTG43WDNVa3pnV3ExREJpUjlmY2o5dVNRdXhBQ01ZaXRjc3FTN1JTX3Q1SjhFRXhGVGN2Wi00eUE?oc=5",
+            "date": "2026-05-27 17:37",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융보안원, 중소금융사 AI 보안위협 대응 체계 구축",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwZURQNnVjVzBIYUp3SlFDY2tuclhnY3doNEFJZ3NpSW84LXAxMjFyakpMY25pT3h4cnFHV3kwbGMySlRtWDIzWjRMTE8wU2FsU3pkdXlDQXhUNHNWRm1FRtIBeEFVX3lxTE1iRkp4WGRFbkE4ZE40WlVhRVFrbmZJNHA1TnUtRXhFajBOaFQ0aVNiZHBuaEFvWGdJR2FjYTQzRDNFaTNwUU1tM0xzZTc2T2tTaW5uSU1vek4xeWhxZWRoTlZqVlczbHhiMVpzWUFOQThsWHVpOG9sQg?oc=5",
+            "date": "2026-05-27 17:32",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "이스트시큐리티, AI 개발환경 노린 공급망 공격 포착…“AI 도구까지 침투 시도”",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tNnFXTzVaaWdKVjAzTFQtZzkwYWhTc1REMjcwVnJnQ0dlbzhzaV8wSm9USG9CLW9LSk1TSEhaMjJZQUlSZkRiRnRaVEVVS1VQS1NnR0JIR2N5SmZZc2c?oc=5",
+            "date": "2026-05-27 17:22",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "오픈AI, '한국 사이버 액션 플랜' 가동",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PUlNNcFZLV1Boa1R2M1RMRGZwOEtUczJpRWdBeTByRDAwbkFtZnFJSnQ0MjN4bXA2VklVRnM5QWJtczBnMVM3djhtclNLUjhCRkktcUQzSWxYallVdjZKbw?oc=5",
+            "date": "2026-05-27 17:11",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "NH농협생명, AI 보안 위협 대응 강화…AI 해킹 대응 점검",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMloxS1BkX3paM0ZLRTFrRFFPZ3hwV3RoSHl1ZVZQOWxDa0RUdTBNM0xDVE4tb3BRM0hudzNlNTdBYzEwSjhXSGd4Uld6eGxmQ3d5N1pxMzRvSGtBdmdkQ0JyMFF0TmpDT0pURVNYUlBoX1RYQkR6bWNZWE5yWWJlekI2cTA?oc=5",
+            "date": "2026-05-27 17:06",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "양자컴 기반 암호붕괴 남은 시간 고작 1~2년…‘PQC 네이티브’ 하드웨어가 해답",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tMlIzajJyMjFXVHZWVG1FMnJDNnJGYVFHT3lRa3ZaN3JDN24tejB1Z0plNWxOS0ZSLV9qenI2d2dNSlY3aXZYdE5uaVozZTRlVzBWZzNGcThBY0dvY3F6Z191aHQ?oc=5",
+            "date": "2026-05-27 17:04",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "한국, 오픈AI 보안 동맹 ‘GTAC’ 합류…최신 AI 접근권 확보",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93Q3pSVDdjV212OWVZMV8wOEZhVW1OOXg2SEZhUTNJekQtNlNJZlpjel9PaEpWeURBcTdfUlFrLVl6RlNoMDNSQS12VjB3R2NxTFI1MDBJZ1VpNHo1ZFlhbVVnTGluV0FlR2R0VjlpeV9OWVdX?oc=5",
+            "date": "2026-05-27 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "車 보안 넘어 의료로…아우토크립트, 피지컬 AI 승부수 : 네이버 블로그",
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMmk2TXVYS21Cb1dMYlJsRGhNX2tOWWNCZ1FPcEk5cldqc09kN1ZZcmRUMDhzTlNRZS1WN1FOOEFYdWM2TTJ4YTFXT19yXzdVZFNvODBZX0Z4UEZwNlV2NlpxV09nblhMZmJFTUktTjYwR1dqcXlpdzluMFJkRnJRcUQzbFdvRE5DMWgzWW1fQQ?oc=5",
             "date": "2026-05-27 16:30",
@@ -8975,6 +9063,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "정부, ‘사이버 보안’ 오픈AI 손 잡았다···오픈AI “한국서 AI는 공공재”",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16V1JGYm1ETjFxcEEzcGlNUHhUemRCRFBsckVOamtVRm9oZ1VHcGVsNnJMUE1Ld0VobUNOSm9VLVJuUkxOLVdFTGdXY1d4ZlhKU0prV19GNXJuUdIBX0FVX3lxTE9pT2ZtOFZFLXhodTQ5SEs3WVNhNVB1Ym1oT0pLSTRLSGlPbHBRckM0cjhsNTlkMFZ4ZTFjY3pnUDRaV0VZMC0wUHVxUjFCaEhwbk5UN0xtbDBqVFFpTU5B?oc=5",
+            "date": "2026-05-27 16:02",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -41991,6 +42090,17 @@
             "is_today": false
         },
         {
+            "title": "AI 에이전트 위협, 실시간 탐지와 차단으로 기업 데이터·시스템 안전 확보",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sZlZ6ZWJmU1dUa3dVSVVoN1BDcHo0dmhqV2R1aFJNNm1COHB4OHpYQ01TVWJQakZfY2g3Mm1nSGdvVUZVMVdzMXJKVnB5QWYxS01UeTgwTHZpUEF5cDBhZTNPNjBoNHRFcVE?oc=5",
+            "date": "2025-09-28 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "메타, AI 에이전트 실제 능력 평가하는 '동적' 벤치마크 공개",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00cUlleVQxX2lvOGtUZ3ItekswV3d1aGhON0tNV3JUY1BHMGtFR01qb3FCbi1uQTJyRHRHQWVtVzd3RU1tRlVsZGNLMWYyZ210Z0FabEJwejIxNkVHdk1zTWhFS0NZelA2WFE?oc=5",
             "date": "2025-09-27 16:00",
@@ -47594,15 +47704,15 @@
             },
             {
                 "keyword": "금융",
-                "count": 189
+                "count": 190
             },
             {
                 "keyword": "오픈",
-                "count": 135
+                "count": 141
             },
             {
                 "keyword": "체계",
-                "count": 135
+                "count": 137
             },
             {
                 "keyword": "국방",

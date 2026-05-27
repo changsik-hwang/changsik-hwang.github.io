@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-28 00:00",
+    "updated": "2026-05-28 01:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -2415,6 +2415,16 @@
         {
             "title": "KB국민카드, 솔라나·안랩과 ‘코인 결제’ 속도",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpNG9xQVpNUlJTZTdFLXVpZ2FBM3BhdkMxTjdxMl9mYnpCeWJSZUtvSVhObnpucGstQ0E5dHVoQmMxUFV2aExHOVpxZDJwdmhiaWhpclg3RUpLcDhqdDdjZkhzSEpqbUVDb2pPbWhDWmtGY0nSAXdBVV95cUxPLVJGYVIzUnpobS1NdHg1dG9HX054OHRFM2otNTZQbnYwNWV4SS1ycnAtU2hMYUpFWU9kcy15WW41TDlaTWZHdkZZeUZnbHNhTlVOZTV6VV9BaUE3YkpCRWdzUnNFNDhoejUwSUlGOS1aM05oQTVTNA?oc=5",
+            "date": "2026-04-09 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KB국민카드, 솔라나·안랩블록체인컴퍼니와 스테이블코인 결제 모델 협력 확대",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PdW1EbFJOLS1rRDVtb0Q2eFhXcmtPVG9OX21BSm9HUkFVT1dtcFloOS0ybkVmOE53TS1LaEpUN0VveS1HYUZQdmcyTFZ6QQ?oc=5",
             "date": "2026-04-09 16:00",
             "description": "",
             "company": "안랩",
@@ -7923,16 +7933,6 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, ‘윌네트 ICT 트렌드 로드쇼’ 참여",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XMGRndGZ6dkZrNG8xQjVJWXRrUENPcHQyeWpRbTNidUV1LW1vWnFGWUFiZzlIWXg1cnFGZDRWdUc2bDlVSnhzVW9zWGFydw?oc=5",
-            "date": "2023-05-24 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "KX넥스지, 클럽72서 조달 파트너 데이 개최",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSVGNkOGJ0d256VTYyUUwta2tTVUx4b3FybExsdGZFZTF4eHllSHFkWkpxYTRtOWkzR1JPd3dOcGFyMHF5Nno0TDhUdjU3a0xwX1dLN1FRVmdxOWEwMzQxc0lYWQ?oc=5",
             "date": "2023-05-19 16:00",
@@ -8413,6 +8413,16 @@
             "is_today": false
         },
         {
+            "title": "[보안·IT산업 동향] 소프트캠프, 일본 ‘IT 위크 오텀 2015’ 참가 外",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53Wmg4QlBTa3FmVzVwTVJ6WVAwYl9oMDQzLXlyNGwtSnF3Zk5EZ1pVOHVSMUxrSjR1YlltR05lUTBmWExIYmt5MDBGSWwyaWhTUDl0eUFLQl9OTW01SHc?oc=5",
+            "date": "2015-10-29 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, 무선보안솔루션 CC인증 획득",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NU1JXYV9yelc0NlBtUU01NHVUYjlULWVhSGt6OXg4WU0wRUFsSktHQXlnVnlhUFJyR0sxRGphODJBWGMzZjZWbFRvbENsOUE3a1pUNTBjemR0QVRKdTRpbFQ4VGpHUQ?oc=5",
             "date": "2015-10-23 16:00",
@@ -8508,6 +8518,16 @@
             "date": "2014-05-19 16:00",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 지난해 내수매출 증가로 연매출 724억원 달성",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QOGxCQU9jd3liMXNJU2NsNk5JMW1xOEkyOXZGRUZiWFN4YWlaVVlhQXFZQ3U4TjYtRG5NTHVRZ3hWRFhrdDhneU9BY3FSQVh1QjZQYWVDZldYLUNOaVNEZk1KVVk5elFnY0dGbXY1RXRCUQ?oc=5",
+            "date": "2014-02-11 17:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -8974,6 +8994,28 @@
         }
     ],
     "trend": [
+        {
+            "title": "정부, 오픈AI와 사이버보안 맞손… ‘글로벌 연합’ 세번째 국가로",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MMXBxWE5NQlF1dlJ5Q09USWFwLUxfYW8zSnhXVkRVNkp2ZXZhcmpFOWxqcVdXVVFTaTBzRlZTUGZyTmxBSFRuYkdXRy1pV1BwU2xCUVhqLUpEUTBLNEN6WmItUDJOMUlaeHFvU011T0dyN1JsYVHSAWZBVV95cUxNbUxxRE5mVmFfemRTUEh5MEVzZy1nT1AzREpsV2xDekJEQ3Izc3BiOWpiX2JMelZGWDd4SlYwX19aaWFpLTFPOWtaSHZSNHlaWFl6QmplNl84VnpzM050YUdjUWNjanc?oc=5",
+            "date": "2026-05-28 00:30",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "오픈AI, 韓에도 최신 ‘보안 AI’ 개방… “한국은 매우 중요한 나라”",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JMzdlSlBYQmtHZkV0SXBBbW1CSFJwc3NpaE9DdjVJRlliWGhmWmJRbTIxVy1vNVZEMVV1d2w1ODZ0bG5Xa2RrOXJvMmJzOHdPNy16UkJfMjBmOHl0VzlsYWxPbkY5NEU?oc=5",
+            "date": "2026-05-28 00:10",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "벤치마크, 팔로 알토 네트웍스 목표주가 상향...AI 보안 수요 증가",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSOHNFZDRZXzN5cU5YUXRhYTZQMVItTXQyMFplS21FRTJza01ONnlJZFFwOXJvYWt2T3lGUERHR3Zkcl9BNUZpc1A0bjh0Wk9iVEd2YzhqN0NaakJQbmJ3UFAzM29uX3dwcUhTaHNaZ2hTMVAz?oc=5",
@@ -9998,6 +10040,17 @@
             "is_today": true
         },
         {
+            "title": "정부, 오픈AI와 사이버 보안 대응 공식화...GTAC 프로그램 참여",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qWGNyV0JydEprV2tybnRaTWFXZU1wdExFVUJ5eC0wVFRWWXQ5MUZ2T1JHcG9ncGlfQ3lDS0tOM1BieUdfSkI5TVVTR0Vodw?oc=5",
+            "date": "2026-05-27 13:08",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "오픈 AI, 대한민국 정부에 GPT 5.5 사이버 접근권 제공",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91YXhSRnpIUzdZMkFEQk1YYzl2OXdSU1BPTU1pR2tBLXVrelBwUGtBRmlfUk1YeUlyRlc2Zm5HQV9RNjRZVVJjbk14VkZEVjlCejRKQlI3dk9PRC1NSmlQZUZXU3RxLTA?oc=5",
             "date": "2026-05-27 13:05",
@@ -10590,6 +10643,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "정부, 오픈AI 최신 모델 접근 권한 얻어... AI 보안 위협 대응 협력",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XNFlYRnVsdkx4QmtTZ3VmZmhlQmhidE12cUZ6cGNLMmc3QWt1bl9lRHA1NDYyS3BCZXNiMnhvX3kyUEd6OUdtTnZMYXZlQVhrOVVLMExUUmp0c01RanFubw?oc=5",
+            "date": "2026-05-27 10:55",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "금융보안원, AI 보안위협 대응 위한 ‘금융AI보안지원센터’ 개소",
@@ -28357,6 +28421,17 @@
             "is_today": false
         },
         {
+            "title": "▒종합 경제정보 미디어 - 이데일리IR▒",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JY0hwWDNkNGh3bTRMM0JIOFlFTTNfanBRUC1Wa0lSVnVPYVhrS0ZzLXM3eC1UR1NSdDNTWTJRUlVUVGxhRG5JazJlWkM2dGd2RDU2MXExa21DTkRhcV84V0cxYw?oc=5",
+            "date": "2026-04-26 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "\"생체인증 넘어 AI 에이전트도 승인\"…옥타코, '이지핑거' 고도화",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RMk51Nzh4ejdJSGYtYklFT3lqWkVaN0V2OW5mQndQbVRMNUtfV1BTMmhabFp3eUlkbEV2cmRreENkekhpQnNHVVNaMFNKSU0?oc=5",
             "date": "2026-04-25 16:00",
@@ -29327,6 +29402,17 @@
         {
             "title": "특징주, 라닉스-양자암호/양자컴퓨팅 테마 상승세에 7.61% ↑",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tbGdublVfT1ZaNm5PR1NCY2puaHdyaEQ2VGE0bFB6OHRJaU02Mm1SYlNrVlE4bktDREJwSlJneDRURUJRYmxUUUhTdFE1dXBPRHc?oc=5",
+            "date": "2026-04-20 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "케이사인, 106조 양자암호 시장 본격 진출…양자내성암호 기반 확보·공공 실증 경험 확보",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWcTRCR3UxRnJSLUdTQnQ3QnRfaERrNzZkcHNmZVgxNDQyMXdEVWItMmo1dVFybUN5cW10QVJpUWYwd09ZMVRGXzFYb1RfN0N1TW44UE1veGFLai1rbWpyZVpmWTBHWVp3eHJTU1p0ZWQycGRr?oc=5",
             "date": "2026-04-20 16:00",
             "description": "",
             "category": "PQC",
@@ -45561,17 +45647,6 @@
             "is_today": false
         },
         {
-            "title": "SKT, 블록체인 DID기반 모바일 학생증 서비스개시…“국민편의 서비스 지속적으로 발굴예정”",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12NE9RMEI5Y2E3Nmwxdl9nMDdCNGQ2Y1l4bEpVekYyYk5SUDBtOEU4S0hxaGN6VTgteUlZX0NCUUxILVZNNXVjSGhfRnhLS253eFZJNVlyVkxWT0tFTDRualJxQWVHREFfM1E?oc=5",
-            "date": "2022-08-16 16:00",
-            "description": "",
-            "category": "AI Agent",
-            "keyword": "AI 에이전트 DID",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
             "date": "2021-06-07 16:00",
@@ -48198,7 +48273,7 @@
             },
             {
                 "keyword": "오픈",
-                "count": 151
+                "count": 155
             },
             {
                 "keyword": "체계",
@@ -48220,7 +48295,7 @@
             },
             {
                 "keyword": "양자암호",
-                "count": 36
+                "count": 37
             },
             {
                 "keyword": "결제",

@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-28 18:00",
+    "updated": "2026-05-28 19:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -8263,16 +8263,6 @@
             "is_today": false
         },
         {
-            "title": "쿠도커뮤니케이션, 시큐아이와 총판 계약 체결",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02bkFUeHcyTk9LZkc3R0R1Y1BISkVqNGU5UkRubHBwYnhmWDNveTFDNjZhc3duUTZnekNwZER5aXlkSlBuZ1ZpSVNYbngwbmM0SWt2YzhGX0U2dmpPLTBF?oc=5",
-            "date": "2023-04-26 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "'삼성SDS 보안 자회사' 시큐아이, 이익률 상승 속 현금흐름 '뒷걸음'",
             "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpd1ZoVG5aRC0yV25KUThZWXZvd3R4OVVSc0VkVTZNWnBXdV9mejR3R3BTMTgxNUFSVndrTGMzODFqRjc5SFE?oc=5",
             "date": "2023-04-17 16:00",
@@ -8358,6 +8348,16 @@
             "date": "2022-10-05 16:00",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KX, 상반기 영업이익 403억 원…전년비 30% 증가",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03OHA0RF9uSENIWlBXR3lLSDJrbXYxcFVsWHdTWjAzQ0FaVXlKUS1ROFBwZ1BzZXRuQzA3ODRBRUxscFBhNmJqMENkSmZ4cEpHVTU2aWw0cEZBTDJVREFsOUZCX1B1Rk5X?oc=5",
+            "date": "2022-08-17 16:00",
+            "description": "",
+            "company": "넥스지",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -8463,6 +8463,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이, 국내 중소 보안전문기업과 일본·동남아 보안시장 공략",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VeTZnLVhSLU0yMlg2VGViN0dsM1hOTGMzSHk0dE9RZzdTaFRvenk4cEpWLWUxY090VFBrN19IeUFUcEtsU3ZCQ0ZPNV91WHNTVnFXd2owWEpuVTFPcFFCaGM0dGpSbkh2M1g1d3I2VzJNc19R?oc=5",
+            "date": "2021-05-26 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
             "date": "2021-04-20 16:00",
@@ -8506,16 +8516,6 @@
             "title": "시큐아이, 100GF NIC 탑재한 고성능 방화벽 출시",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xRzYxdE80ZGpSQ2Z0NF81LWFtQ25TdzNoX1I1NTM4V2V2UkNQbzhrQ050MlM4VWh3dWxHaU1QakdzV052bTYwVnZLSXhVdHNMU1NaZi14a1VnZ1hPbGgyWkh5aUpkY2s5Q013OFdLRzQ?oc=5",
             "date": "2021-01-28 17:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이, 황기영 신임 대표이사 내정",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PcGNRVDZ4ejhyUllaUGVrQm9JM2ZfZ1otaUxTX0xhcFZzcDdiTmRmNzdlaDRLWUUxOE5GeHU4NzRMQXRtYnBxM2xXM0tlRGlMbkpJaFA2MWIzZmNt?oc=5",
-            "date": "2020-12-23 17:00",
             "description": "",
             "company": "시큐아이",
             "tab": "competitor",
@@ -8823,9 +8823,9 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, '윈스'로 사명 변경",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IQmpkdmMzUjUwampfTFlpZ092Z2RmTFFYcDlNR1JRVWhIYmVUU25KQnhvT2ZuNG9BWXB4a0lhdmJWV1BKUUhzdDdiN3dQRWVEdFBrUENqci1ubk9wd2R0Vw?oc=5",
-            "date": "2014-03-21 16:00",
+            "title": "윈스테크넷, 미래 전문 보안인 꿈꾸는 대학생 초청견학 실시",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYZTcyeFRfdjFiTmRnUHphUXViVjFxRVhUUUxIczVNd1ZQc3FpNHBVcnJ5dzNlNVVFOTNwQi1sdzRZQVZSR1ppMnQtc1JJbV9NUE5YMmdtbzRadzdGajdoNk1kdFRyVngxWExiNlBiNnU?oc=5",
+            "date": "2013-09-30 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -8833,9 +8833,9 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 미래 전문 보안인 꿈꾸는 대학생 초청견학 실시",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYZTcyeFRfdjFiTmRnUHphUXViVjFxRVhUUUxIczVNd1ZQc3FpNHBVcnJ5dzNlNVVFOTNwQi1sdzRZQVZSR1ppMnQtc1JJbV9NUE5YMmdtbzRadzdGajdoNk1kdFRyVngxWExiNlBiNnU?oc=5",
-            "date": "2013-09-30 16:00",
+            "title": "윈스테크넷, 클라우드 환경의 가상머신 보안감사기술 특허",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mb2Z0T284Z2xyU3ctQjRhNHRUWjRqV1FpcWZZRUQyZlBucXY4SHFCTWIySFg0Y2pTXy1fR3VLMVh2OXZXNnhhLU5sLUVQVzgzZi1NU1BQZzNsdWpGRWc?oc=5",
+            "date": "2013-07-09 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -8898,6 +8898,16 @@
             "date": "2012-10-07 16:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, ‘히든챔피언 육성기업’에 선정",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5saU5IcDJHX3lZOFR4dFRwdmxQaWQ1LUhBMExJaWNuSEhGUEVCdzk4S1J6dkxFaUVTb3NyU1VFeDkyWGszUm5fYTJvSkRhOVotdDlhNlNVSC04bjlNZ0E?oc=5",
+            "date": "2012-07-30 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -9004,7 +9014,7 @@
         },
         {
             "title": "[기획특집] 확장형 통합위협관리(The eXtensible unified Threat Management) 솔루션",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DZ0tuZGd4Ty1RSEVNQmtFXzI5dE1TMlhxVk42RXZsQXlWYXo1ZWlEellULVh3QzlrU1BBUXB6U2dzYkppbkhTbEkzZEpzb3VxMUZhQzE2aW9vMTg2VTNmc3p3ckRDb2JZYzNEcFZrVHBRSGM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wTTZQOWlGMEY1OVBRZEFjbFNXOFJJRm8tcmVQYUh3N2Fycmh6TW5oUHFqcjA1c0syVlB2VVpBREp6dDAxRlFvTlpScFkzWG1pWjE5SlNyMVdEQkQ3Nmc?oc=5",
             "date": "2009-09-17 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -9285,6 +9295,50 @@
     ],
     "trend": [
         {
+            "title": "비트맥스·한국첨단소재, AI·양자보안 통합 플랫폼 '패치가드' 론칭 : 네이버 블로그",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHFWcG1BVERNUnJVVzhGc1ViRlg1QV9DbURqMDZvTDFFQ3BPQzZiWWRBbVhsZ1R3a0NOWXdiOVFZNi1ubkdSa1hXOXlRd1plUzE4MlVEalNRcVY4a3M1aVEyREZNR3BKczZ5dzRkU01fejVBVnFER25KY1VCRnExbXdSZ1BIQ0FxQzBfTTZHRQ?oc=5",
+            "date": "2026-05-28 18:24",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "바이낸스 “AI 사기 대응으로 1년간 16조원 피해 차단”",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnBBbXA4WU5qZnY2SERpV2ZRTXhpdHhQWlZwVzZYN2c4cTA3TjI1dTBUSUgyb0ZVT1dtVEh6UTJXQkh0SHNzMXp5RVFSQXVXb1Zpa29TTGZqUjRSa29sc0xsZ1dfdV9idmZTMWVkT0RsamR2WkowZjl5bEZrSFNMMQ?oc=5",
+            "date": "2026-05-28 18:19",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "한싹, 기업 행사서 AI·N2SF 대응 보안 전략 발표",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05SVhYQmxCRVZSTmVqUWgyZlZQbHZ2MzdoTjJXRjhKQUNtNzFqREhQTVhXSjZmUkdGY0RGUEdVNWI0MFoxSHdhN1pYaTJfX2xNXzJwTnhKT2dzMDBTNDl6bHBFQks?oc=5",
+            "date": "2026-05-28 18:16",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "“카드 하나로 학교·학원·아파트까지”…아이쿠카, 현대건설·NH투자증권과 부산 실증",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95TkFzeW9ZdFhuWWFoSVAwQWxNWGRPWURFbGdTVVQzRkVZekJ1ZG8tN0dMY005Y0ZKN1k1cnFiWjlqM0xEMGliZzdGT0Uxdkk?oc=5",
+            "date": "2026-05-28 18:01",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "부산항만공사, 국가보안시설 ‘AI’ 도입 성공···항만건설 챗봇 6월 가동",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCeHhqWmt4MjViTWV5Wm1UN1d1azM1Q1RBYnBfUHJLOE5XVmhKT2w1Xzc5ZTI1Q0dyTHhCekwxcExKbWxZOWRxZGR2RlN1eXlTWXZhNEVQNko5UGNxYWNLM2hmdzBWN1FaczZDamlJRFfSAXRBVV95cUxPVWhfajluSE1GOUpjcTBXTHhickpQZ21RYU5mX0t0RGMtdVc3YXpRRTluTFNjQ1NyUDlOVEZRZ0lNSHUwU2RudFpTY0FXWnFCME1Wa3JPSlRIdnkxWEZFSDY1d1VaZmRyUVk5T1dkekVLUmc2bw?oc=5",
             "date": "2026-05-28 17:45",
@@ -9357,6 +9411,28 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "한싹, 통합 보안 모델 공개…AI·N2SF 시장 ‘정조준’",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYcGk5S0wzZXE2ektNNl9vODRDMXV0RzRpUEs1XzctdzJIUDlfWTFIaTU2dWpkT2JXQURqT1RxaklDYUVxMjNreldXVVk5S2Vqa3FXMzVHWG1qOHRqQTRFc3VpUlhQOEk?oc=5",
+            "date": "2026-05-28 16:40",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[AI 솔루션 컨퍼런스] AI 시대 보안의 마지막 퍼즐…ACNS “출력물, 비식별화로 관리해야”",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wUm1Wa2pTLUhSeENYajdyNjRzXzM2TDVpME1VUUEyNXBuQk9VWFk1QzZxTzRRc1hxcTZoYjRJOHNuMTU2TTBNNVJsRTZKZnJXczZLcmQ4MU1CXzR3dWFOUUtGU0pXR2M?oc=5",
+            "date": "2026-05-28 16:40",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -9588,6 +9664,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[AI 솔루션 컨퍼런스] 에이전틱 AI 시대, 기업은 ‘AI 네이티브’로(종합)",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XM09NNFhYSGZiaDBPNEhkOGtVd3V4UGRRTzF0MGxiTTF0dU1JQWFKYjhUWG9aalkxVVVpV3l4c0ZCZmlVaC0xVm91UG85MzcwZ25salZFWG1BT3BwTmVuMF9GcmVFR3c?oc=5",
+            "date": "2026-05-28 14:30",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -10629,6 +10716,17 @@
         {
             "title": "\"AI 보안위협 막는다\"…과기정통부-오픈AI와 맞손 - 머니투데이",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zRUprTU9vSkplazF0YXRTaExVLWdwSXV1UlNjbTVzdlY0NzRsYlNsRnYxUks4cm9OQi15Y3lZVFJwSnBIQ2U2cElzbFkxUF9qdEtKN0pCUWVkUkkwRGN3TENYX01DbmPSAWxBVV95cUxOWWpjM1BzY1AxeFFTMkhiZjQ1RHEtTjJGYkNORG5YTktOVkNoTFBwYnZ3d0tQblhqa0N6dV84SlloRldOSnduc01pX1B0anJPSXVpOUo0U1RJWDRpWEVFZUk3NkxrdkxyXzFFX0I?oc=5",
+            "date": "2026-05-28 04:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "韓, 오픈AI '보안 동맹' 합류 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HVlpqUS1Fb0NmQVB5MUZJN2NodTMtRzNSTlE2cTZHTEoxdzROMGNYVzZkeGhYRnoyNFpGMTJBTUFnS1NBcnpQaFNIcG5ZdFprWDBSR0VpNGotSWVmRmxsWTVraXppVWfSAWxBVV95cUxPYlZMS191SVFlbXFoUnhMdExZdXJGSEdIOG11b2VOM29QUXl6NzFqQ19WWmUzcFZsVE03aHVkdHlCWUM2dDYxVEozNTVsUTRRbUkzMDl5bGYydmVONmZIVEZGR1l1S29Yb1Z0bmM?oc=5",
             "date": "2026-05-28 04:00",
             "description": "",
             "category": "AI보안",
@@ -28480,6 +28578,17 @@
             "is_today": false
         },
         {
+            "title": "태블로, ‘태블로 컨퍼런스 2026’서 에이전틱 애널리틱스 플랫폼 공개 “신뢰할 수 있는 지식 기반 엔진으로 데이터 분석과 실행 연결”",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94alh5aVUzMWt0ODBEZzlIWm45a1djVUFGTkl1QW12NTBzRlJxSjhrdWQ1dGxKNFRvcTV2MzRzY0g3WXJTelRoMlpzMG1DWjFUOS1YQmtVcWNFM1FQUjFnMUtGTGJldGg5Mmxmbw?oc=5",
+            "date": "2026-05-07 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "구글, 차세대 인증 기술 클라우드 프로드 디펜스 발표...리캡차 진화, AI 에이전트 보안 강화",
             "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFA5OUFadFR3eVFYMjg0NWRhMTBpUkpvaEpNNTRuUlhKd1FLbHJXaWYwMHkwbUY4WW1IR3pxRFJOTlM?oc=5",
             "date": "2026-05-07 15:48",
@@ -33480,6 +33589,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 표준",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI냐 사람이냐…진짜 인간임을 증명해야 하는 '인간 인증' 전쟁",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBad0xNUTQtU0tGR3RrR1U5Rm9hazI2TGtMcUhRNG5TcEtrRXFaeVpFS3JGQ0dFempac25pVUJqOHNheUFxOVRTX0xjbGhtMnNFbGRPNE9rTERyZFlxNllBVGMzUFVLQkpZU3BJR1Zlem9ZdWM?oc=5",
+            "date": "2026-04-06 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -41352,6 +41472,17 @@
         {
             "title": "AI 교육에서 AI 인증으로... 기업 역량 관리, 기준 바뀐다",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQN25UcWF5NGJsOW12RC1LcEtUZ2haamlPZ2ltLXdYTkVSS1dVYmxEakxrSkI4V1hid1hkU2NaQkF2MzgyY3RKalg0ZXczZ3J5V2ZiUWkwVGRwa2J3a2Z3YWZ3elpsOWlTWHc?oc=5",
+            "date": "2026-01-06 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "“국내 최초 정부 공인 'AI 자격증' 나왔다...SK AX 인증 획득",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xVmwwb3V3MnpKYmVKcENSRDMxU0tiRzlJR1JuS0Qwb1g5ZFlPYlVucWtJTTdTMVNBQXJzeHgzUUNTZkZmNWFxY29MYi1XYzFoY1FCNnRpMWMwYVBpVk1pUk0tZUdqeHN0U0E?oc=5",
             "date": "2026-01-06 17:00",
             "description": "",
             "category": "AI Agent",
@@ -50554,7 +50685,7 @@
             },
             {
                 "keyword": "오픈",
-                "count": 172
+                "count": 173
             },
             {
                 "keyword": "체계",

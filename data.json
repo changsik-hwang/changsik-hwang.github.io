@@ -1,7 +1,17 @@
 {
-    "updated": "2026-05-28 10:00",
+    "updated": "2026-05-28 11:00",
     "current_month": "2026-05",
     "competitor": [
+        {
+            "title": "“구독형 보안 서비스 나온다 ··· 장비·인력 부담 없이 보안 강화”",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yYlBQR0NGaG11VDBROHA5NlFzQ3JhZFhOcVZYclFRLWs3eHNCV1d6Uko2Q1ZZLWcwQmNmWkRGMWlTcUFueFBpNXdyalZsdlpSTWkyYXQyR3YxN2hqLXNBeW5id09nQTJSWHpZdg?oc=5",
+            "date": "2026-05-28 09:53",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "[현장] 보안 취업박람회 가보니...안랩관 가장 인기",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pejIwWGo1M2x2OFYtcmdkTGx4Sjl2dzRNNlFENHZ5X1docXpvc1VUd2NGS2dpTnFScDhKeHh1bGo2VS16T3R3eHZDTG1veHc?oc=5",
@@ -1733,6 +1743,16 @@
             "is_today": false
         },
         {
+            "title": "안랩, 1분기 매출 591억원·영업이익 19억원···해외 사업 확대 속 안정 성장",
+            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YNjh2a0Q5TkVjUEIzNDdIek5nWUtNdURnWVNfbjJhQ2lQc0hKUmhQekx5ZkNtaHVnOFJxT2V1TUo5al9RdW5qczFYczZ4cmg2VGtmUElkTi1udE1tOUlSYmJmVlFZZHg2UTVMTFVnQS1oLWVNOTdicQ?oc=5",
+            "date": "2026-04-27 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[IT/보안 상식]  AI도 속는다? 생성형 AI 시대, 프롬프트 인젝션이 위험한 이유",
             "link": "https://blog.naver.com/kxnexg/224266777121?fromRss=true&trackingCode=rss",
             "date": "2026-04-27 15:20",
@@ -1975,6 +1995,16 @@
         {
             "title": "안랩 \"클로드 위장 피싱 사이트 주의\"…악성코드 유포 사례 확인",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xU3JvRUJiR0g0elZYaEVMNVNYaTBEZUZqSWdSS3JYblVMX3oyNkkzYVFPeV80VE1MWEpLUjVaWWVzWUlKbzJNdXBla1FpcVE?oc=5",
+            "date": "2026-04-22 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "\"검색창 맨 위에 떴는데 가짜?\"…'클로드' AI 사칭 피싱 주의보",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tU0M2WEhfcEF5NW14Nkh2WG9DRTBTdVhqcF9GbmJUdElDaW1oY2c5bGJ4eC1BT0s3TGhqTloxeDBrZ2ZOa28wMC15S2xySkgzRHRJ?oc=5",
             "date": "2026-04-22 16:00",
             "description": "",
             "company": "안랩",
@@ -2253,6 +2283,16 @@
             "is_today": false
         },
         {
+            "title": "안랩 “1분기 피싱 절반, 금융기관 사칭”",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjWkY0NVlQbUZMdkdQa3kwdGYtUzRzUUF1c0ctZk9jRmUwMXcxOXViR2J3Q0JCSVBQNV9ueURsdWQzYm5MOUF6M3BfaUJmeHd1NExucVNwdE1UYWdab0VMTkxjRmEycHZaMFhiRg?oc=5",
+            "date": "2026-04-16 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "KX넥스지, 동반성장위원회 주관ESG 우수 중소기업으로 선정!",
             "link": "https://blog.naver.com/kxnexg/224254136797?fromRss=true&trackingCode=rss",
             "date": "2026-04-16 15:01",
@@ -2398,6 +2438,16 @@
             "date": "2026-04-11 16:00",
             "description": "",
             "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KB국민카드, 솔라나·안랩블록체인컴퍼니와 스테이블코인 결제 협력 확대",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2c0ZZbDAxcHcwMzBmdWhxOXBlV180N3FRQmZ5cEF6V1YyVjBZc3o2OGx1ZmZhcDBKTEtCVFV6V3N0QVpTb2hBMWU1alVmQmZzMXhNeEVZeFdkYnczZk5tYkJObXVzZlkzTUVV?oc=5",
+            "date": "2026-04-10 16:00",
+            "description": "",
+            "company": "안랩",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -3883,6 +3933,16 @@
             "is_today": false
         },
         {
+            "title": "“보안 수요 확대”…안랩, 작년 영업익 20.2% 성장한 333억원 - 조선비즈",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0IzdFROajdRcC1oWFJqTmdMOTZEVl9ack1SN29LWHpzRFJyalBvYWhWcm0yMWhQZGZZWEYwUnhOM0FiREt1bm9CaWdNam9kanFaalhOSThBbi1TNy1WVDJWeTRaYjhqYUdjeXdNV05OVkplSnR1RFFxdVVFVTdWbWhn0gGWAUFVX3lxTFBVaGpzUlBURUZaSkVVTEpkMkRMOHdxWW16Z1ZKdHlKdTJnTDRpMXp4ajd3TFNwMmNjNUV1M21yTW9OeEZqWS1QTUxselFmM3VPUFVoakJYOElaZEFTc1BLWFpUcG1oNWQ2di1hT3VrbGZGenZWZVhEWS15MFRIR1g5VlUwalN3Vy1NNnlpQzFDS0xLZzVlZw?oc=5",
+            "date": "2026-02-13 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[2월 2주차] 루이비통 고객정보 유출부터 설 연휴 사이버범죄 예방까지❗이번 주 보안 브리핑",
             "link": "https://blog.naver.com/kxnexg/224182708663?fromRss=true&trackingCode=rss",
             "date": "2026-02-13 15:02",
@@ -4145,6 +4205,16 @@
         {
             "title": "\"카드 발급 완료\"…이런 피싱 수법이 작년 절반",
             "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPajVIc21qQ2hMeFF0V3BFR0VQNWhOTnd3anpLdWc2dk9YNmc0elFFejV5NFBtbW8wZjRZWktlS1NOUWxxMXdJQ3dZWkgtbW5LT2FiMHVRNHowbnd4YS1obTEyNC0tcHR4czNuUGRzTU03aWp3YUxEVkxLcjQ1MWcwN2NUNA?oc=5",
+            "date": "2026-02-05 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "“금융기관 사칭 문자 344% 증가…악성 URL 유포”",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OV2RaNEpjSGFtM3JucmJzenBtajVMUTRlNUxDa1lhWmt5bF8zZV9HQjZuSGphZ1ZRcEp3VGhraWxRMFpvUS1hbXlYZnpBSG85dldLZk5CZzJvd2FRYkRscG4yZDA?oc=5",
             "date": "2026-02-05 17:00",
             "description": "",
             "company": "안랩",
@@ -4863,6 +4933,16 @@
             "is_today": false
         },
         {
+            "title": "안랩, 차세대 네트워크 침입 방지 솔루션 ‘안랩 AIPS’ 출시",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04b3JZTDlfa2FtUVZoQ21kWWpQUkJMUERVU20tZVBjTExqb3JhYk84Y2xPbWtjUVdBbkVoS3JkUkRlam9GdVM4N3pDMkNCUjJ1b3RCNzl1cmJETENYOVBndUNLR2I0V0xpQmZhejBn?oc=5",
+            "date": "2025-12-31 05:44",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷 투자분석 2025. 12. 30",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QLTF3dGlXakNTTHNIN0JVOE5pSF9RLXE2ckpGTUZYZ3kxckdoQWd2b2FDWG9BRFIzVDB6SGJYczI3djI5bkFheTl4aHZ4YnRJSE03MElsTkptaUozMXBrR1RRQXM0STBDbEtIdUtXamoyUVU?oc=5",
             "date": "2025-12-30 17:00",
@@ -4925,6 +5005,16 @@
         {
             "title": "안랩, ‘임직원 성과 보고서’ 위장 악성코드 주의 당부",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ObGZwS1VZSDJWUlJ2NjROcTFZRmJydDZQS3IwU2ROeFN6N1R2RDZEVUNyUkdMQzNKU1o0VThsZFp4RkJMVkJXQVBnWDcwN1VwNEpvLXRnV1dUbnFlM2dPZExMZ25GSHZQ?oc=5",
+            "date": "2025-12-24 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "'임직원 성과 보고서' 열어보니 악성코드가...연말 피싱 메일 주의보",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nVVNxZ0wxanpzZWpjdTdXWnY1VzB5MDNQTkYzTl85Qko2OTdiVkhZUWQ1aVpTeDlkM1pOZHlfNE1pR1RDOVg0M3l2TkstcFhNWGVwTndYSUZoMUROc3BIbEp6TlV5d9IBakFVX3lxTE9QM0YyMmR0SmN0cXZSTllkTkJJYVBqQjZLRG5IVG9WTGVicjVuMF9FZkIzWkFWelZzcjVyUnlnVDAyR24ydTdia1ptZENUb3NOanNYejkyM3ZVRjVSekRHeWxiaDJtbWxlcFE?oc=5",
             "date": "2025-12-24 17:00",
             "description": "",
             "company": "안랩",
@@ -9075,6 +9165,105 @@
     ],
     "trend": [
         {
+            "title": "‘미토스 쇼크’에 정부, 오픈AI 통해 방어 역량 강화",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84ZDBDU1oxcEtQbmtvc3pjODZEVmV2V0VZTGNpVnExZ0JkRURPUDhIRlVqNEFmZUVQTFlyN1FIajI5dUN2MEl0SGlycERiWlpfSHd2NDJQTW9wdzR4WklRVUFaX3lIY3JVa3laVg?oc=5",
+            "date": "2026-05-28 10:58",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "아우토크립트, 바이오 피지컬 AI 보안 진출...\"HEM파마와 협력\"",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTVDE5Nmc0RjZ3V0lqTEE2UU1ZM0ZaalRId3VuYVFieldHRjhUX1NZc1p0VGZ5aGhIajhhblVZVVA4UC1ZeE5KckJvM2dLQWdBa3pBdUY1SDB2ZlktV0I1b3JvMDRhTHc?oc=5",
+            "date": "2026-05-28 10:34",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "씨브이네트, 국내 최초 ‘양자 VPN’ 스마트홈 특허 출원… 양자 보안 아파트 시대 연다",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nMndhWFlQQzVRenYzbndGVWc3U014VmRySVhXbFJuaWI3WHhYUzRnNTNZeTlxaEkybEd1ZkhHa1Vhd2I3UGxSRG1haHlzWGJMNm9EN3FIODI2QzBOTGc?oc=5",
+            "date": "2026-05-28 10:30",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[기고] 대화형 AI 시대, 왜 오케스트레이션이 경쟁력인가",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12b3RjMFQ4U2lyUzNJdXNXUjBObGZsRWxsSnlaUUtQRWpyYnBxaVkzd0lfWnlmNHJuSHFEVWdtUjdhWVlzVGRNZWw0dUQybzRvaERxejJR?oc=5",
+            "date": "2026-05-28 10:30",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[김정덕의 인간중심보안-7] 디지털 야누스, 두 얼굴의 사용자",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90Yzg0ZWtuNjFqaS1HNXRwejNLSXQzTk1oYl9CYm50cXdLaDY5YTUwV2VjSWhVZkpveFEtYUpITFZxQlpzVWhYU0FvVmllSlBTYlZwTnBGTlFhSzI1OEl1ZzBUUUFUdk1aWGc?oc=5",
+            "date": "2026-05-28 10:18",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "아우토크립트·HEM파마, 마이크로바이옴 플랫폼 ‘바이그널’ 보안 협력",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5VTZfTmR4YXlxNU5uODJRQ3NycldIaXRnajU4ZXk4STIxLUVjVlV6MllRaG8yb1JKMHVIa1NQa3IyTHAxRGJ1NndjaGtpZjBHTlhNNHhfR3ZpTHN2WWRYYm1QNGtOa3JDQ1lJ?oc=5",
+            "date": "2026-05-28 10:14",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "부산항만공사, 항만건설용 AI 챗봇 개발…보안 리스크 해소",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96SkJNbjFCUEZwNjNIMXJ6YnZzZUpxd2hqRUZsd0lNYWRlajVKdjRPYzJwZjNNSGN0NkJQckdDV21RM1M4VGJVcDJIVkJxY2s?oc=5",
+            "date": "2026-05-28 10:08",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "세종시, 초·중·고 사이버보안 한마당 개최…AI 보안인재 육성",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54cmpBM0tDLU9haTU4WFhtcC1TY1cyMzNDenk1VE84cXg0cDd6TlZPUGxHUFBNYWJNVDlDMHJUZlE4M08zdU0wdFJCX1Q?oc=5",
+            "date": "2026-05-28 10:07",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[기획] ‘미토스 쇼크’와 AI 보안 패러다임의 대전환",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDQ01HSXYwTzJRbnNPMk1QcGtpS1VMR3ZUa1pNb1RheUVOWXl1UUVfTm5SY3hJczdlQW1OWWJtTXNDM1dtM28zNThXclBWYWZaMWE4?oc=5",
+            "date": "2026-05-28 10:05",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "AI 사이버보안 한마당, 미래 인재 키운다",
             "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GSy03TjBXc1hmSmN2U2ozTmNETkZnZi1RVXh1NElKOW9UbjNTd0wyZ2V1UjF0ZnVmV2otUmo4alZzNEx1bk42cDRn?oc=5",
             "date": "2026-05-28 09:57",
@@ -9092,6 +9281,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "부산항만공사, 항만건설용 AI 챗봇 도입…폐쇄형 보안체계로 디지털 행정 전환",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wUzFoQnYyM0RKYjBEc1hnYjdJbFdGcHZGQ2VGVng5cTE3eDZHZWNwbHFmb0x3d2dlX2U1emdLNEV3TDJ1SkxSVUJGb1R1TjhkRHdQZGZ3LWJVMnctM0hnLWxmdXJIcUpERWpN?oc=5",
+            "date": "2026-05-28 09:55",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -9136,6 +9336,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 표준",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "“스미싱, 발송 단계서 막는다”… 에버스핀-SMTNT, AI 문자 보안 강화",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VczVNclhBX3ZjLWtBd2NqTHYyMkE1cTE3SkY5U0NMUW02bVpoRjdNMkx4UnQ1V1dNQzMtRDEtVkItRkthWE9YcHVoX0lLaEozU3VqWGpNMi00SGlXQW1F?oc=5",
+            "date": "2026-05-28 09:37",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -9191,6 +9402,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "세종시, 미래 핵심인재 키우는 AI·사이버보안 한마당 개최",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ObG5yUWktWVVoRHNCZzlfRGc0blVHV2IxMkEyQmE0SHZyUWtveFl0SlpueW5ub3BMWXZCSHk4VkpoaGJCaGl4UEFtdGdLWEpNZ1AwekJ5YURHbFRpaHJtWDhNYmk0c19VdmtmRGtjRQ?oc=5",
+            "date": "2026-05-28 09:16",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -9430,6 +9652,28 @@
             "title": "평균 43개 보안 제품의 파편화…포티넷 “포티AI 통합 플랫폼으로 효율 손실 막아야”",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOb0FxUWJZVjFVT1ZUaTlNd01qSkRKXy1XNzRZOEFxZF8zckphWExaNDdCdUdxSEtCRE1FeU9NTlUtWXZTWGlLcTdoYUR0eVlFRUR0em1uYkdSRURjbjdvaFUyZU0?oc=5",
             "date": "2026-05-28 07:13",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 공격 자동화로 취약점 공격 12시간 내 현실화...실시간 노출 관리 시급",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02bjNnR0dEUzdTc0lVWTM3ZnVnTDdPdFRyV29zN0xvNl9Eb1M5R2JIRm5nOGRxZkpRN3FsNUptT20xY1MwYXFNWWhQbURlQXFBNnMzbGtQaXJQVC1hVENlOUJZeFVQWHRMN3c?oc=5",
+            "date": "2026-05-28 07:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "세종시 'AI·사이버보안 한마당' 참가자 모집",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Sc0ZHb3dVNzNsdkNGNnp3djBMeHZQNHNyRFVXeVRNeV95SVphV0VDaEdUVTlMOGRub1VPcnIzZDAtdGdtQ1JNbEw2TlJDb1ZjcWlTMld1c2QyTHVOamZrNXZRMlczd3pnaHF1Q0Q0bzd4Q25HaURLSVJ3?oc=5",
+            "date": "2026-05-28 06:54",
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
@@ -10778,6 +11022,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "금융권 ‘AI 보안 대전환’ 시동… 금융위, 망분리 규제 완화 카드 꺼냈다",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRQWZRZk5UZXc4U2dNYTZXdDA3RVA0QzRZa2R6a2ppcjNIbjVORzdlVXFsUWl0LUIwbU5LWV9jN0FjTnNXWWgzTUNhbDFPV2huN0s2UHh2cmcwOE9Jcmd2VmNteGF6eWtGejBZX0tkdEs?oc=5",
+            "date": "2026-05-27 12:54",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "과기정통부, 인공지능 보안대응을 위한 전방위 협력 결실 오픈 AI 정부 ·기관 대상 신뢰 기반 접근(GTAC) 프로그램에 참여하기로",
@@ -27819,6 +28074,17 @@
             "is_today": false
         },
         {
+            "title": "\"통신·금융·교통·국방·우주까지\"…정부, 양자내성암호 시범 전환 확대",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PbklMOTh5SDNpa0ZJQmhja2lpelRKa3Ffb3p6elZsREhCWk1xY01idE8yUFM0SnVmOHNhb25uRVItY0xJY0NFZi1HTXVFaDVJcUp4SmJneGRBTk84cTUxaHVn?oc=5",
+            "date": "2026-05-06 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[특징주] 엑스게이트, 정부 양자내성암호 실증 확대·핵심기술 개발 착수…PQC 시장 확대 기대에↑",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qdVkwRHRBMF85NHl3ekRoR0xvXzBSNGxicDdSX1VMQmV0b1I4VlhnY0ZhTWNsRi1RY3FSd25uRkotWHdQSU5yZ05PbEU0T0dkdVJFU0d2MTJqaU5RRGdIRjlwSnZQTzRJdmFhbXFpOFhYajdt?oc=5",
             "date": "2026-05-06 14:27",
@@ -27880,6 +28146,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "과기정통부, PQC 시범전환 5대 분야로 확대",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42MmdTY0JrRExQbXZ1c0xIb3VacGQxX2VIcUlwRXF4YWY2NGVtZXRjQkJnWU5oSjRPTWVZZmhBYUduOU9GcDU2YTJzRFVTdw?oc=5",
+            "date": "2026-05-06 12:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -31532,6 +31809,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "이와이엘(EYL), 양자내성암호 품은 보안칩 ‘NC11’ 공개",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GdV9SdFhkUndGVnBPTFFXbmJ6NWJDY3JkSmhVbnpiVE1BWmpsc095S3Z4ZnhJT09pQkZkNmdLRGdGSzh1TjhPQjdsWW9pSDRrMnVuV0pBZTRQbV96aU1QeGZyOTdXN0FYVVVNc05FUQ?oc=5",
+            "date": "2026-04-10 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -37109,6 +37397,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "빗썸, 양자내성암호 도입해 보안 강화…“국내 거래소 가운데 최초”",
+            "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOUVhoN1JqOWdaOUpSTzZZX2JGVEFSY09RTi1PZ2VvVjlTOEx5QmRnYWo5TXpLdGNLdzJyQUlHSDEzUWRJb3BCZ0tqSFl6VG1IRkFGM0tnUlJEOFhTWUJrd0NYUDV5ak54aVdMcWR0RXlZQS1OTVpJVjNhNl80cnNxQXpfLUpnWkNnRGhjVndBdnlIakZ0Uk5HMHFTTzM2QXVmTUgxYnhFanNpczZYak5pZkNSekVEdjZmQ0JBQzlVS0tibVh3UVJ6MjZ2V3V3RkpYdVVON3UxeUFNTGEyRHY4elN4WDJ0VVNLbjFmb3VPaVZqV3hZYXdVTEpxdDhiXzR1RFRPM0M2Qm5SSDYyWjVMYUZwdEQ0eTRHLWRZQld0ejZGUGVzU3k2Z0tLV1dMVGU4UkNHZmNiY1M1ZnJ1aHc?oc=5",
+            "date": "2026-02-20 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -49157,22 +49456,22 @@
         "2026-04": [
             {
                 "keyword": "피싱",
-                "count": 14
+                "count": 16
+            },
+            {
+                "keyword": "매출",
+                "count": 13
             },
             {
                 "keyword": "선정",
                 "count": 13
             },
             {
-                "keyword": "매출",
-                "count": 12
-            },
-            {
                 "keyword": "주관",
                 "count": 10
             },
             {
-                "keyword": "수출",
+                "keyword": "금융",
                 "count": 9
             }
         ],
@@ -49207,19 +49506,19 @@
             },
             {
                 "keyword": "금융",
-                "count": 199
+                "count": 201
             },
             {
                 "keyword": "오픈",
-                "count": 168
+                "count": 169
             },
             {
                 "keyword": "체계",
-                "count": 145
+                "count": 146
             },
             {
                 "keyword": "국방",
-                "count": 100
+                "count": 101
             }
         ],
         "2026-04": [

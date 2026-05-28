@@ -1,7 +1,27 @@
 {
-    "updated": "2026-05-28 14:00",
+    "updated": "2026-05-28 15:00",
     "current_month": "2026-05",
     "competitor": [
+        {
+            "title": "휴네시온·시큐어시스템즈·케이엑스넥스지·에브리존, 4사 통합 보안 서비스 나온다",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXZlBPM015d01KajJ4WkNYNWVJQ0lSbjN1YjZnNnhVR0UxdG1relp5QjlaNWpHWkNQQl81S3dUS1pFTE1QRVJndXVVNFk3MzA?oc=5",
+            "date": "2026-05-28 14:13",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "휴네시온 등 보안 4사, 중소기업 보안 구독 서비스 추진",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pYm1XU2NUQmhFTDV4a1pvNzNpWEhDd2p5T2NmMnJ0YmFRblFnclJuTTdpSk8yb2FqbnhWajFaN2YzNWhmSW5rbks5cEJ0Zw?oc=5",
+            "date": "2026-05-28 13:57",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "“중소기업 보안 공백 해결”…국내 보안 4사, 통합 구독 서비스 만든다",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wYjI4ZllCLUhodkxIQjhtS0t6T1NucW9ReldHMUs1SUtwMDlBQjVZVllWUGV6VjZONVF1R2RBQVB0bUlUdF9VbzdtY3dxd3JRVEZWb2tTVU4yaUFudnpwWlNXYWJuY0JUX2pNNXpWeVDSAXRBVV95cUxNMmhkenB5UXA0eTZic3hPVTFiQXN3TV9iRDZkTjlJcmY1ZGt6U29rUWNlVEMtUnNBeGw5SXQ0OVd3WkRWOFNoZWRjYV9ydkZITFlmeE9jQ1h0U2VYV3VPYmxYOW03VnVZamNZcjNNVnZjc215cg?oc=5",
@@ -8213,16 +8233,6 @@
             "is_today": false
         },
         {
-            "title": "'삼성SDS 보안 자회사' 시큐아이, 이익률 상승 속 현금흐름 '뒷걸음'",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpd1ZoVG5aRC0yV25KUThZWXZvd3R4OVVSc0VkVTZNWnBXdV9mejR3R3BTMTgxNUFSVndrTGMzODFqRjc5SFE?oc=5",
-            "date": "2023-04-17 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia ITU·ITM 선보여",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13QnJLQkRVSndfczN1Z3QteC16Mzh2X0ZwUXViNGo3SU51aHowZTA5NkYtQXQtOFRMd3lsOF9PcU05aDZKaEdURE1yNHktR09TeWgwYW5weWZQb2daX0p3?oc=5",
             "date": "2023-04-05 16:00",
@@ -8348,16 +8358,6 @@
             "date": "2022-07-11 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이, 11년 연속 국내 네트워크 보안 시장 1위 달성",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZajlDTU5Dc3Zxck1oN3hmUG5COHJteFpUY3JRMnZ5ODNKU1MxSVNubkxtSmhFd2xCTGFrek16Q2h2RlZ2OGJGVi1LbjBZREZpWUFkSk1BaWF0SDFvTmV3?oc=5",
-            "date": "2022-06-30 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -8653,6 +8653,16 @@
             "is_today": false
         },
         {
+            "title": "[보안·IT산업 동향] 소프트캠프, 일본 ‘IT 위크 오텀 2015’ 참가 外",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53Wmg4QlBTa3FmVzVwTVJ6WVAwYl9oMDQzLXlyNGwtSnF3Zk5EZ1pVOHVSMUxrSjR1YlltR05lUTBmWExIYmt5MDBGSWwyaWhTUDl0eUFLQl9OTW01SHc?oc=5",
+            "date": "2015-10-29 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, 무선보안솔루션 CC인증 획득",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NU1JXYV9yelc0NlBtUU01NHVUYjlULWVhSGt6OXg4WU0wRUFsSktHQXlnVnlhUFJyR0sxRGphODJBWGMzZjZWbFRvbENsOUE3a1pUNTBjemR0QVRKdTRpbFQ4VGpHUQ?oc=5",
             "date": "2015-10-23 16:00",
@@ -8753,9 +8763,9 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, '윈스'로 사명 변경",
-            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IQmpkdmMzUjUwampfTFlpZ092Z2RmTFFYcDlNR1JRVWhIYmVUU25KQnhvT2ZuNG9BWXB4a0lhdmJWV1BKUUhzdDdiN3dQRWVEdFBrUENqci1ubk9wd2R0Vw?oc=5",
-            "date": "2014-03-21 16:00",
+            "title": "윈스테크넷, 미래 전문 보안인 꿈꾸는 대학생 초청견학 실시",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYZTcyeFRfdjFiTmRnUHphUXViVjFxRVhUUUxIczVNd1ZQc3FpNHBVcnJ5dzNlNVVFOTNwQi1sdzRZQVZSR1ppMnQtc1JJbV9NUE5YMmdtbzRadzdGajdoNk1kdFRyVngxWExiNlBiNnU?oc=5",
+            "date": "2013-09-30 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -8823,16 +8833,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, ‘히든챔피언 육성기업’에 선정",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5saU5IcDJHX3lZOFR4dFRwdmxQaWQ1LUhBMExJaWNuSEhGUEVCdzk4S1J6dkxFaUVTb3NyU1VFeDkyWGszUm5fYTJvSkRhOVotdDlhNlNVSC04bjlNZ0E?oc=5",
-            "date": "2012-07-30 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "핸디소프트, 다산네트웍스·퓨쳐시스템과 스마트워크 시장 공동개척",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qc1Q2UzRFaFFpZG0ySEx0NHhCN1EzdHpBT0RRUTAwUVloWWxJeWowR1BZeGVfXzRTUGE3NjFhaDY1cUdTMnExdjNQM3ZKckJvYnFDT3B3?oc=5",
             "date": "2012-04-25 16:00",
@@ -8873,6 +8873,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 1Q 매출 78억..전년동기比 70%↑",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YaFNMb3pnU2lNRnFqeGpaQjVDX0tobVdWYm1jR3JIQ0FhRHkwZldIdUNXaVJLOVpncGE4Nk90a1VjZ1RGMmNQbzVYSjZaS0ZQZDEwMGVESlIxeE53Qldoajl6T1N0VF9QTXFnQ3c2NEtoQQ?oc=5",
+            "date": "2011-05-06 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 어린이 보안교실 운영",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jTkRXOGhaa3dWMF9odlZUSi1RRFp5Yjk5YVBzSmg1dHNaSnNaeXhsZ2plY1VWeWh6NjNtOUQ5YU5fZk9kXy1lbTJDUi14RFliTFJzanFPSXZmMmw0QUE?oc=5",
             "date": "2011-03-21 16:00",
@@ -8903,16 +8913,6 @@
             "is_today": false
         },
         {
-            "title": "[2010 상반기 히트상품] 퓨쳐시스템 `위가디아 XTM`",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nY3ROOWR2ejJXM3ZLcTdROHdiMUFodGpORU4tQzdnYlhnanlyS05tU2daaXp5dEhMYzhRTDBBNXNzVXZmRjV1MUI2QXJwUQ?oc=5",
-            "date": "2010-06-23 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "침해대응센터와 연계한 침해대응체계 제공ㆍ보안서비스 활성화",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wX01NbjVlSjlKVmNLYmc0WF9EdkpMN1YtU2lKVGQwLXlNckUtTUFTLWNlaVIzRXdnanNFUXF3N1BReGNKa3MyeTdtSXZRRm5mYm01YXgzektVdUlKNWc?oc=5",
             "date": "2010-03-22 16:00",
@@ -8934,7 +8934,7 @@
         },
         {
             "title": "[기획특집] 확장형 통합위협관리(The eXtensible unified Threat Management) 솔루션",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wTTZQOWlGMEY1OVBRZEFjbFNXOFJJRm8tcmVQYUh3N2Fycmh6TW5oUHFqcjA1c0syVlB2VVpBREp6dDAxRlFvTlpScFkzWG1pWjE5SlNyMVdEQkQ3Nmc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DZ0tuZGd4Ty1RSEVNQmtFXzI5dE1TMlhxVk42RXZsQXlWYXo1ZWlEellULVh3QzlrU1BBUXB6U2dzYkppbkhTbEkzZEpzb3VxMUZhQzE2aW9vMTg2VTNmc3p3ckRDb2JZYzNEcFZrVHBRSGM?oc=5",
             "date": "2009-09-17 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -9113,6 +9113,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템 동부건설 VPN구축 프로젝트 수주",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdEJGeVg3LS1JQ3JZSzlSZkNrY0FjYmFfSXFCQUVDdGF6dTVscGJsUng3ZDFTYWdvQlZ2cHVQQ2pqbXdvclRKWHhlRXpyUG41SGlhUjBoRXJOaWJERzg4WUMyekxKUk1EODByMmVsT1RoXy1vV29XQk5yZzc4Sm1FZQ?oc=5",
+            "date": "2004-02-27 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, 한전 배전자동화 시스템 VPN 구축",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92SVRzczEwdE5lcEV6ZWQ5MDktTFhZdVZKNFFaZFppRDB6UnV1U0RLbDFWVl9pOF9wOXVlQ2NVZDhmUVQta2VJS3hvMGdweFpRd1FNczA4aURRRDlCdjh4UF9xTjc3QQ?oc=5",
             "date": "2003-12-20 17:00",
@@ -9193,9 +9203,9 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, 암호화 반도체 칩 개발",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qbFVzSk9xSi1sUGtFVVpYcjVnZDRtV1BHa3JKZS05YlVMYkZNYTlhenREYkd6LVZiNFNlb1JNMGp1WTBGRnpzRVc2WQ?oc=5",
-            "date": "2000-04-17 16:00",
+            "title": "(공시)퓨쳐시스템, 아이소프트에 5억 출자",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVgxd2phd2RDLW9nNmpwM3Vld25ualZZdDdodTZTdXhlSFIwRDVXNXFfenBwcjZWYkN4cC10aXVnMUJRM0k0OEVwYThRMGRaVVRGdDJLcnBrTllmN0ExSktnWjJWSWV3NEhQVFVobURHT0xySFg1amtDUjBxMEZmaA?oc=5",
+            "date": "2001-10-25 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9203,9 +9213,9 @@
             "is_today": false
         },
         {
-            "title": "[신SW상품대상] 우수상:(주)퓨처시스템 \"FUTURE/TCP V3.0\"",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CTFRqMzBZOVJYN3Nza1NHU1VncVNmTnJ1YThTajEtMm52YlYxNUxGNkdvbm5PM3IwV0d6RmxObUNmQWJwVlhWbjhhYw?oc=5",
-            "date": "1994-12-22 17:00",
+            "title": "퓨쳐시스템, 암호화 반도체 칩 개발",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qbFVzSk9xSi1sUGtFVVpYcjVnZDRtV1BHa3JKZS05YlVMYkZNYTlhenREYkd6LVZiNFNlb1JNMGp1WTBGRnpzRVc2WQ?oc=5",
+            "date": "2000-04-17 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9215,12 +9225,133 @@
     ],
     "trend": [
         {
+            "title": "금융권 망분리 규제 완화 본격화…AI 보안위협에 금융AI보안연구소 신설 추진",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wLW5BbTF0TVBoVV9vUFc2YnZ4X1oxeTBEVmJwWUJaQU9fN2plQjU5M1V0SFBGMzMwV2w2SlhnTHBCNF93S2JiZmtzYjdrWmxKbDNmSlJtY1FyZm8tSlNRVzJUNzBxaWdSVEZ6Tw?oc=5",
+            "date": "2026-05-28 14:44",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[헬로즈업] 노션 'Developer Platform' 출시...AI 협업 플랫폼에서 에이전트 OS로 진화 선언",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXdXNRU2k4VGJFajZSNjAzVktZLTRsbTIwSzNIZFpkc2pJXzNzay1MVUtzX05pZUIteEdoX0ZHakVkWkJDam9DV3Nkd1dOVlFVY3hucUQ0QmF5MUFGUzBz?oc=5",
+            "date": "2026-05-28 14:35",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "HEM파마, 아우토크립트와 손잡고 헬스케어 플랫폼 보안 강화",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tSG52ckwtZWF5eEt5dENoZElrQW9QWXh2Nl9XWG9zXzFTeDhJdEpfbWNGdXZkaU10cktFTExkV1VMMTEySDVmZzQzOXhaaExfMXpueFQ5ZFltZ9IBVEFVX3lxTFBDN1kyam1NbVZrZXVMQUx5eXhOS0hzTWtYREhpRVV6YV95TXBreHhMWmNCM1lwVDQ3ZWp1cDB2VTh5UFR2aXhybkxiZ0ZCaFdndnlnLQ?oc=5",
+            "date": "2026-05-28 14:33",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "한싹, AI·N2SF 전환 정조준...통합보안 사업 확대 본격화",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uVTNpRlExb3ByRC0zMlBWdHAyVzNOLXgyRzh6UUlYSW1ZMmRYNTV6WU9Cb25OdkZfXzMwYWh0ZVhKc2NrMDh0dzltYjRKM0JLSUJMd3Zxd3RsQ0ViU0E?oc=5",
+            "date": "2026-05-28 14:29",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "마비노기도, NC 홈페이지도 모의해킹…'민·관·국민' 삼각 공조로 보안구멍 막는다 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxV0RwZEp0cnhnOWdCc1U1dlZmNWNUUXAxWXRaYmU3aUl0a0RxNDVEX1ZPdEpBN3BPdEF4NmIwVEFQYVdVTkVTVjZfTlU0bGQ0b1ZmMUlkOXNDdXFwLS13OVROYV9uM03SAWxBVV95cUxObWxhb0NLTS1uQ2N1Q0RRSkVhR3lodlc4RWlYY1RFbk5wT05QcE96V0J5S1FraWlQQ3VQbURoX1RpOXI5TG90UVNkdEtXSTJSdjNuLTZQSkhNVlFUVjdpeWpKTjhtdDBldG8wS3U?oc=5",
+            "date": "2026-05-28 14:28",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 시대 `보안 구멍` 뚫린다…\"체계적인 방어 위해 CSF 필수\"",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SbVktYTJrVVludERjMEhQV0hFUkN1RlBLaUNwTGUxR3ByM01sV3JCcFh0SDhHdlVyalJIYkRXaG11ME1SWWRLTUx3QU9jWUdTbGc2RzNfa2ZMM1dDQVQyUEZmTEs?oc=5",
+            "date": "2026-05-28 14:18",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "한싹, AI·N2SF 전환 겨냥 ‘통합보안’ 전략 강화…신제품 6종 공개",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SMVF3SmRWU3pkMnhEazI5VmRWaFhCV2pucUYza2E2czVBQzlETHVsZG55QUtyUjlEQnVESEk1OHd2ZzFMWXpSLUtsRURvVWRrZUhOS08weUdEdnkwXzZjT0RMMzRRcGNC?oc=5",
+            "date": "2026-05-28 14:14",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[테크스냅] 노타, 직무발명 우수사례 최우수상…특허 227건 보유",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00T3ViTXp3eGlxOWpmNHNaMGw1TFZFUDJFOWxQNUY0dE54aVo1T3hyenJ6cS15bThzeDAzVXBnLVFWSmk5cThXWHNvLWs3UTBKRC04dHkweVdldHlSX0R3ZFc0QW00NzAzeEFTdkJJbXRhckl3?oc=5",
+            "date": "2026-05-28 14:08",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "한싹, 통합보안 모델 공개... “AI·N2SF 전환 한번에 싹”",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFcHJRSFdwVm9mMjJNU0NaRkgza2ZVRjIyMEJxQlpaQm5uYUY5RERubzI5ZWVKS1N3NVBaNG9oZDFHdUNEempBMFRPRVM1N0xOdlpNamU1U2FhMElhWmhWNEFJd2lPRTlZRjBmclF6el8?oc=5",
+            "date": "2026-05-28 13:58",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "과기정통부, 오픈AI와 AI 보안 대응 협력…한국 기관 GTAC 프로그램 참여",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMeEhmWFdFWEQ1akNfdlVQMlBfZm9vRVE0VkRJdnYwMEpZb2JPUzcyUzIxNUtWOUtVa3B4UHdpdEU2dnVTd0xOcTRlX2RBb0NQbTUwLTdPZGlzRXZNT1NJTzhKVzM3eHJGOVVSRg?oc=5",
             "date": "2026-05-28 13:57",
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "한싹, AI·N2SF 시장 겨냥한 통합보안 모델 발표",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1RXpYQXhaNF9SNDd4eTRTeXdtVnJxNkNnMkNkUWxWd1BFVmctb2psdzE4UHpLRUc3c0UzZFJNTERVcHhtLURadlZSZklPVzR0LTh5anNDTC12bFRwN0dtVTZIc1dOWDFxYmhiYQ?oc=5",
+            "date": "2026-05-28 13:57",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "씨브이네트(CVnet), 국내 첫 ‘양자 VPN’ 스마트홈 특허 출원",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fVExnYlpvX2gyN0ppa2JvSlllZngwSDByMUNJRlo0MGljUF9RSXdyNlhDa01aenI2X2ZuTEs3aHQ1SGttTTVaZTVwWkJFMlk3UFFSWmhUY2lVaV9DWkNiNVhvMkJENk1CMkNDc2otSQ?oc=5",
+            "date": "2026-05-28 13:55",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -9353,6 +9484,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "HEM파마, 아우토크립트와 ‘피지컬 AI 플랫폼 바이그널 데이터 보안’ MOU",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sTUUySldhR1o2d2RVVEVmbDhGbHZCZDc5MzdTWENnUHBSaGlWcVFya2IwQ2s4U1BhbHNjNm90X25SWThQWDgyRjkzVTYteXFqUVd5alpibDNPQUg1NGFQRDdBQ29RZlg2ZllFWktvREnSAXBBVV95cUxPbE1FMkpXYUdaNndkVVRFZmw4Rmx2QmQ3OTM3U1hDZ1BwUmhpVnFRcmtiMENrOFNQYWxzYzZvdF9uUlk4UFg4MkY5M1U2LXlxalFXeWpaYmwzT0FINTRhUEQ3QUNvUWZYNmZZRVpLb0RJ?oc=5",
+            "date": "2026-05-28 11:47",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -9886,6 +10028,17 @@
             "is_today": true
         },
         {
+            "title": "AI 자율공격 정조준...베이스스톤, 매 요청마다 양자키 폐기하는 ‘쿼디언’ 공개",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51OGJjSkhKcGhrelcxMnYwTHE0QXFRTV9qeV9JVmdhWllhNjg2TXlHdjhNWDI1U0prLWlOem1HcFEtRzdnd1Ata0JYU0lGaXp3VUVJamZfcjNLeF9yeUVhSThuWE4tRWM?oc=5",
+            "date": "2026-05-28 08:29",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "세종시, 청소년 대상 'AI·사이버보안 한마당' 참가자 모집",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOSGhpUGpVdnA4V25hX2JmX3o3MjFRTXNZSTRsT1NFc2tQQzlZUDdzbVh6M0lVbEFhRlJEV25oeDFBaXFselR3aW1MN3J2eTNWdTFrNUoteXoyUDU1WkJySG5wTHJ0eTRiRmpqeG0xV1Y2Z0E?oc=5",
             "date": "2026-05-28 08:19",
@@ -10046,6 +10199,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "세종시, 청소년 대상 '사이버보안 한마당' 참가자 모집",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00QU1ZV3ZEc0hWM2JZM2lyOVZna3JtZThFMVN4eTZnR1NUVDRpM1U5SDNWRUlBTmhEMkFheTQwMUk0YWFJOVhsYnRHVVV3M2RNLUd0d2I5LWlPV0RzOXo2VzVFdV9pNVNKZW10OGRkQlByUQ?oc=5",
+            "date": "2026-05-28 05:17",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -13404,6 +13568,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "KB금융, AI 기술로 선제적 사이버 보안 대응 강화",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jLW9YcG9yc2tGeWVOSVMwdjNTSjNqNHNWYzlJbHhGMXU1NmxHY09LMTBjbE85cFhBMXFFZ1ZOZl95aXg0UkdVVE5lZmo1c1k2c0JYVnlQejVNaXRhUmhFU0ZYR3dNUWVLQy1BeThB0gFuQVVfeXFMTWMtb1hwb3Jza0Z5ZU5JUzB2M1NKM2o0c1ZjOUlseEYxdTU2bEdjT0sxMGNsTzlwWEExcUVnVk5mX3lpeDRSR1VUTmVmajVzWTZzQlhWeVB6NU1pdGFSaEVTRlhHd01RZUtDLUF5OEE?oc=5",
+            "date": "2026-05-26 14:59",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "한컴위드, '한컴 엑스씨오스' 앞세워 제로트러스트 시장 공략",
@@ -43579,6 +43754,17 @@
             "is_today": false
         },
         {
+            "title": "[슬랙 투어 서울 2025] AI 에이전트 시대, 업무 효율 해답 ‘슬랙’",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CZllHLWFIc3RYeUluTllpemhMQmtXSkNSWjhSSElNbU5qWkd1UzZ1Z3BRNDFySHJEOUk3bDBEdk5nVHk2TVZXMS01dmlqNkxlMjU3dVNmN1ZqRjRCUVhvWUZhaDk0Nkdq?oc=5",
+            "date": "2025-10-22 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "LLM과 Agentic AI: 보안과 안전의 새로운 과제 – Cyber Summit Korea 2025 세션 발표 리뷰",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2RnSXJRSnhhSklQcWg0c09qaXJIaEFzZVJBSldTMEJ5Z2I0eHVUMXFVdkJZaXJSZ25QOG9KZmIxanVWcWtxR0RVRGdRZEhHNlpnV25RbXpsT2RLaHpjNG5qcFlVVEwyNjJpbE1mTEFreUROZ1lsV2tEa25UV0JlbXRiMEJwU1RoYlh5LWJHaGY?oc=5",
             "date": "2025-10-21 16:00",
@@ -47297,17 +47483,6 @@
             "is_today": false
         },
         {
-            "title": "SKT, 블록체인 DID기반 모바일 학생증 서비스개시…“국민편의 서비스 지속적으로 발굴예정”",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12NE9RMEI5Y2E3Nmwxdl9nMDdCNGQ2Y1l4bEpVekYyYk5SUDBtOEU4S0hxaGN6VTgteUlZX0NCUUxILVZNNXVjSGhfRnhLS253eFZJNVlyVkxWT0tFTDRualJxQWVHREFfM1E?oc=5",
-            "date": "2022-08-16 16:00",
-            "description": "",
-            "category": "AI Agent",
-            "keyword": "AI 에이전트 DID",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
             "date": "2021-06-07 16:00",
@@ -49926,11 +50101,11 @@
         "2026-05": [
             {
                 "keyword": "에이전트",
-                "count": 250
+                "count": 251
             },
             {
                 "keyword": "금융",
-                "count": 204
+                "count": 207
             },
             {
                 "keyword": "오픈",
@@ -49938,7 +50113,7 @@
             },
             {
                 "keyword": "체계",
-                "count": 149
+                "count": 150
             },
             {
                 "keyword": "한국",

@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-29 19:00",
+    "updated": "2026-05-29 20:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -1006,6 +1006,16 @@
             "title": "강동구, 일자리 매칭데이 개최…현장 면접까지 진행",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zdHVsU0xDc2Y5MkVUWEFGX1NnMXItT2ZKVHZOZ09tR2JxaGNIWERQMWptZFhzZ3h3NGJOSGJHa0tNRGoxNVRZQzVJVzNzSUpWSk9pZGNBanIyOTJvXzVjN25ibHdtSHB1QkFHd2F1aFItZ3ppUVBuVFFB?oc=5",
             "date": "2026-05-07 20:08",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "\"구직자와 기업 맞선 봐요\" 강동구, 일자리 매칭데이 개최",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53TC1vYi12cXUzMzJQb0pKSUg3MEpmakRwV3FSejlpcTVvVW1TRjhiQklmb2FPZEVvb0Uzb05mOEVmN3c0RFkwekFXMzAxRlNsNTVrTGdXRDBzY3hQZllvM2VqZF9USnJp?oc=5",
+            "date": "2026-05-07 17:03",
             "description": "",
             "company": "넥스지",
             "tab": "competitor",
@@ -8843,6 +8853,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이, 통합보안솔루션 ‘SECUI MF2 VE’ 일본서 출시",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4MEVOVjdNVEdNWmhobFJoOU1iUTFWYzVOaS1ibmhqdHdacUNTMFFjY0I4QjcxbC1TZWJaTGVGSEJweXowazNYVUFEbGFnczJZdk92dHVsTnVGck9hNl9EQmJJYS1iakxZM1E?oc=5",
+            "date": "2014-12-17 17:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, IoT사업본부장에 KT출신 이현규씨 선임",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91UEdvMzNtN2RLLWRDM2cxamp4ME9JOFFtRHhJWVBFQ051QWN5OU0xbU9hM05ZSDlfeEdzUjZJRE5qcW5EaHlnYXp6OTVtNDFjVWphMUl3?oc=5",
             "date": "2014-11-24 17:00",
@@ -8963,6 +8983,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, ‘히든챔피언 육성기업’에 선정",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5saU5IcDJHX3lZOFR4dFRwdmxQaWQ1LUhBMExJaWNuSEhGUEVCdzk4S1J6dkxFaUVTb3NyU1VFeDkyWGszUm5fYTJvSkRhOVotdDlhNlNVSC04bjlNZ0E?oc=5",
+            "date": "2012-07-30 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "핸디소프트, 다산네트웍스·퓨쳐시스템과 스마트워크 시장 공동개척",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qc1Q2UzRFaFFpZG0ySEx0NHhCN1EzdHpBT0RRUTAwUVloWWxJeWowR1BZeGVfXzRTUGE3NjFhaDY1cUdTMnExdjNQM3ZKckJvYnFDT3B3?oc=5",
             "date": "2012-04-25 16:00",
@@ -8988,16 +9018,6 @@
             "date": "2011-09-20 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이닷컴, 차세대 방화벽 SECUI MF2 시리즈 출시",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oMklPbzZyem1QVXdyWDZWN2VicEI1MW5lRWUxaFdIWEFuei1fZVAwTFVMMlVHR1NHOWFFNjhlQTJ1Z3JUendpMVdFVWpjRW5ZdGdITTlxeUp6R3NW?oc=5",
-            "date": "2011-09-16 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -9374,6 +9394,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "AI 악용 사이버위협 ‘비상’…정부, 민관 합동 대응 본격 추진",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93NTByUGpGaEVOeHhoS1hlOVVRaVJOVTIzMlhLWk5Ncjk3U191Z09YQjZYTjM2ZG1admx5SEdrczJtT2VNeHZzWXB4OHR2ME0?oc=5",
+            "date": "2026-05-29 18:54",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "앤스로픽, 고성능AI ‘미토스’ 일반에 공개한다…\"안전장치 선행\"",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakJvZG9vcXVpSjNqOVZtVXhnQm1ndjdLX3F1Q1dTdXA3X1RQVVRHRXNZOXEzMWhUeDFJbC1FNTgyNzNpaUpfTzg4Z3hZOGFFM0tjejZJNXYxZDItRE1RQVhsaGl2OW15c1Q3LVdrdUpmZjl1c0hfcjhKMlY4ZkxSag?oc=5",
@@ -10123,6 +10154,17 @@
             "is_today": true
         },
         {
+            "title": "스노우플레이크, AI 에이전트 보안 기업 나토마 인수 - 조선비즈",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYTktRTl0YVc3UWxjbWRJUWFXX1FxN0g1SmtTSG90UmVqcEQyUDRLYXh1VC1OYUx4SjFOYUNOdUJ3SDNRMFE3bU9scjB2R1NvRDhrdFZHeXVYTW5tRmVhQmlCaXBGR2JrNTZOXzFmNDJ1N2N6eDNCSzJoRU94MHNDRHJn0gGWAUFVX3lxTE5sRmcxbUNydmI5YUJiSE9qMjYyRzNKaXplR0lSd19uTjI0bDhoVk0xY3VON3VkSTBHUUlydk9nS0d3Sk95MTBzenVuNTNCenBTaGFvSGd5U2VrbTI2d0dPaVMzTldzbmZ0WENvTW96ekZPc2I3UDc1bGMzdkw3LWJBY0w3SkZMbUY0THFqS3M1RDc1RTlyUQ?oc=5",
+            "date": "2026-05-29 10:15",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "지란지교소프트, '오피스키퍼 보안세미나' 성료",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zYUZEVktNM080OWdMZnJPSDVfZ040QnNJYmd5d1ZLRlV4YmJ2TWhGcnFsUjhWYkg1dmF2Sy1wSDAyZEhiMHp6NDB3Sjg3dw?oc=5",
             "date": "2026-05-29 10:03",
@@ -10360,6 +10402,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "“AI 클라우드 최적화 방안과 미래”…‘제9회 2026 AI CLOUD 컨퍼런스’ 내달 24일 개최",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SdjhOM2NEaDQ0SjByLXZnc3MwYUNkT0RxWC0wQVdJaUVoal9fN0RMY1RxWWp0ZGpKc1JLT3BIcHBMZmdPaVUwMy11RE1VM0xLbmw2VDZaU2FwcEVyUWs5NmJSZFh0NXc?oc=5",
+            "date": "2026-05-29 09:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -10627,6 +10680,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "씨브이네트, 국내 첫 ‘양자 VPN 스마트홈’ 특허 출원… 양자보안 아파트 시대 연다",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vNUg3U3pvaWZydy12eVBkZUJ2aUlvM3FHU1BJRDdiQVNRTll4OXZzUmpDOFZUaXBiUkRoblBjeEhMaFNVMmJNZFFlV2l2bFB6QWtVUkplWjc1TjhmVm8tOTVXNTRyWUtBTkx2btIBbEFVX3lxTE9vNUg3U3pvaWZydy12eVBkZUJ2aUlvM3FHU1BJRDdiQVNRTll4OXZzUmpDOFZUaXBiUkRoblBjeEhMaFNVMmJNZFFlV2l2bFB6QWtVUkplWjc1TjhmVm8tOTVXNTRyWUtBTkx2bg?oc=5",
+            "date": "2026-05-28 21:02",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "AI에이전트, ‘자율 수준’별로 단계적 제어 필요",
@@ -52539,7 +52603,7 @@
         "2026-05": [
             {
                 "keyword": "에이전트",
-                "count": 283
+                "count": 284
             },
             {
                 "keyword": "금융",
@@ -52555,7 +52619,7 @@
             },
             {
                 "keyword": "정부",
-                "count": 124
+                "count": 125
             }
         ],
         "2026-04": [

@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-31 05:34",
+    "updated": "2026-05-31 06:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -985,6 +985,16 @@
         {
             "title": "안랩, 대만 ‘사이버섹 2026’서 엔드포인트·CPS 보안 플랫폼 알렸다",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQbzlnR1lScW9iZUstazd6R0JWQ1d4UFd0MWNCUWw5M0hYdXB1QWU1TFhrUHZ2YlAtZGNoSzVpajZ5enIxaUxhcWlDbnhXcW9NejQ4TWR3X0tyRVdKUERUY3h2ZWJjaHc?oc=5",
+            "date": "2026-05-08 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 대만 CYBERSEC 2026서 엔드포인트·CPS 보안 플랫폼 전시",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yZ3FHUlVkd3duTVZXa29kUV82ZzJieWZjUHdnSTlqRmlCZXQtOEF4M1hqU1dWYzUwbl9Mc0lYQ2MwMjhzbFZDRFd1bGFRRWxXd0JMZEN6dGhPSTRHcXpIckFLa1JWQWI0ei0yUDFNaUlySXRaT29TM3NR?oc=5",
             "date": "2026-05-08 16:00",
             "description": "",
             "company": "안랩",
@@ -3695,6 +3705,16 @@
         {
             "title": "안랩에서 점심하기-2025",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Gb0Y2eVJtNWZRRmRyU3FfaGlnQ3M2clRjdWpzSExxX21HYXZZMDk2QjM0aHJPbnpCQkxtc2t2R2llcUpVbF8zNmtyWQ?oc=5",
+            "date": "2026-03-12 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[Security Guide 2026] 안랩 ‘안랩 CPP’",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NTTlYNTljOTg1MWhiWDZyeWh0czZIdnZ3aDhvdVpNVGREX3FBUk9JeEZ3cm81dVpUcGxxY01RYklpLVdxNDZYTFRRX3NJVHZWeDBJRWZwLUV3Sm1weHhzMWotU09jMTd1RkFwbA?oc=5",
             "date": "2026-03-12 16:00",
             "description": "",
             "company": "안랩",
@@ -8553,51 +8573,11 @@
             "is_today": false
         },
         {
-            "title": "KX넥스지, 클럽72서 조달 파트너 데이 개최",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSVGNkOGJ0d256VTYyUUwta2tTVUx4b3FybExsdGZFZTF4eHllSHFkWkpxYTRtOWkzR1JPd3dOcGFyMHF5Nno0TDhUdjU3a0xwX1dLN1FRVmdxOWEwMzQxc0lYWQ?oc=5",
-            "date": "2023-05-19 16:00",
-            "description": "",
-            "company": "넥스지",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시스원-시큐아이, 공공 조달시장 확대 업무 협약",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TelNkblJsTFd0MEFjZWhMak02LTNjTm40QndHcjdzSVdNblFKVjV1RUliUS1PNWtUcXhnSFZsRy1rTHVHbk1GSF9nTjBXRzZZcDFMaGZB?oc=5",
-            "date": "2023-04-26 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "'삼성SDS 보안 자회사' 시큐아이, 이익률 상승 속 현금흐름 '뒷걸음'",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpd1ZoVG5aRC0yV25KUThZWXZvd3R4OVVSc0VkVTZNWnBXdV9mejR3R3BTMTgxNUFSVndrTGMzODFqRjc5SFE?oc=5",
-            "date": "2023-04-17 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia™ ITU·ITM 선보여",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FMDJ4TVV1TWVIYnBoTWUwNG90WEowWHd4VTB1N3dhU3J0dGlGRU45QjhfU0M2dER2Y2pJY21oaVQwSHhSSW1FYlZiakRhdw?oc=5",
             "date": "2023-04-05 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이, 2023년 파트너스 데이 행사 개최",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96enZJeU9DdVltVDJGTmZHSlhtODhYUndKQk9KWjZyUTJ2V21wb0tBa2N2ZHJoeE1MV1V3NC1vQk9mX2tjYkRSZnlZSnBNUDRYOTU0QmtDbG40ZGVpTmd3?oc=5",
-            "date": "2023-03-30 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -8658,16 +8638,6 @@
             "date": "2022-12-13 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[기획]시큐아이, 11년 연속 네트워크 보안 1위 '절대강자'",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lOXFOV015MnJlNkZFcmRLQVl5emV5RFJzMkZZVVNHMzh6d0RCX0hjMnRndDVJV3RaeGt4SFZlbXZMTkxDb3RxNWpoa0Rxdw?oc=5",
-            "date": "2022-11-22 17:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -8773,31 +8743,11 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, 작년 영업익 59%↑...\"올해도 질적 성장에 집중\"",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LRTRwWWdCdElEdm9pTjRVbTJfQTRxd3BObzBHV0VWZXV3cXhSQ3ZqLXRxWVl5VHN4ZnIxZk1FRzNqd1NHeFVOcmRTdzNSQXU1anl1bW5R?oc=5",
-            "date": "2022-03-07 17:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스, 부산외대에 ‘스나이퍼’ 보안장비 기증",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tYVJkU2FuRDVRQzU2bW1MdlZEZURqSFNsWElZemNvOEZkSU5FeGxEOExuaDZtTHplREh6c1ExQWFCMTZjai0yX1JQWFFBTmdNWW45c0lKN0xZS0FJLVk2LURR?oc=5",
             "date": "2021-10-08 16:00",
             "description": "",
             "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이, 디도스 공격 대응 전용 ‘시큐아이 MFD 2.0’ 출시",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wUnRfQXhleUU4UWtLbk4yUWN0MkV6VjV2eDhmdWRxZnloWnRSR2ZFZEZXTlRRbnhpSXNXQUNmUUE4R0NxbV84NFVJbjVQdmtaQTZoVTl1cWE0T0pI?oc=5",
-            "date": "2021-06-17 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -8844,7 +8794,7 @@
         },
         {
             "title": "시큐아이, 100GF NIC 탑재한 고성능 방화벽 출시",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRSG1ka0ZWMEQxaTI3aFJkd2Y0eGJlWFpZX0tBZVFSV3N6TmFBRk5qSmVFM2ZUalBiaEd3OE9GeVIxVDZRdVBzeVVMQ295S3E0WlQtMEpXZ3U4YXEzRjFQU19yRUVwOGpQRjJtLUQ1U0ZobTA?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xRzYxdE80ZGpSQ2Z0NF81LWFtQ25TdzNoX1I1NTM4V2V2UkNQbzhrQ050MlM4VWh3dWxHaU1QakdzV052bTYwVnZLSXhVdHNMU1NaZi14a1VnZ1hPbGgyWkh5aUpkY2s5Q013OFdLRzQ?oc=5",
             "date": "2021-01-28 17:00",
             "description": "",
             "company": "시큐아이",
@@ -8853,19 +8803,9 @@
             "is_today": false
         },
         {
-            "title": "시큐아이 ‘블루맥스 NGF VE’, AWS 마켓플레이스 등록",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kTkhXNjZTTEdhU3N2SnRXVUcwTmNxLVBoTldBbW1DR0JMSFdCY1hXaVpTb3RtVld2YjJjRVlQTm5Mam80Ty1McVczc1E1MVIzTlVTT2s0Vm9tdlJzWURLcG9hR2lwUQ?oc=5",
-            "date": "2020-10-27 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이, WIPS 출시…와이파이6 보안 문제 해결",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41NzMwZGxUMHhGdmJGbm9uNUtLMXJQc3c0UnU0RWt4ZU11cmQwUkpFNUVNaTNaRFB0QlBzcldadzREOW5EaTB5OTVueXFOTlBMWFBGWFV3?oc=5",
-            "date": "2020-07-17 16:00",
+            "title": "시큐아이, 황기영 신임 대표이사 내정",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PcGNRVDZ4ejhyUllaUGVrQm9JM2ZfZ1otaUxTX0xhcFZzcDdiTmRmNzdlaDRLWUUxOE5GeHU4NzRMQXRtYnBxM2xXM0tlRGlMbkpJaFA2MWIzZmNt?oc=5",
+            "date": "2020-12-23 17:00",
             "description": "",
             "company": "시큐아이",
             "tab": "competitor",
@@ -8898,16 +8838,6 @@
             "date": "2019-10-10 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "삼성SDS 자회사 시큐아이, 통합 보안관리 시스템 출시",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zWUJ5X0dYVkVTSkhLZFJPT3hGei05R1FZOHhfNzFyXzN2MnBDVjBWaFM2Umszcmo2LTRPWlZ0VTdLOV9kVmQ1UnY2WGoyZHU0R0FzbjF5amNLRllEd1JNbFVuUG5VTzg?oc=5",
-            "date": "2019-09-04 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -9193,16 +9123,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이닷컴, 보안 정보센터 SSIC 오픈",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xblFIQTU2eGVJSXpIVjJibFN4QUdFOHNoX2RsRk1NTnh5cFZXVXZwZGpCU3Z5ZWNId0oxQzBDTHY2X0I5Ulh0OXlfVW80d1kyeXZvNlhJNXJMcjE4?oc=5",
-            "date": "2012-11-23 17:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, 차세대 방화벽 ‘WeGuardia NFW’ 출시",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14THlhdk1hcFBDX0M3UkZxbFhSUWExZXRBcnhaZnB2Wmx5dmNnS2hMYk9DS2Z1OVQ4anU0dVNXLWs2V3IyVFNwRDBiVFNDM0dBU20tNFVfQ1dvNzE1QTBMTVZKUERVOTJMVmk1OXRDd1BHUQ?oc=5",
             "date": "2012-10-07 16:00",
@@ -9253,16 +9173,6 @@
             "is_today": false
         },
         {
-            "title": "[2011년을 빛낸 SW]시큐아이닷컴/시큐아이MF2",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iQVBQZktFYS1GVnF3ZWk4aUlSTVVqN3JITE85ZWRoTEFWYk53VkFTMjRLLVV3NTBvYlhlWHZpVFhCejhHQzZiN21Hdw?oc=5",
-            "date": "2011-11-21 17:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, 악성코드 자동 탐지 SW기술 특허 취득",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tbnBSNGFPQUNwUTNjTWN1b3QxQUZzZVd5OWJKeTNnV243NXhvNm9MS3RFVnREM0kyRkRoc1lFVjhsN0xHbWpyM0IwbldSVWZjMHAyWXdmRnVBWDZmSUlZcWZsUEZqM2FEOFA3MTU4aEVmZw?oc=5",
             "date": "2011-09-28 16:00",
@@ -9278,16 +9188,6 @@
             "date": "2011-09-20 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이닷컴, 차세대 방화벽 SECUI MF2 시리즈 출시",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oMklPbzZyem1QVXdyWDZWN2VicEI1MW5lRWUxaFdIWEFuei1fZVAwTFVMMlVHR1NHOWFFNjhlQTJ1Z3JUendpMVdFVWpjRW5ZdGdITTlxeUp6R3NW?oc=5",
-            "date": "2011-09-16 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -35711,6 +35611,17 @@
             "is_today": false
         },
         {
+            "title": "AI 시대 보안 해법은?…카카오엔터프라이즈, 클라우드 전략 공개",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfd2lrdEg4cmhMNFQtUUMtMFVKcnBFOW9sZDAwSkZCU05qc2RyUzJybVN6RlJOUWhQVXhhTldwNkNfQmZ0TU00Rk8wekE3QlRsczIxbVpXNXpJZW5lTmZF?oc=5",
+            "date": "2026-04-11 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[양자와 보안] 이와이엘, 자체 개발 암호칩에 양자내성암호 탑재... IoT 보안 시장 공략",
             "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rQkwzU1Rac2N3OS1qaV9xVFcwQTJPTjZQZE5JNEljMEJHc05HOWFnclFiYUFMU1BOUlQ4YWNYRXVtQ25neTJSbllZckd1b3RLcVlyZW9NMHBPdk9JYlZRSVhrVmFRbmpfN0FDV3ctZ2kyUy1WT0JiWQ?oc=5",
             "date": "2026-04-10 16:00",
@@ -36212,6 +36123,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "\"펜타곤의 실리콘 장막, 삼성 2나노를 조준하다\"... 인텔에만 문 열어준 '제로 트러스트'의 칼날",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SQkZ0am9IdFF1SS11a00wVTM4M1FtWTZ4YTFOSkxubmFiLWdBN1ZUdzFzNnY3NHk0dUR1UmR2bHVuSEJXdzlSR1BkU3Z3R2ZJcFVwZmFZMkZiYzVjblNGcWJQLXRkMVk?oc=5",
+            "date": "2026-04-08 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -54131,7 +54053,7 @@
             },
             {
                 "keyword": "대만",
-                "count": 17
+                "count": 18
             },
             {
                 "keyword": "피싱",

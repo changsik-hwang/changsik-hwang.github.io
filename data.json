@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-30 13:00",
+    "updated": "2026-05-30 14:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -8603,16 +8603,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 STIC 출시",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YU203OWhvTFFhTGVhTE5ndTNzcXdpYXVxQUVGS2pSTlM2eGF1d0xYbW54eDlSSm16NGo5c1ZxS1dSWERTVnZueno3dVJWcUlKNzVpRS1n?oc=5",
             "date": "2022-06-09 16:00",
@@ -9048,16 +9038,6 @@
             "date": "2012-04-25 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 자기주식 20억규모 취득 결정",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xMHY4VVplcWlSbktaQml5VTFoVGJydGV1alMxZTNyV29NbTcwLXIzeUlSMjRxamhHc0ZKZkdVMUZxNWlVTjNRc3VPR1AyY192UXhQUmtOVGpJeDhrZDgzLU1CeDlYM1Q0VXVNMll3cG0?oc=5",
-            "date": "2012-03-22 16:00",
-            "description": "",
-            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -12233,6 +12213,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "스타트업",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IQVItMGFRTC1CdjZJS1B5MGU1d18yVUpVcjFFVG5mczRGaW5kTHlqblkyWkdnMlMzaWJNSmFBRzRwb0ZNWWtpYkdteTBDamhkWmlnM1pHQzFWamluUlVJ?oc=5",
+            "date": "2026-05-28 10:30",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "“사이버보안 인재 키운다”…세종시, 청소년 교육 프로그램 운영",
@@ -31007,6 +30998,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "Inveniam, AI 에이전트용 인증 레이어인 NVNM 체인 출시",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS09WNzJqTms4NVc0OXZIOVlQcE5hTUhZY3VLaXYtZU1BMzZHOTFROVktbVhzVlF2dkVId3paRVVRYl9oNE53QWtGTFNqdEZ6djFSMVNlLXZkTUJKU1dKREsxa0lZakxvMmd4SUNKVDlxRGg2YmdJRnI4Wk5kOXlyNjJBaks1VFotb0gyS09YRXhfR2llRlJ6VkRmY1ZOME0?oc=5",
+            "date": "2026-05-07 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 인증",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -50845,17 +50847,6 @@
             "is_today": false
         },
         {
-            "title": "SKT, 블록체인 DID기반 모바일 학생증 서비스개시…“국민편의 서비스 지속적으로 발굴예정”",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12NE9RMEI5Y2E3Nmwxdl9nMDdCNGQ2Y1l4bEpVekYyYk5SUDBtOEU4S0hxaGN6VTgteUlZX0NCUUxILVZNNXVjSGhfRnhLS253eFZJNVlyVkxWT0tFTDRualJxQWVHREFfM1E?oc=5",
-            "date": "2022-08-16 16:00",
-            "description": "",
-            "category": "AI Agent",
-            "keyword": "AI 에이전트 DID",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
             "date": "2021-06-07 16:00",
@@ -50870,6 +50861,17 @@
             "title": "“2020년, 모바일 전자증명 원년 만들자”",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zSmdkWFE3d011aU92dzJyLXRCMEFUcDNZYWtCZlROa0JNcUtVQzRMck52VmFMdUpxQjFQRy1YV3ZzdzNXOEZ1SFNZcWVhSGFKaGZ4MGtDOGZIOXNkVkE?oc=5",
             "date": "2019-12-07 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "어디서 본 것 같지만 언제나 새롭고 늘 짜릿해, 삐에로쑈핑x스튜디오좋",
+            "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPcU1iTlk5Zks3SXRNWTNwWWpjYkIwdTBQYWJ6a1pNZnkwYS16NFFDY25EUDVJbzYxQ2VvZUhZdl9zN3NLS0F6S0JhX05ocmxIUnRFeHR6Z3duTnpaNG9rOURLVW5fT0FXdnFmTVkxcUFNY1JYUmp6OHFMWjNlQ3pubU9tN0szNjcyOFktT01JT1AxbGwyUGwtOERfQnZrQUx1ZG1sLS1YWFd1UUJhdHJyNzFkWTVTZEFYUEZpUGFCazZTRGdYWF8xSjlJTlY5RVdGeHlPZk1mS0xGdjIzTWx3M2JMU0s4b2pjdnloVVF3UXBmbUF4ZWlRWGNiVDVfNF9TYWNFcmxuSUdpQnNkQ3Ixa19Uczkxc1VkdVRfZmZFZm42Vlo2RXdzaGpab1ljN2o2ZENVNTRaejR3WUNQeVhJ?oc=5",
+            "date": "2019-11-17 04:51",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
@@ -53474,7 +53476,7 @@
         "2026-05": [
             {
                 "keyword": "에이전트",
-                "count": 298
+                "count": 299
             },
             {
                 "keyword": "금융",

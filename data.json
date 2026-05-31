@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-31 23:00",
+    "updated": "2026-05-31 23:58",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -4828,6 +4828,16 @@
             "date": "2026-01-28 17:00",
             "description": "",
             "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[#시큐리티 포커스] 스틸리언 '인니 연수'·에스원 'AI 빌딩 에너지 솔루션' 출시·케이사인 '암호화 웨비나'·네오INE-시큐아이 'MOU'·노드VPN 'AI 개인정보 보호 인식 조사'·개보위 'CBPR 인증 유료화'·최형두 '보안 패키지 4법' 발의",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iWi1CRmRramNHRzFHektkMFp1cTdPV1hFN1ZiY2l5XzlVdXdXWmc3TGloel9BOFlQNHdQemI1dzIyazNENjVBUVNrNFI2WGxxWmJrRzN2SHE3dlZ2Mm1fM2dQR0xReHg5dGlNb1NoY9IBc0FVX3lxTE4zLVB5OXZTNTBENmFOUjhoR29SZmJLTEdDR21DaVQ2SmM3aFFwT0c4czJMc1MyMlRtU1JMdVJuUnhlX0pORUVZMTlCUUNoRGxnTDA1QzFwckVxVTM3ZjFLUXdoN0FLenZhaThuWXNjdjJzdjQ?oc=5",
+            "date": "2026-01-28 17:00",
+            "description": "",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -31307,6 +31317,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "한국딥러닝, 6일부터 ‘AI EXPO KOREA 2026’ 참가…문서 AI ‘DEEP Agent’ 공개 — IT뉴스모아",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HVjlkWkdvTHRycFJNMzRYZjRoSFQ4SG1yQmxETzVRQjNVMWgtWC16aFhNWHJUZVdSM3VreTYyVzcwY2FuT1JRd25jWU9LdHQ4b3Aw?oc=5",
+            "date": "2026-05-08 12:07",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 인증",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

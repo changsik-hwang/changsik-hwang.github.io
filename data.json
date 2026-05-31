@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-01 06:00",
+    "updated": "2026-06-01 07:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -4803,6 +4803,16 @@
             "is_today": false
         },
         {
+            "title": "안랩, 총판·파트너사에 `AI 보안` 전략 공유",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nOGtNUTZrb2h1N012Q0g3dXlBT2dvNTFTcEdna0cyZ3M5dnVYVHYzX1RCWjA4VGw4Ykh0a3F6MTJDekhweE0xZmtyUi1GY3B3ek5oc1MtZmktOHBMQjd1MVJ3?oc=5",
+            "date": "2026-01-29 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "네오아이앤이·시큐아이, AD·ITDR·제로트러스트 보안 협력",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIdlNsQ0N5VUlwbnhkWGgwTVJXamdqNGNYREVKQUVueVNtU3BSSkxnbWhIc3JFX3RpTFR2NjJ0NmlmbTJ5UEFQR1hjV3R5ZG8?oc=5",
             "date": "2026-01-28 17:00",
@@ -9373,16 +9383,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 사랑의 집수리와 MOU 체결",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxMTdtMVNYV1JkUDJOTmZ6Mi1EUHFSY3BQMUVvaDFpRGRZVlBVVFY1UkwxR0dpc245U01RQ1NIMmVpWVBBLWRtUVlIOXlyV1p4LWZyZ0JQaEw3cmZV?oc=5",
-            "date": "2012-01-06 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, 악성코드 자동 탐지 SW기술 특허 취득",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tbnBSNGFPQUNwUTNjTWN1b3QxQUZzZVd5OWJKeTNnV243NXhvNm9MS3RFVnREM0kyRkRoc1lFVjhsN0xHbWpyM0IwbldSVWZjMHAyWXdmRnVBWDZmSUlZcWZsUEZqM2FEOFA3MTU4aEVmZw?oc=5",
             "date": "2011-09-28 16:00",
@@ -9774,6 +9774,50 @@
         }
     ],
     "trend": [
+        {
+            "title": "AI 슈퍼 해커의 역습…‘버그마겟돈’ 공포에 보안 패러다임이 바뀐다",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByenhsNzBLYl9Xc3lyWUFQUDZ4dFFWMDhiTmNlSHR3OGV6SmRfN01obnRiMXpjWnIyMVgtV0RCTEd0RDZqcWwyYVRyS0xEcFN1bnVpM1A1VWZzUHY2anc?oc=5",
+            "date": "2026-06-01 06:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "韓에 AI 문호 개방한 오픈AI \"앤트로픽과는 달라\"",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BdmY5THUxcWVTbGxhSXJpYzRRNXQ3RExmbXFsZ0E0Yk80d2JhbWNLVWpqMU02N0Z4SzV3bWpEVXVaNXRfdi1KMW9pRS1UTi1Ick1F?oc=5",
+            "date": "2026-06-01 06:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "화이트해커 박세준 “AI 창에는 AI 방패로…해킹 방어도 AI로 자동화해야”",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aVUdyV2dWMDFKbUFoVXFyNmRrR0pUd01ON1d5bWc3WjVTTEZfdFhqQjNwVFBLZDN5THRTalRmOW4yZkpkTmlMb2NtZGNzSXctendXZ0o4WDBzb1d1OWc?oc=5",
+            "date": "2026-06-01 06:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 에이전트 도입 본격화에… 구축·관리·검증 솔루션 경쟁 본격화",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JZExnbC1zWHV4RVdPRUttX01RdjhEcFgydFFyQk9PMFFmME1ncVVzSW5uMGt1VGE5Zm54VFhWalRlOHl2blpYbEdEMFN0bXNDR2RzWVB6Um1TenR3VXZ5UlQ0ZDdHOGpxb0VnTFdic1PSAXRBVV95cUxOdS1EZm1aSnhtaV9nZFB3NlFBTEpIWmFmZ2lyMEc5cnBmUHhrbm9wVVZ4TDV4VWdTYzRacVFPSWg3elZsN2dXeDBseC1wQ2VHZW1MUUs5UjZ4OFhiQXc2bEl4aG9xRzJYRm1fMmliRG10b2tRRQ?oc=5",
+            "date": "2026-06-01 06:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "[인공지능 줌인] “사람 개입 없는 AI는 위험”…기업 AI 관리 체계 도마 위에",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13V2RqMDJUM3ZoTWpWTTJ6M015WFMzaXhzQjhNd21qZ0RMZmN3SlR6SVlYLWJTdVVfVlNIamFWSmVUUWFEV3RfQ1ZQWkJKbmFsVFdpV29EanNIcDZOdi1weHJzYzdoNXFJcVRlbEpIOA?oc=5",
@@ -35658,6 +35702,17 @@
             "is_today": false
         },
         {
+            "title": "SGA솔루션즈 “제로 트러스트 수요 급증... 엔드포인트부터 통합 방어해야”",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9neEpEUXAyZFg0aEFnbHZNd1MteUhqZGVGUVJGX0c3TzlRSVU5dzRiTHM2ODNHa1ZEdjBlNFI2SWNjVUlSSi1keF9xbk01RmJFV2hyb2U1T1RwVnI4dmVOQkNqLW5ZNWNf?oc=5",
+            "date": "2026-04-16 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "클라우드플레어, 에이전트 보안 패브릭 ‘클라우드플레어 메시’ 공개",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxd3YyWXVsQVc4MG9wVVV5UVhBamliVnBJcUJaOHRHb3NDTFpzdTFENEFMeXdaQVM5QmZEVHlWYWd0YlhkdXdkUE9UeEZZdXptMlFWQjQyMkkwaXExN3VoZGtZcWY2dG93dGZrVQ?oc=5",
             "date": "2026-04-16 09:41",
@@ -45800,6 +45855,17 @@
             "is_today": false
         },
         {
+            "title": "\"다가올 대규모 양자통신시대 준비 박차\" KISTI, 데모 시연 쾌거",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkcExJd3E4OFhFWER5RDVnSzQ5SzFVNTN2MnB6WEcwR3d2Q1owRURjX0hWR3R2MjNSa0R0NC1xZ0FXazBFMTRmXzl2MkhLRXdjRTIyTWdPN2JHS1RuUlg3Rm5FSHVaN1A0N1E?oc=5",
+            "date": "2025-12-31 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[양자와 보안] LG유플러스 양자내성 기술, 표준 됐다",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nMFZqd0F3QzZPcDM0V216NlFfR0p2ZlRlZ1RGbGF1TEtoMG50N3FmekVYUFVycWtBNEFXelBKSlhsbzJ1STZySW1pWnNVMDJJQ2J5aFdSLXgtblVPMnB0YWxoNzhnQjg?oc=5",
             "date": "2025-12-30 17:00",
@@ -54993,20 +55059,20 @@
                 "count": 4
             },
             {
-                "keyword": "인공",
+                "keyword": "해커",
                 "count": 2
             },
             {
-                "keyword": "지능",
+                "keyword": "패러다임",
                 "count": 2
             },
             {
-                "keyword": "사람",
-                "count": 1
+                "keyword": "에이전트",
+                "count": 2
             },
             {
-                "keyword": "개입",
-                "count": 1
+                "keyword": "본격",
+                "count": 2
             }
         ],
         "2026-05": [

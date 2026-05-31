@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-31 20:00",
+    "updated": "2026-05-31 21:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -1356,6 +1356,16 @@
             "title": "안랩 EPP, 중국어 번체 지원…중화권 공략 강화",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRYWpoTkNPMF9zY1hJQmdYcXpCZDhtTWc3VzYtR3l1M1ZSX21RY0xRSlZpemZ6TUI3N1hZY241YWVZQzNZUVBMbW8zc3lkUQ?oc=5",
             "date": "2026-05-04 13:16",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, ‘안랩 EPP’ 중국어 번체 지원…중화권 공략 가속",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HNlNnQUhLa3o5X2ZiX3R6SWVFcEFFNzNmVUNTM0lRN1VncWZTNm0tVC1nSFEwY1djeGczSDl3RUQwSmFZY19fZmNFOGU1aGdmeURpeW9INTFyZ21QYWpKcA?oc=5",
+            "date": "2026-05-04 11:07",
             "description": "",
             "company": "안랩",
             "tab": "competitor",
@@ -9133,6 +9143,16 @@
             "is_today": false
         },
         {
+            "title": "(주)퓨쳐시스템 2026년 기업정보 | 60건 면접후기 3.0 면접난이도",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVlfTkY0Tk9MZnI5TkJuZDhtZlhpTWhaN1MtRUNxYnJlTThEeHZGOXFDdDJqbENYRUJ1UVJhanA4V3RrU2ZYeFdHM3BCMndJbTNxVWQybXpQMmhqTlBGWVJxdTE5eVhoem5hSVhTQVQyZ3h2bFNZYUdrZlFUVEtFZW9qSkJTZWY4MW5tRi1iUjkyS2xZS1ljYVp3bWtRZ0xwNWc?oc=5",
+            "date": "2016-02-27 05:29",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[오늘의 CEO]김광태 퓨쳐시스템 대표",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wZU4zdm9YLTNWNzY5ZFRKNHRMdVZjbWY5XzhwOG1OU0dqbU91ZEZaeUVyYkR3MXVHSUNvYkZWV2ZZbGFwTWJHaW5QdHdNUQ?oc=5",
             "date": "2016-02-24 17:00",
@@ -9213,6 +9233,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템, 창립 27주년 기념식 개최",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pUDhiNTdwV0FYdTRXUjdTV2YyUnJqVUZub0tFTmdFejFKZEFKY1lYQTc3T2llM0ROR3NfWk9FcVNxY0t5WlBYN19TQnR5ZmpEVmxNSldEeVBRcUdvV3c?oc=5",
+            "date": "2014-11-18 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이, 네트워크 보안 솔루션 SECUI MFD 시리즈 출시",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ERWNOWXM0N3NHWHlnWUNDcG9BYi1ZeUNsd0w3TGZjdHRoelFMX2k5eTdyYk04VG9BUUdFQTV0dGVVTC1zMG9mTnlZamZVRnNZc1VERm1hZ1QxSHFaUTlFUGtRc29DMUFybFE?oc=5",
             "date": "2014-10-21 16:00",
@@ -9284,7 +9314,7 @@
         },
         {
             "title": "퓨쳐시스템, 차세대 방화벽 ‘WeGuardia NFW’ 출시",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14THlhdk1hcFBDX0M3UkZxbFhSUWExZXRBcnhaZnB2Wmx5dmNnS2hMYk9DS2Z1OVQ4anU0dVNXLWs2V3IyVFNwRDBiVFNDM0dBU20tNFVfQ1dvNzE1QTBMTVZKUERVOTJMVmk1OXRDd1BHUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5a2FHcE50bEdJdzVvNUdtbDlMS0Q5cjZqWG1YS2ZQN2FGSlA5RFQtWlNaQThIaGRsaVdRYXZ1MFMwcnlnNEVYd294a29YUkRORGxKVFlwYnFlYXB4b0E?oc=5",
             "date": "2012-10-07 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -9423,9 +9453,9 @@
             "is_today": false
         },
         {
-            "title": "[기획특집]하이브리드형 SW 프레임워크 개발로 성능 한계 극복",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xWVJKQURxd0Q4RDhySzVtbGV0Skp5Q2pyVzNIY29QemJlLUxCSzBFaFA3NVA1UGtOWERmR0RYS01zNDhDZVF4RjBBOUE0Vl90XzFpVEs0MURxUmxMQ0E?oc=5",
-            "date": "2009-09-17 16:00",
+            "title": "[기획특집]다양한 네트워크 환경에 적용 가능한 MultiCore 기반 통합 보안장비",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfR0I2T28yRUZGd0RLc1ZqbE40d0Fac0dHay1BMlV0bUlWNHYyUjRfZ0RTX0tmZTh6QVVSZEE0SXBTMmppcVF6SE0tTzN0RWN5QmR3Q0ZldGdfM01fX0RaTWxjZkU?oc=5",
+            "date": "2009-08-24 04:16",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9433,9 +9463,9 @@
             "is_today": false
         },
         {
-            "title": "[기획특집]다양한 네트워크 환경에 적용 가능한 MultiCore 기반 통합 보안장비",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfR0I2T28yRUZGd0RLc1ZqbE40d0Fac0dHay1BMlV0bUlWNHYyUjRfZ0RTX0tmZTh6QVVSZEE0SXBTMmppcVF6SE0tTzN0RWN5QmR3Q0ZldGdfM01fX0RaTWxjZkU?oc=5",
-            "date": "2009-08-24 04:16",
+            "title": "[기획특집]단순한 통합의 의미를 넘어서 진정한 확장형 통합장비 구축",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMHlvN20xZnYtSmJPRXhCSElxUWxyVjlMTTNlWm9WZkRZZDVzeE1pbTFvNUs4d01Celk4b2pvczh1Zi14MmdjMHZOLTRRYl9xdThxRm9PQ2Y3VmtGdHc?oc=5",
+            "date": "2009-08-14 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9506,26 +9536,6 @@
             "title": "퓨쳐시스템, 수협 방화벽/VPN 프로젝트 완료",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTY1Jva2VVZ3dsZ1ZiRVgxenl6UGdtOUNUa0x6TnFEMjB2U0RWalc5MWtFeTQzMklCdk5QZTREcmpvUlZhdkZpbUNJTVZjUmNDeXZxV1Faa0FFWTg1SkE?oc=5",
             "date": "2005-12-05 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템, 우리투자증권 VPN 프로젝트 완료",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kR0JlSlVNZE5oLXlkYjFUZV9KTjJCSGdqVE9WLTlYdFBvY2VUdUowSnBGOG1NZVdkZm9mYnVZOVZUSkRmX295eG1uUWtTVlFiMmJkeU16bTFLckpV?oc=5",
-            "date": "2005-11-17 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템, 방화벽 ‘윈백’ 사례 급증",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SS21uUThxNjNwZTBzVzhoZjBWckRIei1aeUs5TDV1TU45MXhPYTZJTjMzYk1NNWoxT3hfdm9XUDRrVm9maXowY2tkSFdoNy1ubV9MMVNSREQzVmM?oc=5",
-            "date": "2005-09-30 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9606,6 +9616,16 @@
             "title": "퓨쳐시스템, 홈게이트웨이 신제품 출시",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12RWlMQlREQ0hnM3pzc3UwN1JNVDlqTGpOWEtLZU1wRVlUOEZOZG9yRVJmQUFENmxzaFE3YXNTS2N2OVBMWkdrTjNQcDNCWVJDTktQWkVscXFMQnMz?oc=5",
             "date": "2004-10-13 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "퓨쳐시스템, 고객서비스 강화",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tNHpGbmp3TFE3QUJ1Ym56blV2TDdHUkQ4MlctZ0R4dG93ZW5QWE9LQU8tSjUwcnJYS01OYjk1NGNIQWItd0k1WDEzUUJyWmwzcDJRQUZGS0o5XzhmaUd0VWRFd3R5S00?oc=5",
+            "date": "2004-09-06 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9703,16 +9723,6 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, '트랙픽 컨트롤 기능' 새롭게 추가",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ReVZzMEJ4V1EwODVhRm40MVIwNzNQMHN0UnJCT1V6U240aW85eUxhQWJfb2Rrdy1tNGpxTlFvbVF4OF80WWZZWm1pUWFVemQyRjVLeDhFXzAxV3NJV1RZQ1VseFVpdw?oc=5",
-            "date": "2003-01-04 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, 미래에셋 VPN 구축 사업수주",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PUFVKaFMwZS1MTUkzVzB3M1BYZ1JlOW9pdVVMM3FCM1o1ZWVGazl3cm9qSXY0R0dZS2VUamhUTEIzeHBOWkN5cnkzbDNGeUUzQkdkVTQyX3FRZTVqR09zaFlMcHhGQQ?oc=5",
             "date": "2002-12-23 17:00",
@@ -9726,16 +9736,6 @@
             "title": "퓨쳐시스템, 농협과 VPN망 구축 2차 프로젝트 계약",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16ZGRCcDVaV2k4SkNLSlpuQmExOHdFWTlvNVJId2h0eTNheEk1RU9Sb01fMzNxaExic1paWUFjQkxScG9MLS05U2FFRQ?oc=5",
             "date": "2002-11-04 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "(공시)퓨쳐시스템, 아이소프트에 5억 출자",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVgxd2phd2RDLW9nNmpwM3Vld25ualZZdDdodTZTdXhlSFIwRDVXNXFfenBwcjZWYkN4cC10aXVnMUJRM0k0OEVwYThRMGRaVVRGdDJLcnBrTllmN0ExSktnWjJWSWV3NEhQVFVobURHT0xySFg1amtDUjBxMEZmaA?oc=5",
-            "date": "2001-10-25 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -37023,6 +37023,17 @@
             "is_today": false
         },
         {
+            "title": "다날, 글로벌 AI·빅테크 기업과 상호운용 결제시스템 구축에 上",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qb09ObVVyN3Vsa1lMZmFpWUZzUW5sZWkxOXZoZnJtN1NpSm12SGNVVGJnTl8xYlNuRU5QcmprYkJ2ZVcyUnJSQnRiUFNxOGk4OGdTTkFwS1ZtSE1LeDNZVw?oc=5",
+            "date": "2026-04-06 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 표준",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "카카오페이, AI 에이전트 결제 표준 ‘x402 재단’ 창립 멤버 합류…국내 유일",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10Mng0QTl2Nl91c1lDMGN1bDFIX0s1TXRnT0hqQjVTdE1Zeks4NjJCN1c3WXN3eTlKcFpIbjA4WHEyaHE2Nm9ZQQ?oc=5",
             "date": "2026-04-06 11:42",
@@ -37436,6 +37447,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "알프레드, 과기정통부 ‘에이전틱 AI 얼라이언스’ 산업 분과 주관기관 선정",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5uaW1MTTNKVlRuRndGa1VWNDl4bjFpOERmbjFrc0QwaENheWQ4QnFXcjdwYVhld1hNMmpCQ1BIY0MzT29iMXVjbg?oc=5",
+            "date": "2026-04-02 11:58",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 표준",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -44690,6 +44712,17 @@
             "is_today": false
         },
         {
+            "title": "웨어밸리, 제로 트러스트 기반 '챠크라 맥스 SAC v4.5' GS 1등급 인증",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51WDFOa1ZpaHpud0MxVnpfZjhDYVZ2YVNjUllCZkJ4anNBUDJCRXNWM3E2dkR4cFB2NXJjQ09DNDFWODUyN2dKa2R0R2Nfdw?oc=5",
+            "date": "2026-01-19 17:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "머신 이코노미의 마지막 퍼즐: 이더리움 ERC-8004가 정의하는 신뢰성 검증 표준",
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUR1Njc2tiYm5oTG1zSURpSU9lQkg4elh5RUxuSXdycHdSOER0LXpIN0hpTGhIMFlHMHRORGpYZmdsT0VDUXd6bDJWdDdHeXNZT3NBckpyMA?oc=5",
             "date": "2026-01-18 17:00",
@@ -46005,6 +46038,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "2025 금융정보보호협의회 총회 성료...보안 전략 논의 및 유공자 12명 포상",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yekhEY1NzZlkwcV9GTkYxZ3VFSmdQN09GZHdXTU9wcVNyZldSWXB4dkZMc05zNWphOUI5WVR0c21OVGthelhrekVCN3ZBRm5PTWV4d2NXV2NBZUpfbEFR?oc=5",
+            "date": "2025-12-16 17:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -51719,6 +51763,17 @@
             "is_today": false
         },
         {
+            "title": "구글, ‘제미나이 2.0’으로 AI 에이전트 포문 열다",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BNW9Nbld2MlNKQ2QxbGxLTnlpS2hnV0RfZHNlQnhxOUswbXlmTzduRFc3cmx3VHo0T3RaMG9SWVZxeThRUmNDUHR3YlRlbXV4SHhEekowRlJoeExEdG9QeXpqSDNPelhZ?oc=5",
+            "date": "2024-12-12 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "안랩 EDR, 멀티 OS 환경 지원…맥 에이전트 출시로 보안 '확장'",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uY0dGdi1JazFXaXZlS0FaT09oRFQxVGpOUVpmcnJucGxiSTJrdVF0eHc1cE91eUNiMUtqX3k5MmRhR2otUk1YM05PNTA3bkhMY1dlS1ZR?oc=5",
             "date": "2024-12-06 17:00",
@@ -52118,17 +52173,6 @@
             "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
             "date": "2021-06-07 16:00",
-            "description": "",
-            "category": "AI Agent",
-            "keyword": "AI 에이전트 DID",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "“2020년, 모바일 전자증명 원년 만들자”",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zSmdkWFE3d011aU92dzJyLXRCMEFUcDNZYWtCZlROa0JNcUtVQzRMck52VmFMdUpxQjFQRy1YV3ZzdzNXOEZ1SFNZcWVhSGFKaGZ4MGtDOGZIOXNkVkE?oc=5",
-            "date": "2019-12-07 17:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
@@ -54647,7 +54691,7 @@
         "2026-05": [
             {
                 "keyword": "중국어",
-                "count": 19
+                "count": 20
             },
             {
                 "keyword": "대만",
@@ -54727,7 +54771,7 @@
             },
             {
                 "keyword": "결제",
-                "count": 36
+                "count": 37
             },
             {
                 "keyword": "신뢰",

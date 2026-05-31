@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-31 22:00",
+    "updated": "2026-05-31 23:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -5645,6 +5645,16 @@
         {
             "title": "양하영 안랩 시큐리티 인텔리전스 센터 실장, ETRI 원장 표창 수상",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CTDN4Y1VwXzlKcnNwZlZodG5xY2o0a19iSUcwWFNxaGN2YVpldW9aV1BPTjhhdDc2Zm1TMkpUUjl5ZGZQejhOSS13dEhZd2MzMlQtd0FwVVJtdXlOVU5j?oc=5",
+            "date": "2025-12-08 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "양하영 안랩 시큐리티 인텔리전스 센터 실장, 한국전자통신연구원장 표창 수상",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PV1JDbnZPMUZZNkRoYWkyMUdFXzBZTDBuSV9UclRhZHBOV0pZckJqWlA3WHkzdkY3TFhHTlRmUFVObUZmU0tKT1JEeHBsakJMQ09DZ21aS3FNbkJhVDJKNE44MzQ2QQ?oc=5",
             "date": "2025-12-08 17:00",
             "description": "",
             "company": "안랩",
@@ -37721,6 +37731,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "양자암호·양자컴퓨팅 관련주, '맑음' 우리로·아이씨티케이·드림시큐리티·코위버... '흐림' 쏠리드",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tMnhVMUtUT2xKc0t1cEgydm9pblpfTTBVc2tuamNYUE9rRFFITjc5b1FoLTZfZEk1RW90VG03bUp6cHhpUjQ4Q3Y1ZTE2VDFWak1JdEVQd09DTGRQblhLS2xYRkphWHfSAWtBVV95cUxNaDFUaVI4R0tvWXkwdTYwUXVUTGNBYVRIWnhfNnZrNEVZdWNIcnhUbTNrdDBIb0M5M0hmaURCdUtsZW9CaUJoeWE4bWswd2xxLU9kYVpGUUdJSWdCNlJ0OV9Fajdmc3hYcS1aNA?oc=5",
+            "date": "2026-03-29 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

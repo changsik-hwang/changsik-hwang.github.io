@@ -1,6 +1,6 @@
 {
-    "updated": "2026-05-31 23:58",
-    "current_month": "2026-05",
+    "updated": "2026-06-01 01:00",
+    "current_month": "2026-06",
     "competitor": [
         {
             "title": "글윈스 팔트로가 오래된 상처를 밝힙니다. 가까운 사람들이 배신당했고, 그녀의 분노는 여전히 남아있다.",
@@ -1005,6 +1005,16 @@
         {
             "title": "안랩, 대만 CYBERSEC 2026서 엔드포인트·CPS 보안 플랫폼 전시",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yZ3FHUlVkd3duTVZXa29kUV82ZzJieWZjUHdnSTlqRmlCZXQtOEF4M1hqU1dWYzUwbl9Mc0lYQ2MwMjhzbFZDRFd1bGFRRWxXd0JMZEN6dGhPSTRHcXpIckFLa1JWQWI0ei0yUDFNaUlySXRaT29TM3NR?oc=5",
+            "date": "2026-05-08 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 대만 ‘사이버섹 2026’ 출전…엔드포인트·CPS 보안 플랫폼 선봬",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DTXg5dUVUT2p6bXhWVHpmNWxmVWZpOVF2dHZlUFRZZGFaSElabHFXVDB2eVZQNGpjcFdhXzVqeXlEM0lZbUFSN3k3cnlBbFc3RGVkMnNXWHRpX0toQU81TUJ1d0d4SE92MkFHdA?oc=5",
             "date": "2026-05-08 16:00",
             "description": "",
             "company": "안랩",
@@ -8733,6 +8743,16 @@
             "is_today": false
         },
         {
+            "title": "'삼성SDS 보안 자회사' 시큐아이, 이익률 상승 속 현금흐름 '뒷걸음'",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpd1ZoVG5aRC0yV25KUThZWXZvd3R4OVVSc0VkVTZNWnBXdV9mejR3R3BTMTgxNUFSVndrTGMzODFqRjc5SFE?oc=5",
+            "date": "2023-04-17 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia™ ITU·ITM 선보여",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FMDJ4TVV1TWVIYnBoTWUwNG90WEowWHd4VTB1N3dhU3J0dGlGRU45QjhfU0M2dER2Y2pJY21oaVQwSHhSSW1FYlZiakRhdw?oc=5",
             "date": "2023-04-05 16:00",
@@ -8966,6 +8986,16 @@
             "title": "시큐아이, 100GF NIC 탑재한 고성능 방화벽 출시",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRSG1ka0ZWMEQxaTI3aFJkd2Y0eGJlWFpZX0tBZVFSV3N6TmFBRk5qSmVFM2ZUalBiaEd3OE9GeVIxVDZRdVBzeVVMQ295S3E0WlQtMEpXZ3U4YXEzRjFQU19yRUVwOGpQRjJtLUQ1U0ZobTA?oc=5",
             "date": "2021-01-28 17:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, 황기영 신임 대표이사 내정",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PcGNRVDZ4ejhyUllaUGVrQm9JM2ZfZ1otaUxTX0xhcFZzcDdiTmRmNzdlaDRLWUUxOE5GeHU4NzRMQXRtYnBxM2xXM0tlRGlMbkpJaFA2MWIzZmNt?oc=5",
+            "date": "2020-12-23 17:00",
             "description": "",
             "company": "시큐아이",
             "tab": "competitor",
@@ -9244,7 +9274,7 @@
         },
         {
             "title": "퓨쳐시스템, 차세대 방화벽 ‘WeGuardia NFW’ 출시",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14THlhdk1hcFBDX0M3UkZxbFhSUWExZXRBcnhaZnB2Wmx5dmNnS2hMYk9DS2Z1OVQ4anU0dVNXLWs2V3IyVFNwRDBiVFNDM0dBU20tNFVfQ1dvNzE1QTBMTVZKUERVOTJMVmk1OXRDd1BHUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5a2FHcE50bEdJdzVvNUdtbDlMS0Q5cjZqWG1YS2ZQN2FGSlA5RFQtWlNaQThIaGRsaVdRYXZ1MFMwcnlnNEVYd294a29YUkRORGxKVFlwYnFlYXB4b0E?oc=5",
             "date": "2012-10-07 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -9356,6 +9386,16 @@
             "title": "[기획특집]다양한 네트워크 환경에 적용 가능한 MultiCore 기반 통합 보안장비",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfR0I2T28yRUZGd0RLc1ZqbE40d0Fac0dHay1BMlV0bUlWNHYyUjRfZ0RTX0tmZTh6QVVSZEE0SXBTMmppcVF6SE0tTzN0RWN5QmR3Q0ZldGdfM01fX0RaTWxjZkU?oc=5",
             "date": "2009-08-24 04:16",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[기획특집]단순한 통합의 의미를 넘어서 진정한 확장형 통합장비 구축",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMHlvN20xZnYtSmJPRXhCSElxUWxyVjlMTTNlWm9WZkRZZDVzeE1pbTFvNUs4d01Celk4b2pvczh1Zi14MmdjMHZOLTRRYl9xdThxRm9PQ2Y3VmtGdHc?oc=5",
+            "date": "2009-08-14 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9613,9 +9653,9 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, '트랙픽 컨트롤 기능' 새롭게 추가",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ReVZzMEJ4V1EwODVhRm40MVIwNzNQMHN0UnJCT1V6U240aW85eUxhQWJfb2Rrdy1tNGpxTlFvbVF4OF80WWZZWm1pUWFVemQyRjVLeDhFXzAxV3NJV1RZQ1VseFVpdw?oc=5",
-            "date": "2003-01-04 17:00",
+            "title": "퓨쳐시스템,투자지표 부담..시장수익률- 동양",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRk56MkdYZzdpWk0xU0hxSndudk1yOFhDaDMxblRvZW5ZUTFDX1N3VTE0RWRMZExzN1FrU0RxQTRJcnI0TEZpQVRVMXVWdjZtNTRVdFc0TGwwS3FSMTc2Y1l4ZEZfbTNwWllxRDNTUzBmcG4yTWhXX2o5Vm0wQ19HNA?oc=5",
+            "date": "2003-04-09 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9684,6 +9724,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "“AI 공격은 AI로”… 금융권 보안 패러다임 전환",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tVVBwb09FS2dBTHZwaWgzVEE2czMybjBOcUVkZl93RjlzR0tEelk1NTdZRnkzUDUtTzhxQXZ3TlRPYTBkaERVemNVWFc4US0xUDVKdUQwZmVWNHRtWHgwZHFKTEQyMjVkYTBR0gFvQVVfeXFMUGN2Qk9ib3djaEE5VlhTb21URk5Vemgxc2MyaF9YUjRab2xEaDI2NUFrX25jZm12LTcwQnVSUk5nYVo1RkczUU5BLTUwZFUzVXZKWXZVeWRXWEt3bW9yMG1RS1pXM3RyMHNOc2JnbW5z?oc=5",
+            "date": "2026-06-01 00:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "[지상중계] “AI 네이티브 돌입”…업무 효율부터 보안까지 AX 전략 총망라",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMOWZTams0dko0X2ZNU0k5a2U2SnZ2QzN2X2ZnZmdjUnM2MTZ5UE1xbllZb3VlZV9zVDlURjlOUjZfQ25hcjU5UDJlNnQwbGRXY01aNjNnRE0zWTB3U2xGNC05bjZWMGdjbHBFUg?oc=5",
@@ -36976,6 +37027,17 @@
             "is_today": false
         },
         {
+            "title": "아울시스템즈, 차세대 양자내성암호 모듈 ‘owlPQC’ 개발 완료",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1neUY5NTRzUjNwV1RnemtqZkpSdjNZQ3V2aXZaQVZ5Vm9HWFctRHowcnh3ZHR3dVE5OV9qX1BBeWZHNGNzaDBxR3N1RktOQmd6cF9BdXRvcUV4bTc3OUVrY3Z5Sk8xUms?oc=5",
+            "date": "2026-04-06 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "카카오페이, AI 에이전트 결제 표준 ‘x402 재단’ 창립 멤버 합류…국내 유일",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10Mng0QTl2Nl91c1lDMGN1bDFIX0s1TXRnT0hqQjVTdE1Zeks4NjJCN1c3WXN3eTlKcFpIbjA4WHEyaHE2Nm9ZQQ?oc=5",
             "date": "2026-04-06 11:42",
@@ -37015,6 +37077,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "양자컴퓨터, 이르면 2027년에 기존 암호 체계 무력화 가능...Q-Day 대비 양자내성암호와 양자 키 분배 결합 방식 필요",
+            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1WSU9KSFY0VDhSYXBlYXV5V09Iam1NN1JhSVBQMzJsUjdxdXlhUHcxb1VwMllGU3A1VEVoZ1FzNjc?oc=5",
+            "date": "2026-04-04 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -37782,6 +37855,17 @@
             "title": "양자 암호화 통신이란 무엇인가?",
             "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOam8zX21FNE94TkRDVTVFNjZkcXhxbG85djZOdWt4c2IxZTdWZVFzUmZZeW5VdTZpTzN1QkFud3FqcTVFcHUxNXFqZ2o?oc=5",
             "date": "2026-03-28 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "IT보안. 양자암호, 지금부터 걱정해야 하는 이유",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE10WkpLQnkycFZSSGZDNmtzLTJScFdIZjZqQUtOMlNLNzhnMk9HdkIxYmc2MTdpZ214V01UeEM5ZUxnYW9jeVE?oc=5",
+            "date": "2026-03-28 01:57",
             "description": "",
             "category": "PQC",
             "keyword": "양자암호",
@@ -43677,6 +43761,17 @@
         {
             "title": "양자시대 대비한 암호 특허…한국이 미국보다 2배 앞섰다",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taTJDMkwzb3hGTi1IM3I0R3RBZG1oM181VlBmZTM2aUY0eV9QUkNyQ25QVXJlaDBpcnB6X2JZX0JVQ2hmWEQ1TjVLYmdPR1BsOFNUNWVtY1ZkZ9IBVEFVX3lxTE44eW9TY0kxS292T2F3NHBNM19zV3FpMV9xZ2VXaEd0aUxKYlg0MHROSmlLNUhUM2FMQm1oVHB1NDVhdkpHdnlKVU43NEFZaGpoaUEySw?oc=5",
+            "date": "2026-02-03 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KT, 국내 최고속 양자암호키 분배장비 개발",
+            "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3RW1TWm40N0RuRHdyQjBUc20weWUwcUtVTGFKYkZXMWRuM3lWRjVSYnNaQVVoQ2VPeklSVjdLTlkzbXhDc2tKWDNtUkFlY2RG?oc=5",
             "date": "2026-02-03 17:00",
             "description": "",
             "category": "PQC",
@@ -52145,6 +52240,17 @@
             "is_today": false
         },
         {
+            "title": "SKT, 블록체인 DID기반 모바일 학생증 서비스개시…“국민편의 서비스 지속적으로 발굴예정”",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12NE9RMEI5Y2E3Nmwxdl9nMDdCNGQ2Y1l4bEpVekYyYk5SUDBtOEU4S0hxaGN6VTgteUlZX0NCUUxILVZNNXVjSGhfRnhLS253eFZJNVlyVkxWT0tFTDRualJxQWVHREFfM1E?oc=5",
+            "date": "2022-08-16 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
             "date": "2021-06-07 16:00",
@@ -54663,6 +54769,7 @@
         }
     ],
     "competitor_monthly_keywords": {
+        "2026-06": [],
         "2026-05": [
             {
                 "keyword": "중국어",
@@ -54670,7 +54777,7 @@
             },
             {
                 "keyword": "대만",
-                "count": 18
+                "count": 19
             },
             {
                 "keyword": "피싱",
@@ -54709,6 +54816,16 @@
         ]
     },
     "trend_monthly_keywords": {
+        "2026-06": [
+            {
+                "keyword": "금융",
+                "count": 1
+            },
+            {
+                "keyword": "패러다임",
+                "count": 1
+            }
+        ],
         "2026-05": [
             {
                 "keyword": "에이전트",

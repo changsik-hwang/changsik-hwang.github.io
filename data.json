@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-01 07:00",
+    "updated": "2026-06-01 07:36",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -9383,6 +9383,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 사랑의 집수리와 MOU 체결",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxMTdtMVNYV1JkUDJOTmZ6Mi1EUHFSY3BQMUVvaDFpRGRZVlBVVFY1UkwxR0dpc245U01RQ1NIMmVpWVBBLWRtUVlIOXlyV1p4LWZyZ0JQaEw3cmZV?oc=5",
+            "date": "2012-01-06 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 악성코드 자동 탐지 SW기술 특허 취득",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tbnBSNGFPQUNwUTNjTWN1b3QxQUZzZVd5OWJKeTNnV243NXhvNm9MS3RFVnREM0kyRkRoc1lFVjhsN0xHbWpyM0IwbldSVWZjMHAyWXdmRnVBWDZmSUlZcWZsUEZqM2FEOFA3MTU4aEVmZw?oc=5",
             "date": "2011-09-28 16:00",
@@ -9396,6 +9406,16 @@
             "title": "퓨쳐시스템, '40Gbps급 고성능 방화벽' 출시",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwUzBJTkZIR3VHemlfRjFDWWFfVHVmM2NYSW5LbVJpZTcwTmUtR1Q1a0hGc3BnV3R4bk10Q0s4bWdmOGJZdHNVd1pIZWhSbW0ybUtZNjU1NUZuTTRoZGc?oc=5",
             "date": "2011-09-20 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "퓨쳐시스템, 세계 최고속 방화벽/VPN 개발",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13S2w1ZlJVUE51blAxMXRwcE5EbE1PRWxZbDUyQUR1N0VURkZUQnY5S3dLMjkyeFUxeW9CTEpscGtWQnhoaDdkOTR4RUw5OUQwSVh1OVJSQXdXM1kwNXBicHVrd2ZNZWRa?oc=5",
+            "date": "2011-06-29 13:14",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9636,16 +9656,6 @@
             "title": "퓨쳐시스템 동부건설 VPN구축 프로젝트 수주",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdEJGeVg3LS1JQ3JZSzlSZkNrY0FjYmFfSXFCQUVDdGF6dTVscGJsUng3ZDFTYWdvQlZ2cHVQQ2pqbXdvclRKWHhlRXpyUG41SGlhUjBoRXJOaWJERzg4WUMyekxKUk1EODByMmVsT1RoXy1vV29XQk5yZzc4Sm1FZQ?oc=5",
             "date": "2004-02-27 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템, 한전 배전자동화 시스템 VPN 구축",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92SVRzczEwdE5lcEV6ZWQ5MDktTFhZdVZKNFFaZFppRDB6UnV1U0RLbDFWVl9pOF9wOXVlQ2NVZDhmUVQta2VJS3hvMGdweFpRd1FNczA4aURRRDlCdjh4UF9xTjc3QQ?oc=5",
-            "date": "2003-12-20 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -11566,6 +11576,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "씨브이네트, 국내 최초 '양자 VPN' 스마트홈 특허 출원",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fT2hlZXlheUlreW9wV1IxMjJHZmdlTF9DSjVEWXNUQkVzZks1OWx5RDhBa3FjT1BtNWxEU3NwdlY4RjlMTnJwTVN0WTNmbUNPU1dzdXJQa1VZcHR3cWFwYXZDckVZSEQwQ2l0dNIBbEFVX3lxTE5fT2hlZXlheUlreW9wV1IxMjJHZmdlTF9DSjVEWXNUQkVzZks1OWx5RDhBa3FjT1BtNWxEU3NwdlY4RjlMTnJwTVN0WTNmbUNPU1dzdXJQa1VZcHR3cWFwYXZDckVZSEQwQ2l0dA?oc=5",
+            "date": "2026-05-29 09:41",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "주거 안보 위협하는 양자컴퓨팅… 씨브이네트, ‘양자 VPN’ 기반 스마트홈 보안 특허 확보",

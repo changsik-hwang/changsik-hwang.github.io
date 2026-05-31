@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-31 19:00",
+    "updated": "2026-05-31 20:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -8883,16 +8883,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 STIC 출시",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YU203OWhvTFFhTGVhTE5ndTNzcXdpYXVxQUVGS2pSTlM2eGF1d0xYbW54eDlSSm16NGo5c1ZxS1dSWERTVnZueno3dVJWcUlKNzVpRS1n?oc=5",
             "date": "2022-06-09 16:00",
@@ -9233,8 +9223,8 @@
             "is_today": false
         },
         {
-            "title": "시큐아이 차세대 방화벽 SECUI MF2 3.0 CC인증 획득",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuOWhBbnpsNmJKeHlHcGF2WVZiQjVydWZiMnhQYzJzUV95amoySjk1YVBjeDA4Tk5jYzZzM3JDSXB1NXc3azBNYXlXeXBxYTFTcFE2bFR6N0NNQUZDZHpQd0RPQ2Y4dUp3Q2c?oc=5",
+            "title": "시큐아이, 차세대 방화벽 SECUI MF2 3.0 CC인증 획득",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6Q2wxdzM5akQtd0J2bC15My1fRXB4X0xvVWo1ckFmSEdkVTlrWENINjFxLTZiTUV6QzIxajQ3aW1oZ3Y1V0tTTHNGTUt5R1N3VGwzSENEaHg1RnVXMVE?oc=5",
             "date": "2014-05-19 16:00",
             "description": "",
             "company": "시큐아이",
@@ -9781,6 +9771,28 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "네이버클라우드, 국방 AI 전담조직 신설",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaThjeEE3TWhFd1FOWXFpejh1WDdYVUFEd2tvMlo0Vkk3T1VJRDhMR0hyR0ltQlE3M2RVQ19tcGUxV1BUY2toZnJyYW9na0VGZGRsUW91T2JKODBxSHp2NDVaY0J1NTFXbWxkd2VuUFk5U1ZFTjEtZXFYbVlWOHJuUw?oc=5",
+            "date": "2026-05-31 18:36",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[AI 리뷰] 아마존, “AI는 이제 행동한다”…현실 세계 업무 수행하는 에이전트 AI 전략 공개",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EbzFsMzBGMk5KcEVHQmZMbU9JbURORXVnVzVja2RCak91TkVKYlZ1ZWFPUEl6YkVqMEtFanlZUjM1a0QxOTgzeVMyZE9rUm1qVlJTYWwyelFHMzgxU2hScjBFa3JuaDg?oc=5",
+            "date": "2026-05-31 18:30",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -30466,6 +30478,17 @@
             "is_today": false
         },
         {
+            "title": "에이전트AI, '악재 쪼개기 공개' 논란…반복된 정정요구에 투자자 신뢰 '흔들'①",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53M200SllOZWZfTTY3d0FjNlVWQnVzMFI2RU52NlNzalVtUVVmMTVHaFp3Rjk4SDJ4NVZBRDY1ZHlwbTEyTVRyNy1OWmZ4a3J4a1lCRDc0U05seVZZXzRKU1podUZlU0Y1?oc=5",
+            "date": "2026-05-12 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "제로트러스트보안협회, 제로 트러스트 창시자 ‘존 킨더바그’ 초청 간담회",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MQ2J4NzNUTlcxMlVQX1lmTFFqTXNhOEMxTzhENl9CN0E0TlpXcG9NQmRXYUdsX18tVDVUeDFLRFViVFVBRnJKSm8tSmxodk1WMUk5UnNiTmhESmdsc3ZjRVdWNmF1VWc?oc=5",
             "date": "2026-05-12 15:56",
@@ -44623,6 +44646,17 @@
             "is_today": false
         },
         {
+            "title": "[신년 인터뷰] 이효은 카스퍼스키 지사장 “2025 산업·핵심 인프라 보안에서 견고한 성장…2026년 AI 중심 전환 가속”",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NRHBtUE11dnYyTEpTc096NUdBX3VkVEl6cHFUMm1iVHdzc2J4dVRkZEFTY3ZfcHRmcmhNTm1tTlE1LUxKakt2cEk3RTZZWXFSYjR4RHBfTTR2TTdLOFBpaXRzOUlpMmRsOHBJRg?oc=5",
+            "date": "2026-01-20 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "보안 업계, 제로 트러스트·N2SF 사업 ‘잰걸음’",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKbFpZVkZ2Y1Y3OE5wVG5SVGgtR1NfaGlKSzdLdmRLMUtZVEw2TnJDS3VtdVV6WjF4blgzTjNiV2toTVNRdVFlTkktMlJfUWRHb3REazF6OGVsX3V6S29UZnMwRUNFeWR6OEFOdHNHTEbSAXRBVV95cUxQb3lDVnFGSnJHSzRmUEFVM09xVnZXc1VaSEFRVlg5aGVDbGJYdmwwUklKUS14dEVwZkgzeDhWbFotM2pOYmRhel92cWZ5bmk5MXE4RjF0TngxeDQwak03aEtBekxMVHl4bmN4NkZEN2dQa2stMg?oc=5",
             "date": "2026-01-19 17:00",
@@ -54659,7 +54693,7 @@
         "2026-05": [
             {
                 "keyword": "에이전트",
-                "count": 314
+                "count": 316
             },
             {
                 "keyword": "금융",

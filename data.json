@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-01 03:00",
+    "updated": "2026-06-01 03:56",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -8783,6 +8783,16 @@
             "is_today": false
         },
         {
+            "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재 신제품 라인업 공개",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2czV2LUhZZ3lIcnpocmszZnRrNm9maGdtcnA4dTFoenV1WHZYaUg3dXQyczNOMFd0UkJjWUxRV1dBTWJBT0xDUkF3aFlUdGNaS3JZWjd0WTE5RmpwWVpob2FzRVI5a0g3VTk3Tzl3bUtjTFk?oc=5",
+            "date": "2023-03-27 16:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[미리보는 eGISEC 2023] 파이오링크·퓨처시스템·플랜티넷",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTGE4c1NEOHQ1MmlXNjNabGRQT3BBQVp6aGJ1aTJtN2t5TXZmMEpmMEFORzVOaE9UdXByTXh4T2NNXzlDWXZOZnJtVl9PdVQ4b1Z4Skp2ZXE1V0duMUpsZThFVFdyR2g3Mmc?oc=5",
             "date": "2023-03-17 16:00",
@@ -8838,6 +8848,16 @@
             "date": "2022-10-05 16:00",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KX, 상반기 영업이익 403억 원…전년비 30% 증가",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03OHA0RF9uSENIWlBXR3lLSDJrbXYxcFVsWHdTWjAzQ0FaVXlKUS1ROFBwZ1BzZXRuQzA3ODRBRUxscFBhNmJqMENkSmZ4cEpHVTU2aWw0cEZBTDJVREFsOUZCX1B1Rk5X?oc=5",
+            "date": "2022-08-17 16:00",
+            "description": "",
+            "company": "넥스지",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -9286,16 +9306,6 @@
             "title": "CI 제작회사 ‘디자인스코’, 윈스테크넷 새 CI 개발",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sUmhmcHl4Sllpa0xxLXdvbWMwTEZXeGZ6cWNiVXN6RGN4cE1xbWlJdnNOdE1xY2NSdnduN1p1ZEwwYTg5cU5TVmRraUVNRHVBS0hRMUxqUHFXUmRta3c?oc=5",
             "date": "2012-02-08 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 사랑의 집수리와 MOU 체결",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxMTdtMVNYV1JkUDJOTmZ6Mi1EUHFSY3BQMUVvaDFpRGRZVlBVVFY1UkwxR0dpc245U01RQ1NIMmVpWVBBLWRtUVlIOXlyV1p4LWZyZ0JQaEw3cmZV?oc=5",
-            "date": "2012-01-06 17:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -45426,6 +45436,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "소프트프릭, AI 기반 API 보안 위협 모니터링 솔루션 ‘파핌 시큐리티’ 개발",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91eks0T25VcjhzMXNCc0diOVdLaFY3SDVMbnBZLTNtQlpucnVZVWFZWXBhcjlCTE45UmdtekdnMFZnM2VEZjZIREcwRGZHYUJYTlRjNGQzRTdKNF9QcEtuOUt3bmEtM0ZNN3fSAW5BVV95cUxQLWxYVjZpTE9kb3g1SC1aMnJyRTFUSERUZlAyVmI5cWVvR2xjM1dIT04tdGhYODJSQjFOd3BIbjJQUXVDWXdQQ0pDNll2MUgtZEtXUndUMHlqcEpaMDc1eDhpZlltQV9Mam9Od1JUQQ?oc=5",
+            "date": "2026-01-06 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

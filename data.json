@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-31 10:00",
+    "updated": "2026-05-31 11:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -3993,6 +3993,16 @@
             "is_today": false
         },
         {
+            "title": "안랩, 컨설팅 인력 AI 역량 높인다…교육 프로그램 성료",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kU0VwSWxfWDNJWlRKU0gtTGxRQ1ZlRW5qMlJZLXl6YW5DVGV5YXJJNmZNWUNsUFpSNVpwV0doTGN2anlhekstNmlMLWxkOFFITGVRVXl3?oc=5",
+            "date": "2026-02-27 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[2월 4주차] 중학생 따릉이 해킹부터 제로 트러스트까지❗이번 주 보안 브리핑",
             "link": "https://blog.naver.com/kxnexg/224197961527?fromRss=true&trackingCode=rss",
             "date": "2026-02-27 13:31",
@@ -6263,6 +6273,16 @@
             "is_today": false
         },
         {
+            "title": "안랩, 3분기 연결매출 645억·영업이익 79억",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEUU90eXNSWnViOG9JR3A4WTY4RjRxRG1VeFF2MllmOC1NS1hjTnZmeFRhWkVySDNXM0xJUFNURDBndk82MXhIV2xVVmt4UmlWNFJlRllB?oc=5",
+            "date": "2025-10-29 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "K-보안, 일본 진출 박차…보안 수요 급등에 대응",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tZVA5ZUY4Q1I2WUlBa2RoTWhVcU0xcWIwTGIyZFo2ZUVHaHFPR0FEcGFCWUtwRUFLcV9wT0wteVJiWXpuMVQzNmdNRWVFcG90aGpJNkdETFdQTm9rVWhhYQ?oc=5",
             "date": "2025-10-27 16:00",
@@ -6986,6 +7006,16 @@
             "title": "[2025 SOAR 솔루션 리포트] 보안전문가들이 바라마지 않는 ‘자동화’의 길, SOAR가 걷다",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QUUtKc2p2XzFreDltRHlkV3N1SEZNcEZSWHNKb0VZWGx1ek52RzJGYTMweGpzZGk0bjg5T2RaQWVZdmVxMFdGbVI0Y2FEZXQyS2NLWlRlQVZxU3E5UG0w?oc=5",
             "date": "2025-08-11 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩 ‘유튜브 동영상 저장 사이트’ 위장 피싱 페이지 주의 당부",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kenNrUFJDd19RR1BvaTlzWHBobjNZX2RQZFNuYXFVS2VIVDZCUkJMcUFfdEZncVZnOUdqRllSTzkxU09rNnB3cmVoMWhNY2lqOW82ZlNMalFPUU1TcHdv?oc=5",
+            "date": "2025-08-07 16:00",
             "description": "",
             "company": "안랩",
             "tab": "competitor",
@@ -9604,6 +9634,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "[스마트팩토리 보안-④] 글로벌 및 국내 업계가 바라보는 스마트팩토리 보안",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10OEYzY1Z0QzdaUWVxVUdKaTJsVnhiNC1sdG1kWW0yeVUyOTJWWlUzeTlkdE5IZ1VQbko0VUVialJTamJIZmt4WDVNT25zcVFRTmZHZU94RWxkNHBzSlZWa1NuS3dPNWQt?oc=5",
+            "date": "2026-05-31 10:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "[AI위클리] AI 일상 침투 빨라졌다…보안·웨어러블 대격돌",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50WkhmWlUtdUhwQVJjcFVFSXNkQzJYUWdvNUVtNkMxVHRTcUo4eXQ0MEh6UnViclZxWmpOYkRNNUtDVGlyUWRHU3Q5SUVya2c?oc=5",

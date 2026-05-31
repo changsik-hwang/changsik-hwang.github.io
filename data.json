@@ -1,5 +1,5 @@
 {
-    "updated": "2026-05-31 11:00",
+    "updated": "2026-05-31 12:00",
     "current_month": "2026-05",
     "competitor": [
         {
@@ -9123,8 +9123,8 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, 차세대 방화벽 SECUI MF2 3.0 CC인증 획득",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6Q2wxdzM5akQtd0J2bC15My1fRXB4X0xvVWo1ckFmSEdkVTlrWENINjFxLTZiTUV6QzIxajQ3aW1oZ3Y1V0tTTHNGTUt5R1N3VGwzSENEaHg1RnVXMVE?oc=5",
+            "title": "시큐아이 차세대 방화벽 SECUI MF2 3.0 CC인증 획득",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuOWhBbnpsNmJKeHlHcGF2WVZiQjVydWZiMnhQYzJzUV95amoySjk1YVBjeDA4Tk5jYzZzM3JDSXB1NXc3azBNYXlXeXBxYTFTcFE2bFR6N0NNQUZDZHpQd0RPQ2Y4dUp3Q2c?oc=5",
             "date": "2014-05-19 16:00",
             "description": "",
             "company": "시큐아이",
@@ -9296,16 +9296,6 @@
             "title": "퓨쳐시스템, 보안시스템 대표주자…정보보호 시장 견인",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ndHFhLUdNNGdOSFBXdXBHMTVwbG9xNFVPTV9Ld3NoZUNQWnFSN3ZjRGFMMkdIVHphSDhyTnFDOHM3ZzFiaHRBNW5lREJldw?oc=5",
             "date": "2010-02-07 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[기획특집] 확장형 통합위협관리(The eXtensible unified Threat Management) 솔루션",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DZ0tuZGd4Ty1RSEVNQmtFXzI5dE1TMlhxVk42RXZsQXlWYXo1ZWlEellULVh3QzlrU1BBUXB6U2dzYkppbkhTbEkzZEpzb3VxMUZhQzE2aW9vMTg2VTNmc3p3ckRDb2JZYzNEcFZrVHBRSGM?oc=5",
-            "date": "2009-09-17 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -9641,6 +9631,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "해킹 공포 딛고 진화…'하드웨어 방패' 입는 가전",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTaG0yd2dxQ1ZGMTJENmRkcTNtZmM4amFfOUwwQ2llTmc4Slo1OElSWmI3YU1faHhmUEc4TnBZTnZ4VzNGWE1kZ19xUW5qekFKRFI4S2pR?oc=5",
+            "date": "2026-05-31 09:35",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -35551,6 +35552,17 @@
             "is_today": false
         },
         {
+            "title": "M2M 경제학: AI 에이전트와 기계 결제의 미래",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY051Q3QtbkdoTnBKTExiU1NsOGNUYWpaOGFmeHA2ei1Cb2QtbUhsYzNLOElwV3V1cWNGYzc3UnR1THA0VUFRWXZ6c19yTzBlTGpfSl94WE1BUjdnbTRmX05VNjRGdTVkdUluY3hWeW9pbm9vOEZ2Z2pfNUMyMUdSQ1NZYkc0RURIcTk4RWtlNGktZw?oc=5",
+            "date": "2026-04-15 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "오탐 줄이고 탐지 앞당긴다...AI 보안 분석 수요 커진다",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56TVZ5UktFRFVYa21taWJWckI5Y05JUm1fc01sLUxFcU5lUndtQzlXS2p4R1Vqei1qS3ZnTFNwZjQ1NVRUT0o0THlzd1U4eEphRmZfX1g2cEhUX2hGTUxQbDMxRXlubXBhU0E?oc=5",
             "date": "2026-04-14 16:00",
@@ -51710,9 +51722,9 @@
             "is_today": false
         },
         {
-            "title": "SKT, 블록체인 DID기반 모바일 학생증 서비스개시…“국민편의 서비스 지속적으로 발굴예정”",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12NE9RMEI5Y2E3Nmwxdl9nMDdCNGQ2Y1l4bEpVekYyYk5SUDBtOEU4S0hxaGN6VTgteUlZX0NCUUxILVZNNXVjSGhfRnhLS253eFZJNVlyVkxWT0tFTDRualJxQWVHREFfM1E?oc=5",
-            "date": "2022-08-16 16:00",
+            "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
+            "date": "2021-06-07 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
@@ -51721,20 +51733,9 @@
             "is_today": false
         },
         {
-            "title": "팔로알토 네트웍스, 2세대 ZTNA 위해 원격 접속 보안 솔루션 기능 강화",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtcU42dHQwcUpBMDg4WHA5TC15YUdDM2gyNmJoQWVSbk8zNnh4UFo4Qzlacm1icThybFl4S1ptZ0NnNmRWZU01NHBoY0tXZ2xoUjZrM0xrNTdyMkJrRE1Z?oc=5",
-            "date": "2022-05-19 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
-            "date": "2021-06-07 16:00",
+            "title": "“2020년, 모바일 전자증명 원년 만들자”",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zSmdkWFE3d011aU92dzJyLXRCMEFUcDNZYWtCZlROa0JNcUtVQzRMck52VmFMdUpxQjFQRy1YV3ZzdzNXOEZ1SFNZcWVhSGFKaGZ4MGtDOGZIOXNkVkE?oc=5",
+            "date": "2019-12-07 17:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
@@ -54321,7 +54322,7 @@
         "2026-04": [
             {
                 "keyword": "에이전트",
-                "count": 131
+                "count": 132
             },
             {
                 "keyword": "표준",
@@ -54333,7 +54334,7 @@
             },
             {
                 "keyword": "결제",
-                "count": 35
+                "count": 36
             },
             {
                 "keyword": "신뢰",

@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-01 05:00",
+    "updated": "2026-06-01 06:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -8993,6 +8993,16 @@
             "is_today": false
         },
         {
+            "title": "윈스 \"클라우드보안 너머 MSP로 거듭나겠다\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kRDZFUC1MbWo5a3ExX2tpUDZrZVkwWHh2V0MyTUdfWFlEVmF3YWRJelhUb1ROalM5cWpSYnB0NTZ2d191WnJUTW1qZmF2aThEWDRGN0xn?oc=5",
+            "date": "2021-04-20 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
             "date": "2021-03-24 16:00",
@@ -9393,16 +9403,6 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, 세계 최고속 방화벽/VPN 개발",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13S2w1ZlJVUE51blAxMXRwcE5EbE1PRWxZbDUyQUR1N0VURkZUQnY5S3dLMjkyeFUxeW9CTEpscGtWQnhoaDdkOTR4RUw5OUQwSVh1OVJSQXdXM1kwNXBicHVrd2ZNZWRa?oc=5",
-            "date": "2011-06-29 13:14",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "나우콤서 분할해 보안전문기업으로 돌아온 ‘윈스테크넷’",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56eHJmb1R4UE55c2VrM0hKaDZTM0VpYUdEaVowZy0zc1hHaDFiUzktS2lERFE5QkcwMUpDckQ2V3dVamNtN0g4WHJDS2dna3NPMTFRZnJsVkw2UFRodkE?oc=5",
             "date": "2011-01-10 17:00",
@@ -9643,6 +9643,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템, 한전 배전자동화 시스템 VPN 구축",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92SVRzczEwdE5lcEV6ZWQ5MDktTFhZdVZKNFFaZFppRDB6UnV1U0RLbDFWVl9pOF9wOXVlQ2NVZDhmUVQta2VJS3hvMGdweFpRd1FNczA4aURRRDlCdjh4UF9xTjc3QQ?oc=5",
+            "date": "2003-12-20 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, KISA VPN/방화벽 구축",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01N1VQUmt2cUR0ZTZsU3E5eUpkdWItbGR5UldIcEtjcmtoOUVqcGpMOFV4VC1YQWhaQVpRbl9ERDhEX2pzZHBCZEY3amhYSEdLUk5kLWpvSWpSSlcwb1RiUW1hNF9QZw?oc=5",
             "date": "2003-12-06 17:00",
@@ -9764,6 +9774,28 @@
         }
     ],
     "trend": [
+        {
+            "title": "[인공지능 줌인] “사람 개입 없는 AI는 위험”…기업 AI 관리 체계 도마 위에",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13V2RqMDJUM3ZoTWpWTTJ6M015WFMzaXhzQjhNd21qZ0RMZmN3SlR6SVlYLWJTdVVfVlNIamFWSmVUUWFEV3RfQ1ZQWkJKbmFsVFdpV29EanNIcDZOdi1weHJzYzdoNXFJcVRlbEpIOA?oc=5",
+            "date": "2026-06-01 05:34",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "고위험 AI 앱·에이전트 실시간 탐지...5만개 AI 위험 등록 기반 통제 강화",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83czVFYTl0STc1TU1fZk5La2dweFlEd3FTOHBybjRGZnZCa2JKRW9rbzFPTlhiU25DLVBveVZ2dTVGaXV0VEQtTE9BcDZBRTk4UkFQYndFX05jQjNNSDZTaERXWi00ZnZ0dVE?oc=5",
+            "date": "2026-06-01 05:30",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "인공지능 시대의 사이버 보안: 기업은 전례 없는 위험에 직면해 있습니다.",
             "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWtZZm5mR0xiMElqVHI4UEhGVm5wQm96Vl85UVRWVWVHYWtlWURaNjl2WWthMkJkNVc5bVpLS3VPUXRTbTk1RFFTTENzY090enR4ZW5rQ2lTcFYzQUlYVWw0NjlPUi1qS3NtaFUxTlNocllWa3ZTbFJOaG5QV25qbkJyZXpTWU9DRGJ0UloxMkh5dw?oc=5",
@@ -39377,6 +39409,17 @@
             "is_today": false
         },
         {
+            "title": "AI가 해킹하고, AI가 해킹당하는 시대…‘에이전트 OS’로 확장되는 보안 패러다임",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Dd2FFR0VzU0RMb01XM1JBcG85U0NkNmFBUjYtUFJ1Mzk0UkR1Yk54SkpEWGFpSVRFc3laVjVpd1oxYkhxZXZ1ZmV4R0x6R3c5c3V2N1FZRWtHU1VsQ3BqczkweHBiSV82U1cwMmFlZE84NWNlWHVz?oc=5",
+            "date": "2026-03-18 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "한컴위드, eGISEC 2026서 AI·양자암호 기반 차세대 보안 기술 공개",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04WnJjTUh2RmdSdVRnNGZZclNvYy1PeUpHeWJ6YjZkcEhyb2o3TEpCWV95NnlINEdNMTRpSGdxWl9lcXNaRGZ1cTktdGlkTDBJakRCWmhIWWtTZ2tsSGpVZFdvX01hb0F3dS1CNzRn?oc=5",
             "date": "2026-03-17 16:00",
@@ -54946,23 +54989,23 @@
     "trend_monthly_keywords": {
         "2026-06": [
             {
+                "keyword": "위험",
+                "count": 4
+            },
+            {
                 "keyword": "인공",
-                "count": 1
+                "count": 2
             },
             {
                 "keyword": "지능",
+                "count": 2
+            },
+            {
+                "keyword": "사람",
                 "count": 1
             },
             {
-                "keyword": "전례",
-                "count": 1
-            },
-            {
-                "keyword": "위험",
-                "count": 1
-            },
-            {
-                "keyword": "직면",
+                "keyword": "개입",
                 "count": 1
             }
         ],

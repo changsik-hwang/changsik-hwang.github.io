@@ -1,13 +1,33 @@
 {
-    "updated": "2026-06-01 15:00",
+    "updated": "2026-06-01 16:00",
     "current_month": "2026-06",
     "competitor": [
+        {
+            "title": "시큐아이, 종묘 일대서 문화유산 환경 보호 봉사활동",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EcnptYUZMSzBkUk1QWjlmSkNpVTdrUFB3azVqQUJPb2hUMUFvR1hxbU45VVh1MFZ4bUxNY1FFX3hZYVJoelRCNW1OMWpmSkFRRjFrek9HeE8tQXVWanVZQ9IBeEFVX3lxTE1RRkZlU25pdEgtZko3RU40OHRzcU5ZQ2ZGa0dHanI5M1VPT18td0cyeC1udWN0N1IyWVRwWE9RNkZSTnlNMmNCTjV4Y2VXTTg0Mm0ycW9Hbl9ybWZpdXg3THIxSG9nWkxxSHJuc2NiZFNtNkdGLWpObg?oc=5",
+            "date": "2026-06-01 15:31",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "시큐아이, 종묘서 문화 유산 보존 봉사 활동 펼쳐",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TaEtWODlCUVU1a1pQN24wNlVSUmtFT1pKR0dkRDVtMF9GeS1mZ2d0ZDBwYllLWE1YbkVPWElwTzBYTGs2bWJBTC1NZTR2ZWhZREZWZFVZZ0JqM3NxZThGWGU0cXo4QkVvdFFwcQ?oc=5",
             "date": "2026-06-01 13:19",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "안랩이 만든 디지털 자산 금고…'ABC 클라우드 월렛' 출시",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zbHJqbUhYcHdzSkg3bl9MMGlpaFptcl9YTXBQYjdBX3gtemphT3JyMjFtRkcxS2JXemlKUFNITlJ6OFNQWWpNMFhfQmo5LUNFYVdDMU1hUG10ZEpEb25CR2F3cUVkOHJY?oc=5",
+            "date": "2026-06-01 11:25",
+            "description": "",
+            "company": "안랩",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": true
@@ -9463,16 +9483,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 사랑의 집수리와 MOU 체결",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxMTdtMVNYV1JkUDJOTmZ6Mi1EUHFSY3BQMUVvaDFpRGRZVlBVVFY1UkwxR0dpc245U01RQ1NIMmVpWVBBLWRtUVlIOXlyV1p4LWZyZ0JQaEw3cmZV?oc=5",
-            "date": "2012-01-06 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, 악성코드 자동 탐지 SW기술 특허 취득",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tbnBSNGFPQUNwUTNjTWN1b3QxQUZzZVd5OWJKeTNnV243NXhvNm9MS3RFVnREM0kyRkRoc1lFVjhsN0xHbWpyM0IwbldSVWZjMHAyWXdmRnVBWDZmSUlZcWZsUEZqM2FEOFA3MTU4aEVmZw?oc=5",
             "date": "2011-09-28 16:00",
@@ -9885,6 +9895,171 @@
     ],
     "trend": [
         {
+            "title": "금융위, AI 보안위협 대응 민간 자문단 가동…망분리도 검토",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53bFcyQmg2eVpSYmpvY182eVRSaDc3MlIxWnRCZWxjRGJjcWNuMHI2a2Z5WW4zbFdQVHFXS3BBcVpjUHpDeUxPejdOZ2J6ZnZFdnFv?oc=5",
+            "date": "2026-06-01 15:52",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 창업에 보안을 더하다... ‘코드게이트 스타트업 해커톤’ 7월 개최",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aQndCUm5KVnJwQ0VLS0FpR3dCaTJzVHo3SXpNQnZ1dGcwVi1YLTRNa1NOQ2xyMThQTld4UHdUekhNYlUtN09MTGVmNHZMTkE?oc=5",
+            "date": "2026-06-01 15:49",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융위, AI 보안 대응 본격화…망분리 완화 속 민간자문단 출범",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4UkFlczVidWE2bGxDbHNaVEhsdXdZTlZqcUZyTnNxX1NkSGFSZDlTc1BCeWlXelRsdTRBVjhabTAzeVctVGFtcTJndkh3VmFnMFVlYmxvaDE4aDJSa3Bqek16OHhNZzctdGxnOA?oc=5",
+            "date": "2026-06-01 15:41",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"보안 AI도 소용없네\"…韓 기업 5곳 중 4곳, 1년새 침해 경험",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DdXNnSnhld3p5VTkwbVQ0dVY0ZzZ4Z0g3bjdlNHFYSi1YU3BGWnF5UTBneURGTXRWQUVpYjczUUo4Rk1kaWl3TE4tV05HT3BLWHlv?oc=5",
+            "date": "2026-06-01 15:33",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[이슈&논란] ‘한국판 팔란티어’로 네이버 시동걸다…66조 국방예산·수십조 글로벌 군사 AI 시장 '정조준'",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnTTJWUFBLMnFFQ0wyaVRXVk16YkxYcWw5U2xiWUJfbGxKandoQjBpamJIMHNqMWMySnRtdFdMNEZpTHh0LWQ3MEJhTVZHNGNpTC11U1VGTlkycUtrQllEXw?oc=5",
+            "date": "2026-06-01 15:30",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"AI 해킹 막아라\"...금융위, 민간 기술자문단 가동",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZnoySU55ZXZWV05Zd0M2TWw0RGFBZXp1ZWdsa0ZKS0syNGp4NzhSMFhuZVZDYlJ1aWItSU5DOUFnNXpMYmtrWTJUOXhKdVRaVkZGOUMwSnNaUdIBXkFVX3lxTE9nV3RHakszUjNiMmU5T1lQUHdpMzlhTllEaXdNOFZiYjI3YVhGXzlwNGxaUWU4bDU1eDhiTUpuT1QzeTNfQzFybUNrTmlfVkk2MC1vTkFoYVluYXd5V3c?oc=5",
+            "date": "2026-06-01 15:27",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "페스카로, 국토교통부 행사서 '생성형 AI 기반 보안 위협 사례' 발표",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14NlAwbUwzUjBvM1QzcEpMS3pXYUJEZTRhQWhVdmdCSXEzdjBfaEUtYmRFUkg5SW5iY2ktaGNkQ1RzeUhMSk02LUNlM2poZw?oc=5",
+            "date": "2026-06-01 15:24",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융위, 고성능 AI 보안위협 대응 자문단 출범",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wT0JFeWhEdVRQcHlKa2hfeFFtMkZYQVg5Xy1lYlBrOUV6WVhURUdfZ1Y5ZDhva2Naa190VjNTa00xdjI2bjRQbTFpSU5aVGNJVDdFa0FhQWR3ZEV2a1ZKYjg1S3h2eExL?oc=5",
+            "date": "2026-06-01 15:22",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"AI 공격은 AI로 방어\" 금융위, 민간 기술자문단 본격 출범",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95aU9YODVmV1pKbGJ2YW1DZ0hxY3JRajBJOVpEcUNhYml6STZIX09BbXZlNFc1TFQ4dzIzdW81Tmd4SmV4Z3MyUFkyamEzTUpEa0hScXhrSDFIekpwYXhIVmRYV08zUFRadk40?oc=5",
+            "date": "2026-06-01 15:15",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융위 AI 보안 목적 망분리 시행 '첫 걸음'",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12Rk9SYmxrTXUzUEpvdGhZZHhPRnViTlI3SHV0czZJT2ZXcDBJTkpaNEF1UzhjVVN0WTF1M2c0eno0bHRBdlczYnhRUFZBY1BtUWFiZS1n?oc=5",
+            "date": "2026-06-01 15:11",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융위, 고도화되는 고성능 AI 보안위협 대응 민간 기술자문단 출범",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBUmlGX3lPNFU1WWVsVDRkb0ZOUEYwcVRsQVRRQlRjRjA0VWJKMk1IRDQ0WVdBbTlETVRoRkIzNEhGdk9JRXR4ZkRnS19EcDNrT1JBZWlOUWNEajZfZjY0elBYcDFsY3M?oc=5",
+            "date": "2026-06-01 15:08",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "악성문자 사전 차단 의무화…해법으로 떠오른 `AI 탐지`",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TdHJRbGhkMnhpTmhZYl8weW95bEFEQll3ZFBPcTZpSWMzVUdRV2Jmc3FCUEZyd3lzakNiM0xRalJaSTFXVW5qRTdHOFZNRkhvWGhvZU5sUUM3QWhaTUR4Wmx4MmM?oc=5",
+            "date": "2026-06-01 15:06",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "포티넷, 국내 기업 82% 3년 연속 보안 침해...평균 복구 비용 39억으로 급증",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qVVNEOEtFMTVOT1l4SjVxaTZmX2VJY2ZXVkVwdE1xRmxiWS1jTHFNUDNtcUhQYy1KZXIzUklZY1B5U3ZiWVYyWERuV0lObTRNVjFlbTcyaGZoeFhIV2FQMnpR?oc=5",
+            "date": "2026-06-01 15:03",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "SDT-비바, '양자보안 AI CCTV' 공동개발",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04ZkNGUVJKVS1aY1BOXzVPemJ0OExvLVFkcTZMdlRqTWFxVVg2RUMyeXEtMzRqMWtWMzdnZjg5dV9rVkdxVWRzYU9Bb2FvR3M?oc=5",
+            "date": "2026-06-01 15:02",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 보안 스타트업 ‘스틸컷’, ‘2026 대한민국 AI 혁신조달 대전’ 최우수상 수상…B2G 시장 진입 본격화",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0RGk1TVh3OXNxN1R6MGI1eWxUeFZvVlI1d0Jxb0hjcnd3VGZJMVBrNHI2bG0yXzYzX2xyX092cjhuN1dudFE?oc=5",
+            "date": "2026-06-01 15:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "페스카로, 국토부 세미나서 ‘생성형 AI 자동차 해킹’ 위협 진단",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2NllrQWJNTzZpUThBbnRFSVdmRHMzN0h5SkVZRU1INGpLN0tFN0dUZ0NhaXJfMTlYMUtaeUtKbjFLNzNua1dWTlVCSWx2bE0?oc=5",
             "date": "2026-06-01 14:52",
@@ -10155,6 +10330,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "SDT·비바, 양자보안 AI CCTV 시장 출사표…국가중요시설 겨냥한 차세대 영상보안 구축",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1azNvTHowa2tHcUdsWjYxdUZfUGxYUHlxNXRfSFlUbVgwRUZ3NGFoOEZWUnRsd3g2Z1BUdmF3T0pVRlNGV09mVDlEWkpDOXpITk1rVm1nNm4zRDNVWjVmNVB6dFd1U0RMQmdqRkxIUQ?oc=5",
+            "date": "2026-06-01 13:21",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -10457,6 +10643,17 @@
             "is_today": true
         },
         {
+            "title": "[AI서머리] 큐네스티, AI 임팩트 측정 인프라 도입‧에스투더블유, CSAP 인증 획득",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1mUzZDMTQyS1RKRC04akQ0bnpvemdKOUtFNGJ1QXNHc3pWWkdVZ0ZOY21pS3JCSjFfRjVNWEQwY004WWI1c252TF9GbGxDZ1VfUlk4S0Zjdw?oc=5",
+            "date": "2026-06-01 10:35",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "김도현 학생, '핀타 AI'로 LG 슈퍼스타트데이 슈퍼루키 피칭 콘테스트 1위",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVYWRwRW1pVWQyWTNKMnhqYW9WX29vcGlUb0lnNVVhclBTOGlBVzBER0JIMS1LdHNUNFRnR3ZQMHMxeDZwMk5iWTJvNVV6WmdRb0Ftcy1ZMldDN3pQYndNd1U1N3QxN1AzTkww?oc=5",
             "date": "2026-06-01 10:32",
@@ -10672,6 +10869,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[生기업TALK] KB금융, AI패권 장악·사이버공격 대응…AI 선도 금융그룹 추구한다",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fUUc4X0hiMC1la3VCQVFMd19DakNRVENERy1LSkhvQ2Q4eEp5Q1Axcnl6bnZWcE9uVUR3bzA3Vm1qSG1qYWRWUExJdmY1UEZOTFNGRmdWeGt0NVoxNG5VNVdfYlBRN3M?oc=5",
+            "date": "2026-06-01 09:13",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -56360,19 +56568,19 @@
         "2026-06": [
             {
                 "keyword": "디지털",
-                "count": 9
+                "count": 10
             },
             {
                 "keyword": "자산",
-                "count": 9
-            },
-            {
-                "keyword": "블록체인",
-                "count": 8
+                "count": 10
             },
             {
                 "keyword": "월렛",
-                "count": 6
+                "count": 7
+            },
+            {
+                "keyword": "블록체인",
+                "count": 7
             },
             {
                 "keyword": "수탁",
@@ -56428,23 +56636,23 @@
         "2026-06": [
             {
                 "keyword": "자문단",
-                "count": 19
+                "count": 25
             },
             {
                 "keyword": "민간",
-                "count": 18
+                "count": 23
             },
             {
                 "keyword": "금융위",
-                "count": 14
+                "count": 21
             },
             {
                 "keyword": "출범",
-                "count": 14
+                "count": 18
             },
             {
-                "keyword": "성능",
-                "count": 8
+                "keyword": "본격",
+                "count": 11
             }
         ],
         "2026-05": [

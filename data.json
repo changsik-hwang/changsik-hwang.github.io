@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-01 22:00",
+    "updated": "2026-06-01 23:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -9023,16 +9023,6 @@
             "is_today": false
         },
         {
-            "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재 신제품 라인업 공개",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2czV2LUhZZ3lIcnpocmszZnRrNm9maGdtcnA4dTFoenV1WHZYaUg3dXQyczNOMFd0UkJjWUxRV1dBTWJBT0xDUkF3aFlUdGNaS3JZWjd0WTE5RmpwWVpob2FzRVI5a0g3VTk3Tzl3bUtjTFk?oc=5",
-            "date": "2023-03-27 16:00",
-            "description": "",
-            "company": "넥스지",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[미리보는 eGISEC 2023] 파이오링크·퓨처시스템·플랜티넷",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTGE4c1NEOHQ1MmlXNjNabGRQT3BBQVp6aGJ1aTJtN2t5TXZmMEpmMEFORzVOaE9UdXByTXh4T2NNXzlDWXZOZnJtVl9PdVQ4b1Z4Skp2ZXE1V0duMUpsZThFVFdyR2g3Mmc?oc=5",
             "date": "2023-03-17 16:00",
@@ -9064,7 +9054,7 @@
         },
         {
             "title": "[정보보호 대표 상장기업 분석-2] 시큐아이의 사업영역과 실적, 연구성과",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TaG5DX1FmWmY2LTJ1U09rcmRzemRoem9LQlk0eDQtdWRqaTdTRDdkSkhKUEhYbTZnVlhHQVVuZmUyR1AwdDJ2aXc2UUhsbFpjQ1JzczFsRmJGWUh6NUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oZkRwSXZPVGpNR0JVbk8tMDhhQmZVU0w5dUx2RkVVNmwxZjhENWtfczh5TGdzVUU4d3lQVEN6Wm1xclJJLUs1ZHJEMjZwODNBWU84SHdHdERlaC1MYXVn?oc=5",
             "date": "2022-12-20 17:00",
             "description": "",
             "company": "시큐아이",
@@ -9088,16 +9078,6 @@
             "date": "2022-10-05 16:00",
             "description": "",
             "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "KX, 상반기 영업이익 403억 원…전년비 30% 증가",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03OHA0RF9uSENIWlBXR3lLSDJrbXYxcFVsWHdTWjAzQ0FaVXlKUS1ROFBwZ1BzZXRuQzA3ODRBRUxscFBhNmJqMENkSmZ4cEpHVTU2aWw0cEZBTDJVREFsOUZCX1B1Rk5X?oc=5",
-            "date": "2022-08-17 16:00",
-            "description": "",
-            "company": "넥스지",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -10005,6 +9985,17 @@
     ],
     "trend": [
         {
+            "title": "엔비디아, AI 에이전트 시대 겨냥한 ‘보안 내재형 스토리지’ 공개",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUWxleDhpWU1VdU1TdE5tV2F6X1NmQ0NVdkh3VGNnR05Zd3lTSk10N0F2NVVEM2ZMMG5JVWt0bWJEakdjUE1uVlZMSlMzdkJPVjBsQUJwS1NmaVN3RkNhOE85cGlIM1hPWFJ5cQ?oc=5",
+            "date": "2026-06-01 21:52",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "SK인텔릭스, 나무엑스 보안 서비스 출시…비전 AI 결합 원격 모니터링 강화",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WM2sxaUhxbE8zZERoU05EMGd5N2NhM19pZDJkblZjamQ1YTFqY0FnNHJyano1UEJfbXp4VmxWYlptMVJpbkIxNGJUdDhzaGlGUEpzanRnMEstTkJ6ZHoxenJvcmR4NFZwYW1Z?oc=5",
             "date": "2026-06-01 18:19",
@@ -10227,6 +10218,17 @@
         {
             "title": "한컴그룹 후원 '코드게이트 AI 스타트업 해커톤' 참가자 모집…7월 개최",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jWnl4N1YwYTZEcW9oQUVSeElyTXM4LXFkdmV0bWQwazIwT0dtVS1qYlk1R2dpZS1KT3ZIbTRHbnlWWWtIeUJvOG9Yb1E4N2xfcjRGQzRQc2d2dTJNVHZReFllamZIZGZQSFFj?oc=5",
+            "date": "2026-06-01 16:34",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "S2W, CSAP 인증 취득…공공사업 확장 가속화",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSWRTT3I1UjNpZS1jOHVPc2lBUlBaZkhFdVB3UnhKMXl0MHE2a1lIbGl1MU5vWTh5UWtqcklma1oyUjFQTkc3NDhLdzNxUGk1TzFPZGFB?oc=5",
             "date": "2026-06-01 16:34",
             "description": "",
             "category": "AI보안",
@@ -44903,6 +44905,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "류제명 과기차관 \"올해 AI 기반 사이버위협 탐지 체계 가동\"",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJT0JtNUNkMFZvZnc3SEcteHJHRkxnOFh0bV8wV0hMT25sQXEtSXUwQVVSWFBnWU1iUXpiQnp1MzhkakdvMHpnNFhHZk0xNG1ZbDFQU3BQNjF6UkZ5d0VF?oc=5",
+            "date": "2026-02-13 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

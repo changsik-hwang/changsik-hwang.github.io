@@ -1,7 +1,17 @@
 {
-    "updated": "2026-06-01 13:00",
+    "updated": "2026-06-01 14:00",
     "current_month": "2026-06",
     "competitor": [
+        {
+            "title": "시큐아이, 종묘서 문화 유산 보존 봉사 활동 펼쳐",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TaEtWODlCUVU1a1pQN24wNlVSUmtFT1pKR0dkRDVtMF9GeS1mZ2d0ZDBwYllLWE1YbkVPWElwTzBYTGs2bWJBTC1NZTR2ZWhZREZWZFVZZ0JqM3NxZThGWGU0cXo4QkVvdFFwcQ?oc=5",
+            "date": "2026-06-01 13:19",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "안랩블록체인컴퍼니, 스테이블코인 시대 겨냥한 '클라우드 월렛' 공개",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVYWxkQnNhb1FQM2pJdkFmMmtoZGdfN0NKQmFsaHYxRXpyOEUtSThOOE9HSG1la1c5UTBGLXBad2JNS0V3Mmh2MWFkQW1DQjY0ZENF?oc=5",
@@ -8903,16 +8913,6 @@
             "is_today": false
         },
         {
-            "title": "'삼성SDS 보안 자회사' 시큐아이, 이익률 상승 속 현금흐름 '뒷걸음'",
-            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpd1ZoVG5aRC0yV25KUThZWXZvd3R4OVVSc0VkVTZNWnBXdV9mejR3R3BTMTgxNUFSVndrTGMzODFqRjc5SFE?oc=5",
-            "date": "2023-04-17 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia™ ITU·ITM 선보여",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FMDJ4TVV1TWVIYnBoTWUwNG90WEowWHd4VTB1N3dhU3J0dGlGRU45QjhfU0M2dER2Y2pJY21oaVQwSHhSSW1FYlZiakRhdw?oc=5",
             "date": "2023-04-05 16:00",
@@ -9056,16 +9056,6 @@
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 STIC 출시",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YU203OWhvTFFhTGVhTE5ndTNzcXdpYXVxQUVGS2pSTlM2eGF1d0xYbW54eDlSSm16NGo5c1ZxS1dSWERTVnZueno3dVJWcUlKNzVpRS1n?oc=5",
             "date": "2022-06-09 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이, 베트남 1위 ICT 기업과 제휴로 베트남 시장 진출",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HY0lGX3NsUnFjWHBwTTd3WDllQzZCSVU4OV9FZUpEN3RpeUF4djZTdHVLaUtidDRSOG11LTFxRlpjd0xseW5yZDNRMmlHcFRQS2M2eHZjU05uMkdkTWpUSElIbEZidkVLVDd5Tl83TnBfRXJEdFE?oc=5",
-            "date": "2022-04-20 16:00",
             "description": "",
             "company": "시큐아이",
             "tab": "competitor",
@@ -9885,6 +9875,39 @@
     ],
     "trend": [
         {
+            "title": "금융위, 고성능 AI 보안 위협 대응 '민간 기술자문단' 발족",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ydGR0OEdrWjRlSUY5bVozUVV2Z1FmZlRLRmRleVdpRVozRGhHLU1YLXk2bWliNGkzTjZ3VjAwYjdoUkR3ckRkWEJoeDVhQU5icHEwM21JT0JWbG8tVHV3UA?oc=5",
+            "date": "2026-06-01 14:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "심버스랩스, 양자 내성 메인넷 심버스 3.0 개발...테스트넷 적용",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNnQta1RSY2VLRk1lb0FtU0p6TUpZMkprUzdfUWZSd19JRmRBd3hXM0V0Q2NaYTJsV3ZuMTdDamRhVkxSbm9hTGthR1FaSUt0d0hzQlFWMkZ6V2hoa2JWVWdSaThrWGlGWHdaQQ?oc=5",
+            "date": "2026-06-01 13:49",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"AI 신뢰성 높여라\" 정부·기업 특명에… 크라우드웍스 몸값 천정부지",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14MWp1UTFBbzB4em9zRHlaLVBVMzVTVHNMSzhSSS1BZGUyTXM0VGFaQktWSTdwSURGd1JRT2wzbUdRcDhhU29MSFBZVDlZb0JyV3dQY01RRTZ3X1AzYVFCamNmYXZ1RkpSNmhKejRtTlh5V3c?oc=5",
+            "date": "2026-06-01 13:43",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "“파일 업로드는 금지입니다”… 중기 현장 덮친 보안 역설 ‘반쪽 AI’ 우려[중기+]",
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qd3pmeFpuTVFrRTgtVjJ6cmNrZXU0ZWlWMmwtRlpXSG9NT0U4eFMtSVFHd245WDRYNUtvOTl1S3oyU0xkTEctM3NiVW1GQjdDeGZYdW9YWQ?oc=5",
             "date": "2026-06-01 12:50",
@@ -9957,6 +9980,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "유라클, AI 표준 플랫폼 시장 선도…현대건설, 한국평가데이터 등 표준화 플랫폼 낙점",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1faldXZzRWekQ4VFl6bElUMmZMc0ZxbXVUZndTTF9xSm1MQ1JYZG9RUENQZHp1bHhrM29uMTJqdzhGVU5RN3E4QXlZOFdjQQ?oc=5",
+            "date": "2026-06-01 11:42",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 표준",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -10358,6 +10392,17 @@
             "is_today": true
         },
         {
+            "title": "SK인텔릭스, 웰니스 로봇 ‘나무엑스’ AI기반 보안 강화",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92cFVWa3NiUm9GMlV3OTdsZzlUM1ZRYUVwZHJnam9HZm93aXNYUjBqUlVQQWpqZ1lrSVJZVkJfaUR1Q29zUFN5LXJTc252QQ?oc=5",
+            "date": "2026-06-01 09:20",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "멘로 “사람 중심 보안, 에이전트 시대에 맞지 않다”",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vZUJaeFJsUVNPdk9vdzVUR1MzZEpac1NFa3ZNQTBkdjlNQ3VMa3VibmJrUGZNRzdGMkYxM1VwX3Ezck9tU2tLLTkzX05fU2hXclNZNU5RNUhiUS1HOU1sWUc0WlpTdUd6RHR6TA?oc=5",
             "date": "2026-06-01 09:16",
@@ -10457,6 +10502,17 @@
             "is_today": true
         },
         {
+            "title": "지니언스, ‘양자 보안 게이트웨이’ 핵심 기술 최종 검증 단계",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IOEh6ZGt2eGcxdXlhNTA4OUxXdjIzbjBxczgyTTU3WnJmNjNmMmprdFNoVGdCamk3aEg1ODFPS3VjLWVFTjk5MktjMzJvZjdBWEhtVndWbTBvMkRtbm1OT3Z6NFFaMWRmekE?oc=5",
+            "date": "2026-06-01 07:53",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "AI·LLM 연결 늘수록 API 보안 위험 커진다...아카마이 대응 전략 무료 웨비나(6월 11일)",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KVVpEVURiTXRJNVJnWUMxLXdxd0ZjbEo1elNwWjdNajV0LWRCcWdhVFo2YnNCQUlmTWRMamJVZ3R5R2FsY05aV3I0QzZMSmZHQTBud2ZxZDM3YXFkYkJWcnl0RWt5R01JTkE?oc=5",
             "date": "2026-06-01 07:30",
@@ -10515,6 +10571,17 @@
             "title": "AI 에이전트 도입 본격화에… 구축·관리·검증 솔루션 경쟁 본격화",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JZExnbC1zWHV4RVdPRUttX01RdjhEcFgydFFyQk9PMFFmME1ncVVzSW5uMGt1VGE5Zm54VFhWalRlOHl2blpYbEdEMFN0bXNDR2RzWVB6Um1TenR3VXZ5UlQ0ZDdHOGpxb0VnTFdic1PSAXRBVV95cUxOdS1EZm1aSnhtaV9nZFB3NlFBTEpIWmFmZ2lyMEc5cnBmUHhrbm9wVVZ4TDV4VWdTYzRacVFPSWg3elZsN2dXeDBseC1wQ2VHZW1MUUs5UjZ4OFhiQXc2bEl4aG9xRzJYRm1fMmliRG10b2tRRQ?oc=5",
             "date": "2026-06-01 06:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "브로드컴·HPE·사이버 보안주 실적…고용지표도 관심[이번주 美 증시는] - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yQkFHSFNnMzNUQXdlRFFOX1dFeHZhVDNkazFZRndHOTNYMS0wUm12TjI4XzdjcGVtXzBscFZzYzhPWHNSSjg4VEpQR3VjZUxCaW1xcFYxU2dFM1p3S05SYkNORGs3ZXph0gFuQVVfeXFMT3YxODBwaVNqTmhTaC1ydGp4RlFqNkstX01UZDAyZGNNRi1vUG5hbmdCQUFQYzNReWM3NnFOSDlDWGFSeTl2RXRfdEc4OUpXak5Rb0tCVmhyN1M4RnQ0ZGxIZnFlLTM1V3gzcDU4U3c?oc=5",
+            "date": "2026-06-01 05:35",
             "description": "",
             "category": "AI보안",
             "keyword": "인공지능 보안",
@@ -56064,6 +56131,10 @@
     "trend_monthly_keywords": {
         "2026-06": [
             {
+                "keyword": "인텔릭스",
+                "count": 8
+            },
+            {
                 "keyword": "출범",
                 "count": 7
             },
@@ -56073,10 +56144,6 @@
             },
             {
                 "keyword": "위험",
-                "count": 7
-            },
-            {
-                "keyword": "인텔릭스",
                 "count": 7
             },
             {

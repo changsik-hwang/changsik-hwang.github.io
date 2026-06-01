@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-02 03:00",
+    "updated": "2026-06-02 04:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -7643,6 +7643,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이, 버그바운티로 보안 사각 해소…“공개가 곧 방어”",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrQU5uejd4azEtUDVmYlZrYzNDZ25GYmRDMDZJWkdHVVNXQWQyWEZmYzRNRC1YVFFuaUJLRVdqMnFKdzc2N2duY2drQW1xX0RnVzdsdVJuelpGR3dxQVhCY2VuR3dBM0NC?oc=5",
+            "date": "2025-06-19 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷-케이엘큐브, AI 수어 서비스 시장 확대 협력",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6YnVlZlVrUU04dFB6MnBuWWNCWHBOQm9zekY4WXdzeGs4Q1liZ3J0UTEzQW04TlhaM0RfczdIZGVXZWd3Y3BKcHIxQW9SYVIzQlo3bVhR?oc=5",
             "date": "2025-06-11 16:00",
@@ -9064,7 +9074,7 @@
         },
         {
             "title": "[정보보호 대표 상장기업 분석-2] 시큐아이의 사업영역과 실적, 연구성과",
-            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TaG5DX1FmWmY2LTJ1U09rcmRzemRoem9LQlk0eDQtdWRqaTdTRDdkSkhKUEhYbTZnVlhHQVVuZmUyR1AwdDJ2aXc2UUhsbFpjQ1JzczFsRmJGWUh6NUE?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oZkRwSXZPVGpNR0JVbk8tMDhhQmZVU0w5dUx2RkVVNmwxZjhENWtfczh5TGdzVUU4d3lQVEN6Wm1xclJJLUs1ZHJEMjZwODNBWU84SHdHdERlaC1MYXVn?oc=5",
             "date": "2022-12-20 17:00",
             "description": "",
             "company": "시큐아이",
@@ -9156,16 +9166,6 @@
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 STIC 출시",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YU203OWhvTFFhTGVhTE5ndTNzcXdpYXVxQUVGS2pSTlM2eGF1d0xYbW54eDlSSm16NGo5c1ZxS1dSWERTVnZueno3dVJWcUlKNzVpRS1n?oc=5",
             "date": "2022-06-09 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이, 베트남 1위 ICT 기업과 제휴로 베트남 시장 진출",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HY0lGX3NsUnFjWHBwTTd3WDllQzZCSVU4OV9FZUpEN3RpeUF4djZTdHVLaUtidDRSOG11LTFxRlpjd0xseW5yZDNRMmlHcFRQS2M2eHZjU05uMkdkTWpUSElIbEZidkVLVDd5Tl83TnBfRXJEdFE?oc=5",
-            "date": "2022-04-20 16:00",
             "description": "",
             "company": "시큐아이",
             "tab": "competitor",
@@ -10148,6 +10148,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "레드햇, '앤서블' 고도화…\"에이전틱 AI 시대 자동화 핵심\" — IT뉴스모아",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nb1JQMjVkTWRLNDRJWWwteEJwbXIweTlPdTJaZHR4Mi0zYUpINVJ0TVctZENvVTJDLU0xdVZTZWJhbENEemlESlN3YU5sR2VrMHQ4?oc=5",
+            "date": "2026-06-01 17:17",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "“준비 안 하면 직무유기?”... 망분리 전면 해제가 부른 금융권 AI 보안 속도 경쟁",
@@ -15901,6 +15912,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "SGA \"에이전틱 AI 시대, AI도 사람처럼 인증하는 체계 필요\"",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1weW5ONWdaeWRPNG5NczZyTXlwQU5DQ3BsQWNmaEJZamFuUy1uV2w0UWpQVnoyRU51cWE3VGhmdzJDQ2xGVEQ2UTFiRzlyZlZlWldaTWFxci1Pa1Z2dFUyTGprVGlaU21H?oc=5",
+            "date": "2026-05-27 17:31",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "이스트시큐리티, AI 개발환경 노린 공급망 공격 포착…“AI 도구까지 침투 시도”",
@@ -57570,7 +57592,7 @@
             },
             {
                 "keyword": "체계",
-                "count": 183
+                "count": 184
             },
             {
                 "keyword": "오픈",

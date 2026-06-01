@@ -1,7 +1,17 @@
 {
-    "updated": "2026-06-02 06:00",
+    "updated": "2026-06-02 07:00",
     "current_month": "2026-06",
     "competitor": [
+        {
+            "title": "\"AI가 해커되는 시대, 최강 방패 역할도 AI가 할 수밖에\"",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UX3VvcDFGU2dqRUozcnZCTFZURTNLUGVxMmcxVFVSLUQwcHNNNFFueU51b2ItTVVVaXZQbXBHTzc5R1NpVlJGbmU4ZW5KRGc?oc=5",
+            "date": "2026-06-02 06:32",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "안랩블록체인컴퍼니 ABC 클라우드 월렛 선보여",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YcjZ4bUxESWVDNll5alNxOGdsbnZlNXJKcW5qb2hQMWh3bkEweTBsN3ZfaGZpWnJZcGEySzYzTXJWUEF6NkVsYjlJS1l4c1ZTZnhKdlFpeEdlSkR4YWZ5ZWI0cFRndDIwM3JmcEhMQThxMW9WOUlFdFZB?oc=5",
@@ -9253,16 +9263,6 @@
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템과 리얼시큐 상호 협력을 위한 MOU 체결",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UbVlaU3hIZWRPd05QYnZ6YnpWYm5lTVBlalVseUdWcDJFcXAxdWh4NmNldDZpMlB1ZmFBUmVVb3lpMlhKWXBodDFqYXhZdw?oc=5",
-            "date": "2021-02-25 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이, 100GF NIC 탑재한 고성능 방화벽 출시",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRSG1ka0ZWMEQxaTI3aFJkd2Y0eGJlWFpZX0tBZVFSV3N6TmFBRk5qSmVFM2ZUalBiaEd3OE9GeVIxVDZRdVBzeVVMQ295S3E0WlQtMEpXZ3U4YXEzRjFQU19yRUVwOGpQRjJtLUQ1U0ZobTA?oc=5",
             "date": "2021-01-28 17:00",
@@ -9483,16 +9483,6 @@
             "is_today": false
         },
         {
-            "title": "퓨처시스템, 'ICT이노베이션 대상'서 미래부 장관표창",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lQ0tFNlRmbFMybjR5YUx3eVhZUkFhMFJydFZTa3pqVkpad0xpcVE2T0lFSy1EX3FjUXhCZVViYmNfWmg0Z2lxNE12dlF2WmRXT291QkFB?oc=5",
-            "date": "2014-12-23 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, 망연계 솔루션 납품실적 호조",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KN1RXalJyT2hjdmZJUzdlb1B2b1FXZlRCc0hKTzhWUGJUNFMzdkoyWXYyREpKT0xOUlBmdC1vRU41c3dVaGV6Zmt2TGx3YzNlUmM1ZnhOSUVDS3doQTl0cG5DVzVaeG5uNmlrazRkZ1pOSkk?oc=5",
             "date": "2014-12-18 17:00",
@@ -9508,16 +9498,6 @@
             "date": "2014-12-17 17:00",
             "description": "",
             "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "퓨쳐시스템, IoT사업본부장에 KT출신 이현규씨 선임",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91UEdvMzNtN2RLLWRDM2cxamp4ME9JOFFtRHhJWVBFQ051QWN5OU0xbU9hM05ZSDlfeEdzUjZJRE5qcW5EaHlnYXp6OTVtNDFjVWphMUl3?oc=5",
-            "date": "2014-11-24 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -9564,7 +9544,7 @@
         },
         {
             "title": "[CEO&Story] 김대연 윈스테크넷 대표",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoNnFzd3lMZ2VTWWV5RF84OHVleGNfUDhHdW0xN0ViZjI0TWZnR2xkQ01sa3B4TnFpUWxacXhBWHRhZlpuLVoyQ3NmeEZiZ0lfdFBN0gFTQVVfeXFMTVk3SlZtZGNucmI1eHNwbkhydHFnWmZEcy1fWGtKTFFfY2IzSjhndHBtLUF4SWZaZG5GYjZqVEpFbWJxVmJobjZnMWhYcVVpdjE5OE0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5idmJZVXhsbzFDS3FoQ1NDb3otZlBqd3M0enJ0WHdpcVdhQm85VEpNeWk1NERtVkxOTEZXd0JuNmZYYVBCREQ5SjNLZ3BvRkhFc0HSAVNBVV95cUxNWTdKVm1kY25yYjV4c3BuSHJ0cWdaZkRzLV9Ya0pMUV9jYjNKOGd0cG0tQXhJZlpkbkZiNmpUSkVtYnFWYmhuNmcxaFhxVWl2MTk4TQ?oc=5",
             "date": "2014-03-13 16:00",
             "description": "",
             "company": "윈스",
@@ -9683,16 +9663,6 @@
             "is_today": false
         },
         {
-            "title": "[화요기획]윈스테크넷",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
-            "date": "2011-03-28 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "나우콤서 분할해 보안전문기업으로 돌아온 ‘윈스테크넷’",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56eHJmb1R4UE55c2VrM0hKaDZTM0VpYUdEaVowZy0zc1hHaDFiUzktS2lERFE5QkcwMUpDckQ2V3dVamNtN0g4WHJDS2dna3NPMTFRZnJsVkw2UFRodkE?oc=5",
             "date": "2011-01-10 17:00",
@@ -9743,6 +9713,16 @@
             "is_today": false
         },
         {
+            "title": "[2009정보보호솔루션 베스트50]퓨쳐시스템-WeGuardia DDoS",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xMG5uMEwtbmwxb3JVdDcxaElMQ3VRUmsyWF9lU0QxdTlrSlkwQWhDWFY4N0xIS3R0VFZUeThKN05vWUJvTmY3WF9zUF9aY2R0MnZtUG9aZ3daQmRKaFE?oc=5",
+            "date": "2008-12-16 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, ‘WeGuardia’ 제품군 발표",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aVVoxZjE2YVdPYS1fT2NiNzBwM012ZEN4Qzk5R1JWUElfRGZ3TTRTamRwbTVmaEpWSGNuTU5QSlFjY2NYSGgxQ0Fqb3hneDNDeFBLZTd4dE9CZnBUaWc?oc=5",
             "date": "2008-11-06 17:00",
@@ -9758,16 +9738,6 @@
             "date": "2007-11-28 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 나우콤이 흡수합병",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LcjFmNmk3MzJld1ZZNEh0c2stdmZjZ3FMakNZWXY0cTRmRzhGaXRoVG5MOEFVRFBZYkc2M2tvRUgwam1ZNzU3X3E0ZlZqNm5aZlpEb0RlNGxweUtG?oc=5",
-            "date": "2007-10-10 16:00",
-            "description": "",
-            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -9823,6 +9793,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템, 우리투자증권 VPN 프로젝트 완료",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kR0JlSlVNZE5oLXlkYjFUZV9KTjJCSGdqVE9WLTlYdFBvY2VUdUowSnBGOG1NZVdkZm9mYnVZOVZUSkRmX295eG1uUWtTVlFiMmJkeU16bTFLckpV?oc=5",
+            "date": "2005-11-17 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, 금감원에 기가비트 방화벽 구축",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VV01DMUgzUDZLdWZ4djY0RGdXVUpPSTBtX3loMTVxay1jYXFaMENBajhjVGlaY1dQNFJxV3BMdVhiNDVRRnV4WkF0TFMzLXZBc2dwN0VRN3NxMU5m?oc=5",
             "date": "2005-07-18 16:00",
@@ -9866,6 +9846,16 @@
             "title": "퓨쳐시스템 _ 대상 VPN 사업 수주",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3N05kLUE4R2FxM3pzMzluZVFlWG8wczBram9pNWFhUTB3alhDZHJrcjJGc1VtZGUtNWFzVVVVZEltUWx4bzhzVXlfUVQ2T0FORjBFdnhiM1VsQQ?oc=5",
             "date": "2005-04-18 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "행정정보보호용 VPN 제품 절반「퓨쳐産」",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pVGVkUDh1Y0NqMC0yODk1b3JncC0tY1dJZUdzWnBWOXhsajlFaVhZcFlTVWgxZHJNeEVJdm1kSlp4N3JYZ2luZG1rNjhvSDk2WklKZ3Bn?oc=5",
+            "date": "2005-03-22 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -10001,9 +9991,30 @@
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
+        },
+        {
+            "title": "[신SW상품대상] 우수상:(주)퓨처시스템 \"FUTURE/TCP V3.0\"",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CTFRqMzBZOVJYN3Nza1NHU1VncVNmTnJ1YThTajEtMm52YlYxNUxGNkdvbm5PM3IwV0d6RmxObUNmQWJwVlhWbjhhYw?oc=5",
+            "date": "1994-12-22 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
         }
     ],
     "trend": [
+        {
+            "title": "\"AI가 해커되는 시대, 최강 방패 역할도 AI가 할 수밖에\"",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UX3VvcDFGU2dqRUozcnZCTFZURTNLUGVxMmcxVFVSLUQwcHNNNFFueU51b2ItTVVVaXZQbXBHTzc5R1NpVlJGbmU4ZW5KRGc?oc=5",
+            "date": "2026-06-02 06:32",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "[보안 톺아보기] 정보보호 공시 의무 확대...투자 촉진제 될까",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BS1BSX2tWZU5DZlVqb1E1dHNVMGFsYW5DaHJHRmhCdlk5Y2syVTNQandKczZzM1hLQWpDM0xOdUxZQ0xCd1NUb3hUNVFjXzVjbzJUZWY1ZXNZV1diMUE?oc=5",
@@ -11760,6 +11771,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "웨스턴디지털, 양자 내성 HDD로 AI 데이터 스토리 보안 서사 강화",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0MxUjZLd2lkSklTUGFxeHY0XzlLUmdic0t3SkxWUGlvcVd4NzRVczF4Qi1qTTFhRlRrNXNtckZoVWxNNGtsNElKOUhNbWFoWHpwMkxDbFE1NTFOZVpSQkRxOUU4UVBqUDJKbXZKeFMtYjR0R3ViamlkekdVbVA1bVcxajdlMHM5cWlpOHZWa19wRjN6WFk00gGXAUFVX3lxTE5rQzFSNkt3aWRKSVNQYXF4djRfOUtSZ2JzS3dKTFZQaW9xV3g3NFVzMXhCLWpNMWFGVGs1c21yRmhVbE00a2w0SUo5SE1tYWhYenAyTENsUTU1MU5lWlJCRHE5RThRUGpQMkptdkp4Uy1iNHRHdWJqaWR6R1VtUDVtVzFqN2UwczlxaWk4dlZrX3BGM3pYWTQ?oc=5",
+            "date": "2026-05-31 20:58",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -38244,6 +38266,17 @@
         {
             "title": "특징주, 큐에스아이-양자암호/양자컴퓨팅 테마 상승세에 6.83% ↑",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfUFRTX01aWHdyVkJibzFkYzl5d2dzcnV4RjhFMFdPZnRHTlgzMnBjQ3hWRnh4c1NsVzZUZWRocFJHV1lfNmc2MUdKNFR0UFgyQVE?oc=5",
+            "date": "2026-04-15 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "젠슨 황까지 발 들이자, 양자컴 관련주 '재부팅'",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90aHA2aTZRNVRfRGxxdU5XT0dwLVJWbmtidDJfVmJzV0pnYmc3OUw5Rm40NVJteVJFMDdfYnV4eDdoSlNVX3VwbThyVTh5Q2dyRGFNQlY1dFZsQdIBVEFVX3lxTFBuTktMT3hYWkdDVzlZSHRuOTMxY3FFYzRQV1h1YmNsd0hjaUNBUjBHQjBkZzltWlBmczRIZmxRUVlabEtMNTJRNnBNTk1BUnFtVjA2SQ?oc=5",
             "date": "2026-04-15 16:00",
             "description": "",
             "category": "PQC",

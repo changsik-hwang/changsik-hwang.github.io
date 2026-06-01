@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-02 04:00",
+    "updated": "2026-06-02 04:24",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -9023,6 +9023,16 @@
             "is_today": false
         },
         {
+            "title": "'삼성SDS 보안 자회사' 시큐아이, 이익률 상승 속 현금흐름 '뒷걸음'",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpd1ZoVG5aRC0yV25KUThZWXZvd3R4OVVSc0VkVTZNWnBXdV9mejR3R3BTMTgxNUFSVndrTGMzODFqRjc5SFE?oc=5",
+            "date": "2023-04-17 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia™ ITU·ITM 선보여",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FMDJ4TVV1TWVIYnBoTWUwNG90WEowWHd4VTB1N3dhU3J0dGlGRU45QjhfU0M2dER2Y2pJY21oaVQwSHhSSW1FYlZiakRhdw?oc=5",
             "date": "2023-04-05 16:00",
@@ -9074,7 +9084,7 @@
         },
         {
             "title": "[정보보호 대표 상장기업 분석-2] 시큐아이의 사업영역과 실적, 연구성과",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oZkRwSXZPVGpNR0JVbk8tMDhhQmZVU0w5dUx2RkVVNmwxZjhENWtfczh5TGdzVUU4d3lQVEN6Wm1xclJJLUs1ZHJEMjZwODNBWU84SHdHdERlaC1MYXVn?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TaG5DX1FmWmY2LTJ1U09rcmRzemRoem9LQlk0eDQtdWRqaTdTRDdkSkhKUEhYbTZnVlhHQVVuZmUyR1AwdDJ2aXc2UUhsbFpjQ1JzczFsRmJGWUh6NUE?oc=5",
             "date": "2022-12-20 17:00",
             "description": "",
             "company": "시큐아이",
@@ -9166,6 +9176,16 @@
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 STIC 출시",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YU203OWhvTFFhTGVhTE5ndTNzcXdpYXVxQUVGS2pSTlM2eGF1d0xYbW54eDlSSm16NGo5c1ZxS1dSWERTVnZueno3dVJWcUlKNzVpRS1n?oc=5",
             "date": "2022-06-09 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, 베트남 1위 ICT 기업과 제휴로 베트남 시장 진출",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HY0lGX3NsUnFjWHBwTTd3WDllQzZCSVU4OV9FZUpEN3RpeUF4djZTdHVLaUtidDRSOG11LTFxRlpjd0xseW5yZDNRMmlHcFRQS2M2eHZjU05uMkdkTWpUSElIbEZidkVLVDd5Tl83TnBfRXJEdFE?oc=5",
+            "date": "2022-04-20 16:00",
             "description": "",
             "company": "시큐아이",
             "tab": "competitor",
@@ -9633,6 +9653,16 @@
             "is_today": false
         },
         {
+            "title": "[화요기획]윈스테크넷",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
+            "date": "2011-03-28 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "나우콤서 분할해 보안전문기업으로 돌아온 ‘윈스테크넷’",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56eHJmb1R4UE55c2VrM0hKaDZTM0VpYUdEaVowZy0zc1hHaDFiUzktS2lERFE5QkcwMUpDckQ2V3dVamNtN0g4WHJDS2dna3NPMTFRZnJsVkw2UFRodkE?oc=5",
             "date": "2011-01-10 17:00",
@@ -9984,6 +10014,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "[보안 톺아보기] 정보보호 공시 의무 확대...투자 촉진제 될까",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BS1BSX2tWZU5DZlVqb1E1dHNVMGFsYW5DaHJHRmhCdlk5Y2syVTNQandKczZzM1hLQWpDM0xOdUxZQ0xCd1NUb3hUNVFjXzVjbzJUZWY1ZXNZV1diMUE?oc=5",
+            "date": "2026-06-02 04:16",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "'고성능 AI 보안위협 막는다'…금융위, '민간 기술자문단' 가동",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LT1ZndDBHTENtMkZDMEs0S2dyWU1icGl0ZUJManc0ZC10ckRUTVBsdWNDTmswdmV2dU9ySEQxeTdTT0MtaFVOblBMQ1RsXzlfdGYzTHNfaE1GNnNYd09BMXk4cmtoWTQ?oc=5",

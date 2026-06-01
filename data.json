@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-01 14:00",
+    "updated": "2026-06-01 15:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -9063,6 +9063,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이, 베트남 1위 ICT 기업과 제휴로 베트남 시장 진출",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HY0lGX3NsUnFjWHBwTTd3WDllQzZCSVU4OV9FZUpEN3RpeUF4djZTdHVLaUtidDRSOG11LTFxRlpjd0xseW5yZDNRMmlHcFRQS2M2eHZjU05uMkdkTWpUSElIbEZidkVLVDd5Tl83TnBfRXJEdFE?oc=5",
+            "date": "2022-04-20 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템-씨커스, '보안사업 역량강화' SCA 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydjR2OG1ldlUwMmc2WjNpN3hfQUZBYUVUUlhXXzZycE9HM3NqeXF0RUxmajZBYWNRanA2d2NhNnE1Z3U3T2ZnWDhIblJKZw?oc=5",
             "date": "2022-03-16 16:00",
@@ -9875,9 +9885,251 @@
     ],
     "trend": [
         {
+            "title": "페스카로, 국토부 세미나서 ‘생성형 AI 자동차 해킹’ 위협 진단",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2NllrQWJNTzZpUThBbnRFSVdmRHMzN0h5SkVZRU1INGpLN0tFN0dUZ0NhaXJfMTlYMUtaeUtKbjFLNzNua1dWTlVCSWx2bE0?oc=5",
+            "date": "2026-06-01 14:52",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "고성능 AI 보안 위협에…당국, 민간 기술자문단 본격 가동",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5taHdPeTBjNkxoMkl6X2NlMkpuV3A4a3pXeGdJX0JHNjlmYTFycUxXbzBaSGVaNWpUcVFlLTFxNXc3cUl5YzNaYjVHd3R6bVVVWmtF?oc=5",
+            "date": "2026-06-01 14:44",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융위, 고성능 AI 보안위협 대응 나서…민간 기술자문단 가동",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VWGFYeElPQzUyOURSUmZQajZwd1Z2djFxWHFDVkNsZjlleHpBaG5sYTlvVjlIOXZqX0F6eEpyVXhTTXdnZ0ltVEwzUEdPcXFKal9F?oc=5",
+            "date": "2026-06-01 14:24",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "미토스發 해킹 위협에…당국, '민간 기술자문단' 본격 출범",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xelcxZGZoQWhmSEJpMWJhekVqdF94TnY5SzFCa2o0V3kwMEtTbTVLUHZfNzRmdGNnT1NGMms4Tnl2cE9qdXgyZFRnTmF4RGs?oc=5",
+            "date": "2026-06-01 14:15",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융위, 고성능 AI 위협 대응 '민간 기술자문단' 출범",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95STB6VTMtWGdBTWp2Z01OeHVWTWwtLVFRNXdjc255YjlORjRHeWtNVHlpWUJjblRlMG81dkJrY1pFa1FkSWxNWC1mdEFiSmFhajlpdVBqMTlKaEZRdUphQg?oc=5",
+            "date": "2026-06-01 14:15",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "미토스發 AI 해킹 방지…금융보안 민간 기술자문단 가동",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xZ1Z3elB4ajNLZ0NSanZ0c3F5UF90MThiYTBRbDE4bGR4TUdvQVROQ0V0a01aZDhpTTlGOWdFR3FrUHFhQzd0b2RHcXd3Yl80RnRMeXRLNmhFOFc3WmJvMdIBeEFVX3lxTFBuTTBaNkl4UDlMdy0tYW03aXdtcS1VQ3h4UmplQkVMelVQaENQQmttZ3MyNXg1cFh2Qk9DQnFvY1l1N3dVd1kxYWlodGtKd3dxdFBEYjdLVXU2M3gta1JIY1N6S0dnR0dmOE1YcDJPcS03enEwYXVnZw?oc=5",
+            "date": "2026-06-01 14:10",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "PTIT와 ISSAI AI 연구 그룹(나자르바예프 대학교, 카자흐스탄)의 협력을 통한 언어 학습 및 다국어 AI 연구 방향 모색.",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMDJKcFd4UnBQc1pFQjhBUWdlRjR0cERVZV80SDlGV2RYTk5Kc2ZXY0pMbUluWDJzQ0FvWXc1QkpVaThVdS0yUTVJZjJkWnY2U3J3YmQ5bFZHaGR6RmxuLW1vYXJIRXcwQ0FwRzFVTEdMZVVicUxKMGUxOFZsanIwMzZwQnV6SW5BVDZtS2QzZ3FPVVFwUXYzZFpTeUZZX2RkNmdtWlpQczZMTV9RS0hnVnJTZDQ5eTlqa051QlRtNXF2dnZzdUNtOWhDTDRFWlVQRGh0REZ3?oc=5",
+            "date": "2026-06-01 14:09",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융위, 미토스발 AI 위협 대응 망 분리 심사 착수",
+            "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZMzk5Sk5vZjdHUk9uaGpKRXU4RUR0QTBPRHVDU09xQ3QzRE53ZjlLUnk3dTZ2RHJDNUhZeWVoZkFCWUFyenk5Qk9pYWQ?oc=5",
+            "date": "2026-06-01 14:08",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"고성능 AI 보안 위협 막자\"…금융위, 민간 기술자문단 가동",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TQWRveWFNbi1xakc2azNTTjQyc3NJa3hUSFd6OGp3MUJnaHg1b3E2OEh2a19jQUZ0WXFxUlVBbFpzNXgtSzljcFZRM3dTY0NzODZ5dHFfRE1IQWVzVTg0RFMtTndfcnpEaENKQXdNT1LSAXRBVV95cUxQbVRad2ZuTjkySi1rZnpONUQyMkp1TnJVa2gySlpycW9GU2I2b05KTVBIdnhzTUxTRDlXYmE0WFZpbWY2Y05tWVdweEV2QVNSSnBZdUUxc1Npa0RkNGs0RmxzWGVuaXVQTU9tQU1IWjV4MkVkQQ?oc=5",
+            "date": "2026-06-01 14:03",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI가 스스로 고친다...에스넷시스템 '셀프 힐링' 뭐길래",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ObGpvQV9pUGwtMkdEUWg4am55WTBsdWhDbVRWTVh2bWt6cGxYX08teUFNUVFHWnZldWYwZlFnbE1UaUVwY0F3ZXR4ZGJiTnlpbDlxTHduMDVJd2gwMFF1SDJsU1BwX1JjaTZ1M1JuaVY1MXJBZi1ZUTlRSQ?oc=5",
+            "date": "2026-06-01 14:02",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "'미토스 위협' 대응…금융위, 민간 기술자문단 출범",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tYjFNQXZQdGRSY3Z1Y3M1T2N2MnV6WDJkSlcwcXZheXl0M3hnc0JWTkdjM1N0R0twLWJpTGZvaDVnWHZfRkVXMHgzNWJaaWc?oc=5",
+            "date": "2026-06-01 14:02",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융당국, AI 보안 위협 대응 '민간 기술자문단' 출범",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzZko1Y0U5UldnZnZBMTlvdU40SC1lMUtjc2M2Qm56VUpvOFc4bEdhZ0dxNEdkZ3ptSk1qdVA4RzVaV2NPLTNKaGZFY0I1SXlRWjdyTTlBaFVFeWttOWR6N2hIa0ZaNXc?oc=5",
+            "date": "2026-06-01 14:01",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 해킹 위협 커지자…금융위, 민간 기술자문단 가동",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kV2xqRkVFOFBHcVF5VG11ZDRBUVAweXFEeE9Xb080YmNKMXRlQ1BzUzhrOVVzUHJYbXZWVEJXRmlqTzh5MzlFS2NBSUI4MGF3RWE0?oc=5",
+            "date": "2026-06-01 14:01",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"AI 공격, AI로 막는다\" 금융위, 민간 기술자문단 출범",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DSERpUlBtaUFkOUNISDhGY2FJTUhpcHhaRk1WT19mMG01bmpHNGlGQWF6c3pvZW5OVDI4cFB6cUJOS2MyYy1wa2JySDBJTzdINmxZ?oc=5",
+            "date": "2026-06-01 14:01",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "금융위, 고성능 AI 보안 위협 대응 '민간 기술자문단' 발족",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ydGR0OEdrWjRlSUY5bVozUVV2Z1FmZlRLRmRleVdpRVozRGhHLU1YLXk2bWliNGkzTjZ3VjAwYjdoUkR3ckRkWEJoeDVhQU5icHEwM21JT0JWbG8tVHV3UA?oc=5",
             "date": "2026-06-01 14:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융위, 고성능 AI 보안위협 대응 위해 '민간 기술자문단' 가동",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLc1dZMTN4WWR5Q25tZ2E5ZXFaV25Pc3BWX05aWkFOeWhHV3JGQTZ3bFFMNktBRWpQZHgtZ3luV2JOdTBkMy1pYXFXajdWb3Z3WGtXd2s3WnZ0MjdvSldNcWtNRnZvR0ZOSHc?oc=5",
+            "date": "2026-06-01 14:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"AI 공격은 AI로 방어\"…금융위, 보안 자문단 가동",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QcTJtMy1Sc3FlZlZFNlUtNDRKR2RvcU5rMFNHajRGcjVsTkYzU081RExwbDBrczNLbXRVcFk0cFQxTlh3VlZqZVM3RFMtMGFoVTJXV3BmU1pfenFMSmhXbEtJM3d5eWZhS0g3WWxpMA?oc=5",
+            "date": "2026-06-01 14:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융위, AI 민간 기술자문단 발족…망분리 완화 드라이브",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1UGY5c0N4TFJBRkxyaGZIakFlcmNjZ3BBVS1jM1p2Wko4a0gzS1ItNm9GZDFsbHB5cHlQUWdzcWdoQ2d1Qlo2NFlSNmFEaDFNM0JBTUpyM1FFSFpHa3FIc2N5UWcxdDA4WGwxV2NUOFRoQjg?oc=5",
+            "date": "2026-06-01 14:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융당국, 미토스發 해킹 위협에 '민간 기술자문단' 본격 출범",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kN09IanA4V2hid3I4Q2dlalBjUndrbVdfUTUwMW5aUE83RUlHVjBuTjlXcWc0X0pHRFR2d0FpcXpyTUdhQ1g4NnFIenhXUXJPODQ2Zmg1dzU1cTJ1LTFMT0RR?oc=5",
+            "date": "2026-06-01 14:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "금융위, ‘AI 보안위협’ 민간 자문단 가동…망분리 완화 후속 대응",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4UElnYUxmSEtMVnhtd3RBendTZkVick83SHpKZXc4WDhGcnRUQVlFVW5jaU1fN3dIRE9JcElFUVJXbXdFTTNMaldPZjJOdlFiSzVBU2c4QdIBkAJBVV95cUxNRjJUNEdTRHVvR3VtYS1CMTd2NVZzRnZlcUpqREpXR3VXUDl0VE5DZTJ4bzVEeENCbHJvRkZaU0hpSXBLQ1RSUk83am01bVA2M2NheWJVZDc0WlliWHM5eDU4RWpidHh3bjRvYmJZNG9BekkwYllMMXFkRHBwR0ZDWGVzRE5xcU1DZm1HRjlfMUJYZzBnM0p4Ny1xTjZHT28yZ1JoYTNXalp5end0akItaUVKX3V1cGtDRHNBYS1Zc29YZ3djY2lrb19xUTlTSFkzZDZScjdCYS1GU25iNEloS0JJME5jTUVtTmVRZnpJaUNyV0RPTWZxLWFTc0tkU25VbHpBSGFrVDJLUXZsNGhETQ?oc=5",
+            "date": "2026-06-01 14:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"AI 공격은 AI로 방어\"…금융위 민간 기술자문단 발족",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yaG5UU28wX3YxLUtaWFhXcFFQRWVQdGFKU0dka215c185b204dVNvektpX2h1WHRlT2VWYU13ekFUQURGSXJibEYyb3EySWtNTlFj?oc=5",
+            "date": "2026-06-01 14:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"AI공격은 AI로 방어\"…고성능 AI 대응 민간자문단 출범",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kVng4YW42WWlNVEdjaC1YZG9sN00zVjRKZmpYMThxTkVkYVAycXdWM1JlSXRnMWRHVklKTTNxOUhqVzNra0J5WHIzWk9RUTUwYXVj?oc=5",
+            "date": "2026-06-01 14:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "앤트로픽과 손잡은 정부···AI 안전·사이버보안 협력 본격화",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mV2ZucEdFSjZOZ3QtVElZUnNzTU4zRDd0dUNMYlhIbF81bFI5ZWU3VE5iTllKdUxDU2pwSldOUk1zNWZ3clhfT1lNNHVyMnBqUHE1bDFDbU1LMkRVWlFuUlZOaExxU1h2?oc=5",
+            "date": "2026-06-01 13:53",
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
@@ -10742,6 +10994,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "미토스발 AI 보안위협에…금융위, 민간 기술자문단 가동",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wTFE1RWR6ZjVUbld2QVRteDlpYlFxUU1uZmYzY2UyZUl1VmV1YU1aNlB5dkpDZEwwWDJiZlZINHYwVk0wN205SGRua3VrWE0?oc=5",
+            "date": "2026-05-31 14:11",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "NATO 협력과 AI 보안 수퍼사이클 속 Palo Alto Networks 재평가",
@@ -36011,6 +36274,17 @@
             "is_today": false
         },
         {
+            "title": "특징주, 큐에스아이-양자암호/양자컴퓨팅 테마 상승세에 5.89% ↑",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PdEw0NUJxd2VNXzVJYkZvNGhhdkVTdEdXYm83YmZQYTRwcERZUGNUTm5ta3BOVVJNdE9hZTdzT3FjMGg4R3RLZjlFWkViS0VMa1E?oc=5",
+            "date": "2026-04-20 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[NetSec-KR 2026] \"클라우드 보안, 이제는 제로트러스트로 다시 짜야 한다\"",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtUGJHemUtTW5RYmIzeDkxZERyZm1vVnowX3NVY0Y5YU9yU3ZuS3IxcXBfLWRsblpiRE9UUEJiMjRhUmo1VXpBRVRHaUViTzMyeGhvQ19tQXFqblBndTJhQWxGZE1VX1VybmFRUg?oc=5",
             "date": "2026-04-19 16:00",
@@ -39053,6 +39327,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "특징주, 우리로-양자암호/양자컴퓨팅 테마 상승세에 29.97% ↑",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPdEsybFZCbUZCbkxIZElIYTFvVVR1NU1ZV09qMVdIRVlBUW5kb2ttbDZKVXBuT24xcl9IcmVkSnliY0IzXzB3dlZrR1BMbXJqa2c?oc=5",
+            "date": "2026-03-27 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -48419,6 +48704,17 @@
             "is_today": false
         },
         {
+            "title": "엠클라우드브리지, ‘Ai 365 오케스트레이션 플랫폼 세미나’ 성료",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EZktWbWNDTHNLSlZmQ1M0WW8yb0c3amE1aWl3T2NVaVJhNWp6dTR3RTVIV1dKLUhZM0xhQ0hQSkJJSUJ1dFdOenVOUWotUDdmRzhxaHJTRXZLaUc1X1hwMHdWdnljTHc?oc=5",
+            "date": "2025-11-25 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "국내 최대 업무 자동화 시그니처 콘퍼런스 “AX & 하이퍼오토메이션 코리아 2025-Fall” 뜨거운 열기 속에서 성료",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kSlFTQ29MTXZNeHNhSHc3OWFQZ0ZxYkZlbXh0dngzR0lBQVpVdUJUSlJ5TzYzNkR3MzFFU2ZoRkttcncxaUlXVzRRN0tEdw?oc=5",
             "date": "2025-11-24 17:00",
@@ -56131,24 +56427,24 @@
     "trend_monthly_keywords": {
         "2026-06": [
             {
-                "keyword": "인텔릭스",
-                "count": 8
+                "keyword": "자문단",
+                "count": 19
+            },
+            {
+                "keyword": "민간",
+                "count": 18
+            },
+            {
+                "keyword": "금융위",
+                "count": 14
             },
             {
                 "keyword": "출범",
-                "count": 7
+                "count": 14
             },
             {
-                "keyword": "에이전트",
-                "count": 7
-            },
-            {
-                "keyword": "위험",
-                "count": 7
-            },
-            {
-                "keyword": "코드게이트",
-                "count": 6
+                "keyword": "성능",
+                "count": 8
             }
         ],
         "2026-05": [
@@ -56184,7 +56480,7 @@
             },
             {
                 "keyword": "양자암호",
-                "count": 38
+                "count": 39
             },
             {
                 "keyword": "결제",

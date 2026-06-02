@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-02 19:00",
+    "updated": "2026-06-02 20:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -9603,6 +9603,16 @@
             "is_today": false
         },
         {
+            "title": "'삼성SDS 보안 자회사' 시큐아이, 이익률 상승 속 현금흐름 '뒷걸음'",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpd1ZoVG5aRC0yV25KUThZWXZvd3R4OVVSc0VkVTZNWnBXdV9mejR3R3BTMTgxNUFSVndrTGMzODFqRjc5SFE?oc=5",
+            "date": "2023-04-17 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia™ ITU·ITM 선보여",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FMDJ4TVV1TWVIYnBoTWUwNG90WEowWHd4VTB1N3dhU3J0dGlGRU45QjhfU0M2dER2Y2pJY21oaVQwSHhSSW1FYlZiakRhdw?oc=5",
             "date": "2023-04-05 16:00",
@@ -9778,6 +9788,16 @@
             "date": "2022-03-07 17:00",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스, 부산외대에 ‘스나이퍼’ 보안장비 기증",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tYVJkU2FuRDVRQzU2bW1MdlZEZURqSFNsWElZemNvOEZkSU5FeGxEOExuaDZtTHplREh6c1ExQWFCMTZjai0yX1JQWFFBTmdNWW45c0lKN0xZS0FJLVk2LURR?oc=5",
+            "date": "2021-10-08 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -10213,11 +10233,11 @@
             "is_today": false
         },
         {
-            "title": "[화요기획]윈스테크넷",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
-            "date": "2011-03-28 16:00",
+            "title": "시큐아이닷컴, 차세대 방화벽 SECUI MF2 시리즈 출시",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oMklPbzZyem1QVXdyWDZWN2VicEI1MW5lRWUxaFdIWEFuei1fZVAwTFVMMlVHR1NHOWFFNjhlQTJ1Z3JUendpMVdFVWpjRW5ZdGdITTlxeUp6R3NW?oc=5",
+            "date": "2011-09-16 16:00",
             "description": "",
-            "company": "윈스",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -10288,6 +10308,16 @@
             "date": "2007-11-28 17:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 나우콤이 흡수합병",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LcjFmNmk3MzJld1ZZNEh0c2stdmZjZ3FMakNZWXY0cTRmRzhGaXRoVG5MOEFVRFBZYkc2M2tvRUgwam1ZNzU3X3E0ZlZqNm5aZlpEb0RlNGxweUtG?oc=5",
+            "date": "2007-10-10 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -11031,6 +11061,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[더벨]한컴-에어코드, 신뢰 AI 업무환경 구축 맞손",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15ZWZYZG5GQllSTks2bDBtS1EtWTJWMXNfQjlPYll2YlY0QWQ5MndQY1hzdjFTSlE4SGlrMldzVzhrVTAtejY4Y2Z4OERqMFF0c3QxckdwZDJGOVFa?oc=5",
+            "date": "2026-06-02 13:28",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -46269,6 +46310,17 @@
             "is_today": false
         },
         {
+            "title": "비탈릭 부테린, 양자컴퓨터 대비 이더리움 로드맵 공개",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRExEaHh3MnduaXdIQVBPZFY0UWN5Sm1yVFpCeHF2OUstb3haLW5MYTFVYjlxbWJtLWxWWmlOZlA2d09NLUMwUEtHcVliLUUyMVY5SzJn?oc=5",
+            "date": "2026-02-27 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AX시대, AI 인공지능 에이전트가 만드는 새로운 표준",
             "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yQjNqZDVBWHpaT19pZUdrNy1BR1BmRkdyN29nZklEdXZpM2s3Q3F6ZnhZdUFyam5UNjM3QnZibVpyVkEwSzVxWlhDX05TN2VJazlz?oc=5",
             "date": "2026-02-27 16:27",
@@ -48788,6 +48840,17 @@
             "is_today": false
         },
         {
+            "title": "KT, 국내 최고속 양자암호키 분배 장비 개발 성공...초당 30만개 암호키 생성 장비, 물리적 도청 시도 원천 방어",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qdGJzeUVncGNldjlkSXlfdC1VZHpYbFEzd2RqelRlWWdZemxNREotTDBXbnU2QUM1bk9tVjl6UHZmMXpxZXdxWG5HNGVGT2htTEpOcDlVSEk3UjZSRWIxbEg1ZUpBMkZsdDA2ZnVxUQ?oc=5",
+            "date": "2026-02-03 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AI 에이전트 기반 금융 사기 급증, 규제가 요구하는 새로운 검증 기준",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Mci0yakN2NzBBU253b2NqVWtvZzFTWXFkaEtGbzc2TjN3aVp1eXl6QjFqUTROZDRlWllXM1JQUkxPTXFRMGNsVVRpaVdRN2tNdG45c2VtaXFNNnhUQ0F0cXoyT0pvQzBnU1E?oc=5",
             "date": "2026-02-02 17:00",
@@ -49382,6 +49445,17 @@
             "is_today": false
         },
         {
+            "title": "양자암호통신 거리 韓 5km, 中 1만km... '하이브리드 기술' 전략으로 추격을",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtUGdSVmF0SkRsWGFpTlo4Q2FMTFlEaThOYm51X3c5bHhJeEtSazFEZ1NoUUFsNlRET1FMUXJHQzEzcGxOdU5OVTlrVi1nekxvVnlyM3N2VWRkTWJIWk9kem5PWEhqZ2xKN2stT0V30gFzQVVfeXFMT1cwdVkxT1gzeHhFSHN3NE5kQkJrQkUwOGdFVWdEdi1QaTV0WW5hY19oRzFScE1OSGNYTDByZE1vTkh4c0pOdFd5OGxjVDJOTzNKdW5MX2J5TTlTem5oT3JqanVnbm1Ib0EyYVl5eVVNNlI3NA?oc=5",
+            "date": "2026-01-28 10:40",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[신년 인터뷰] 김영랑 프라이빗테크놀로지 대표 \"제로트러스트·N2SF 실증 성과로 공공·금융 레퍼런스 확대\"",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83Q1JJTDZ5ZjliQXZDb3dkVUVnemNZX1dfR1ZNWlpOOElZeGQ2U1Q4R2V1N1ItV1p6a0pjOFZDa2xVbG8ydWdySkd5UDMzUmJJZmF3TGY5MGxCaFd5ZjJySjRCRENXczYtRzJsWQ?oc=5",
             "date": "2026-01-27 17:00",
@@ -49597,6 +49671,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "증권 거래의 시조새 아톤, 이번엔 '양자 암호'로 금융권 판도 뒤엎나",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LNW8waHRjRHVsU1VwdGZDRG5MU2o5c1o3QVlkNDFHV3RYMjJSb19qTlNkSDZlU3g3aWdJWll0VE1JeE1LRVZDTHh4b0RDNU1zSUZ6c21fd1Bxc1U2SHlGNTFoXzJEZ1doRjlpQlNDeWhHRjjSAXdBVV95cUxPbEtDMmhJbEk2VXpoU3YyazkwQXZ1aTBrY0ptYVB4alptN19pMDJERmo5dVo5ajJGN3JDQ0JsOHlYS010aEJkSF9jdGt3NUUxaU9iTnhKbHFPYy1OTzZRWjQ1c3hjODRLRzJRTkt6Q0Y0ajZEVEZscw?oc=5",
+            "date": "2026-01-24 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -50279,6 +50364,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "'아이온큐 품 안긴' IDQ, 시스코와 제네바 양자 보안 네트워크 구축",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tOTFWdUxERmY5enJZRVpxRmQ2QXAzeVF4YWx5OEIzS1hmWUQydnhjVWFkQzRNTDlnMjFLUXAwRmY1N3dsZXF5ZURraVhQLXN6X3F4dUs0ZmdlWGxHbDg2LVhR?oc=5",
+            "date": "2026-01-09 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -51923,6 +52019,17 @@
             "is_today": false
         },
         {
+            "title": "연이어 터지는 해킹 대란 속 증시 달구는 '양자암호株'",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TYnYtWDBNaEw1MlBrLV9iWXo4RVN5emk5TmhrMjNVN0VjTEVCcWJodmxwdTBtNEp3UHFlMTdCaGVFczVsQlIyTi1Yc3AwTWZDNmtYOFlzbTE0NV9BTlNfdktMRzlHOXUy?oc=5",
+            "date": "2025-12-05 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[2025 AI 보안 솔루션 리포트] AI 보안 솔루션, 능동형 AI와 XAI로 진짜 AI가 되다",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LYWl6UG53Yzd1eUtjTXpsaHZwc2NWSEY1ajRpWXJEX3NqdEhuQVo2c0FTZlk0LUZCeDMyOHpKRTQ0NnF5RTRlWWpWa0ZCZEZwWlY2NnV0amxXRFdqZ2pXSmlKS2RXSDdjbFE?oc=5",
             "date": "2025-12-04 17:00",
@@ -52787,6 +52894,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "이와이엘·펀진, AI·양자암호 융합 '국방보안 프로젝트' 추진 협력 - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WaTVKMDBJVkdqLVZNZDRBOHZTU210VGJOeTFsRmwzZ2NBU01PbUZhN2xRdFhOMHpBRWhUVU5hR3owXzJLZkRUQXJzVDhiMXFpZGVSbDVfY0x6MWFobzNWNXVLa2poVlRMajR2Q9IBckFVX3lxTFB5NDViYnFSTzg0NHRUc0o5aktCdXhKM1Q3dUJVNkJscEF4VGUtX29WeURicGR0M0FhemxITmV3SFhHTG5Cb2hWcF9NRjQxRjIyS0RtcWRZSDlCLXVITElLdjVqcVkyQ29wQlJ5R2R5ZEFuUQ?oc=5",
+            "date": "2025-11-11 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -54024,6 +54142,17 @@
             "is_today": false
         },
         {
+            "title": "양자 컴퓨팅(종합)편 - 양자 컴퓨팅과 양자암호통신",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVlNQy1sMkI3YWd2LTRBbG5mTFdsdUNkcFhSNHZmRWxGb2MxZjRXZEFXdFp6WW5aV3I2N01KNGl4Mk56ZF9sb21pbmhmWW13VmVfVGFKQU5aRnVXWG03VkhKVXdLdzdKMk1iNll5aFh2U1FoVVNrZk5TRG4xX3U3MEVkOU5LS0JTZnc?oc=5",
+            "date": "2025-10-15 19:49",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "MS 센티넬, AI 에이전트 기반 보안 플랫폼으로 진화",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BWXFqeTFHejJlMkNMeUgtSWN6WW5zS2s4eUNwNmdlSWxya3NYYWpkUkZUdGpQWjdCLVJMdzZnOFJqN01yci05T3l2R0d0WXRFOHVob0FwS2ZYdXlsZm5teEtzdVVXZU0?oc=5",
             "date": "2025-10-15 16:00",
@@ -54607,6 +54736,17 @@
             "is_today": false
         },
         {
+            "title": "양자 암호 및 보안 기술의 선두주자?! 아직 작지만 강한 기업 아킷 퀀텀(Arqit Quantum)",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGdpWkNObnBwOWtSNG53a1BtSE1CdW5KWXB0UG83ZDgwWTM2N2NRdmQ5OVcyMHNPenY4dGgwZHVPR0lZV0daWDhKMjR3OW1qS1RBcnFhdU55NXVnT2RQS0FaQ3k2OGI1dGF2YmVLc3RpeG5FcjBVdndzd29iTmxlSzZ5RkkxQXc?oc=5",
+            "date": "2025-09-24 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AI를 속여 ‘몰래’ 유출시킨다···‘섀도리크’ 위협과 방어 전략은?",
             "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQU0VzZGxLdl90VDZSRGRYMnNkdTBQdXo3UjZiSk5xZDNVc2JQalNJQ0cxZmRCY1ljRWpTOEsyYUozdVRmS3V2RHhvTlJJQWVuSU1ncTkzcngxWHZreUkwbmQ2d3JqbXJaY1ZZOG05aS1tQlEyeDZ3dnJSX283ZUFYekhUdW1hWnNhTjhxTkVwVFJIc2FTemxuUGs5eXQ0T0kxaFRsNlhzQmtUTG5vQWlxWm9tMGF1SEhROU5jRVpvTzBpazFocm9DX3J0NjZqMXhZMnRJQnlYcEVaREJwMmFmZzMxVDRkV2gtdTJmMUxHUUItLS11UkdOcldDMVpoRWtaeUNDSG80V1MtY1pka1IyQVI2MDdYSUlfOUMwTXNuakk1cUwxeGgw?oc=5",
             "date": "2025-09-23 16:00",
@@ -54866,6 +55006,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "양자 암호 기술, 정책·수요·기술 진전으로 보안 시장의 새 축 부상",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEYkdWbUJRZnNGZzhjLWVmVkJGT2FOY0pnSTlJb0hhNHozOXpYSEYxdFNfVGthc1YxZjNZUndTUGJXNXlPdTRweUNUQlVabVo4clowZFFFeDd0QdIBVEFVX3lxTE5QS003Q3FidWhMdWN0UUhBTlBVQ0xfbXFkeFdJYjFOR01WWEY4bHBXWGNIWF8xeURzMjlyYkI0YkNzTWNDMWpxVFZaR3NqVS1pWFdrVA?oc=5",
+            "date": "2025-09-18 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -55262,6 +55413,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "류제명 차관 \"양자암호통신 테스트베드 확대\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUjRsVVY2N3RNal9iY3lFTFFNa0tBMjRaWmJLb1ZYRDBFcm51YW9vSm80X1BSelFlTTlycGxELWZqOGlEVU4tTkpOQ0JvSDByTWRZQXdn?oc=5",
+            "date": "2025-09-03 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -55960,6 +56122,17 @@
             "is_today": false
         },
         {
+            "title": "한울소재과학, 공공·국방 연구기관 양자암호 시스템 구축한다",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpQWE0bWZXYmMtOVBRT0tBSmxnRzF5NkxqenA5QjlZNVlaSDhZcDJFVEpveVpRVUVKZGRuQWU5OXRldHZESk9qSHBkblVYQ1kwTjJDTVZJc2R1Y3pIcXBOZTRSN0ROZw?oc=5",
+            "date": "2025-07-22 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "깃랩, AI 협업 자동화 위한 ‘듀오 에이전트 플랫폼’ 베타 버전 출시",
             "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQNkNTS0pDU2o2ZzZEaHpVMU9oZDc4VDNHVmg0TlpkNEQwb0YwWlVDaWE2SjI2THZjY2ZSSDFsZFc1M0dFSTFNMWdHVjN5eXEwaldRcVl4d2VTaFg5TktONVMxTG1YTHFMaTl4bDdtY042MTkwV3FuajVmRDVtV1Y1UkhIakc1dmN6SXRuQ25nNUFzRlhNM1h1WlctRk4xTjRhcmFlRDY5ajhtOXU3dl9HZ3QtTElKNHdIaTVUVDVPTVNOTVZ1cnhHNWRISFY2OWtjSUVCQ3gxaTVyUF9iNHM0dTdlRmZMS1NaZjlUTjNWSDFMN2dvRTBZcGZGcDQxUHlHb055VXYtV3k2RmYycXdZdnJCWGJsSHBPLTMtUE5ubjl1QW9MV1VSZmVGbEJ0NDFxZlVpSXJuYWRwdC1FLUpSRVhkYno?oc=5",
             "date": "2025-07-21 16:00",
@@ -56092,6 +56265,17 @@
             "is_today": false
         },
         {
+            "title": "인도, 자립형 우주 보안시스템 구축 박차…양자암호 위성 개발 본격화",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NcjNpTTI4bDZNLXVmQzE1cGZlSE14SXdaVzRMX3NXdlRhd3FDejlxR1VmTVBNbUFhQURJRDNuSmNxVWRXeDV1TTJPUnhvU2pEbkRtYzRBRWkzTXU4TE5UYkVKeS1VWmZkRnEwRUNSWQ?oc=5",
+            "date": "2025-07-09 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "엔터프라이즈 기업을 위한 AI 보안 - Trend Vision One™",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wRnNZelFfUy1XMzg3ZU9jWUJGOUw3Rlh2bmFuYzZQRmljQS14alFKU1lqMDlUZ1lKS3VySkZ6TFV1cWRlM2pnTTZ2ZldaOC1RQVU1dmM3WS13cWJ0R2NRQ0k2Ujg5RW11MWhzUEJEZy15QnpSajZSaEtIYw?oc=5",
             "date": "2025-07-09 09:14",
@@ -56164,6 +56348,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "경기도, 자율주행차에 해킹 방지 '양자암호통신' 적용 실증",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fcW50aVktYnh1R0ZfeWdMdGdOaTRhZUlTMXdqTTdwdnE1UmQ4UWZVQ3JNdWZzQUVxZEhLUkM2MlhMRTVZcll2S0plbU5vdW0xZWtkRV9pZ19zbGfSAWBBVV95cUxQeEVpWF91OTRVM2oxYktOclh6czE5UDRCTmdVRW1NOXZiNlQtb09pbzV1M3pQQnRHV0NwcGdBamRNVmZpS3ZxekE1VmE0aTYxeW02T3lvVF9FLS1JZFAyOEM?oc=5",
+            "date": "2025-07-01 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -56301,6 +56496,17 @@
             "is_today": false
         },
         {
+            "title": "KT, 순수 국내 기술로 양자암호통신 완성",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkUUhCWnF5ZUg3MjNCaGl4ZXZYc2wyWVpjdk13SVJEaHpmbnBZd3pCSUJOQ3lDclVoNW9RMU0yTDNDZFVtc3hQV1MzUFNBeTkzUlhhNTZ3?oc=5",
+            "date": "2025-06-25 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "“생성 AI를 오케스트레이션하라!”",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNU0Nhalc0OXVDTG0zV2lwd0pPRXMwUU42cjhSQXNYWVNYNlY0S1hLR3lob09zWklXM0lhblNyTWtiRXgyc2dnUTFGcnRqdw?oc=5",
             "date": "2025-06-24 16:00",
@@ -56329,6 +56535,39 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "‘보안 새 판짜는 양자암호’…이통 3사, 미래 기술 주도권 놓고 각축전",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WSDdUMXpVMXR2dnI1c09VdHBxNTEyX3pnV0lBeUpJTktkTGZqMGUtT2RsZGtEbThOcnliMFRTWWFjMHpZdDlVLWFiY1BidnhFSGFfaWExeWJobzhYS1A1Z3M2aW1ZTWFFaHV3ddIBcEFVX3lxTE9QM0FzUjRjdTJTdnU0c0M5Skw0Wk1ON21BUkQzZW1mejRxa3ZfTlJETnVGTE4tS3Q5YVVTdjE0R3REd0JzYkNBdm52U3J2UWxuWE5XdTFtR3g5NzZJUE9FbUh3Z2NOLVZjeUcxLXdhOG8?oc=5",
+            "date": "2025-06-24 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KT, '퀀텀 코리아 2025' 참가…양자암호 기술 선봬",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pR09zRlU0SGZFeGVEdk9HMXhMN3lEQjl6VE9hcVE5NG1HRTZRZkdfV3VwUjN2VkU1TWpUUERsM0s4N1htRjRVWEo2X0FLZHJDUFRnZHhn?oc=5",
+            "date": "2025-06-24 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KT,광케이블 해킹 잡는 ‘양자암호통신’ 시스템 선보여",
+            "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE11Y2NyYUJNb2xYZWRFSy1ldHAxWDFnWXRXWE4yOWgzRF90VS1nSjFfZThsVEl4WF9SYUhIbVdyUjE4Ulkx?oc=5",
+            "date": "2025-06-24 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -56774,6 +57013,17 @@
             "is_today": false
         },
         {
+            "title": "[사이언스 카페] 양자 암호 통신 선도하는 中…\"양자컴도 뚫기 어려운 암호화 기술로 1000㎞ 통화 성공\"",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjktYVpnemIxYXRiWU40TnNMRzIyNjdJNFpZVGNBX1NiRjNQajNScDhkbzRiS2hDMGxxaUdwS2ZOc251WmxZWmJKMXdEb0Ixd3poVU93elVxb3ltX0tCMjhOV3lNMXMyTlFERno2TUlHa1AwT0ZWeVY0cTROemR2Rk1ydnpENEZJVy1GZzVn?oc=5",
+            "date": "2025-05-19 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "OpenAI는 AI Agent 열풍을 촉진하며 이 기사에서는 Crypto AI Agent의 개발 궤적을 요약합니다.",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jNTRrOENGOEw4QmJUOGMtbmMtRDhLMUxGd3JHMDE1bXdoWnh5c3g0TThqT01kYnJJcVB2UTJEVnBacUJLSlFMVk9oZ0gxV3ctUk02SERCYjlSWG9xaDBn?oc=5",
             "date": "2025-05-19 04:24",
@@ -57049,6 +57299,28 @@
             "is_today": false
         },
         {
+            "title": "상용 통신망에서 고가 장비 없이 양자암호 254km 전송",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WY1Nnc01jX2Fjd0pXTlk1S0dzZ0pBWmJiVGR2cmRqbkVrQW1lUWNWc0FoUk9WSlk3VDB4SUx6Y08tMXZrcm5KNFdtR1FBM1lUcm9qMg?oc=5",
+            "date": "2025-04-25 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "상용망으로 ‘양자암호통신’ 성공… 검출기 비용 100분의 1로 낮춰",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JOHk5cXFDMDM2dU0yRzBDYjdYVDBfLVRyUzFCNVYwenpDdnJUOS1ZVnRPMjBtZDZtNVMxVVdsaTV0OTZ5emYzRmVPV3pWOTlJeURUV2YyT2VMQVE1S1hSVzdzX2ZmR19zVmtCbjR1MNIBZkFVX3lxTE5qdEtESnNGN3BTV2xHSlo5WGVQT3lZS1BweEN1b3RzZDJGUXExaGM2cHd1S29rZUQzMnVvVDFra25qQnRoZjZ5d0Y3NXBDaFVkVnItZEhqN2VMdndqZHd6YldHWmxBZw?oc=5",
+            "date": "2025-04-25 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "보안 검토 자동화 ‘AI 에이전트’, 기업 신뢰 프로세스 향상",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaaDBWcHVsT3hTejBkZTZqWXRLdV92Q0h5eWtNYV9RcTJfNUItTUVYTWRxUzJsaW44dTR3TXc2SVIwbC1PaWM1M3J3bUtGSjY1T2VZM3ZjeUV6dDRYT3ZXYXlLTDdhT1ZKM3c?oc=5",
             "date": "2025-04-24 16:00",
@@ -57302,6 +57574,17 @@
             "is_today": false
         },
         {
+            "title": "양자 키 분배 신뢰 노드에 후양자 암호 결합한 하이브리드 방식, 실제 네트워크에서 완전 보안 입증",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SZWt3c3ZsRk50dU05YUJ4UlJYODJCZWxYbnJpSlJPX1NNRlFZM3VraXltaGRiNmNiTXdTckY1Tm53MTM2SUxDZmMxcXVvRktlWnE0b1NrYkcycWE4U0V1eWdVSG9oV1ZfbUNKSVBfRQ?oc=5",
+            "date": "2025-04-04 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "위즈코어, 국제표준 '산업 AI 인증'으로 기술 우수성 증명",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SZ0hKNlJPNmstNHVMYWp3V1pIRVNwZS15RWFHbEVzLWFCZVZvb3JmTkNCUlZ3UFBwOFYwei1yMEYwdkRMZjlHdlVWR2JPQQ?oc=5",
             "date": "2025-04-03 16:00",
@@ -57429,6 +57712,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "양자 보안 위협 대응, 포스트 양자 암호 전환 본격화",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tcUtIMi0yNEd1enRLMWN5SDVlclNRVHZ6eUlYYWxiMFQtT3llcHpXZGFhZnJwSlBJdXBjV3F2T0stTWdFalF3aTF6TERYR2FQZWhNS2JHN0tFaGREOVJDQkZzNTdNS3NzenVWYWFMaw?oc=5",
+            "date": "2025-03-21 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -57594,6 +57888,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KT, 하이브리드 양자암호통신 5G 유심망에 적용…국내 최초",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CNWlZakNnN25KaTV3RmtlS3I0TTBibWstdElCdjVDQ3RuTE45UjRHS1VfZ0pVcUU0NUllUmdTQnpucFp1eGwtbUN5a2VJc2xRWjVvV1N1dlRvZ2fSAWBBVV95cUxNNllDUHJObUFZSkxBamZQUzI1NHBKWE91bU5FWXctVWQtVFVTWngzVGdINGcyS1lKMWtPVXRoNWc3Sk5pTFlQX3UySmRLQzNOb252MXd6NnV5dElaeVNCNk8?oc=5",
+            "date": "2025-02-26 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -57775,6 +58080,17 @@
             "is_today": false
         },
         {
+            "title": "[투데이 窓]디지털 안보의 절대 방패 '양자암호통신' - 머니투데이",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LVThjTVpsaVd1Z0U5U01ucGlOT1IwRkVISFpCTy1MSlFPNEFqNnk0YlBYVUFrTzZGQ3V6YzU5VlJzZ0NKcnhJOWlJQl9TcTg3ZkZjaGRVSjl3WUFwYjJGQzhDSE9JekRaR3BZ0gFwQVVfeXFMT29YaGM0dW9uRWYyQXJ2QTZmU2RuUTd1WVVybXd6UUpKUjJMVUc0bmJQVXQ4TVY3dmhBMnhyaWpqRzE5TnRVSjJYQ2FteEhVa2Q1OGI2dUw2VVZzSDMxV2UybGdRRXpjMjM5U3pldFlZbA?oc=5",
+            "date": "2025-01-19 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "엔비디아, 안전한 AI 에이전트 구축 돕는 ‘NIM 마이크로서비스’ 출시",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SGdSNXl1QkJiTmo1M1otdHQyUE1HaFk0TDI3ejZkaWhMTnEyd0dUbk1keHNDd0FwUFlReVV4andYeTFTanVybndsbEp2eW1ZMzhIRW96dTd4eGJ5TWhoSWNsa2xGeWww?oc=5",
             "date": "2025-01-17 17:00",
@@ -57885,6 +58201,17 @@
             "is_today": false
         },
         {
+            "title": "[양자역학 100년] \"해킹 불가라는 양자통신, 표준 선점해야\"(하)",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzOFBiZy0wbWVKbjFPd21LbG1NLXhkSG1yWVVNQmp4SGlNU3BTc1M4Tmp5M0paNXNKYVgzeEc4WFhNYl9MUkZiS2pjc21RdXhZd3p4SA?oc=5",
+            "date": "2025-01-07 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[서치 e종목] 지니언스, ZTNA·NAC 수요 증가로 2024년 사상 최대 실적 기록?",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54WjdzTjdib29NdC00UmpPOFJRcDBRUDZ3a0tuZHVMcGppWTJNOGZpbGp1X0ZVXzR4M2ZSR2xJUk5tZ2RLVzRUTFlydi1EeHRndUxMUExBQzF0a05QdTc2MDNudWNVWXVPR0NV0gFvQVVfeXFMUFVtQTFSTXJ6Y1pYS1puRzRLaFVqaDdxMFlTNGlpRFctV3BuZm9YSTVrLUl4NmdsLTFScjBZUXk2UlNDRTlHUW5EZWVIZk5mS3dsSkkzVmVwd1VaNWdiWHpnQWVrRmFpa3BrRy04VVJV?oc=5",
             "date": "2025-01-06 17:00",
@@ -57946,6 +58273,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "'양자컴 막는 방패'...이통사, 양자암호통신 상용화 속도",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04MjJVeFhYa093X0lpVjBtaE1oQlY4SG5ZQlZEUkFZODVOaWtHMlJDUXE2RnE0U3hiZzdQQVVTRDJPRWpjYUFlT0J2Y2dHdw?oc=5",
+            "date": "2024-12-22 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -58171,6 +58509,28 @@
             "is_today": false
         },
         {
+            "title": "SKT ‘양자암호원칩’, 국정원 공식 인정 획득",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Yc1JVX0lTSjUzY2NqT3o0cHc5b1V4YlRDczlDYkJ6SUZpOEdtdzhDbGlGeUdsT2pJeFIyZG1DTVN6RmNBbllFag?oc=5",
+            "date": "2024-11-13 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT \"보안 칩 '양자암호원칩', 국정원 공식 인증 획득\"",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9maVZhMlhyYmRHQ29LTENER3p1NVZMTDh5SEtva2tuOWhFRldEZk1UV0FiY0FDb2NHVjdaN2dxcmhBSkM2NjNPU2kwdG1CcDhjbUI5c0NyRUFJa0nSAWBBVV95cUxNU1lZTEhRRkQxZEdqaVpIWGJMZ2l4YWhYaGRIWXNxanowQ0FzdUZtQl9yN3BGV0tnNm51VTYxOTQ2NEw4SUhka1BpaWZLbzZtYXRLVFRMU3hOUFp0dnlYcVM?oc=5",
+            "date": "2024-11-13 17:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "(SK 'AI 서밋')김용훈 AI 총괄 \"AI 에이전트, SW 새로운 표준 될 것\"",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wWHJMT05Kd3FCWmREeXlXQTZoMTM0WE9NM3JBU2FBUjdjdzBmNWJ5NDVFQmgxb2ZKc05CVTFQRndyeHNXSnE4MF9xMnNKczlWTEdDTVVhTEpraHBVNTRiSw?oc=5",
             "date": "2024-11-05 17:00",
@@ -58221,6 +58581,28 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "코위버, 국내 최초 1G/10G/100G급 양자통신암호장비(QENC) 국가공인인증 획득",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YZmR5c3BOd2QzVVRYVS1KSTRQcXd4UFg0aXVxdW9xRnloOUJtbFJNWGRpR2E2VUlMbk1sSEI0NDB5LVpXbW9RSzFjUm5ZQQ?oc=5",
+            "date": "2024-10-22 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT, 양자암호 양대 기술 하나로 묶었다",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15WUp4eUtIN216b2QzWmhFSG16UEI3eFZYNkxEZFdiMHh0bm5oT0lUajZSMV95eGNvcW1ieGVYQ21IM2FVTlQ1aA?oc=5",
+            "date": "2024-10-15 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -58303,6 +58685,17 @@
             "is_today": false
         },
         {
+            "title": "컴이넷, 양자암호 CCTV 보안 시스템 출시",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVYW94eGUxbUppUkdvdkRSQjFOMW9QQkM1YWtDcVp5NjZmdHZOcmM2eEpIYXhEanRibVZwQ3hiLVdGdkNpTzFTdWpxUW1zWGZNbFlvMjJRbDZHaTNBelp3?oc=5",
+            "date": "2024-09-23 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AI 기반 네트워크 위협 탐지 및 대응 솔루션 샌즈랩 'MNX'",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5walR4cEtsc0tsaWJEcDJNRkVXUUNuVHZtSlpMMFZSbkJYUU9Ndk41VUhTeVRVQjAwRW4xc3pSV0VaM3FnVlpMbmJ5VHJtdw?oc=5",
             "date": "2024-09-19 16:00",
@@ -58358,12 +58751,45 @@
             "is_today": false
         },
         {
+            "title": "케이씨에스, 차세대 양자암호칩 'Q-HSM' 출시…양자컴퓨팅 보안 시장 개척",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50bi1iYWJfYmwxdE5TYW1ESC11ek52M2VzdFg3d1Vwc2RJSGV3a0FGNXA5YXRlaHhtdUJmODJjNW9ObU5IWWRvdzlRazJldw?oc=5",
+            "date": "2024-07-17 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[VPN vs ZTNA①] VPN 취약성 부상하며 ZTNA 채택 증가",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tMHNyaEw3MlhoTEo5Q0VKbm9GNXZjSWJycDdPWWZxd2ZjUlhmdFdWSjFWaXlmRFlhVlZnMmtnT2U2TUF3cDBMS2JpclI0MkN6NkNmTDVsRnRHUTNwbW43clRScm80WHR3UkJNeA?oc=5",
             "date": "2024-07-09 16:00",
             "description": "",
             "category": "제로트러스트",
             "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT, 한국 위성통신의 미래 지킬 양자암호 시스템 개발 나선다",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sX3JTSmk1WXNHQzFKLUdBOXVmaGxtaEdleFhsVWpmOENybnZNM3RZT296YkxnUWhBSVBmRHY3X09lNUlxb3Y3cw?oc=5",
+            "date": "2024-07-02 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT 컨소시엄 '위성 탑재 양자 암호키 분배 시스템' 개발 수주",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02T2xOTF9mSTlSbUdtV3M1TEQwQXNRUm96NVRkUm43UXMwTUNneUdZR2poa21pWTBza21wLWdWSzJiRkJaSnBhOUprTEg4VWlpQXhEWFFyMF9pb1nSAWBBVV95cUxQRWRTSTBpRnNlOHhqNzlJNGNlQWMwcXR4VlVic3V5TnpUd3p4WmpHMzcwQzdhSnI0eklmdjJIckV1bm9fdVMwYlFQU2l0UWt6aUgwNVFwOXJpUi1iN3NjR3o?oc=5",
+            "date": "2024-07-02 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

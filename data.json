@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-02 21:00",
+    "updated": "2026-06-02 22:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -10263,6 +10263,16 @@
             "is_today": false
         },
         {
+            "title": "[화요기획]윈스테크넷",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
+            "date": "2011-03-28 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "나우콤서 분할해 보안전문기업으로 돌아온 ‘윈스테크넷’",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56eHJmb1R4UE55c2VrM0hKaDZTM0VpYUdEaVowZy0zc1hHaDFiUzktS2lERFE5QkcwMUpDckQ2V3dVamNtN0g4WHJDS2dna3NPMTFRZnJsVkw2UFRodkE?oc=5",
             "date": "2011-01-10 17:00",
@@ -10434,7 +10444,7 @@
         },
         {
             "title": "퓨쳐시스템 _ 대상 VPN 사업 수주",
-            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3N05kLUE4R2FxM3pzMzluZVFlWG8wczBram9pNWFhUTB3alhDZHJrcjJGc1VtZGUtNWFzVVVVZEltUWx4bzhzVXlfUVQ2T0FORjBFdnhiM1VsQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00bTNRRWM0NzZlWm1xWmRNakt1eFRaZXNXVEdVaUNOb0FkMkdialhhd1o0TlJCbHFTa2l3WUZtdHFQMXI3RjBPQUh1emdLbG5zbldvZzZrdXFSRUE?oc=5",
             "date": "2005-04-18 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -10594,6 +10604,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "세이프 프로 그룹, 미 육군 AI 위협 탐지 키트 수주",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RdFpDZDBlVF9QV0JOZWRTTTZCbGhRUmdJLVBXMkF3NFd6dE9pMkRKMnlsX21ad0YtR05mazhrSUVpcHZMd1BBbG81Y3RjMTBCVlA3elJKVDRuWXdNUVJiWnFlYnlNMjdzZzZ2ZEFsUVQ?oc=5",
+            "date": "2026-06-02 21:58",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "스노우플레이크·앤트로픽, 기업 AI 발목 잡는 데이터 보안 장벽 허문다",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HdW1UM293Rnlvd250SEY0QjhBZ2dCajBjcGpwdWExVjBGUjVick1EQ0FaRGJybkt2NVZxRTNFMFRVV0UyNXItX1JrV3FtLU1JR2VmUVZ4NW1WMnU4aG5wRjlkN2xYWUxV0gFsQVVfeXFMTWRwZXhYazcyQ05CWDhTdEFWczluV0ZqSkkxblFZR3pVdG4wQWNLNkV6d1pVWDBLa3F6MnFoM2M1MEJfa3pkTV8xdW1qc0xfSXpjSVpyUmJNWlhrVENMVUxPdE5Pa05HTW96MmFY?oc=5",
@@ -10942,6 +10963,17 @@
             "description": "",
             "category": "AI보안",
             "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "스노우플레이크, 앤트로픽과 거버넌스 기반 엔터프라이즈 AI 확산 가속",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aRjk2eVpOaFhQbUJmcDZMN2xKTXA4RmRsTGRoUnotM1oyS2RRMXdSUHd0QUstQ2VrZ1ZUdkpDSU5zbFZiM1pjQ05ac1dVRW5OVVdWSWRrZ1RMQi1GYm4tOEVnQ1JZWlJ5?oc=5",
+            "date": "2026-06-02 14:29",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -34115,6 +34147,17 @@
         {
             "title": "AI·SaaS 시대, 방화벽으론 부족...아톤 “항상 검증해야”",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SenFqRVN0MGc5WkJNTUxxRzc0NzhuY3ZOeXBIbVRSYXBpQVkzNHdoMlZXbzViUU1ENUNNdmF4UW9kdXZxcnZ5RVVxdWk3T3A5eFJtVElkSVZFcHJJY1B4aXNHQ3BDQQ?oc=5",
+            "date": "2026-05-13 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "제로 트러스트 창시자에게 직접 듣는 ‘5단계 구축 전략’",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tSlAwQ2J2dzFfX2ZjUko4cU1ScWQwdTFENFBjcXR0QURMRDBtcEhBMXYtS2RNME9TWjR2Q01UaVVHUV9aN3JQaXhtSU5mSGc?oc=5",
             "date": "2026-05-13 16:00",
             "description": "",
             "category": "제로트러스트",
@@ -59221,6 +59264,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT, 블록체인 DID기반 모바일 학생증 서비스개시…“국민편의 서비스 지속적으로 발굴예정”",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12NE9RMEI5Y2E3Nmwxdl9nMDdCNGQ2Y1l4bEpVekYyYk5SUDBtOEU4S0hxaGN6VTgteUlZX0NCUUxILVZNNXVjSGhfRnhLS253eFZJNVlyVkxWT0tFTDRualJxQWVHREFfM1E?oc=5",
+            "date": "2022-08-16 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

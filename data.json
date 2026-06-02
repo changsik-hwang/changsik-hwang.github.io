@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-02 22:00",
+    "updated": "2026-06-02 23:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -10604,6 +10604,28 @@
         }
     ],
     "trend": [
+        {
+            "title": "Netskope, 기업 보안용 AI Command Center 출시",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOM1M4a2dDelRna2RnTFp5ZmozdU5iN2xPWURQTS0wdHdiZ2hVazJOVHNrVEl3WWhVVkpsdG85c2hrRjdzNmQySHlyTkxOZ0FmRE1XcGlxT1lEcGJ3Tkl1NnhWRmNNTTE1c0tVZ1FOQlI?oc=5",
+            "date": "2026-06-02 22:11",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "스노우플레이크 \"한국, AI 도입 수요 가장 높은 시장…정부 역할 높이 평가\"",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00eTRyOFpqNFJTWThNZUZUaHBFSnAyWTAyWGRWRmxsamtpMzUtREtIYm9JSExObnY0ZTh5UnZvSVBDOGJIa0RPRC1SQ2ZocEI0Wk40?oc=5",
+            "date": "2026-06-02 22:01",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "세이프 프로 그룹, 미 육군 AI 위협 탐지 키트 수주",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RdFpDZDBlVF9QV0JOZWRTTTZCbGhRUmdJLVBXMkF3NFd6dE9pMkRKMnlsX21ad0YtR05mazhrSUVpcHZMd1BBbG81Y3RjMTBCVlA3elJKVDRuWXdNUVJiWnFlYnlNMjdzZzZ2ZEFsUVQ?oc=5",

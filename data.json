@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-03 19:00",
+    "updated": "2026-06-03 20:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -9803,6 +9803,16 @@
             "is_today": false
         },
         {
+            "title": "'삼성SDS 보안 자회사' 시큐아이, 이익률 상승 속 현금흐름 '뒷걸음'",
+            "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpd1ZoVG5aRC0yV25KUThZWXZvd3R4OVVSc0VkVTZNWnBXdV9mejR3R3BTMTgxNUFSVndrTGMzODFqRjc5SFE?oc=5",
+            "date": "2023-04-17 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia™ ITU·ITM 선보여",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FMDJ4TVV1TWVIYnBoTWUwNG90WEowWHd4VTB1N3dhU3J0dGlGRU45QjhfU0M2dER2Y2pJY21oaVQwSHhSSW1FYlZiakRhdw?oc=5",
             "date": "2023-04-05 16:00",
@@ -9868,16 +9878,6 @@
             "date": "2022-12-13 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[기획]시큐아이, 11년 연속 네트워크 보안 1위 '절대강자'",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lOXFOV015MnJlNkZFcmRLQVl5emV5RFJzMkZZVVNHMzh6d0RCX0hjMnRndDVJV3RaeGt4SFZlbXZMTkxDb3RxNWpoa0Rxdw?oc=5",
-            "date": "2022-11-22 17:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -10795,6 +10795,61 @@
     ],
     "trend": [
         {
+            "title": "팔로 알토, 호실적에도 프리마켓서 3% ‘뚝’",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXMEtaZ3dkZ2M0RTQ1TTdYVTdINjNYb1FVY3o0a1ZTMThPbHJMOHNvVkU2V0F2UnBpUE51MTNLTlhUdE1zbWZvQUUyRXhZLUVYS20xYXJzcVgzODFITHNZOHdWOEc2eXQySVQyVmZWeWxuaTQ?oc=5",
+            "date": "2026-06-03 19:44",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "앤트로픽, 보안 AI ‘미토스’ 협의체 150곳으로 확대…삼성·SK·KISA 참여",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tbkx0Tl9LTmFTSG5YQ2pwRmpMWTR0czB4TFdNSFJxWm9YTTBWTjY5WkxUMGRteDM1blkzaDZfZEIwV3R2N0RwRXJJSnJVME9QWmJJUWpveWkxNjZ3ZHFRNHBESXl6a2lCM1owV2RaXzAwQQ?oc=5",
+            "date": "2026-06-03 19:29",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[마이크로소프트, AI 에이전트 통제 위한 'ACS' 오픈소스 표준 공개] 마이크로소프트는 '에이전트 제어 명세서(Agent Control Specification, ACS)'를 통해 개발자들이 AI 에이전트의 행동 범위와 규칙을 일관되게 정의할 수 있도록 지원",
+            "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9FMDd0Y0NGMVRSamhUODJrZ2JqVWQxTVlGQnBXSzE2dW9odUR1YnM3RUxzeVNIdFFRWU03dlJNY0s?oc=5",
+            "date": "2026-06-03 19:05",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 표준",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "美, AI 모델 출시 전 보안 검증한다",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBma1ZCNmNWS2lsUDNWdDRHZVpueEsxV2Z3N1ZGelg1UTUxWWN6bzNJYkZpVDlvWENMYklwellFSWxDWkFKLXRDUUZrbVB1VG9IZzFXOE5qU1YxZ9IBVEFVX3lxTFBlTko5UWlNd1JueUt2TUxwU2JiZVZxM3Bmd3NOTFBRbTliTnZoM253Y3ZPZjhvdUVNMGh4S3pnTXNEb0VZbWJwRU9jU0xHM0J0b3c2eA?oc=5",
+            "date": "2026-06-03 19:04",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[헬로즈업] “AI가 공격을 시작했다”…보안 전략 다시 짜야 하는 이유",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tUXFUOXpjclRfNkw1NWdNUGhWZlBaZm9QT2ROZndGc2ZyR09YdDc5X2ZNUmlCc3Zkc3lBUENIMVJyUzdKN3cyckdlQVNFYkZDeE4yRUZNQVRhdndZOURB?oc=5",
+            "date": "2026-06-03 19:02",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "트럼프, AI 보안검증 행정명령 서명…신모델 공개 30일 전 정부 검토",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwWjlwd2tLYWtFbGM2VlRJb0FwOFZtaUpuTi0xWTU5TUFaNXZkVlpnN1FHc1J1UUpYX0QzWHdfMTBZS2VFbkplWmlQem5xY0l5dkZ3VjBfS3ZhdVJLWTdqYXRiSTFoZlnSAWxBVV95cUxPX0J1c3Nqa3dGLUJFOW1ySm9XWUlkdGxCZXM3dTZyV1U1RW5fQ2dzeG0wOV9EV1loUllwWFVHNzE1bkgzVzlpYTViVG8yd19hSlR6SmRGd0k1M3Y3bGdVZkdmMXRxZVVVT2MzVTk?oc=5",
             "date": "2026-06-03 18:02",
@@ -10933,6 +10988,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "엔트로픽, AI 보안망 글로벌 확대..韓 ‘미토스’ 접근권 확보",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Tby1hS253b0ItdkFja0tWOXEtMTBNSDJSQzJDbnpLQkFEdUNwVkh4M3hjYmRBSTdHVm9JbXBuTDZEanhsYnlqdWI5STcwQzBOZVE?oc=5",
+            "date": "2026-06-03 15:07",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -42134,6 +42200,17 @@
             "is_today": false
         },
         {
+            "title": "초거대 AI가 사이버재앙 될라…양자·보안주 급등",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MQ0lNS0swOUZMWDhUSEZWR2R0NWgtWHJ5QmE3U3djMS1rRHBPMG5jUUo0Wlo3enIwWnAyUjBtZ3VOT0piZ2lScXpGUHZKUXJqMEE?oc=5",
+            "date": "2026-04-14 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "최악 해킹 사고 1년…AX 시대 '제로트러스트' 보안 패러다임 전환 서둘러야",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCcU9sTVZXdlBFTVdkY2hlX0IxMGRhYzJ2X0UwakVic2pOX0s5Sk9PSWMzVkdCSEp6OWxVQTh4WVBpWDhRVHpRWkRiaVpfUQ?oc=5",
             "date": "2026-04-13 16:00",
@@ -64345,23 +64422,23 @@
         "2026-06": [
             {
                 "keyword": "에이전트",
-                "count": 47
+                "count": 50
             },
             {
                 "keyword": "자문단",
                 "count": 32
             },
             {
-                "keyword": "민간",
-                "count": 30
+                "keyword": "미토스",
+                "count": 31
             },
             {
                 "keyword": "앤트로픽",
-                "count": 29
+                "count": 30
             },
             {
-                "keyword": "미토스",
-                "count": 29
+                "keyword": "민간",
+                "count": 30
             }
         ],
         "2026-05": [

@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-03 10:00",
+    "updated": "2026-06-03 11:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -10533,6 +10533,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템, 한전 배전자동화 시스템 VPN 구축",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92SVRzczEwdE5lcEV6ZWQ5MDktTFhZdVZKNFFaZFppRDB6UnV1U0RLbDFWVl9pOF9wOXVlQ2NVZDhmUVQta2VJS3hvMGdweFpRd1FNczA4aURRRDlCdjh4UF9xTjc3QQ?oc=5",
+            "date": "2003-12-20 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, KISA VPN/방화벽 구축",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01N1VQUmt2cUR0ZTZsU3E5eUpkdWItbGR5UldIcEtjcmtoOUVqcGpMOFV4VC1YQWhaQVpRbl9ERDhEX2pzZHBCZEY3amhYSEdLUk5kLWpvSWpSSlcwb1RiUW1hNF9QZw?oc=5",
             "date": "2003-12-06 17:00",
@@ -10654,6 +10664,72 @@
         }
     ],
     "trend": [
+        {
+            "title": "MS, AI 에이전트 개발·운영 플랫폼 전면 확대",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNDl2UjFwXy1LTEtFYTBsRnEwbW8yYU5HcklnVkdZbjFneUhhUk1teG10ZkF4eGt3NFZYSERQZFVzUFlPT21haUJvVWs3dTJ5SzZYeTA3VGNfXzlEeXFsN1RObERON2V1eWVn?oc=5",
+            "date": "2026-06-03 10:46",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 안전, 윤리 넘어 `사이버 전장`으로…美 정책 무게중심 이동",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JR2FEeEc5a3RHNlJ0QVJoejdRQ200MkJISmpsOUtHdWQwcVYtY3JEU0tnLWtBbjJmRXU4a2NiaHRLMTBTRnpzNXVBaVNhRm9FZFVwdEJOSV9JSW1teW1scmJEeTU?oc=5",
+            "date": "2026-06-03 10:31",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 모델 출시 전 정부가 보안검증…트럼프, 행정명령 서명",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5VS0zOUZuMUVDRkpMY2xCdWxuX0J4TVlQdndSdl9QbUVJUFp0bTJ3WUxXc3FXajN3bWlRN0V0LW9TSi14QU5IRkRqLVptZzg?oc=5",
+            "date": "2026-06-03 10:28",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "한국은 왜 앤트로픽의 ‘글래스윙’에 합류했나",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5RnBHNXA3alNUR05EUXNLUWtwdjZnNlpRM0psRXhRMnRaU1J2WWVNbElvTi1XcHpaTDZ1blVTd0NjRW5RZV9jN2VaNGlacVRxZTc4RnpmOHBBUkJKNVZCcFRDREoxcjdE?oc=5",
+            "date": "2026-06-03 10:11",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "트럼프, AI 모델 출시 전 사전 검증 도입…검증기간 30일로 단축",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XVlhBVEl3RVJUN3o1blBoTHhrYmtWS2xROUV4TUVZNi1aNlVLT0NRQTJkOVYtR2lsX0IzOTV4ZHJaUXdRdllrX0p2RUd0Zw?oc=5",
+            "date": "2026-06-03 10:02",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "스노우플레이크 \"신뢰가 전제\"…엔터프라이즈 AI 거버넌스·보안 기능 대거 공개",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lam9EdWk0VGwwRm83QVoxRmRsR2FGWmdKb2RhdDFCOGFHb3Z6YV9LZjl5Uzl6RWtDdlZ2V0VEWDQ2TklqdmxocHpRSUZibEM4QW1nVVItRHRIZVR1Zm44ZG00SE5DWUFRV25oMg?oc=5",
+            "date": "2026-06-03 09:57",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "스노우플레이크, '호라이즌 카탈로그' 업데이트…AI 보안·관리 한 번에",
             "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEUUNkeFZ3UkF0UWxZY3R0b3hablpaNHdCdjBfVF9kbWZGa2xOZGdEUFBsR3VQZjNXOFR4R0VFQzRYV1NKSk04VzM0el9iUEU?oc=5",
@@ -13964,6 +14040,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "AI가 공격하는 시대, 미토스 쇼크",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UV05rWURuT2dXNERwR2dDVXQtN21iSmxZTjNrdklYeVZ6ckFKYWowLWNWTnlfZnZxSnl6QjF6a29LdS13VV9rTXd0a3dLUE43RXpkX0J4VFpoZ2docXpTaHFyVnphRkdC?oc=5",
+            "date": "2026-06-01 10:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "SK인텔릭스, 웰니스로봇에 'AI 이동형 보안 솔루션' 탑재",
@@ -42973,6 +43060,17 @@
             "is_today": false
         },
         {
+            "title": "아톤, Sh수협은행 인터넷뱅킹에 양자내성암호 솔루션 공급",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83YklpcEQ2c1dwMDRrZG9qbnVMNDZFYWpxcEItZU9NYUNuU2ZINU9hX1hNTnFnQ1dVNF9Fa3hJV1ZQUjU2Tm1TQWRRd1ZtbS1aWkIxMWVjY3c4RW9yMzhkVDR6V1dZVVE?oc=5",
+            "date": "2026-04-02 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[Tech & Now] 라온시큐어-업스테이지 '맞손'…에이전틱 AI 보안 자동화 선도 등",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PUjlrQ0tZcWJkSDRXZ2lfb1QtamNta1V3d1BpNVJwSkpBN1I4LXBkS3lpVEViTG5WNXRHM3dPR3QyQWZSclNUbDZBbVBacURTcVJ0T2ZNM2xQLThfNV9GZ3BqUEYxTjhz?oc=5",
             "date": "2026-04-02 15:50",
@@ -45454,6 +45552,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "“양자보안 전환, 더 이상 미룰 수 없다”…키페어, ‘퀀텀 서밋 2026’ 개최",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMcndxUHJIa3lQRlc0VGZualNTdUQ4UlNCaktCLUxaUDJZaHpWUHFndXlRQWZweEFBUTVxNGVDdlZRdzJxVTJTZlNhYUd4Z3JXTW43UjNaY2wzTElqdlJPb18zaVViNUNVTG1JMNIBcEFVX3lxTE1YUmVfTGVDX3R3dnRYY0JGMmxJU1BTN1dhRDNTcTlodWtTUThXeUpaU0ZvclBwWmk3bm5QMTdVR2xFMzFlLTBBZklmYUhLWS0wLUNWQVBjenRoMGJ0VzhYV0UwZVJ3WVFwNGRIVjd4bTg?oc=5",
+            "date": "2026-03-13 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -63127,7 +63236,7 @@
         "2026-06": [
             {
                 "keyword": "에이전트",
-                "count": 40
+                "count": 41
             },
             {
                 "keyword": "자문단",

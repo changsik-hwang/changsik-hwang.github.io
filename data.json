@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-05 06:00",
+    "updated": "2026-06-05 06:28",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -10784,7 +10784,7 @@
         },
         {
             "title": "퓨쳐시스템, 차세대 방화벽 ‘WeGuardia NFW’ 출시",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZNnF3QWoxOEdOMElFOHpFYzVuclFieVhoSHRFcDhxVmt2RlZhWFh2OHNPd04tVVRIcHNPRkhTeFVjc2VrNE9EckN2WHUwN3d6T1pJVVVjaXc2VGNBQUk1cmZMdHowWjg?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5a2FHcE50bEdJdzVvNUdtbDlMS0Q5cjZqWG1YS2ZQN2FGSlA5RFQtWlNaQThIaGRsaVdRYXZ1MFMwcnlnNEVYd294a29YUkRORGxKVFlwYnFlYXB4b0E?oc=5",
             "date": "2012-10-07 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -11163,6 +11163,16 @@
             "is_today": false
         },
         {
+            "title": "퓨처시스템 통합솔루션 국가정보원 인증 획득",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUDIyOENZZ3pmbDVSXzJ4dktuenE1TXM4ejdEdXV2Z1VOeXRzTG1UTGZ1c2NUQmszTDdJQ1pYcDNOUUtYaUI3WjVHVFJIczJMQm5yRDZ6Zi03eGs1QmpsVTRoMnFGeEVvQzB1NFBBcU9KSmpVY0ZqMllUelRWUFc1VQ?oc=5",
+            "date": "2004-07-05 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, 무료체험 이벤트",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoa1REYWFrTW1XcHJCUXZ2Y0xURnpYUlVxUWFQeXNsOGlBaEZpTDEwS3c5WjBOMmVDeHJNcUEwMENGMHQ3RUtNVE1iQVkycThGUXZrZUZhbU10Q3ZFQ0Y5REhB?oc=5",
             "date": "2004-06-26 16:00",
@@ -11273,6 +11283,16 @@
             "is_today": false
         },
         {
+            "title": "안연구소·퓨쳐시스템 외교통상부 보안 공동 수행",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIbXNvc2VrNzg0cHVKSFlFTEJBd2oxWHBPVVk4R1JtX0NnYy1FcWVtMWZ1aksxODdPLWxpdWJqemlVYnp5RDM4ZGt5ald6V295a0thRW1n?oc=5",
+            "date": "2002-08-20 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 취약성DB 웹사이트 오픈",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5peE9jLU1FQjFic0oxR1JEcGRhc1hHU2w4UkhtbktBbl9tVU1PNHFDZXBRb0ZOd3ZTc2FzYnJWQnpWX1ZBZkJsZUhhM0FfOXFsdDJuX0hB?oc=5",
             "date": "2002-08-20 16:00",
@@ -11303,16 +11323,6 @@
             "is_today": false
         },
         {
-            "title": "(공시)퓨쳐시스템, 아이소프트에 5억 출자",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVgxd2phd2RDLW9nNmpwM3Vld25ualZZdDdodTZTdXhlSFIwRDVXNXFfenBwcjZWYkN4cC10aXVnMUJRM0k0OEVwYThRMGRaVVRGdDJLcnBrTllmN0ExSktnWjJWSWV3NEhQVFVobURHT0xySFg1amtDUjBxMEZmaA?oc=5",
-            "date": "2001-10-25 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, 암호화 반도체 칩 개발",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qbFVzSk9xSi1sUGtFVVpYcjVnZDRtV1BHa3JKZS05YlVMYkZNYTlhenREYkd6LVZiNFNlb1JNMGp1WTBGRnpzRVc2WQ?oc=5",
             "date": "2000-04-17 16:00",
@@ -11324,6 +11334,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "[비욘드 미토스①] 앤트로픽 `글래스윙`에 올라탄 한국…AI 사이버방어 새 국면",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ETWYwRVNrZXo3NU5BZ0dvaklfdjJVMlV3VHZtb05hLVBwWmpEbHZ4RjIxNHlUbFZLQkszZWZmNDFIVy12bWNTQy14T3lhc1MwRl80X05kTmdhUlo2RGtZdDl5Nno?oc=5",
+            "date": "2026-06-05 06:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "라온시큐어, KDB생명보험에 양자내성암호(PQC) 솔루션 공급",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02czF2YVVzaHhoYjNwNWJfTDhKQndnbXZGRGxOWTVWaGYtbHlyZE5WQ09qOVVrRkM2UE5MVFJKelJaWkxqb3kydkFCb0tPc2EteU40ZXY0bzhXUGEzblNKdXFNSXFoc2d0NXVqM2NWUTU4WnM?oc=5",
@@ -65929,9 +65950,20 @@
             "is_today": false
         },
         {
-            "title": "SKT, ‘이니셜’로 무인매장 방역 강화한다",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPQW1Yb3JuNlJmSy1MQ282NVJ2SmFwNW40SDNvWjhjSkJUZ3JYNmM1TC1sTW1KT3lzeHM0cU92TEhFQnFpRVJTNQ?oc=5",
-            "date": "2022-02-02 17:00",
+            "title": "팔로알토 네트웍스, 2세대 ZTNA 위해 원격 접속 보안 솔루션 기능 강화",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtcU42dHQwcUpBMDg4WHA5TC15YUdDM2gyNmJoQWVSbk8zNnh4UFo4Qzlacm1icThybFl4S1ptZ0NnNmRWZU01NHBoY0tXZ2xoUjZrM0xrNTdyMkJrRE1Z?oc=5",
+            "date": "2022-05-19 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT, 신한은행-삼성SDS와 함께 블록체인 기반 DID 서비스 경쟁력 강화",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QYmxPNjRoaF9PUUxrdV85ZlZOaTVkbnNKbFp4cnR3amRqOWtWRzAzTEhYOVJwa0J0U2dFS2VpNTg2OFVBY3ppdQ?oc=5",
+            "date": "2021-10-13 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
@@ -65940,8 +65972,19 @@
             "is_today": false
         },
         {
-            "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
+            "title": "라온시큐어 “DID 서비스 활성화 위해 공공·민간 협력 활성화돼야”",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KZTMtdFZIM19HT0l5bWh6U1lwT2RvRTAwTTAzMkJxR1RnZEk1RkRkcmtaTGhMeTNYcDMzQ3doSlJOelI3MmsySno4Rno0SUUtc1RYSXFDN0xHNWVvN2tSNlhkMjB4VDQ?oc=5",
+            "date": "2021-07-13 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT ‘이니셜’, 사물 DID 시대 열었다!",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoeXpvQkRnVFZLQ0xIQ0pKS0ZLQVN5bHZIVzhKRWdyMXlWcVA0QXBGMGhId0FHVTQ0Wk1Sc09oWVgyZGgxYWhPQw?oc=5",
             "date": "2021-06-07 16:00",
             "description": "",
             "category": "AI Agent",
@@ -68531,7 +68574,7 @@
             },
             {
                 "keyword": "앤트로픽",
-                "count": 71
+                "count": 72
             },
             {
                 "keyword": "미토스",

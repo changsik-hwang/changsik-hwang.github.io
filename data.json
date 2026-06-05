@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-05 20:00",
+    "updated": "2026-06-05 20:19",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -10333,8 +10333,8 @@
             "is_today": false
         },
         {
-            "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재한 신제품 라인업 공개",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tSzN5LXF3ZTRwNnVvTWtVR0p1WGpVZUhwRWRETkxuOVJ4RnZTcnAxSGFubU1rTDItRXNWNjJfTGJ2aWIzS0hpWC1nN2VjZ1N0OVVhVG42TUxoMGh6VEw4U2JQOXlWdnc?oc=5",
+            "title": "넥스지, PQC 알고리즘 탑재한 UTM 신제품 라인업 공개",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEZ0s5Y0ZzeV9SZlZOdlB3alBnTkpQNks0OF96MGxoUUJ5QjVnNGo5eXg0UmtOSlktU2hJUHhCZWtGck1Ra2ZHSFRiUnZpQQ?oc=5",
             "date": "2023-03-27 16:00",
             "description": "",
             "company": "넥스지",
@@ -11916,6 +11916,17 @@
             "is_today": true
         },
         {
+            "title": "도시개발도 이젠 ‘AI’가 대세… iH, 전국 최초 '도시개발 AX 심포지엄' 성황",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DYlQ5bGdLQXljMjZTNVNGeElUUzNYYm1jRU4yU1N6MUNnU2g1a21qUkdvVVFCSUcwekRJSU1pbzNXYV9yd0ltUDg3NFJ0UnVwTFk3YlBIYXhNUGxISndHYnlvTGxiLWp5?oc=5",
+            "date": "2026-06-05 14:13",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "구글 클라우드·보안 조직 감원…AI 투자 확대 속 구조조정",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CeFo0Rkd1R2ZkbDVJZzAxRlR3TDZCSlc5V1UzeFFRMDg2UmE0UUJiUmlmZV9uNWVWaFA0VnEtZnVDaklybUlhQWtYanFFdUlyUG5VZlVCZVVCbmI3cENGZTZDWE9wQmtMbnYzNm5wSUxYenM?oc=5",
             "date": "2026-06-05 14:12",
@@ -12125,6 +12136,17 @@
             "is_today": true
         },
         {
+            "title": "[카드뉴스] 기업 64%가 놓친 보안 구멍… 직원 ID 빌려 사내 설계도 긁어모으는 ‘유령 AI’ 비상",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OVjh0MGY5LTBMbEpDMEN5eTY5b0Q4b1FXOFdPb2o2OVFwdWdmVmRyaVREOXQ1YXBmVGpvTEFTQ0xKY19xSDdhSmlvbXZsaXB6LVhaSzVzZ0NoMGJVbkFKODcwcjFiUENTeVhVME53?oc=5",
+            "date": "2026-06-05 13:05",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "새 시장 열린 양자내성암호…보안업계 `선두 잡기` 사활",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GZlRwVFZrWnEzS0dzVWJEUG1RMEJqRW9VTDN5My1ORUdtRVdpM3o2MFk4aVIwTEotVzBZX21LWW1kQlFKUUM1Qmk5SEN3WFpNWUx4QldOdEtKSHlQMFdVM0RTRFNlYTg?oc=5",
             "date": "2026-06-05 13:01",
@@ -12153,6 +12175,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB국민은행-아톤, 양자내성암호 기술검증 위해 ‘맞손’",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yUkVlNEk1UnctU2hCV2lzYWhRZnJzdHhKR3ZSc0tJT2o5ZjFYTDFoS2R6SkN3WGF2UFRYekhFajZIN1p3RmZFV3BGVEpwY3FRb3hMZUtwRk1keVdvZkdYSHpNQXh4WHczeGw3dmxn0gFyQVVfeXFMTUoxUTI2eFZpY1ppUUZkZ1ZRU0ZIQkJ5S1pua2M0NW9JN2lLd2wxX3o3T3RVendCWjRPZVNwc0NwXzlGY29lZC1adk9FLXk3YThzUDBEVnI0ME0yNmQ1NE1saVpXbnRCbkhzMVZUQzZsTmlR?oc=5",
+            "date": "2026-06-05 12:54",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -46225,6 +46258,17 @@
             "is_today": false
         },
         {
+            "title": "지멘스 | 방위 생산 환경을 위한 사이버 보안",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3k5ZUw5MkFRN0VfZVk4Rk5IQ1hzc2Y3NDV0bjI2WWZVVElqVU12cV9DbGJob0M5WFhzeE02TW91YjZqMzFEWGt2NU4xLXdXVUM2Y0dmMmg2TE5pNGdOTXhlQmhzNEhnb2F4UEpmdnlPOTJpVHFJak00OThGZEZfR1VYRVRPRURjUENQeDFuaw?oc=5",
+            "date": "2026-04-18 00:28",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "Zero Trust",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "사이버 위협 탐지의 새 무기로 떠오른 AI, SOC 번아웃까지 잡는다",
             "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPbTVyNWJJWDBQSEREVzA1M0ZaUEQ5aEF2cFRndGR3bTdrcFQwUFZsV3g5cU45MUVRblB1NEtxcFg4M1hTS3ZYdm1hWG1rcm9xOWNMeXNxcVctT1NoZFcyNnQzLTNSZHpNWHAyZGdlMmo5TXBSdEhsVnA0MmNZN2szN3RwNU5icFlnUnVRVU9CNnNsNjVHY0dXRkxRRWt3VWRCenhTTzhSNWJvZHJIWDB5RUppRXctWGJ6TVZucFVzQ3gwcVJiamFiSnBKRFg0OFA3blpidmgzdjdGLWFTN2FQM3JORWRzc0o5TFdGOFBMYnNZMTV1dmZFaHphVmJWbmxTRFpjdWU2LU1ReHBQem5MVkJITlNITUJ1T0F1VjhET281ZXd5LXMxV1JwQlhNWU9BRndIeUhrV0JWSVItZzZDdDFCY2dZaWlhMnRMeU9VckNYLWRKZDB2T2FTY2w?oc=5",
             "date": "2026-04-17 16:00",
@@ -67796,34 +67840,12 @@
             "is_today": false
         },
         {
-            "title": "팔로알토네트웍스, ‘프리즈마 액세스’ 기능 강화로 ZTNA 2.0 구현",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LcG5OeUtmRURIekJhcUh2T0phZmo4MFpHTmZKS3REUkwybElocnV3bDlwci1neGtBWWZYVG0tdExLQjRhR21vaW1qbld4c1NSaDFQelN6N1JuMFowZERSQlZtdXp6dm8?oc=5",
-            "date": "2022-05-19 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "SKT, 신한은행-삼성SDS와 함께 블록체인 기반 DID 서비스 경쟁력 강화",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QYmxPNjRoaF9PUUxrdV85ZlZOaTVkbnNKbFp4cnR3amRqOWtWRzAzTEhYOVJwa0J0U2dFS2VpNTg2OFVBY3ppdQ?oc=5",
             "date": "2021-10-13 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "포티넷이 클라우드 보안으로 SASE와 ZTNA를 주목한 이유",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kay1lT3BncUV6RngtZ1lyUTF2Rk9HZ3NFcUduVzJfNUE0bWlJU2tBT2QzczJua1Q1V1JhUU5nV3pjcEx6T0NOQjBxa2xVYms?oc=5",
-            "date": "2021-07-22 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -70446,7 +70468,7 @@
             },
             {
                 "keyword": "검증",
-                "count": 72
+                "count": 73
             },
             {
                 "keyword": "금융",

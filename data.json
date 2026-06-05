@@ -1,7 +1,27 @@
 {
-    "updated": "2026-06-05 14:00",
+    "updated": "2026-06-05 15:00",
     "current_month": "2026-06",
     "competitor": [
+        {
+            "title": "KX넥스지, 방화벽·VPN 넘어 제로트러스트 통합보안 플랫폼 기업 도약",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJcF85UUhqSmNLLTVZZXNQenZOeGdXV0ppWjV6UW9NV3VKZTNFMGpqRldNX0NnY1MtdE9ORm9Pb0VCVGNOVl9POTVoTnRvZC1wTGFBVlJPbGxUUEVfMVhn?oc=5",
+            "date": "2026-06-05 14:49",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KX넥스지, 제로트러스트 기반 산업 제어시스템 보안 국책과제 참여",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xNG5aTVJnOUtfUEZ0MVdZSlFlVkctajBtYmNvX2hYRldaSUU5OGJfeTRkb2o2bzFJTkxySDB4c3hWbjRMS2RNUG4zM2ZYZ0RacEJkWlQ5bE1qTnNaMUlwbUFaSFZEUHRuZWxDdg?oc=5",
+            "date": "2026-06-05 12:30",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "KX넥스지, 산업보안 시장 확대 시동…제로트러스트 기반 OT 보안 국가사업 참여",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1OXRMUXd3OF8xOU1IdlVpdDloWWhHcmpNbV9KLXo3d2t0VWxhWDNiVkhrX3U2QjJTLXJPNENiWjJXWjI1QTVtc0xIQThsTGpUc1ZWQW8wT3hBaDJQS2tpYTQwdVJiV3NW?oc=5",
@@ -10173,6 +10193,16 @@
             "is_today": false
         },
         {
+            "title": "KX넥스지, ‘ISEC 2023’서 홈 네트워크 보안 솔루션 첫 공개",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45NW94MW9GMGtiRGNxel9LTGl1RGZWaE5jOTQtUG5VSkEwN3JJdEFtQmlDaTliOTZhQ0ZhR2s5ckRTcW9haHhxTFBnTF9iSE5iTHdqVG5RSjNTSVdual9jb3JOWGxsQnpZ?oc=5",
+            "date": "2023-09-18 16:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스, 블루엠텍과 클라우드 기반 의료 이커머스 플랫폼 기술협력",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DWGJScTdraUtSdC15X25FWnVhblpkcHB3Q01Jd1lrOElxeXFXUmdwMGVUUWl0XzZMMm4tSXNiMllKMVdGMGswREFHekllZHV5RUxXMmp6RUtuUC1odTgw?oc=5",
             "date": "2023-09-14 16:00",
@@ -10313,21 +10343,31 @@
             "is_today": false
         },
         {
-            "title": "[정보보호 대표 상장기업 분석-2] 시큐아이의 사업영역과 실적, 연구성과",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oZkRwSXZPVGpNR0JVbk8tMDhhQmZVU0w5dUx2RkVVNmwxZjhENWtfczh5TGdzVUU4d3lQVEN6Wm1xclJJLUs1ZHJEMjZwODNBWU84SHdHdERlaC1MYXVn?oc=5",
-            "date": "2022-12-20 17:00",
+            "title": "20여 년 국내 정보보안기술 선도…‘부산 스마트시티’ 통합관제 지휘",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWRlN2pvUVRGTTVCQllxZjRiMWh5eTJ0eGFFM2xERDFQRDc0MXRRQUZrc2ZJbzBxYXhMX0V1WGFHRUVZMzlVRjdKcnVKaEJiUm1MVmpvTFQzN1NoNXRwa0VYTEF4LWZEWXBobVdOUW9rSlA2SmxpbGVRM1A0SGJOQnNCdnpTZU9uYzV3UlVB?oc=5",
+            "date": "2023-02-21 17:00",
             "description": "",
-            "company": "시큐아이",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
         },
         {
-            "title": "퓨쳐시스템, 전국 총판사 20곳과 간담회…새해 사업전략과 신제품 공유",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rQUFsck00VjdWczY5UW8yY2NpVk9fdlFsZGluaTRJVGNaYzMwRjBJclVkZkpnNUVVU1hmS0d5ZlI4WDRadDd5MXljLUl4Zw?oc=5",
-            "date": "2022-12-13 17:00",
+            "title": "[정보보호 대표 상장기업 분석-4] 윈스의 매출과 사업성과 집중 분석",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95eUtVOWlqOWxITDYxSzBUV004LVV4bXlrRkxzVExtRm5OUXdTS2VhUF9XOWYycGVCX0xGMk13c3pyOUdPS0IyTk9oYVI0OFhCTUZPY0RFQ3lOTUlxOXdV?oc=5",
+            "date": "2023-01-13 17:00",
             "description": "",
-            "company": "퓨쳐시스템",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[정보보호 대표 상장기업 분석-2] 시큐아이의 사업영역과 실적, 연구성과",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oZkRwSXZPVGpNR0JVbk8tMDhhQmZVU0w5dUx2RkVVNmwxZjhENWtfczh5TGdzVUU4d3lQVEN6Wm1xclJJLUs1ZHJEMjZwODNBWU84SHdHdERlaC1MYXVn?oc=5",
+            "date": "2022-12-20 17:00",
+            "description": "",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -10418,6 +10458,16 @@
             "date": "2022-03-07 17:00",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스, 부산외대에 ‘스나이퍼’ 보안장비 기증",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tYVJkU2FuRDVRQzU2bW1MdlZEZURqSFNsWElZemNvOEZkSU5FeGxEOExuaDZtTHplREh6c1ExQWFCMTZjai0yX1JQWFFBTmdNWW45c0lKN0xZS0FJLVk2LURR?oc=5",
+            "date": "2021-10-08 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -10713,9 +10763,39 @@
             "is_today": false
         },
         {
+            "title": "[CEO&Story] 김대연 윈스테크넷 대표",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5idmJZVXhsbzFDS3FoQ1NDb3otZlBqd3M0enJ0WHdpcVdhQm85VEpNeWk1NERtVkxOTEZXd0JuNmZYYVBCREQ5SjNLZ3BvRkhFc0HSAVNBVV95cUxNWTdKVm1kY25yYjV4c3BuSHJ0cWdaZkRzLV9Ya0pMUV9jYjNKOGd0cG0tQXhJZlpkbkZiNmpUSkVtYnFWYmhuNmcxaFhxVWl2MTk4TQ?oc=5",
+            "date": "2014-03-13 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 미래 전문 보안인 꿈꾸는 대학생 초청견학 실시",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYZTcyeFRfdjFiTmRnUHphUXViVjFxRVhUUUxIczVNd1ZQc3FpNHBVcnJ5dzNlNVVFOTNwQi1sdzRZQVZSR1ppMnQtc1JJbV9NUE5YMmdtbzRadzdGajdoNk1kdFRyVngxWExiNlBiNnU?oc=5",
+            "date": "2013-09-30 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 개인영상정보 내부통제 솔루션 출시",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zYXUwOUVpaUZ5dWlVa2dXc2tWUlNTQi1iNktRbERPcmcxeVdpa2dmcGtLYVdoRE1TNWxVU1ZqYTU1VFMzM3pIRUR6dVRUWmhhUlRTNWdRSWNFQW9hQzItWDZDYzVjajVSQ0h3S2QwcHpfRW8?oc=5",
             "date": "2013-06-11 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 대학생 기업 탐방 실시",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJNEFaNk9LWVZNenc1a05CYU5RdWJnQ1JneFhnblhfT3pJMlhkeDd4Vjk2d2xUMjJfR1ZIZVU2SEtSOXdtbm9sNWtTa2d5eEdZUktKVG1n?oc=5",
+            "date": "2013-06-03 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -10746,6 +10826,16 @@
             "title": "윈스테크넷, 백신기반 APT공격 대응 솔루션 출시",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEX04wNHVFdHBwdkd4TzktUDNQZHV4OWt3V0dWVFBfc1pKQTh0ckJ3ZDVvTnhuRlQ3RXRxU3BBUklqTXVsSWlldzZTXzQ5OVdPdHh4TFpSNUtnTTM5T3hPbGFzbmF4eXlpTHVvekszRW9qQQ?oc=5",
             "date": "2013-03-07 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 40G 지원 차세대 방화벽 출시",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPbmM4TzFiNnROZm9Fc3ZjNXBEWU1vVHNJUGZ0RjZJamEzVEx5WHEwYUt6RXQyb21uaVNVamg1NjNCeHc5NUpDUnhLT0RiOGR6eXRLR0hR?oc=5",
+            "date": "2013-03-04 17:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -10813,9 +10903,29 @@
             "is_today": false
         },
         {
+            "title": "CI 제작회사 ‘디자인스코’, 윈스테크넷 새 CI 개발",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sUmhmcHl4Sllpa0xxLXdvbWMwTEZXeGZ6cWNiVXN6RGN4cE1xbWlJdnNOdE1xY2NSdnduN1p1ZEwwYTg5cU5TVmRraUVNRHVBS0hRMUxqUHFXUmRta3c?oc=5",
+            "date": "2012-02-08 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 대학생 기업 탐방 행사",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ra1pfOVRpTkJ3MW9DNkdDM3RvcVJSZTJZc0RTbFFuY3NvdzZZcmZScF9IUUZhX0ZQX08tWnJkVzc3ajFPdjl2S3JmSEFVajd5bmlVZzFXc1NvOGFJOXVDMnQ4YUh0YUE?oc=5",
             "date": "2012-01-16 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 사랑의 집수리와 MOU 체결",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxMTdtMVNYV1JkUDJOTmZ6Mi1EUHFSY3BQMUVvaDFpRGRZVlBVVFY1UkwxR0dpc245U01RQ1NIMmVpWVBBLWRtUVlIOXlyV1p4LWZyZ0JQaEw3cmZV?oc=5",
+            "date": "2012-01-06 17:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -10858,6 +10968,26 @@
             "date": "2011-09-16 16:00",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[화요기획]윈스테크넷",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
+            "date": "2011-03-28 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "나우콤서 분할해 보안전문기업으로 돌아온 ‘윈스테크넷’",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56eHJmb1R4UE55c2VrM0hKaDZTM0VpYUdEaVowZy0zc1hHaDFiUzktS2lERFE5QkcwMUpDckQ2V3dVamNtN0g4WHJDS2dna3NPMTFRZnJsVkw2UFRodkE?oc=5",
+            "date": "2011-01-10 17:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -10928,6 +11058,16 @@
             "date": "2007-11-28 17:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 나우콤이 흡수합병",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LcjFmNmk3MzJld1ZZNEh0c2stdmZjZ3FMakNZWXY0cTRmRzhGaXRoVG5MOEFVRFBZYkc2M2tvRUgwam1ZNzU3X3E0ZlZqNm5aZlpEb0RlNGxweUtG?oc=5",
+            "date": "2007-10-10 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -11315,6 +11455,193 @@
     ],
     "trend": [
         {
+            "title": "세종 Financial Regulation Review (2026. 5. 20. - 2026. 6. 2.)",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55Y0l4M3lCM1p3N0Z0ZDVJbDdtMDA3QmF5bU9LSUZpN1ZwR0VyQUgtN2Fxd21rVkNJakp5blJWR245YUdpV2lqNG54YkFVUXNJaXdXWTNLOTVfMkY2V3c?oc=5",
+            "date": "2026-06-05 14:56",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB국민은행, 아톤과 차세대 인증 보안 기술검증 추진",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxMmRHQjFvTXh4R3RmTUtZNzBjUjlXQXowQnJnenNHN2l5bVduUUJRWEt5N0dkYWxIUWJORTBWWGhTY2pZUXVQbXota0RMVFNmazc1ZWxCallvN1ZrTVMzRWZhNWpha3hMMWMyRzE5czNPQU0?oc=5",
+            "date": "2026-06-05 14:56",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KX넥스지, 방화벽·VPN 넘어 제로트러스트 통합보안 플랫폼 기업 도약",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJcF85UUhqSmNLLTVZZXNQenZOeGdXV0ppWjV6UW9NV3VKZTNFMGpqRldNX0NnY1MtdE9ORm9Pb0VCVGNOVl9POTVoTnRvZC1wTGFBVlJPbGxUUEVfMVhn?oc=5",
+            "date": "2026-06-05 14:49",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB국민은행,양자내성암호 기반 인증체계 기술검증 MOU 체결",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJd3dIZW16ek1WQW96OWZhS2lVQ0VTeXRvdzVuOUZaRnZKUmVUTXlRY3VNc3dyd2VnTmM4OF93RUg3TmM5VkRvOFVEWm0ydkctLUNkWHlrUzBfd9IBXkFVX3lxTE9yOS1UTVp0YVpuZ0k2LXNpWER1VHBDWTVvZU1oWFFoX0xmVWVlZjgzWnlDYXZiSC1zVGszTldZS3NmOF8yQmRrX1FkS3U1N3pCRUpXNkY3VGxJVUt0U3c?oc=5",
+            "date": "2026-06-05 14:45",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB국민銀, 아톤과 ‘양자내성암호 기반 인증체계 기술 검증 업무협약’ 체결",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NRTV1M2VyZ0R1MlFUUnJ2amljdGt5eDhJQjVjS3FyQ2FXbnF6dXNZcGhRSDBIQTlMM0VhbHIwTERVa2Itd2RlZlVFSUtxb0NJdnJOQlAyTElVLVNuaFJ5bVFyN29uSXV4WHJF?oc=5",
+            "date": "2026-06-05 14:42",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "팔로알토네트웍스, '포트키' 인수 완료…AI 에이전트 보안 강화",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wY0czR241TTRFOU9NN3F1YkxRSHp2cHRvMk9HWk80amlkYW1xTndic0R5aV9wYS1QWFhXR3B6ZWVqMXRuODhPTVlZX1JuRGUxSUFrSjdlRFVxSGJEeXdiT1FkLW93TWc?oc=5",
+            "date": "2026-06-05 14:41",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI 피싱, 당신의 보안을 노린다",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nbDhFUXU1cXBJc2dUQ04zOVo0ZVg2QzJPYTl6a2UxY1Nhc2E5UF9HclBRN1l5cFhhYm1kdEVZN3BJY01RZE9MUzNZbk1QUW9fQkE?oc=5",
+            "date": "2026-06-05 14:38",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB국민銀-아톤, '양자내성암호 기반 인증체계 기술검증",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FZUJxVWtDS0NvbU53bTVHY0NMV05RR0J6a01BTlFuT21MQnhlZHpKc3dRa0ZVakVUR1pOcmN6bzVfRWdRWVZXNzB4RWdkSVlIeHhn?oc=5",
+            "date": "2026-06-05 14:31",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB국민은행, 아톤과 양자내성암호 인증체계 금융서비스 검증 협약",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zQmFvVU8wRWsydXlMdFlwMGRSY250T1BuVkw2QWRmRERrOWV6cEQ0WTFtVlZjd0Yydkk1Z21mSFBhdFZheEVFaHRmUWdRRzNyQ09LbjJEQ3dWS2IzQzZlNG1HQi16ZWx4V0k3MEVn?oc=5",
+            "date": "2026-06-05 14:24",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "구글 클라우드·보안 조직 감원…AI 투자 확대 속 구조조정",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CeFo0Rkd1R2ZkbDVJZzAxRlR3TDZCSlc5V1UzeFFRMDg2UmE0UUJiUmlmZV9uNWVWaFA0VnEtZnVDaklybUlhQWtYanFFdUlyUG5VZlVCZVVCbmI3cENGZTZDWE9wQmtMbnYzNm5wSUxYenM?oc=5",
+            "date": "2026-06-05 14:12",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "“양자컴퓨터도 못 뚫는다”…KB국민은행-아톤, 차세대 암호 도입 ‘맞손’",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pYnVCbm1XbS1FOFFTc2lNN1gxTDlJbzFHTm1GVE9EbjhpSGZmWmcxbUhMQlgxdXlueUl1OC0wbGUxM092dGt1VVhqVjcwMEZoTzB0cXdxUG1MUQ?oc=5",
+            "date": "2026-06-05 14:07",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[금융권 이모저모]KB국민은행, 양자내성암호 기반 인증체계 기술검증 추진 外",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DNGEzYUV5ajJ1SnZNWjV2SzdxbTcwdFlwYjVHNl85S1E4eXZxTmxrTjB2dDlIelVfRVNSTHlRbFNJNkg3ZHBaNUV2SkpwdkJsRUZRYlBVSlpWVmNfUzdXRkV0NGVRb3pZSWtnSU44OA?oc=5",
+            "date": "2026-06-05 14:02",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "넷앱-시스코, AI 혁신 가속화 및 보안 강화",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkQ1BudUhPLW5WU2Q3VlhmeVQ3NEs4dWNMWmVPSEZJMmhiQ2RyZGZXaXp1QlRJaDllUXZZdHR5NmtwNkJMQ29oV1JUT1dSNW9MVkFYaGlnZWEyWTVvUTRv?oc=5",
+            "date": "2026-06-05 14:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KISA, 인니와 AI 시대 사이버보안 협력…보안기업 10곳 현지 수요 확인",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9leHktZDlBUi1xYVpvZVJ1OFRoZzd2LVlSTVZhaHEyc1I4REh1M0duZEszeWxNV3BPR3owbC1oM0JyMDVLbUVmRWZGVEdBT0VjaWdXbm9LWTE0UdIBWEFVX3lxTE5mZV9qOURaajBqVDRSUDlRdl9lcHdmUHBsUVQ5SjZnN1dCRlp0Ym8tamlvREJDR0VKMklaZ0t5Q05LUGsxWjRYZEtMcXVCODV3QW50UkVENW8?oc=5",
+            "date": "2026-06-05 14:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB국민은행, 아톤과 손잡고 양자내성암호 인증체계 검증 나선다",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Sk5nbHhEVHBYY0UzMm4xb1JmZmpCYWQ1eElDblhReFZXYjFIbEYzLVdzbkRPNzhrcTliUEtqaE9aOXd4MHNNRDF4aFVrNDJOdUpLa2xxX3NGY0NQRTFQTkdIX2NVczRLOUxrOFlLX1hYd9IBckFVX3lxTFB4Sk5nbHhEVHBYY0UzMm4xb1JmZmpCYWQ1eElDblhReFZXYjFIbEYzLVdzbkRPNzhrcTliUEtqaE9aOXd4MHNNRDF4aFVrNDJOdUpLa2xxX3NGY0NQRTFQTkdIX2NVczRLOUxrOFlLX1hYdw?oc=5",
+            "date": "2026-06-05 13:56",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB국민은행, 아톤과 양자내성암호 인증체계 기술검증 추진",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GOWNpbWdob3l3RnBfLTZUUHRiR0pkTEUxWnFKWlJPeEh3LW5QZ2NaWkxlS3dNa01WQ1Z5b1dLbUtiTU9McmxpZ2hWR0tpbGtJMi1lOW9YYlpkcWUwS0F1VnVMOG9OYnNq?oc=5",
+            "date": "2026-06-05 13:51",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB국민은행, 아톤과 '양자내성암호 기반 인증체계 기술검증 업무협약' 체결",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tVVI5TW5xTkpWSHR2LXRWckd6Vk9mM2RRX3ZXNnk2R3YtLWExRVZnWWZDOVNiUWtTQUdZRGJtZGJLWHk1bHhpSXpqOEd5akFpMmVUQVk1N1FnblJSVEVxZy13UGxhMDFUazRF?oc=5",
+            "date": "2026-06-05 13:51",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "[스노우플레이크 서밋 26] “AI 에이전트 확산…데이터 플랫폼, 저장 넘어 운영·통제로”",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBScHdtX2FvdUwzbm1FSkd5QUdWUV9GMjNfbFRsSjlWUUlLdDh4RS1nOHJvQXZTU2h4dmxEWV8zMmNaWmVkT2NNMU1yOG9sUQ?oc=5",
             "date": "2026-06-05 13:42",
@@ -11552,6 +11879,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "PQC",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "해킹 패러다임 바뀐다...KB국민은행, 양자컴퓨팅 시대 선제 대응",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxb3B4aGRRN3RCeV9CcENFTzBpVlRESEs3VUZfOEhPOFNsdUlUQUttdlBPS0ZzMUp5ZGpEX2o1a1duTlJpM1N3XzUtbUxBVXdkVUMtZU9tdllQOWVHSHJPWjN3c182a2VIbUhN?oc=5",
+            "date": "2026-06-05 11:35",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -49606,6 +49944,17 @@
             "is_today": false
         },
         {
+            "title": "가비아, eGISEC 2026 성료… 제로트러스트 기반 '가비아 DaaS' 시연",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wZXk2ZU1qbFcxa0tfd2Y5SzVfN3RLUUFjd0lxUXNlTFBtN3hfMWpTaWd3RlA2WW5HT2NmdWpJaWZwNW44R3dUSEsyamxVZw?oc=5",
+            "date": "2026-03-23 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "“AI도 통제·관리 대상”…에이전트 보안 시장 열린다",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TSjBBcW1ZZ1Y0aEVzalY1Snp2UWpxc2dBU3ZSNEJQSGtTSUxiV2dJYWhjWEgtS2lMNWNfR0tDaGF6OUtnaXVuUUl2Rks4dw?oc=5",
             "date": "2026-03-22 16:00",
@@ -65105,6 +65454,17 @@
             "is_today": false
         },
         {
+            "title": "[칼럼] AI 에이전트와 ´AI 중심도시 광주´의 미래-(51)",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMNFFxcV9hek9ZMmNRa0RTZmtMRHdnRG9qbTVJZjlZYl9DQ2J5dTl2NXA0SVRtd0Q0THk5UDJ6ZjQ2VVlGZTFwS09tM3lxR1lqZHp3MEFn?oc=5",
+            "date": "2025-03-16 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "Databricks Data Intelligence Day 2025 서울 오프라인 컨퍼런스 개최",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44QmpBTTF1SzlYOVVsX1NzMjljMDlOYnp3bDhaV3RUODRJeEFLeFprSXViRmc1RUFySmhaZmU0blZVQi1KczVySjBRbmZwXzZlcEFCTmFERU9EWFFmUWdYcndNUVRvZHBHaW9DQ1NmejJyNkRfSzVVV0w0d2E?oc=5",
             "date": "2025-03-12 16:00",
@@ -66909,31 +67269,9 @@
             "is_today": false
         },
         {
-            "title": "라온화이트햇, 군인공제회C&C 및 금융권과 ‘블록체인 기반 비대면 서비스 개발’ MOU",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWT29ySi1pRjU1ZllLUTlxT3cxV2IwVWxqM3c1M29samhYWUVVQjFoSnpGR0lpRU81YkZ1cDhWZmxzWmRUSURQeEZmU0NvX0VveEVELVQwem9icHdrQkR2RkQtZG1CUEk?oc=5",
-            "date": "2022-04-01 16:00",
-            "description": "",
-            "category": "AI Agent",
-            "keyword": "AI 에이전트 DID",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "SKT, 신한은행-삼성SDS와 함께 블록체인 기반 DID 서비스 경쟁력 강화",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QYmxPNjRoaF9PUUxrdV85ZlZOaTVkbnNKbFp4cnR3amRqOWtWRzAzTEhYOVJwa0J0U2dFS2VpNTg2OFVBY3ppdQ?oc=5",
-            "date": "2021-10-13 16:00",
-            "description": "",
-            "category": "AI Agent",
-            "keyword": "AI 에이전트 DID",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "라온시큐어 “DID 서비스 활성화 위해 공공·민간 협력 활성화돼야”",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KZTMtdFZIM19HT0l5bWh6U1lwT2RvRTAwTTAzMkJxR1RnZEk1RkRkcmtaTGhMeTNYcDMzQ3doSlJOelI3MmsySno4Rno0SUUtc1RYSXFDN0xHNWVvN2tSNlhkMjB4VDQ?oc=5",
-            "date": "2021-07-13 16:00",
+            "title": "SKT, ‘이니셜’로 무인매장 방역 강화한다",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPQW1Yb3JuNlJmSy1MQ282NVJ2SmFwNW40SDNvWjhjSkJUZ3JYNmM1TC1sTW1KT3lzeHM0cU92TEhFQnFpRVJTNQ?oc=5",
+            "date": "2022-02-02 17:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
@@ -66953,9 +67291,9 @@
             "is_today": false
         },
         {
-            "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
-            "date": "2021-06-07 16:00",
+            "title": "아이콘루프, 서울시민기자 대상 블록체인 기자증 발급",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfMUxxc3pZMjhsLVU4eksxMm9oSHEwLWhLdVQ3bmhIWnpybTVKUUhnQ3FFUmwzS3h1cXoydFRHQmtEOWRDWEh1cHRXNmtwQQ?oc=5",
+            "date": "2021-04-07 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
@@ -69540,23 +69878,23 @@
         "2026-06": [
             {
                 "keyword": "에이전트",
-                "count": 91
+                "count": 92
             },
             {
                 "keyword": "앤트로픽",
                 "count": 73
             },
             {
+                "keyword": "금융",
+                "count": 57
+            },
+            {
                 "keyword": "미토스",
                 "count": 57
             },
             {
-                "keyword": "금융",
-                "count": 55
-            },
-            {
-                "keyword": "합류",
-                "count": 48
+                "keyword": "검증",
+                "count": 56
             }
         ],
         "2026-05": [

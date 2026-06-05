@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-06 02:08",
+    "updated": "2026-06-06 03:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -3135,6 +3135,16 @@
         {
             "title": "안랩, ‘Japan IT Week Spring 2026’서 CPS 보안 솔루션 및 전략 소개",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05UEFyMXhPX3A0cDJOOXdZSUhzN1V4MzJuOHhrRWU5eUZQUF9jQWM2bTJLNVFJY05BV1hkS29TOXpCeWtDcGg3N3ZkWjVJUE5MV1ZTWUZTZXc0bkNvLVdaYXlGQU1wVnJUME1UZQ?oc=5",
+            "date": "2026-04-13 16:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "안랩, 일본 `재팬 IT위크`서 사이버물리시스템 보안 솔루션 전시",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HVWxOUlpFWUk0aW5tUXV2dlI1Wm5TeldaMWwtSTlJQnZrYjVaV29nc3AtWHk0NEs1aHVuSVc2SVN0MW9kRDN5OUQtV0pGME5iem5ZdTVMTlVpRWNhTjBPaEtJR00?oc=5",
             "date": "2026-04-13 16:00",
             "description": "",
             "company": "안랩",
@@ -9353,6 +9363,16 @@
             "is_today": false
         },
         {
+            "title": "KX이노베이션, 쿠콘과 업무협약…\"방송·골프장·보안 서비스 업그레이드\"",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eUZSSDF4TUIxUnFSRnBNNWhYVF90SjFfYnpSdjFsbzI5VmxxbjZrQ25qS3d6WVhYbzlELUJqckJibkZfdWt1OWlLT3pib0lMam9F?oc=5",
+            "date": "2024-11-25 17:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "쿠콘-KX이노베이션, 데이터 비즈니스 혁신 '맞손'",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSFBvcXZKSEpIX0FsWjFfNTlJVlhjM1NrYXFYWU9hQTBhRy1oR1owT2hIRFpQYVJtYzRhUDVzclFuMm1vbGVXOU1KTnQ5Mlo5NFQtZEdB?oc=5",
             "date": "2024-11-22 17:00",
@@ -10253,6 +10273,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이, 효성ITX와 보안 사업 확대 위한 전략적 파트너십 체결",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ga0todmtYNUtOcHdqQWgwbHVlMnJPNlNFeFRjcE1vTE9kVFpJZEhPOUkzRnZST1IyQmJhQVoyd2hjVU9RZlE5VVNrSmtUa2R5eUxGVTVQRXhrVlltd0E?oc=5",
+            "date": "2023-09-25 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스, 사이버 위협 인텔리전스 구독형 서비스 ‘SecureCAST’ 출시",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZdGZUVHRiYkVyWHRZTjY3OS1wczFjZWgyQ2gxZkxfZUl5elExVl9sQkliZ3BlaHUyRHE0U3dvemFvc01Gb1lzTWFXRTFfTWVyaXREV0l5RGxHV0dpUWVJ?oc=5",
             "date": "2023-09-21 16:00",
@@ -10403,6 +10433,16 @@
             "is_today": false
         },
         {
+            "title": "시스원-시큐아이, 공공 조달시장 확대 업무 협약",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TelNkblJsTFd0MEFjZWhMak02LTNjTm40QndHcjdzSVdNblFKVjV1RUliUS1PNWtUcXhnSFZsRy1rTHVHbk1GSF9nTjBXRzZZcDFMaGZB?oc=5",
+            "date": "2023-04-26 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템, eGISEC 2023에서 신제품 WeGuardia ITU·ITM 선보여",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13QnJLQkRVSndfczN1Z3QteC16Mzh2X0ZwUXViNGo3SU51aHowZTA5NkYtQXQtOFRMd3lsOF9PcU05aDZKaEdURE1yNHktR09TeWgwYW5weWZQb2daX0p3?oc=5",
             "date": "2023-04-05 16:00",
@@ -10413,8 +10453,28 @@
             "is_today": false
         },
         {
+            "title": "넥스지, 세계보안엑스포에서 PQC 알고리즘 기반 신제품 공개",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91ZkhHbi1NZGU0bWxFNFdYRVY0RDBndmRjZGczeUhTVGYzczZyaHc1WUdaQU5KV0lid0plR3BGeEItcS10MzdPVHlPV0pBeURSVEcxamNhRVVIRF91N3dtWi1scXFGaDAxQ1Bj?oc=5",
+            "date": "2023-03-28 16:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재한 신제품 라인업 공개",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tSzN5LXF3ZTRwNnVvTWtVR0p1WGpVZUhwRWRETkxuOVJ4RnZTcnAxSGFubU1rTDItRXNWNjJfTGJ2aWIzS0hpWC1nN2VjZ1N0OVVhVG42TUxoMGh6VEw4U2JQOXlWdnc?oc=5",
+            "date": "2023-03-27 16:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "넥스지, PQC 알고리즘 탑재한 UTM 신제품 라인업 공개",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEZ0s5Y0ZzeV9SZlZOdlB3alBnTkpQNks0OF96MGxoUUJ5QjVnNGo5eXg0UmtOSlktU2hJUHhCZWtGck1Ra2ZHSFRiUnZpQQ?oc=5",
             "date": "2023-03-27 16:00",
             "description": "",
             "company": "넥스지",
@@ -10483,6 +10543,16 @@
             "is_today": false
         },
         {
+            "title": "[기획]시큐아이, 11년 연속 네트워크 보안 1위 '절대강자'",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lOXFOV015MnJlNkZFcmRLQVl5emV5RFJzMkZZVVNHMzh6d0RCX0hjMnRndDVJV3RaeGt4SFZlbXZMTkxDb3RxNWpoa0Rxdw?oc=5",
+            "date": "2022-11-22 17:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이 송병걸 프로 “악성파일 분석 결과, 한 눈에 파악하는데 초점 맞춰 개발”",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WLTJUVk55RHA5ajV5YUpkZUpleC1uUlNGZlV2bk9TWWY3SWtSeXFCc05JRjd5bzVyWHJpYWpnVjlvNDhKZmZENm9oeEZOOXVhc2ZUeUxwa3FDWHJ0RFFWTkRvdHE3WEZpVFVxQkRQUy10TGxmemc?oc=5",
             "date": "2022-10-05 16:00",
@@ -10533,8 +10603,8 @@
             "is_today": false
         },
         {
-            "title": "KX그룹, \"사명 변경에 이어 신사옥 준공 통해 제2의 도약 계기 마련\"",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0WURhdDF3VHFZQ1RfZ2RXa2xUZWNHZmdpVzR2UE1TQmx0Mm1zWjgxdm8zTV9ZRTVCbGJCT2pxeHdIdmlTSGdOZUNmNm9ROHVodkVrYXdmd1JfSnpZaTN2X05McFVOa2fSAWtBVV95cUxQZE41VVJuZl9sZWpPNDZKWHdfcUczZ1VUa2pzOF9BRnJ3ek9kRUlvaVcwNG5wZ25xVTB6dnlaUFdVSTdMblZld09UUnFiNWRoT2JCMWFnUy1ncW5LcUxudFJjWjVmd2FOQnBVQQ?oc=5",
+            "title": "KX그룹, 강동 고덕비즈밸리 신사옥 입주",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1maDQzWVVybkZGbXhXM1RlM1hHSHN2X0g0R0Q3cmI4d21qclNSSy1Ka280WFVIOG9qdE1RYk9qamRjai1ubXIxSlViLWhfQQ?oc=5",
             "date": "2022-07-12 16:00",
             "description": "",
             "company": "넥스지",
@@ -10543,8 +10613,8 @@
             "is_today": false
         },
         {
-            "title": "KX그룹, 강동 고덕비즈밸리 신사옥 입주",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1maDQzWVVybkZGbXhXM1RlM1hHSHN2X0g0R0Q3cmI4d21qclNSSy1Ka280WFVIOG9qdE1RYk9qamRjai1ubXIxSlViLWhfQQ?oc=5",
+            "title": "KX그룹, \"사명 변경에 이어 신사옥 준공 통해 제2의 도약 계기 마련\"",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0WURhdDF3VHFZQ1RfZ2RXa2xUZWNHZmdpVzR2UE1TQmx0Mm1zWjgxdm8zTV9ZRTVCbGJCT2pxeHdIdmlTSGdOZUNmNm9ROHVodkVrYXdmd1JfSnpZaTN2X05McFVOa2fSAWtBVV95cUxQZE41VVJuZl9sZWpPNDZKWHdfcUczZ1VUa2pzOF9BRnJ3ek9kRUlvaVcwNG5wZ25xVTB6dnlaUFdVSTdMblZld09UUnFiNWRoT2JCMWFnUy1ncW5LcUxudFJjWjVmd2FOQnBVQQ?oc=5",
             "date": "2022-07-12 16:00",
             "description": "",
             "company": "넥스지",
@@ -11056,6 +11126,16 @@
             "title": "CI 제작회사 ‘디자인스코’, 윈스테크넷 새 CI 개발",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sUmhmcHl4Sllpa0xxLXdvbWMwTEZXeGZ6cWNiVXN6RGN4cE1xbWlJdnNOdE1xY2NSdnduN1p1ZEwwYTg5cU5TVmRraUVNRHVBS0hRMUxqUHFXUmRta3c?oc=5",
             "date": "2012-02-08 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 대학생 대상 기업탐방 실시",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tZ2tnVTFCRzA3ZU8tXzBhdHU2QWFXRUlLTDRiSFpRNjFMMVNrbldsZnYzQk5Ydnduc1ZBQWRyVUhldF9YbW1BYU85NXR3TXN0WHUwdXRn?oc=5",
+            "date": "2012-01-16 17:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -68229,12 +68309,23 @@
             "is_today": false
         },
         {
-            "title": "팔로알토 네트웍스, 2세대 ZTNA 위해 원격 접속 보안 솔루션 기능 강화",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtcU42dHQwcUpBMDg4WHA5TC15YUdDM2gyNmJoQWVSbk8zNnh4UFo4Qzlacm1icThybFl4S1ptZ0NnNmRWZU01NHBoY0tXZ2xoUjZrM0xrNTdyMkJrRE1Z?oc=5",
-            "date": "2022-05-19 16:00",
+            "title": "SKT, ‘이니셜’로 무인매장 방역 강화한다",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPQW1Yb3JuNlJmSy1MQ282NVJ2SmFwNW40SDNvWjhjSkJUZ3JYNmM1TC1sTW1KT3lzeHM0cU92TEhFQnFpRVJTNQ?oc=5",
+            "date": "2022-02-02 17:00",
             "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
+            "date": "2021-06-07 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

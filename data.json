@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-05 11:42",
+    "updated": "2026-06-05 12:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -11374,6 +11374,39 @@
         }
     ],
     "trend": [
+        {
+            "title": "[카드] KB국민은행·아톤, 양자내성암호 기반 인증체계 MOU",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yTmxxUERFMjk0X3ZKdGtZMS1BYVZMMkRmTkdkM2RYVjd1R1hpZmV3OUI0SFVySjVBZHY5QmFITGtVdXdVYlVfYWV6ZjM5VFBHcjJrb2FWUkhXcmQxMFI0aQ?oc=5",
+            "date": "2026-06-05 11:48",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI로 스스로 취약점 찾아 네트워크 공격·전파하는 '웜' 등장",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WQ2lpd1VPWlNmSTgtUkxxT3J6eG1pWm5oVkNlVUVsVDN1cXE3VVJ1emY0aFhUZThMa2xFangxNjVVM1Vya0J3VW85Y1lISVE?oc=5",
+            "date": "2026-06-05 11:47",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "AI·보안 기술 해외로…국내 ICT 기업들 글로벌 접점 확대",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oWjVHam5QMVdnLVFKRVdaYTNRWkNIMDlqWkJ0d05XY2huekhuU3R0ZnR6WWZ4UFJSWldNRW1oQVFqNkxIbDhqMDd3UGxHTVF4QWE2M2M3c1g1aXNmYjV1Zkd3T1NSZ3doYlZvMk9lOA?oc=5",
+            "date": "2026-06-05 11:44",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "KB국민은행, 아톤과 손잡고 양자내성암호 보안 검증 착수",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fVkNYYW00THo5QnVGVnU1M2RabV9qd0lWRFlwVEZmR09DbVktTTJmYVdNNHZzcTBvbC1oUU5wZG9LYXFBUzRmZjhrZkRUS1RsYUt2UFRGa1AzT2I5RzBpZzBYX3g?oc=5",
@@ -66683,6 +66716,17 @@
             "is_today": false
         },
         {
+            "title": "라온화이트햇, 군인공제회C&C 및 금융권과 ‘블록체인 기반 비대면 서비스 개발’ MOU",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWT29ySi1pRjU1ZllLUTlxT3cxV2IwVWxqM3c1M29samhYWUVVQjFoSnpGR0lpRU81YkZ1cDhWZmxzWmRUSURQeEZmU0NvX0VveEVELVQwem9icHdrQkR2RkQtZG1CUEk?oc=5",
+            "date": "2022-04-01 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "SKT, 신한은행-삼성SDS와 함께 블록체인 기반 DID 서비스 경쟁력 강화",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QYmxPNjRoaF9PUUxrdV85ZlZOaTVkbnNKbFp4cnR3amRqOWtWRzAzTEhYOVJwa0J0U2dFS2VpNTg2OFVBY3ppdQ?oc=5",
             "date": "2021-10-13 16:00",
@@ -66707,6 +66751,17 @@
         {
             "title": "SKT ‘이니셜’, 사물 DID 시대 열었다!",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoeXpvQkRnVFZLQ0xIQ0pKS0ZLQVN5bHZIVzhKRWdyMXlWcVA0QXBGMGhId0FHVTQ0Wk1Sc09oWVgyZGgxYWhPQw?oc=5",
+            "date": "2021-06-07 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
             "date": "2021-06-07 16:00",
             "description": "",
             "category": "AI Agent",

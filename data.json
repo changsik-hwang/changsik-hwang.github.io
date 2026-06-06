@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-06 12:00",
+    "updated": "2026-06-06 13:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -10533,16 +10533,6 @@
             "is_today": false
         },
         {
-            "title": "넥스지, SECON & eGISEC에서 PQC 알고리즘 탑재한 신제품 라인업 공개",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94d1hBMnVSSUhQTno3Vkc5ejlqcEFtcW9NYVY2MDlBNFYxc0FRbnRicjE1cWZrdi04anM2WlZwUlMySVJRME5IQzU5Y3VJNnA4LVRuRGR3Y3RoM3BtclV2Zk13Qlk5OHJ3OVpiY3A5NjZJR1k?oc=5",
-            "date": "2023-03-27 16:00",
-            "description": "",
-            "company": "넥스지",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[미리보는 eGISEC 2023] 파이오링크·퓨처시스템·플랜티넷",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTGE4c1NEOHQ1MmlXNjNabGRQT3BBQVp6aGJ1aTJtN2t5TXZmMEpmMEFORzVOaE9UdXByTXh4T2NNXzlDWXZOZnJtVl9PdVQ4b1Z4Skp2ZXE1V0duMUpsZThFVFdyR2g3Mmc?oc=5",
             "date": "2023-03-17 16:00",
@@ -10598,6 +10588,16 @@
             "date": "2022-10-05 16:00",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "KX, 상반기 영업이익 403억 원…전년비 30% 증가",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03OHA0RF9uSENIWlBXR3lLSDJrbXYxcFVsWHdTWjAzQ0FaVXlKUS1ROFBwZ1BzZXRuQzA3ODRBRUxscFBhNmJqMENkSmZ4cEpHVTU2aWw0cEZBTDJVREFsOUZCX1B1Rk5X?oc=5",
+            "date": "2022-08-17 16:00",
+            "description": "",
+            "company": "넥스지",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -10703,16 +10703,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 STIC 출시",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YU203OWhvTFFhTGVhTE5ndTNzcXdpYXVxQUVGS2pSTlM2eGF1d0xYbW54eDlSSm16NGo5c1ZxS1dSWERTVnZueno3dVJWcUlKNzVpRS1n?oc=5",
             "date": "2022-06-09 16:00",
@@ -10743,16 +10733,6 @@
             "is_today": false
         },
         {
-            "title": "윈스, 부산외대에 ‘스나이퍼’ 보안장비 기증",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tYVJkU2FuRDVRQzU2bW1MdlZEZURqSFNsWElZemNvOEZkSU5FeGxEOExuaDZtTHplREh6c1ExQWFCMTZjai0yX1JQWFFBTmdNWW45c0lKN0xZS0FJLVk2LURR?oc=5",
-            "date": "2021-10-08 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
             "date": "2021-03-24 16:00",
@@ -10768,16 +10748,6 @@
             "date": "2021-02-25 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이, 100GF NIC 탑재한 고성능 방화벽 출시",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRSG1ka0ZWMEQxaTI3aFJkd2Y0eGJlWFpZX0tBZVFSV3N6TmFBRk5qSmVFM2ZUalBiaEd3OE9GeVIxVDZRdVBzeVVMQ295S3E0WlQtMEpXZ3U4YXEzRjFQU19yRUVwOGpQRjJtLUQ1U0ZobTA?oc=5",
-            "date": "2021-01-28 17:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -11053,6 +11023,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 공개용 웹 게시판서 XSS 취약점 발견",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40UlRZcUs0Q1Q1cjVjMkNIU3d2SEZ1U3dPTzVDYmNkRFlmeEFnaG9qQ09pdHd2M0FablF0enV4dXRDR1lzSHh2ZUFacHNEeVY5YnJtYW82Rk5VdC1USDdZcjNHbHlrdw?oc=5",
+            "date": "2013-07-05 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 개인영상정보 내부통제 솔루션 출시",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zYXUwOUVpaUZ5dWlVa2dXc2tWUlNTQi1iNktRbERPcmcxeVdpa2dmcGtLYVdoRE1TNWxVU1ZqYTU1VFMzM3pIRUR6dVRUWmhhUlRTNWdRSWNFQW9hQzItWDZDYzVjajVSQ0h3S2QwcHpfRW8?oc=5",
             "date": "2013-06-11 16:00",
@@ -11256,6 +11236,16 @@
             "title": "[화요기획]윈스테크넷",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
             "date": "2011-03-28 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 어린이 보안교실 운영",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VWnJmZmpiZ2xGZ1ZRbTcxR3hGa0JVU0Q0dDRKbHlOZVB3MmhtTUlaQURzX3dOMU1NYU80OVpDOExJY0dzME8yMjBfTQ?oc=5",
+            "date": "2011-03-21 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -68908,9 +68898,42 @@
             "is_today": false
         },
         {
-            "title": "SKT, ‘이니셜’로 무인매장 방역 강화한다",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPQW1Yb3JuNlJmSy1MQ282NVJ2SmFwNW40SDNvWjhjSkJUZ3JYNmM1TC1sTW1KT3lzeHM0cU92TEhFQnFpRVJTNQ?oc=5",
-            "date": "2022-02-02 17:00",
+            "title": "팔로알토 네트웍스, 2세대 ZTNA 위해 원격 접속 보안 솔루션 기능 강화",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtcU42dHQwcUpBMDg4WHA5TC15YUdDM2gyNmJoQWVSbk8zNnh4UFo4Qzlacm1icThybFl4S1ptZ0NnNmRWZU01NHBoY0tXZ2xoUjZrM0xrNTdyMkJrRE1Z?oc=5",
+            "date": "2022-05-19 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT, 신한은행-삼성SDS와 함께 블록체인 기반 DID 서비스 경쟁력 강화",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QYmxPNjRoaF9PUUxrdV85ZlZOaTVkbnNKbFp4cnR3amRqOWtWRzAzTEhYOVJwa0J0U2dFS2VpNTg2OFVBY3ppdQ?oc=5",
+            "date": "2021-10-13 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "라온시큐어 “DID 서비스 활성화 위해 공공·민간 협력 활성화돼야”",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KZTMtdFZIM19HT0l5bWh6U1lwT2RvRTAwTTAzMkJxR1RnZEk1RkRkcmtaTGhMeTNYcDMzQ3doSlJOelI3MmsySno4Rno0SUUtc1RYSXFDN0xHNWVvN2tSNlhkMjB4VDQ?oc=5",
+            "date": "2021-07-13 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT ‘이니셜’, 사물 DID 시대 열었다!",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoeXpvQkRnVFZLQ0xIQ0pKS0ZLQVN5bHZIVzhKRWdyMXlWcVA0QXBGMGhId0FHVTQ0Wk1Sc09oWVgyZGgxYWhPQw?oc=5",
+            "date": "2021-06-07 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
@@ -68922,6 +68945,17 @@
             "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
             "date": "2021-06-07 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "아이콘루프, 서울시민기자 대상 블록체인 기자증 발급",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfMUxxc3pZMjhsLVU4eksxMm9oSHEwLWhLdVQ3bmhIWnpybTVKUUhnQ3FFUmwzS3h1cXoydFRHQmtEOWRDWEh1cHRXNmtwQQ?oc=5",
+            "date": "2021-04-07 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",

@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-06 16:00",
+    "updated": "2026-06-06 16:42",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -3895,6 +3895,16 @@
         {
             "title": "시큐아이, '2026 파트너스 데이' 개최",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41YW9NNDVRd1BnQ1JGOHNDXzBsSDJJTE10S2lieEN4R2VMQWVPMjVwQ05hYTJiMTRkM003UzJGY1lzZDF2VzVHeGlPY3dhR29ncXJHUGlwdkJaMlNhRC1uTzQ5R0doVGNYLWFOdA?oc=5",
+            "date": "2026-03-19 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, '2026파트너스 데이' 성료",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84MjhmMTVwMWI0MDlaeWszRlNNYjRPM3FUT0NCMWpBZ0lreDdvRkhDaWNtQm1vN2p6MEhnd0F1eVBCT1hXNm9fRDJ3WnZjSnRkSGpiV2lGdzhMeVJGLVVyRXMxSVBQT2xn0gFsQVVfeXFMT2phaFNlVERmS2xjQmNRcW5yWnVJYkQzVjM5TFhjZWxCeGYyeWNsOTRwNEpGa21CWTNTVG85elQxeHhXWFFQb3ZudDZyaU42X1V5QVBtdl9qaDNuLXNheXF4eFhoSkVHdEJsM05w?oc=5",
             "date": "2026-03-19 16:00",
             "description": "",
             "company": "시큐아이",
@@ -10553,6 +10563,16 @@
             "is_today": false
         },
         {
+            "title": "20여 년 국내 정보보안기술 선도…‘부산 스마트시티’ 통합관제 지휘",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWRlN2pvUVRGTTVCQllxZjRiMWh5eTJ0eGFFM2xERDFQRDc0MXRRQUZrc2ZJbzBxYXhMX0V1WGFHRUVZMzlVRjdKcnVKaEJiUm1MVmpvTFQzN1NoNXRwa0VYTEF4LWZEWXBobVdOUW9rSlA2SmxpbGVRM1A0SGJOQnNCdnpTZU9uYzV3UlVB?oc=5",
+            "date": "2023-02-21 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[정보보호 대표 상장기업 분석-4] 윈스의 매출과 사업성과 집중 분석",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95eUtVOWlqOWxITDYxSzBUV004LVV4bXlrRkxzVExtRm5OUXdTS2VhUF9XOWYycGVCX0xGMk13c3pyOUdPS0IyTk9oYVI0OFhCTUZPY0RFQ3lOTUlxOXdV?oc=5",
             "date": "2023-01-13 17:00",
@@ -10583,31 +10603,11 @@
             "is_today": false
         },
         {
-            "title": "[기획]시큐아이, 11년 연속 네트워크 보안 1위 '절대강자'",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lOXFOV015MnJlNkZFcmRLQVl5emV5RFJzMkZZVVNHMzh6d0RCX0hjMnRndDVJV3RaeGt4SFZlbXZMTkxDb3RxNWpoa0Rxdw?oc=5",
-            "date": "2022-11-22 17:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이 송병걸 프로 “악성파일 분석 결과, 한 눈에 파악하는데 초점 맞춰 개발”",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wb1owMEl0SHRMV2hVZEM5T0tRWUtZVHRuSVhyN3ctNWFES1B1SV9zR1NPTVlDcUNvSHFjTnJHN19JWTY0eDN2WnFFWXd6QlVGTGwwbkF0c1VXRWhHV3c?oc=5",
             "date": "2022-10-05 16:00",
             "description": "",
             "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "KX, 상반기 영업이익 403억 원…전년비 30% 증가",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03OHA0RF9uSENIWlBXR3lLSDJrbXYxcFVsWHdTWjAzQ0FaVXlKUS1ROFBwZ1BzZXRuQzA3ODRBRUxscFBhNmJqMENkSmZ4cEpHVTU2aWw0cEZBTDJVREFsOUZCX1B1Rk5X?oc=5",
-            "date": "2022-08-17 16:00",
-            "description": "",
-            "company": "넥스지",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -10903,16 +10903,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷 복지 - 기업 소식",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBneXFqSGQ4UmVYMFR4ZTF4MXJkOWo3elJGRW82ZDhCYk1LeWdna3N2MlJxYUxTMFRqTVo3YTJSMFNDVC1TLVJRbEtZc0dySDIwOUhUTGpMajlPUUlHYXd4bFdVYw?oc=5",
-            "date": "2016-03-31 19:18",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "(주)퓨쳐시스템 2026년 기업정보 | 60건 면접후기 3.0 면접난이도",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVlfTkY0Tk9MZnI5TkJuZDhtZlhpTWhaN1MtRUNxYnJlTThEeHZGOXFDdDJqbENYRUJ1UVJhanA4V3RrU2ZYeFdHM3BCMndJbTNxVWQybXpQMmhqTlBGWVJxdTE5eVhoem5hSVhTQVQyZ3h2bFNZYUdrZlFUVEtFZW9qSkJTZWY4MW5tRi1iUjkyS2xZS1ljYVp3bWtRZ0xwNWc?oc=5",
             "date": "2016-02-27 05:29",
@@ -11053,9 +11043,29 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 미래 전문 보안인 꿈꾸는 대학생 초청견학 실시",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYZTcyeFRfdjFiTmRnUHphUXViVjFxRVhUUUxIczVNd1ZQc3FpNHBVcnJ5dzNlNVVFOTNwQi1sdzRZQVZSR1ppMnQtc1JJbV9NUE5YMmdtbzRadzdGajdoNk1kdFRyVngxWExiNlBiNnU?oc=5",
+            "date": "2013-09-30 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 개인영상정보 내부통제 솔루션 출시",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zYXUwOUVpaUZ5dWlVa2dXc2tWUlNTQi1iNktRbERPcmcxeVdpa2dmcGtLYVdoRE1TNWxVU1ZqYTU1VFMzM3pIRUR6dVRUWmhhUlRTNWdRSWNFQW9hQzItWDZDYzVjajVSQ0h3S2QwcHpfRW8?oc=5",
             "date": "2013-06-11 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 대학생 기업 탐방 실시",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJNEFaNk9LWVZNenc1a05CYU5RdWJnQ1JneFhnblhfT3pJMlhkeDd4Vjk2d2xUMjJfR1ZIZVU2SEtSOXdtbm9sNWtTa2d5eEdZUktKVG1n?oc=5",
+            "date": "2013-06-03 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -11073,9 +11083,29 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷-호원대, 산학협력 MOU",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIUjJvV21uNnhLdlB1aUNSbVdyX0JDZWgyNjFNVU5GcXlHd2tPOGlZYUw5V0ZYNExkNmNDd0xGMkVGY3FTNXIzQkpjTjdRN0gyb1RiZHZR?oc=5",
+            "date": "2013-03-14 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 백신기반 APT공격 대응 솔루션 출시",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEX04wNHVFdHBwdkd4TzktUDNQZHV4OWt3V0dWVFBfc1pKQTh0ckJ3ZDVvTnhuRlQ3RXRxU3BBUklqTXVsSWlldzZTXzQ5OVdPdHh4TFpSNUtnTTM5T3hPbGFzbmF4eXlpTHVvekszRW9qQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iV0hPQWhucEIwZ0NGQWNhTHRQMmdZTmo2SUpFTURTSHhaM19PU3d3OUVYRzhyTkI3RlFJRllLSlI2bndsQzl4czVPOXZERmpzVU5nQ21pU0NkcE11VzVyS29jNnFMUQ?oc=5",
             "date": "2013-03-07 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 40G 지원 차세대 방화벽 출시",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPbmM4TzFiNnROZm9Fc3ZjNXBEWU1vVHNJUGZ0RjZJamEzVEx5WHEwYUt6RXQyb21uaVNVamg1NjNCeHc5NUpDUnhLT0RiOGR6eXRLR0hR?oc=5",
+            "date": "2013-03-04 17:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -11143,6 +11173,26 @@
             "is_today": false
         },
         {
+            "title": "CI 제작회사 ‘디자인스코’, 윈스테크넷 새 CI 개발",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sUmhmcHl4Sllpa0xxLXdvbWMwTEZXeGZ6cWNiVXN6RGN4cE1xbWlJdnNOdE1xY2NSdnduN1p1ZEwwYTg5cU5TVmRraUVNRHVBS0hRMUxqUHFXUmRta3c?oc=5",
+            "date": "2012-02-08 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 대학생 대상 기업탐방 실시",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tZ2tnVTFCRzA3ZU8tXzBhdHU2QWFXRUlLTDRiSFpRNjFMMVNrbldsZnYzQk5Ydnduc1ZBQWRyVUhldF9YbW1BYU85NXR3TXN0WHUwdXRn?oc=5",
+            "date": "2012-01-16 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 대학생 기업 탐방 행사",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ra1pfOVRpTkJ3MW9DNkdDM3RvcVJSZTJZc0RTbFFuY3NvdzZZcmZScF9IUUZhX0ZQX08tWnJkVzc3ajFPdjl2S3JmSEFVajd5bmlVZzFXc1NvOGFJOXVDMnQ4YUh0YUE?oc=5",
             "date": "2012-01-16 17:00",
@@ -11193,9 +11243,9 @@
             "is_today": false
         },
         {
-            "title": "[화요기획]윈스테크넷",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
-            "date": "2011-03-28 16:00",
+            "title": "\"파견관제가 통합보안으로 가는 교두보될 것\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYTGxBbDFDaFpRQzFGZWRoNlhYTTVIbWZVeGtkWVNBZEk2dVFFVE83Wnk5dktJNUhnWTdxNWRremxLUGtnLU80clV1ajd3SXNMbjI4YUJn?oc=5",
+            "date": "2011-07-01 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -11203,9 +11253,9 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 어린이 보안교실 운영",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VWnJmZmpiZ2xGZ1ZRbTcxR3hGa0JVU0Q0dDRKbHlOZVB3MmhtTUlaQURzX3dOMU1NYU80OVpDOExJY0dzME8yMjBfTQ?oc=5",
-            "date": "2011-03-21 16:00",
+            "title": "[화요기획]윈스테크넷",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
+            "date": "2011-03-28 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -11283,31 +11333,21 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 나우콤이 흡수합병",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LcjFmNmk3MzJld1ZZNEh0c2stdmZjZ3FMakNZWXY0cTRmRzhGaXRoVG5MOEFVRFBZYkc2M2tvRUgwam1ZNzU3X3E0ZlZqNm5aZlpEb0RlNGxweUtG?oc=5",
+            "date": "2007-10-10 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "보안업계 전 수장들 속속 복귀",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXSWloNjdYS2xxT3NSOThDSWQwMV9aN0hfRWduREZqWEdvaTc0OVI4XzVZUmp1WDZ0ejJKNDl5ZUpmb0ttOERxcWpZWWRFUQ?oc=5",
             "date": "2007-09-13 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "김대연 윈스테크넷 대표이사",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50SEEzbEgzWWRIZlM4Tk9YQ1FrNXFhZ3lURk1qVS16V0VnS29kZERheFVJVV9pQzhXZDNmenQ5UGJIWjhDVkV6R09NNW10MmVFbmNIZFpCQW9kNDluRnFqSnBsdlVfX01tTFRn?oc=5",
-            "date": "2007-01-31 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[기업열전]ET클럽 회원사를 찾아서-나우기연·윈스테크넷",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BUW5jZWREOHlZVkFOa0VKLV9IaEk0U0t6eXppQUtURzJkam9XSVRzdUpSLXp5RkxCa3pCRy1FV1RJbGV3MzJCaHpuNA?oc=5",
-            "date": "2006-11-03 17:00",
-            "description": "",
-            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -11618,16 +11658,6 @@
             "date": "2001-09-04 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 리눅스코리아와 제휴..보안솔루션 공략",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbHhpcHoyZkhuVHpRRWVlajhCWmloM3ZOeGUydnJWRTk3c0RiZmQxendwd3duTXcyakZacU9KTV92UklobFFwRzNqVnBBdVFsY3RKcmdzSWw0a3FGUzh4UnpmaXR1OTV5VmRfMmt5dG92THBrUzN6X2tCeEdPeFd1dA?oc=5",
-            "date": "2001-05-24 16:00",
-            "description": "",
-            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -57325,6 +57355,17 @@
             "is_today": false
         },
         {
+            "title": "‘AI 대 AI’ 보안 경쟁 본격화, 공격 자동화에 맞선 정밀 방어가 관건",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3YWtCa1pnVUxZbml4Q1VzSWpCUk1yWm1yRVhlOVhWeTl6QmdWT1BkV0Y2WGgzaUdGa0RwTi03UVoxNTN0YkxlaWpUMC1STFJtbmltOGs3T3pDQkVLT0xLMG5Dc19fVlBOd0E?oc=5",
+            "date": "2026-01-29 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[영자와 보안] 펜타시큐리티, 암호모듈에 PQC 적용 완료",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QeHh6QWRBaXNzMTREMEg0cFhHNzRBLUlBb2pxc1FnRS1QYXlNVC1rYzBQbVVtU0dxZXo5TTFLcGhmcmNJaFZUclg4SHQ4RkhDVVJIcjRKMVNORlpwTUp0LQ?oc=5",
             "date": "2026-01-29 10:43",
@@ -69018,64 +69059,9 @@
             "is_today": false
         },
         {
-            "title": "[기획특집] 네트워크 보안의 기본 ‘NAC’, 차세대 ZTNA 근간으로 재조명",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ra1p6OVIxZzhhSFlhV3FKc0MwMFQ0b1VIem5lVUdEYjRyZEhFZVpkY1VhU1BfS19ic09sdFE5djZpRC0yNXV3QW9BRU55YzJzZWlaWmRRSmUteU5rbnFOV3lYTGJySmRrN0hn?oc=5",
-            "date": "2022-08-31 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "팔로알토 네트웍스, 2세대 ZTNA 위해 원격 접속 보안 솔루션 기능 강화",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtcU42dHQwcUpBMDg4WHA5TC15YUdDM2gyNmJoQWVSbk8zNnh4UFo4Qzlacm1icThybFl4S1ptZ0NnNmRWZU01NHBoY0tXZ2xoUjZrM0xrNTdyMkJrRE1Z?oc=5",
-            "date": "2022-05-19 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "팔로알토네트웍스, ‘프리즈마 액세스’ 기능 강화로 ZTNA 2.0 구현",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LcG5OeUtmRURIekJhcUh2T0phZmo4MFpHTmZKS3REUkwybElocnV3bDlwci1neGtBWWZYVG0tdExLQjRhR21vaW1qbld4c1NSaDFQelN6N1JuMFowZERSQlZtdXp6dm8?oc=5",
-            "date": "2022-05-19 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "SKT, ‘이니셜’로 무인매장 방역 강화한다",
             "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPQW1Yb3JuNlJmSy1MQ282NVJ2SmFwNW40SDNvWjhjSkJUZ3JYNmM1TC1sTW1KT3lzeHM0cU92TEhFQnFpRVJTNQ?oc=5",
             "date": "2022-02-02 17:00",
-            "description": "",
-            "category": "AI Agent",
-            "keyword": "AI 에이전트 DID",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "포티넷이 클라우드 보안으로 SASE와 ZTNA를 주목한 이유",
-            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kay1lT3BncUV6RngtZ1lyUTF2Rk9HZ3NFcUduVzJfNUE0bWlJU2tBT2QzczJua1Q1V1JhUU5nV3pjcEx6T0NOQjBxa2xVYms?oc=5",
-            "date": "2021-07-22 16:00",
-            "description": "",
-            "category": "제로트러스트",
-            "keyword": "ZTNA",
-            "tab": "trend",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "SKT ‘이니셜’, 사물 DID 시대 열었다!",
-            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoeXpvQkRnVFZLQ0xIQ0pKS0ZLQVN5bHZIVzhKRWdyMXlWcVA0QXBGMGhId0FHVTQ0Wk1Sc09oWVgyZGgxYWhPQw?oc=5",
-            "date": "2021-06-07 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",

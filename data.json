@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-06 11:00",
+    "updated": "2026-06-06 12:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -10503,16 +10503,6 @@
             "is_today": false
         },
         {
-            "title": "넥스지, SECON & eGISEC에서 PQC 알고리즘 탑재한 신제품 라인업 공개",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94d1hBMnVSSUhQTno3Vkc5ejlqcEFtcW9NYVY2MDlBNFYxc0FRbnRicjE1cWZrdi04anM2WlZwUlMySVJRME5IQzU5Y3VJNnA4LVRuRGR3Y3RoM3BtclV2Zk13Qlk5OHJ3OVpiY3A5NjZJR1k?oc=5",
-            "date": "2023-03-27 16:00",
-            "description": "",
-            "company": "넥스지",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "넥스지, PQC 알고리즘 탑재한 UTM 신제품 라인업 공개",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEZ0s5Y0ZzeV9SZlZOdlB3alBnTkpQNks0OF96MGxoUUJ5QjVnNGo5eXg0UmtOSlktU2hJUHhCZWtGck1Ra2ZHSFRiUnZpQQ?oc=5",
             "date": "2023-03-27 16:00",
@@ -10535,6 +10525,16 @@
         {
             "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재한 신제품 라인업 공개",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tSzN5LXF3ZTRwNnVvTWtVR0p1WGpVZUhwRWRETkxuOVJ4RnZTcnAxSGFubU1rTDItRXNWNjJfTGJ2aWIzS0hpWC1nN2VjZ1N0OVVhVG42TUxoMGh6VEw4U2JQOXlWdnc?oc=5",
+            "date": "2023-03-27 16:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "넥스지, SECON & eGISEC에서 PQC 알고리즘 탑재한 신제품 라인업 공개",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94d1hBMnVSSUhQTno3Vkc5ejlqcEFtcW9NYVY2MDlBNFYxc0FRbnRicjE1cWZrdi04anM2WlZwUlMySVJRME5IQzU5Y3VJNnA4LVRuRGR3Y3RoM3BtclV2Zk13Qlk5OHJ3OVpiY3A5NjZJR1k?oc=5",
             "date": "2023-03-27 16:00",
             "description": "",
             "company": "넥스지",
@@ -10598,16 +10598,6 @@
             "date": "2022-10-05 16:00",
             "description": "",
             "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "KX, 상반기 영업이익 403억 원…전년비 30% 증가",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03OHA0RF9uSENIWlBXR3lLSDJrbXYxcFVsWHdTWjAzQ0FaVXlKUS1ROFBwZ1BzZXRuQzA3ODRBRUxscFBhNmJqMENkSmZ4cEpHVTU2aWw0cEZBTDJVREFsOUZCX1B1Rk5X?oc=5",
-            "date": "2022-08-17 16:00",
-            "description": "",
-            "company": "넥스지",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -10713,6 +10703,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
+            "date": "2022-06-10 16:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 STIC 출시",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YU203OWhvTFFhTGVhTE5ndTNzcXdpYXVxQUVGS2pSTlM2eGF1d0xYbW54eDlSSm16NGo5c1ZxS1dSWERTVnZueno3dVJWcUlKNzVpRS1n?oc=5",
             "date": "2022-06-09 16:00",
@@ -10768,6 +10768,16 @@
             "date": "2021-02-25 17:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, 100GF NIC 탑재한 고성능 방화벽 출시",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRSG1ka0ZWMEQxaTI3aFJkd2Y0eGJlWFpZX0tBZVFSV3N6TmFBRk5qSmVFM2ZUalBiaEd3OE9GeVIxVDZRdVBzeVVMQ295S3E0WlQtMEpXZ3U4YXEzRjFQU19yRUVwOGpQRjJtLUQ1U0ZobTA?oc=5",
+            "date": "2021-01-28 17:00",
+            "description": "",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -11665,6 +11675,17 @@
     ],
     "trend": [
         {
+            "title": "앤트로픽, AI 에이전트 보안 백서 공개… “제로트러스트 적용해야”",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMYmF4bW5qaTBQM2FqdjBuNzFnNE5laFZnVUNmZmpMQXdWcmlaRUcwRE1LeDNkZGxtZHFLY0RrUHE0Z2NjTWNRd01xNlluZw?oc=5",
+            "date": "2026-06-06 11:30",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "[글로벌] 앤트로픽 'AI 스스로 후속 모델 개발할 수도...국제 제어장치 필요'",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qOW5jaXliUnRMNHM4TEtGczdnRzVCQXRuVHlGVmN4VnJjQmNzcFJCRnJrYldxQjl2Y21BZHJPU1o5S1NSZEk3ejBTTFZDdElxcVIyRThzWmh4Ql93WVRzR3dhWnVkQdIBakFVX3lxTE1xRmM2R0hoSWFjVTZBQk5jRWlhLTVSZG5yOURaR0RKbXlZSUl3aEtSd2s4aV95SF9teUpoVkNEU1hZZUtKTzJJVVNPb2ZFaVRYc2NoeWkzenlpZXB0Qm56RUZkbXZ6XzZGQmc?oc=5",
             "date": "2026-06-06 10:11",
@@ -11715,6 +11736,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 신원",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "[박준성의 SW] AI 코딩 에이전트는 주니어 개발자...SW공학 필요",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iV0pGV1RpZ1didTF1M2hQLWJzQVpFdHROTUV1dHhGeFpNOG8yZUlhNnhwbUxtRW5yX0hQdXJXc0FUZi11ei1uOXl3eHNmZGZGc1R6aWtn?oc=5",
+            "date": "2026-06-06 08:34",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 표준",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -12521,6 +12553,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "KB국민은행, 아톤과 ‘양자내성암호 기반 인증체계 기술검증’ MOU",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JUzQ3SUJVdERXRklXRy1yMjlmR1lUdWRlZmJxN0ZQXzlIN0o5UWlsbThWMlJYck5uZV9zN21heDBTWExfa0xSQXZYN3B1b3o0bFY0YlhYTksxaHNTMFNEbDd2YlZEbzFROEQ0?oc=5",
+            "date": "2026-06-05 13:25",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "KISA, 韓-인니 정보보호 파트너십 데이 성료",
@@ -71463,15 +71506,15 @@
         "2026-06": [
             {
                 "keyword": "에이전트",
-                "count": 101
+                "count": 103
             },
             {
                 "keyword": "앤트로픽",
-                "count": 81
+                "count": 82
             },
             {
                 "keyword": "검증",
-                "count": 78
+                "count": 79
             },
             {
                 "keyword": "금융",

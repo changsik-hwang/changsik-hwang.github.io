@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-07 01:00",
+    "updated": "2026-06-07 02:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -3678,6 +3678,16 @@
             "date": "2026-03-30 16:00",
             "description": "",
             "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[리포트 브리핑]KX, '4Q25 Review: 글로벌 레저 사업 확대 가속화' Not Rated - 유진투자증권",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03MC1XTXJkZXJWQ1dxWFpNek5uTEpLUkJOQUtYUnc2eWFpanRrVWFHd2ZUVXBtdWtkWmRNa2RyT2ZwNmdlbkdNYVdKV181YWVIdmVITENiTzdxaXBO?oc=5",
+            "date": "2026-03-30 16:00",
+            "description": "",
+            "company": "넥스지",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -10623,6 +10633,16 @@
             "is_today": false
         },
         {
+            "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재한 신제품 라인업 공개",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tSzN5LXF3ZTRwNnVvTWtVR0p1WGpVZUhwRWRETkxuOVJ4RnZTcnAxSGFubU1rTDItRXNWNjJfTGJ2aWIzS0hpWC1nN2VjZ1N0OVVhVG42TUxoMGh6VEw4U2JQOXlWdnc?oc=5",
+            "date": "2023-03-27 16:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[미리보는 eGISEC 2023] 파이오링크·퓨처시스템·플랜티넷",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTGE4c1NEOHQ1MmlXNjNabGRQT3BBQVp6aGJ1aTJtN2t5TXZmMEpmMEFORzVOaE9UdXByTXh4T2NNXzlDWXZOZnJtVl9PdVQ4b1Z4Skp2ZXE1V0duMUpsZThFVFdyR2g3Mmc?oc=5",
             "date": "2023-03-17 16:00",
@@ -11133,6 +11153,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 집수리 心봉사활동 전개",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02c0JGQXNkM3dvbmxjNTNmb2p0SERaaExwZy1GNVZUR1E0VnA4aHFYWmZpcU1uWjY2ZktaRXZOZlJFYWpjNTZJNTEwcnFsRFRIcTBOM1lGcU1rM09hNmhfUTk3ZFVNdEZELUltcmRKYldYdw?oc=5",
+            "date": "2013-03-19 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 협력사 동반성장 워크숍 개최",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VM1EwaHllaTdMY2JoQTR0bzNyRmpFelRseVR3ME1QS184cWpjZU5xSHJZZDhOLXBZNVdNaWVaTlBtM1NldzN1ZWQycXFROWhCVnI5dkVJTFVHeFV5cGhYOEJDNU52U29GX2c?oc=5",
             "date": "2013-03-18 16:00",
@@ -11266,16 +11296,6 @@
             "title": "윈스테크넷, 사랑의 집수리와 MOU 체결",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxMTdtMVNYV1JkUDJOTmZ6Mi1EUHFSY3BQMUVvaDFpRGRZVlBVVFY1UkwxR0dpc245U01RQ1NIMmVpWVBBLWRtUVlIOXlyV1p4LWZyZ0JQaEw3cmZV?oc=5",
             "date": "2012-01-06 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 일본 IT기업에 IPS 공급",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92MERrY0hwTEUxS0syaXFFVWItYWVsNHBoQTd3VEJTLVJZMWY0M0dzWDVOSnVERzc5R2tDT2Jla212U1VZQmlhX3l4dUZ1ejhYZXdGV0VnWEw3cFlYNlNlWUlQY0xUTW8?oc=5",
-            "date": "2011-10-21 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -11714,6 +11734,17 @@
         }
     ],
     "trend": [
+        {
+            "title": "기업 AI 보안 사고 30% 돌파...섀도우 AI·데이터 유출 막을 실행형 거버넌스 시급",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Bd2VkVTNZT2c5SEJkLW5VS3g1eVlHN2t1V0xHd2xRWVBad3hhbkM4aHdUQzdITWo2eU9xVFVlV3pnYTBqaktyLXVaMy13RnBRZEtUdVJpWnBCUHZWMHh5T2dEWGt6WjlHN2c?oc=5",
+            "date": "2026-06-07 01:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "AI 도입해도 성과 낮은 기업, 원인은 데이터 단절과 거버넌스 부재",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vbWpKWXVMUEVUQVZLX0huakRkVzFTal9oMjBPTDN5VU4xOGUwSE4wT3FpTEJmTko3UUxsaDJIb3VIV0cwZ1ZEWkZjb2JyNHp6Y3dhd1AtTEJIVEtvbnlKR3B4eHR4N0pScmc?oc=5",
@@ -47691,6 +47722,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "폴라리스오피스, AI 보안 위협 대응 강화…글로벌 솔루션 도입 확대",
+            "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mV3I0eHdYVlVyUk5yT1dZLUQxVXRHQWRJdW9nSFZUWlE3NWc2YXVneThHZ3RkLW0yXzJDSkFtaTFuMGRndEg3TGZLNl9YSjhycXRnQg?oc=5",
+            "date": "2026-04-16 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

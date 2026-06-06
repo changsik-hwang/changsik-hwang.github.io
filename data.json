@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-06 13:48",
+    "updated": "2026-06-06 15:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -10503,16 +10503,6 @@
             "is_today": false
         },
         {
-            "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재한 신제품 라인업 공개",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tSzN5LXF3ZTRwNnVvTWtVR0p1WGpVZUhwRWRETkxuOVJ4RnZTcnAxSGFubU1rTDItRXNWNjJfTGJ2aWIzS0hpWC1nN2VjZ1N0OVVhVG42TUxoMGh6VEw4U2JQOXlWdnc?oc=5",
-            "date": "2023-03-27 16:00",
-            "description": "",
-            "company": "넥스지",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "넥스지, PQC 알고리즘 탑재한 UTM 신제품 라인업 공개",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEZ0s5Y0ZzeV9SZlZOdlB3alBnTkpQNks0OF96MGxoUUJ5QjVnNGo5eXg0UmtOSlktU2hJUHhCZWtGck1Ra2ZHSFRiUnZpQQ?oc=5",
             "date": "2023-03-27 16:00",
@@ -10525,6 +10515,16 @@
         {
             "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재 신제품 라인업 공개",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2czV2LUhZZ3lIcnpocmszZnRrNm9maGdtcnA4dTFoenV1WHZYaUg3dXQyczNOMFd0UkJjWUxRV1dBTWJBT0xDUkF3aFlUdGNaS3JZWjd0WTE5RmpwWVpob2FzRVI5a0g3VTk3Tzl3bUtjTFk?oc=5",
+            "date": "2023-03-27 16:00",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재한 신제품 라인업 공개",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tSzN5LXF3ZTRwNnVvTWtVR0p1WGpVZUhwRWRETkxuOVJ4RnZTcnAxSGFubU1rTDItRXNWNjJfTGJ2aWIzS0hpWC1nN2VjZ1N0OVVhVG42TUxoMGh6VEw4U2JQOXlWdnc?oc=5",
             "date": "2023-03-27 16:00",
             "description": "",
             "company": "넥스지",
@@ -10653,8 +10653,8 @@
             "is_today": false
         },
         {
-            "title": "KX그룹, \"사명 변경에 이어 신사옥 준공 통해 제2의 도약 계기 마련\"",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0WURhdDF3VHFZQ1RfZ2RXa2xUZWNHZmdpVzR2UE1TQmx0Mm1zWjgxdm8zTV9ZRTVCbGJCT2pxeHdIdmlTSGdOZUNmNm9ROHVodkVrYXdmd1JfSnpZaTN2X05McFVOa2fSAWtBVV95cUxQZE41VVJuZl9sZWpPNDZKWHdfcUczZ1VUa2pzOF9BRnJ3ek9kRUlvaVcwNG5wZ25xVTB6dnlaUFdVSTdMblZld09UUnFiNWRoT2JCMWFnUy1ncW5LcUxudFJjWjVmd2FOQnBVQQ?oc=5",
+            "title": "KX그룹, 강동 고덕비즈밸리 신사옥 입주",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1maDQzWVVybkZGbXhXM1RlM1hHSHN2X0g0R0Q3cmI4d21qclNSSy1Ka280WFVIOG9qdE1RYk9qamRjai1ubXIxSlViLWhfQQ?oc=5",
             "date": "2022-07-12 16:00",
             "description": "",
             "company": "넥스지",
@@ -10663,8 +10663,8 @@
             "is_today": false
         },
         {
-            "title": "KX그룹, 강동 고덕비즈밸리 신사옥 입주",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1maDQzWVVybkZGbXhXM1RlM1hHSHN2X0g0R0Q3cmI4d21qclNSSy1Ka280WFVIOG9qdE1RYk9qamRjai1ubXIxSlViLWhfQQ?oc=5",
+            "title": "KX그룹, \"사명 변경에 이어 신사옥 준공 통해 제2의 도약 계기 마련\"",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0WURhdDF3VHFZQ1RfZ2RXa2xUZWNHZmdpVzR2UE1TQmx0Mm1zWjgxdm8zTV9ZRTVCbGJCT2pxeHdIdmlTSGdOZUNmNm9ROHVodkVrYXdmd1JfSnpZaTN2X05McFVOa2fSAWtBVV95cUxQZE41VVJuZl9sZWpPNDZKWHdfcUczZ1VUa2pzOF9BRnJ3ek9kRUlvaVcwNG5wZ25xVTB6dnlaUFdVSTdMblZld09UUnFiNWRoT2JCMWFnUy1ncW5LcUxudFJjWjVmd2FOQnBVQQ?oc=5",
             "date": "2022-07-12 16:00",
             "description": "",
             "company": "넥스지",
@@ -10703,16 +10703,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 STIC 출시",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YU203OWhvTFFhTGVhTE5ndTNzcXdpYXVxQUVGS2pSTlM2eGF1d0xYbW54eDlSSm16NGo5c1ZxS1dSWERTVnZueno3dVJWcUlKNzVpRS1n?oc=5",
             "date": "2022-06-09 16:00",
@@ -10743,16 +10733,6 @@
             "is_today": false
         },
         {
-            "title": "윈스, 부산외대에 ‘스나이퍼’ 보안장비 기증",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tYVJkU2FuRDVRQzU2bW1MdlZEZURqSFNsWElZemNvOEZkSU5FeGxEOExuaDZtTHplREh6c1ExQWFCMTZjai0yX1JQWFFBTmdNWW45c0lKN0xZS0FJLVk2LURR?oc=5",
-            "date": "2021-10-08 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-NSHC, 한국형 'AI 기반 자동화 위협 헌팅 플랫폼' 개발",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT0JPMHVqZDl1YkJRNVo5dU1wWENibE03cFJXN3BaWU93b19LQUZNMVBnNHcyTXJOMEd5NU5zbmFyUGlGVVpxZUhUUEc1TXZNRFAwcUROMU1BdlN1elRxNE9LVGVDV25rTDdnbw?oc=5",
             "date": "2021-03-24 16:00",
@@ -10768,16 +10748,6 @@
             "date": "2021-02-25 17:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이, 100GF NIC 탑재한 고성능 방화벽 출시",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRSG1ka0ZWMEQxaTI3aFJkd2Y0eGJlWFpZX0tBZVFSV3N6TmFBRk5qSmVFM2ZUalBiaEd3OE9GeVIxVDZRdVBzeVVMQ295S3E0WlQtMEpXZ3U4YXEzRjFQU19yRUVwOGpQRjJtLUQ1U0ZobTA?oc=5",
-            "date": "2021-01-28 17:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -11063,6 +11033,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 공개용 웹 게시판서 XSS 취약점 발견",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40UlRZcUs0Q1Q1cjVjMkNIU3d2SEZ1U3dPTzVDYmNkRFlmeEFnaG9qQ09pdHd2M0FablF0enV4dXRDR1lzSHh2ZUFacHNEeVY5YnJtYW82Rk5VdC1USDdZcjNHbHlrdw?oc=5",
+            "date": "2013-07-05 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 개인영상정보 내부통제 솔루션 출시",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zYXUwOUVpaUZ5dWlVa2dXc2tWUlNTQi1iNktRbERPcmcxeVdpa2dmcGtLYVdoRE1TNWxVU1ZqYTU1VFMzM3pIRUR6dVRUWmhhUlRTNWdRSWNFQW9hQzItWDZDYzVjajVSQ0h3S2QwcHpfRW8?oc=5",
             "date": "2013-06-11 16:00",
@@ -11193,6 +11173,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 대학생 대상 기업탐방 실시",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tZ2tnVTFCRzA3ZU8tXzBhdHU2QWFXRUlLTDRiSFpRNjFMMVNrbldsZnYzQk5Ydnduc1ZBQWRyVUhldF9YbW1BYU85NXR3TXN0WHUwdXRn?oc=5",
+            "date": "2012-01-16 17:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 대학생 기업 탐방 행사",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ra1pfOVRpTkJ3MW9DNkdDM3RvcVJSZTJZc0RTbFFuY3NvdzZZcmZScF9IUUZhX0ZQX08tWnJkVzc3ajFPdjl2S3JmSEFVajd5bmlVZzFXc1NvOGFJOXVDMnQ4YUh0YUE?oc=5",
             "date": "2012-01-16 17:00",
@@ -11256,6 +11246,16 @@
             "title": "[화요기획]윈스테크넷",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
             "date": "2011-03-28 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 어린이 보안교실 운영",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VWnJmZmpiZ2xGZ1ZRbTcxR3hGa0JVU0Q0dDRKbHlOZVB3MmhtTUlaQURzX3dOMU1NYU80OVpDOExJY0dzME8yMjBfTQ?oc=5",
+            "date": "2011-03-21 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -13575,6 +13575,17 @@
             "is_today": true
         },
         {
+            "title": "아이티센그룹, '스마트테크 코리아' 참가… 비용 등 AI 도입 해결법 제시 — IT뉴스모아",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95YXdxS0FqX0JjT0J2VUhHQVdUS3BRX3FYNWlfc3ZvN1NFa29GQ0JPZHhsa1NLMk1fd2xHX0xraHpMNExhZ3lYYmNyU3J6ei1YTTdJ?oc=5",
+            "date": "2026-06-04 18:26",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "자율형 'AI 웜' 구현 성공...\"인간 개입 없이 진화해 네트워크로 확산\"",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QX2syaEhMRGswNEJtZmhOUXpIUHp5RUcwRXBnR2JxaEVDS3NoLWJMdkdhdEU4b0pkZUtUV1JtYVRfcEtxRER0a1p2QUZkem9Jc1JBeXpGVmJoUjZkT01rczVuMzg2azgzelE?oc=5",
             "date": "2026-06-04 18:23",
@@ -14849,6 +14860,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "IT 운영도 '에이전트'…시스코, 통합 플랫폼 공개",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUMUdwMGZXY1ZWUW8zT2c5aU05TDFtSTFuVV9Ndk9DTkdKMXUyc1c5N3RtTk9kTUM4anprMDZ1bFRWU3cwbFpDeWVhR21LZw?oc=5",
+            "date": "2026-06-04 12:17",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "SKT, AI 보안 앤트로픽 '프로젝트 글래스윙' 합류",
@@ -52119,6 +52141,17 @@
             "is_today": false
         },
         {
+            "title": "[GTC 2026] 엔비디아 “이젠 에이전틱 AI 인프라다”",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56c0dFUDVCTTU5cEJYb01VVHZrNEhKMEZqZVdQc2kwUjRnZHZLX1E0aTB3cE9FNlNRT18tb0FSbFFmcGhDM2FSeDdqVVRjSFVSbG1tZi1RZXh4THRMcXVDLWhBTHY0MXRuYnc?oc=5",
+            "date": "2026-03-17 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AI 기반 공격 89% 급증…정찰·자격증명 탈취·탐지 회피까지 공격 전 단계 AI 무기화",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fTWhWZEo3UFVuUko1MEF2em44WUR2VElyTlZBZVpTOEx2dEg4ZDRlcktOU2Y4S1B5T2QyeHlGQ1ZMMUJDaElTS1NRd0lGeUUtTWt1bXFsMlUtQlNGNHdXY2hoSDdWR2tud2tqTA?oc=5",
             "date": "2026-03-16 16:00",
@@ -71646,7 +71679,7 @@
         "2026-06": [
             {
                 "keyword": "에이전트",
-                "count": 103
+                "count": 104
             },
             {
                 "keyword": "앤트로픽",

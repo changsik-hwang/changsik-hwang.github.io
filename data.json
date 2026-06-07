@@ -1,7 +1,17 @@
 {
-    "updated": "2026-06-08 07:57",
+    "updated": "2026-06-08 08:00",
     "current_month": "2026-06",
     "competitor": [
+        {
+            "title": "KX넥스지, 제로트러스트 기반 OT 보안 국가사업 참여…산업·공급망 보안시장 확대 박차",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nWDlVQzlTdXI3S2ZXVXVsRkpuS0pORF9YVVIwMUk2emZuYTE2UnRMMHoxTEcxWjlEY0VjM2ZXRjE1aVR0WnMyMHdQQnh4Q2U5OUdza2NkbXM3X3lxMW1SNklPeDd5UdIBakFVX3lxTE40anlLbk5zWUlkWmdmeWZfbmZIQUItUFpsOWwybVF6MnJHb1BfeXlOa2E0bUNUOU4zYnFVSnN2c3RQbFhsWUtmUHAyMFVZNHVCaUQ4RG1ic0dCVXlXZWUta3gxUGkwemx2SVE?oc=5",
+            "date": "2026-06-08 04:25",
+            "description": "",
+            "company": "넥스지",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "윈스테크넷 투자분석 2026. 06. 06",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWRFlkM1hiWlc5R2oxUHBPYnUxcnZKc1ljZUR3ZEwwSjUwWnZWeFJhb1ZRSnhjN1dadUJJdmlDSWhfUGFIV2VBbnF6aFE3bW5YRkVkQngwOW5qeW03cHN5blhEY2cxdk1hWUtGMU01Sk1aWlk?oc=5",
@@ -11003,16 +11013,6 @@
             "is_today": false
         },
         {
-            "title": "[데일리시큐TV] 김성현 상무 “주목받고 있는 '퓨쳐시스템 XDR', 시그니처를 넘어 인텔리전스로”",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Wc1VWeVhUaFpva0hoTkVWM0IzeDBaS1kxVWk4LVJQVU5XRTFoWHVPTm1id1ZiNjltd0pIUXF5UklxTWY2Zjdac0hQZHlEX2RsRWd3cDcyNEVpQXdOc1Z4a2pNekRrY0ZwNEc0UQ?oc=5",
-            "date": "2022-06-02 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템-씨커스, '보안사업 역량강화' SCA 체결",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAydjR2OG1ldlUwMmc2WjNpN3hfQUZBYUVUUlhXXzZycE9HM3NqeXF0RUxmajZBYWNRanA2d2NhNnE1Z3U3T2ZnWDhIblJKZw?oc=5",
             "date": "2022-03-16 16:00",
@@ -11264,7 +11264,7 @@
         },
         {
             "title": "퓨쳐시스템, ‘2014 대한민국 ICT Innovation 대상’서 장관 표창",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKZTBQaEhHYXVFMGg2aXpmME5xU3U2MFc3OGNzSzhlT1ZtVkF2c0lYUVVxS3g3WUtCOTdHRllkUGVpMHRobmV4TTc4dnJoZWg3ZmI2Ykg4Q0RKNm45VFptQXYyaFlvby1OLTVIMTNaMXpGQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tb05JaDlpWEE0WWF6VWNRTHRUbEtKWGhqR08wVzQtX1Z3Ym1hM3RveHpsZGZOODdOTVIxWUc0RW9UazlWYzctU0xUejhDWWNiSmpkRjgySVl3WmNUamhLMHBVUUQ4dHVPLWtibHc5VXFqM1U?oc=5",
             "date": "2014-12-23 17:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -11324,7 +11324,7 @@
         },
         {
             "title": "퓨쳐시스템, 일본 네트워크 보안 시장 진출",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCbG92bzVqQnc4WXhFT3BRQ21OUV9nM1ZMNHNJTG5GZTB0b3Z6ZUZGc1VycXl6Vnk4YXBvWGwxSUhVVTFtaExLRV8ycmwxcWVsbVJSOFhOMGZRSkUyMDFNVWRVT1p5ZF9rWTJoYU16RVoyQQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZblJ0Q3l0X2Q0akV4M1kyaUdmczZDaVpLOHdnay0tVDdMLVNqN0pUUWYzdkNLc1NFMUV1LURzX0FRcXZUR3Z6M1k1d3dPQ3FZR0VaUEJDc2ZYLUlNd3BmZXdFWTN1LWx1bm1fS1kwRE9VX2M?oc=5",
             "date": "2014-08-20 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -11383,16 +11383,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 대학생 기업 탐방 실시",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJNEFaNk9LWVZNenc1a05CYU5RdWJnQ1JneFhnblhfT3pJMlhkeDd4Vjk2d2xUMjJfR1ZIZVU2SEtSOXdtbm9sNWtTa2d5eEdZUktKVG1n?oc=5",
-            "date": "2013-06-03 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, 침해사고대응 컨퍼런스 ‘D-DAY 2013’ 개최",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5odkNjdzFWREFFM29MZUR4R2cyY2lDSGYtMkFzRjRZVzZwLVZSS09uaXV2SDRHQjFHVXlPc3N0cWYwRXdyb3JKRmptSWN1OGpBd1ZEVTVTdzF1WWx4Wi1xdzlJZF96MGdBUDZJSWllYkI?oc=5",
             "date": "2013-04-17 16:00",
@@ -11433,41 +11423,11 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷-호원대, 산학협력 MOU",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIUjJvV21uNnhLdlB1aUNSbVdyX0JDZWgyNjFNVU5GcXlHd2tPOGlZYUw5V0ZYNExkNmNDd0xGMkVGY3FTNXIzQkpjTjdRN0gyb1RiZHZR?oc=5",
-            "date": "2013-03-14 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "윈스테크넷, 백신기반 APT공격 대응 솔루션 출시",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEX04wNHVFdHBwdkd4TzktUDNQZHV4OWt3V0dWVFBfc1pKQTh0ckJ3ZDVvTnhuRlQ3RXRxU3BBUklqTXVsSWlldzZTXzQ5OVdPdHh4TFpSNUtnTTM5T3hPbGFzbmF4eXlpTHVvekszRW9qQQ?oc=5",
             "date": "2013-03-07 17:00",
             "description": "",
             "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 40G 지원 차세대 방화벽 출시",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPbmM4TzFiNnROZm9Fc3ZjNXBEWU1vVHNJUGZ0RjZJamEzVEx5WHEwYUt6RXQyb21uaVNVamg1NjNCeHc5NUpDUnhLT0RiOGR6eXRLR0hR?oc=5",
-            "date": "2013-03-04 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[시큐리티 톱 뷰]김광태 퓨쳐시스템 대표",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQVmtHWVZHbC05ZHR6ZGZRT1lITU9Ba2xZbnBXNHZ3U3JubExEREJ0UmtTWVFPU0xBUU9qNlRyS05jUzJPbURqNWhpdw?oc=5",
-            "date": "2013-02-11 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -11503,6 +11463,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 3Q 누적 영업이익 102억...전년대비 95%↑",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbF84MmlzTExZQ1BtVy1KbXR3dGNmU1hhcnNXdldjS0RHNFVYSVN5RG93QmhhMUZrSkdWazZ1SXc5TVV2dXBYbHJrazVfb3lGU3U1M3NfSWl1dWlFdEU0Mm9IOFdZS05QcS1SaVRldFJvYzlGcDNZckNLQldrdWhUdjRlbU5OZTg4aDhTcEhaVDdaMms3dGVMZ1BrQmhWTHJQZXFtcGNHRFNYd1RL?oc=5",
+            "date": "2012-10-25 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, DDoS 자동 탐지 및 로그 분석 자동화 특허",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lVVhqeldTeE5QVW5hTDJBcE1UbVN1OFFwbHpqcWdfc0JaX0Y2UzhqOUljcUF4SDU1T2dhNmQ2MExmQnQ1ZXktcm5JeWlLN2hYNjdTMnVvYV9vVUx2ajFKY1hHSkRXNGRHTUZpRXAxMUZCMDA?oc=5",
             "date": "2012-04-12 16:00",
@@ -11526,16 +11496,6 @@
             "title": "CI 제작회사 ‘디자인스코’, 윈스테크넷 새 CI 개발",
             "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sUmhmcHl4Sllpa0xxLXdvbWMwTEZXeGZ6cWNiVXN6RGN4cE1xbWlJdnNOdE1xY2NSdnduN1p1ZEwwYTg5cU5TVmRraUVNRHVBS0hRMUxqUHFXUmRta3c?oc=5",
             "date": "2012-02-08 17:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, 대학생 대상 기업탐방 실시",
-            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tZ2tnVTFCRzA3ZU8tXzBhdHU2QWFXRUlLTDRiSFpRNjFMMVNrbldsZnYzQk5Ydnduc1ZBQWRyVUhldF9YbW1BYU85NXR3TXN0WHUwdXRn?oc=5",
-            "date": "2012-01-16 17:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -11583,6 +11543,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템, '40Gbps급 고성능 방화벽' 출시",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwUzBJTkZIR3VHemlfRjFDWWFfVHVmM2NYSW5LbVJpZTcwTmUtR1Q1a0hGc3BnV3R4bk10Q0s4bWdmOGJZdHNVd1pIZWhSbW0ybUtZNjU1NUZuTTRoZGc?oc=5",
+            "date": "2011-09-20 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "시큐아이닷컴, 차세대 방화벽 SECUI MF2 시리즈 출시",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oMklPbzZyem1QVXdyWDZWN2VicEI1MW5lRWUxaFdIWEFuei1fZVAwTFVMMlVHR1NHOWFFNjhlQTJ1Z3JUendpMVdFVWpjRW5ZdGdITTlxeUp6R3NW?oc=5",
             "date": "2011-09-16 16:00",
@@ -11594,7 +11564,7 @@
         },
         {
             "title": "윈스테크넷, 협력사 신제품 발표회 개최...연내 UTM 2종 출시",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43d1R0bVdNMDFsdjE1cEllSjREaHluZHIyVTdlUU5wY2w0U1lJbjltVUpSdTQ2Z2RRT1EyaEVjdjNaNWJYZXZPazNnTmJwYjdQYTJSd3cxX3JQZTcyaWU2QjNGdEY2UkYweERGYThlVC1FTDQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mNk5SSDF6aVJJYnlOdXN6WXNzc2R2cTkwbFNBUkdERTU4a0hSYk5DYmV6R0xUdU1PVjRWYklkUklsekhGMFhRLWNSZG5lNzBxV1V0Y29na1JHcWhMWXNwUDVJclVGbGJ5cDhPeTFLWVNQUQ?oc=5",
             "date": "2011-04-18 16:00",
             "description": "",
             "company": "윈스",
@@ -11694,7 +11664,7 @@
         },
         {
             "title": "윈스테크넷, 신개념 웹방화벽 시제품 발표",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pWWF2cmk1OXNZbTJFcGlVbzA4RVZkV2todWotNjhUcW9FS2o2WWEtdTFSdFcwWG9DSW96UjJXb0ROZjYyOUFwbS1BQWJaUVFjNGo3QVJqNmJxajZTTUNydVpyNWlxSnR2aUVDcDVTYlM?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PUmItbG1ZR042cU51VndVZWVqNVdhZzhLMmRvN2NhU08wOXNpZDFDbkZaLVBYQ1FSeFRQMzNfVjJtcHpyTno0WHRBQ2FMZ2lESU5Uem9ORlJjSENWVTh1bjFIZm9nYVlhdm1SNlg1TXF0Zw?oc=5",
             "date": "2007-04-23 16:00",
             "description": "",
             "company": "윈스",
@@ -11856,6 +11826,16 @@
             "title": "퓨처시스템 통합솔루션 국가정보원 인증 획득",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUDIyOENZZ3pmbDVSXzJ4dktuenE1TXM4ejdEdXV2Z1VOeXRzTG1UTGZ1c2NUQmszTDdJQ1pYcDNOUUtYaUI3WjVHVFJIczJMQm5yRDZ6Zi03eGs1QmpsVTRoMnFGeEVvQzB1NFBBcU9KSmpVY0ZqMllUelRWUFc1VQ?oc=5",
             "date": "2004-07-05 16:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "퓨쳐시스템, 네트워크 보안 전용칩「FSC 2003」발표",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0TFBXblRhOGJDRkZ0Qm5MNlVoZVEtcHFuY1JWTFc3QU9QWm1kNUR1ejZva2hZUGdheHE4dzF0bmhFZEtVRm9McFZzYWNaNUN4eEhUVWx3?oc=5",
+            "date": "2004-04-19 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",

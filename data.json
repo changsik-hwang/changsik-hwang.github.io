@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-07 08:00",
+    "updated": "2026-06-07 09:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -10814,7 +10814,7 @@
         },
         {
             "title": "시큐아이 송병걸 프로 “악성파일 분석 결과, 한 눈에 파악하는데 초점 맞춰 개발”",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WLTJUVk55RHA5ajV5YUpkZUpleC1uUlNGZlV2bk9TWWY3SWtSeXFCc05JRjd5bzVyWHJpYWpnVjlvNDhKZmZENm9oeEZOOXVhc2ZUeUxwa3FDWHJ0RFFWTkRvdHE3WEZpVFVxQkRQUy10TGxmemc?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wb1owMEl0SHRMV2hVZEM5T0tRWUtZVHRuSVhyN3ctNWFES1B1SV9zR1NPTVlDcUNvSHFjTnJHN19JWTY0eDN2WnFFWXd6QlVGTGwwbkF0c1VXRWhHV3c?oc=5",
             "date": "2022-10-05 16:00",
             "description": "",
             "company": "시큐아이",
@@ -11063,6 +11063,16 @@
             "is_today": false
         },
         {
+            "title": "[보안·IT산업 동향] 퓨쳐시스템, 회생계획안 인가 결정 外",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wT0w2NlowRGNSOFBhM2l4YnAyVVJfRThuNjBmUTZiZVUwSk5xbThzbG9CMjlDUzlqYy1nVDdlc1Q5RUNYMXhjWjFabUZzTm1STm5SQ1phelNPRXdWWGI4aVVoY19TYmFEMWhzeGFoREVXZw?oc=5",
+            "date": "2017-12-20 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스, 퓨쳐시스템 방화벽 사업 인수…차세대방화벽 시장 본격 진출",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03aFdzZXk4VGxqdUNhUml2WUdlZzFlb3lYMlo5OUYxRzdmblVYZUgxTHBBcUNqWmNTR1plQS1aX1hubW01R0FnSmpMNk1YZw?oc=5",
             "date": "2017-10-23 16:00",
@@ -11096,16 +11106,6 @@
             "title": "토종 차세대 방화벽 나가신다...공공시장 교체 수요 잡아라",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBERENpalkyaWd1bGh4VU5CamxlWTVHaGppWXM2dGJoS0lKTEJoRV9EZHlYeC01amxKdEZ4eW1tRFRycXByazB4V2U5R25FUQ?oc=5",
             "date": "2016-06-07 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "(주)퓨쳐시스템 2026년 기업정보 | 60건 면접후기 3.0 면접난이도",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVlfTkY0Tk9MZnI5TkJuZDhtZlhpTWhaN1MtRUNxYnJlTThEeHZGOXFDdDJqbENYRUJ1UVJhanA4V3RrU2ZYeFdHM3BCMndJbTNxVWQybXpQMmhqTlBGWVJxdTE5eVhoem5hSVhTQVQyZ3h2bFNZYUdrZlFUVEtFZW9qSkJTZWY4MW5tRi1iUjkyS2xZS1ljYVp3bWtRZ0xwNWc?oc=5",
-            "date": "2016-02-27 05:29",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -11283,6 +11283,16 @@
             "is_today": false
         },
         {
+            "title": "윈스테크넷, 침해사고대응 컨퍼런스 ‘D-DAY 2013’ 개최",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5odkNjdzFWREFFM29MZUR4R2cyY2lDSGYtMkFzRjRZVzZwLVZSS09uaXV2SDRHQjFHVXlPc3N0cWYwRXdyb3JKRmptSWN1OGpBd1ZEVTVTdzF1WWx4Wi1xdzlJZF96MGdBUDZJSWllYkI?oc=5",
+            "date": "2013-04-17 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "윈스테크넷, 집수리 心봉사활동 전개",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02c0JGQXNkM3dvbmxjNTNmb2p0SERaaExwZy1GNVZUR1E0VnA4aHFYWmZpcU1uWjY2ZktaRXZOZlJFYWpjNTZJNTEwcnFsRFRIcTBOM1lGcU1rM09hNmhfUTk3ZFVNdEZELUltcmRKYldYdw?oc=5",
             "date": "2013-03-19 16:00",
@@ -11305,6 +11315,16 @@
         {
             "title": "윈스테크넷-호원대, 산학협력 MOU",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIUjJvV21uNnhLdlB1aUNSbVdyX0JDZWgyNjFNVU5GcXlHd2tPOGlZYUw5V0ZYNExkNmNDd0xGMkVGY3FTNXIzQkpjTjdRN0gyb1RiZHZR?oc=5",
+            "date": "2013-03-14 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷-호원대 산학협력 MOU 체결",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9STlRsbWgtTnlPZjdCbmRILUpNdVFWY1R3LTFIOGo0aC0wWUZUdm9KWnpueU9oSmhYWUFDaFR2NzBtMUFDaVNJcGRHbHNUeFZGeWFSSTIzNFhGOU1oZUdabFJSckdsU0d3MzJyb3dNSWt0Zw?oc=5",
             "date": "2013-03-14 16:00",
             "description": "",
             "company": "윈스",
@@ -11463,6 +11483,16 @@
             "is_today": false
         },
         {
+            "title": "\"파견관제가 통합보안으로 가는 교두보될 것\"",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYTGxBbDFDaFpRQzFGZWRoNlhYTTVIbWZVeGtkWVNBZEk2dVFFVE83Wnk5dktJNUhnWTdxNWRremxLUGtnLU80clV1ajd3SXNMbjI4YUJn?oc=5",
+            "date": "2011-07-01 16:00",
+            "description": "",
+            "company": "윈스",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[화요기획]윈스테크넷",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
             "date": "2011-03-28 16:00",
@@ -11533,16 +11563,6 @@
             "is_today": false
         },
         {
-            "title": "[기획특집]다양한 네트워크 환경에 적용 가능한 MultiCore 기반 통합 보안장비",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfR0I2T28yRUZGd0RLc1ZqbE40d0Fac0dHay1BMlV0bUlWNHYyUjRfZ0RTX0tmZTh6QVVSZEE0SXBTMmppcVF6SE0tTzN0RWN5QmR3Q0ZldGdfM01fX0RaTWxjZkU?oc=5",
-            "date": "2009-08-24 04:16",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, FutureUTM CC인증 획득",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tX2ozOWQ1VC1sSy1aeXhhR0p2SGdWQnVldDl2ZXJLa24wVTBOZm11azFYV2VfSkdNbFMzbkpaZWtuaXZhLTdSSXd0RFVFRUFoWGtEU0RRSUs4NnRp?oc=5",
             "date": "2007-11-28 17:00",
@@ -11575,16 +11595,6 @@
         {
             "title": "\"퓨쳐시스템 통한 우회상장 후 해외시장 공략할 것\"...장준근 DBT 대표",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zYXcwMDRVaVc3WGtCQUJWdzg0a2duUmVjelVmLUdYZWRSN1E3X2pVU2ZIdlU5eE9TZFVrVEJxeC1SQjJsX1NhQzRkMHlFTjdYVTZfWGxKSVRBbTBlY241WQ?oc=5",
-            "date": "2006-08-09 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "디지털바이오텍, \"2010년 매출 1000억대 진입\"",
-            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BMG9qNDNLZTdfSWQ4ZjF0SlNLY0xlZFpMQWNQZUtzOEZ5azJWTXllVGFVMzYycHdVOFAyOWVwZV9aT1IzRnRnN3Q4R3QzejJDOHc?oc=5",
             "date": "2006-08-09 16:00",
             "description": "",
             "company": "퓨쳐시스템",
@@ -11813,19 +11823,9 @@
             "is_today": false
         },
         {
-            "title": "퓨처시스템, 증권전산 VPN구축",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UZUlYTGwyRHRmZDduMFdSdi1nOWFlTTRGaGhLS1JkRnNOdUd6QnFfLUh3VnItVWRhNkxhc29kWlFCVWxmWm9UWUlMcGdOM1FEb1pqeTk0UThUSDNQd1U4XzJDS0wyQjREcF9IOFpKYmM?oc=5",
-            "date": "2002-10-30 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "800억 VPN 시장 놓고 국산-외산 한판경쟁",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11S0d3dFMwVGllUmxvMHl4TllRTlFyd1BjR2dSSnhpcTdBdFhxMG5BSmY0ZGZPbno4d2dKQ1p5dC1ZNnM5MV9NTjBlMzdlci1fR2NVcUpJZ1Y3WUh0U01CUEZDZDhaQQ?oc=5",
-            "date": "2002-10-21 16:00",
+            "title": "퓨쳐시스템,투자지표 부담..시장수익률- 동양",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRk56MkdYZzdpWk0xU0hxSndudk1yOFhDaDMxblRvZW5ZUTFDX1N3VTE0RWRMZExzN1FrU0RxQTRJcnI0TEZpQVRVMXVWdjZtNTRVdFc0TGwwS3FSMTc2Y1l4ZEZfbTNwWllxRDNTUzBmcG4yTWhXX2o5Vm0wQ19HNA?oc=5",
+            "date": "2003-04-09 16:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -11863,6 +11863,16 @@
             "is_today": false
         },
         {
+            "title": "퓨쳐시스템, 하드웨어 방화벽 K4E인증 획득(1보)",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVFk4TG1JUmlYa3Y1U21TM1BncEVucnBnWWRzcG8xRXRZWElhTEtXWkRsMTJzRm1sYVZVM3JUN3R1VGRheGFJMFRkT3AzODg4RkZpblBrQTRWcVBNZDRHb3JielduYm9IeFVPTHFWS3drOWZWZGhRZnBfLUtXRF8xRQ?oc=5",
+            "date": "2001-12-03 17:00",
+            "description": "",
+            "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템 매수 유지 등 현대증권 헤드라인(26일)",
             "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2pOeEZ1U29ESGRvTzJaMC0zd0toZG9LVURZZHdHcG90RjU4Q18wUy04VE4xUW5LN0pKOW9LOEI2WTVLeV8waW9yY0VVTEhXUFBLaFQ2aFRydU9PaFBzWk1sdU5veGVNX0dnVVJHZjlaWng0bGdZWmZOQW5yLVJLaQ?oc=5",
             "date": "2001-09-26 16:00",
@@ -11883,29 +11893,9 @@
             "is_today": false
         },
         {
-            "title": "퓨처시스템 등 삼성증권 모닝미팅(28일)",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU20xNmVVcndmOVhVSnlsc1REakR3TG14MElFWi0wamJhY01VM0kwUlBfSzZPN2haTWRmeHcwamZmN0hObks1RkFyTHpHNjlGX090Q0xWeVY3bFZNSTRHMjNGbDMyS0twWE9IUWRyeXppd19LRllWc0ZiSEpfQ1MwSQ?oc=5",
-            "date": "2000-11-28 17:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "퓨쳐시스템, 암호화 반도체 칩 개발",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qbFVzSk9xSi1sUGtFVVpYcjVnZDRtV1BHa3JKZS05YlVMYkZNYTlhenREYkd6LVZiNFNlb1JNMGp1WTBGRnpzRVc2WQ?oc=5",
             "date": "2000-04-17 16:00",
-            "description": "",
-            "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "[신SW상품대상] 우수상:(주)퓨처시스템 \"FUTURE/TCP V3.0\"",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CTFRqMzBZOVJYN3Nza1NHU1VncVNmTnJ1YThTajEtMm52YlYxNUxGNkdvbm5PM3IwV0d6RmxObUNmQWJwVlhWbjhhYw?oc=5",
-            "date": "1994-12-22 17:00",
             "description": "",
             "company": "퓨쳐시스템",
             "tab": "competitor",
@@ -11915,12 +11905,34 @@
     ],
     "trend": [
         {
+            "title": "미 행정부 vs 오픈AI, 엇갈린 AI 규제 청사진…위험 판단-평가 방식 차이",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jaXEtWC12Y1ZNeEVPSmtjODVXZjd2cHoxVFhsWjVDS1dqNnh0SmhvLXB6VUxyWk9UUndEZkJvMmtFR1g2VUNvWU5Gb0VrVTdUb0pGRTJB?oc=5",
+            "date": "2026-06-07 08:13",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
             "title": "델, AI 확산 맞춰 데이터 보호 강화…통합 콘솔·AI 도우미 탑재",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsTl9hODZyS0ZsdXp4MnhXRVNUdS12M1Q5VU1MVldkeUUzN2k2Nmh2ZjRDb3hLS3RMSXl1VF9sRmp5X2F3eHFKc2RlRVB4dmY2UXBWaXRlSjA0NXZKcGp2UmhNb1l2eVo4dHhueVdNOUx5Q00?oc=5",
             "date": "2026-06-07 07:54",
             "description": "",
             "category": "AI보안",
             "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "KB국민은행, 아톤과 손잡고 양자내성암호 기술검증 나선다",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ITE5jYV9lODB3S0RCaklYZ0FQVkZkeEZ6QmJHc0ZPZV9ldnFLWk5jNi1YeHFfM3d2emZOOVV5NGFFOTVPY0hkbTBZMnJhNDJCbVFNRDdQNzdhTERxaG5TV01iXzItU19ZWnk40gFvQVVfeXFMTXVSZEFQLTB1ekFtWXI0WFJDb0NzM2Mwbm9kTGRSRjZqV0FoYlBWWjlnVElKU2x0Y3A3RjVTM19SaUluTE5FendrbGY1YTVxMUxfVGtFZUxLWnBDZy1mVUVPZkJnX2xRaHloRUR1a3hv?oc=5",
+            "date": "2026-06-07 07:46",
+            "description": "",
+            "category": "PQC",
+            "keyword": "PQC",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
@@ -69665,9 +69677,64 @@
             "is_today": false
         },
         {
+            "title": "팔로알토 네트웍스, 2세대 ZTNA 위해 원격 접속 보안 솔루션 기능 강화",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtcU42dHQwcUpBMDg4WHA5TC15YUdDM2gyNmJoQWVSbk8zNnh4UFo4Qzlacm1icThybFl4S1ptZ0NnNmRWZU01NHBoY0tXZ2xoUjZrM0xrNTdyMkJrRE1Z?oc=5",
+            "date": "2022-05-19 16:00",
+            "description": "",
+            "category": "제로트러스트",
+            "keyword": "ZTNA",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT, 신한은행-삼성SDS와 함께 블록체인 기반 DID 서비스 경쟁력 강화",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QYmxPNjRoaF9PUUxrdV85ZlZOaTVkbnNKbFp4cnR3amRqOWtWRzAzTEhYOVJwa0J0U2dFS2VpNTg2OFVBY3ppdQ?oc=5",
+            "date": "2021-10-13 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "라온시큐어 “DID 서비스 활성화 위해 공공·민간 협력 활성화돼야”",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KZTMtdFZIM19HT0l5bWh6U1lwT2RvRTAwTTAzMkJxR1RnZEk1RkRkcmtaTGhMeTNYcDMzQ3doSlJOelI3MmsySno4Rno0SUUtc1RYSXFDN0xHNWVvN2tSNlhkMjB4VDQ?oc=5",
+            "date": "2021-07-13 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "SKT ‘이니셜’, 사물 DID 시대 열었다!",
+            "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoeXpvQkRnVFZLQ0xIQ0pKS0ZLQVN5bHZIVzhKRWdyMXlWcVA0QXBGMGhId0FHVTQ0Wk1Sc09oWVgyZGgxYWhPQw?oc=5",
+            "date": "2021-06-07 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "SKT , ‘이니셜’ 적용 블록체인 기반 DID 서비스 시작…“위험 구조물 안전진단”",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HNzhMZjlSNks0ZWxWNDVFOGMtUVhhWDl1djkwbU9jMkwyNTR6aW1sWWp1Zi1IUDhRd2dfR0NrS0U5OVA4TlE1WGw2aXltVDM1SktyLXhnN3ZETUY2TWN6SGFIbFQ3aHdfWmfSAW5BVV95cUxORDlGUlV6d29NblM3ZjFma1JOVkp5d2xBMTBQa2J5dF9TTWYtcDFFNU9nMWlkX0N6aDE0dnVXc1FmYWhraFdpS0o0TjB2NS14SkNJLVNUamZWbUNsYVJWVXlqTXNtYWhlT2hfWXphZw?oc=5",
             "date": "2021-06-07 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "아이콘루프, 서울시민기자 대상 블록체인 기자증 발급",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfMUxxc3pZMjhsLVU4eksxMm9oSHEwLWhLdVQ3bmhIWnpybTVKUUhnQ3FFUmwzS3h1cXoydFRHQmtEOWRDWEh1cHRXNmtwQQ?oc=5",
+            "date": "2021-04-07 16:00",
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 DID",
@@ -72260,7 +72327,7 @@
             },
             {
                 "keyword": "검증",
-                "count": 81
+                "count": 82
             },
             {
                 "keyword": "금융",

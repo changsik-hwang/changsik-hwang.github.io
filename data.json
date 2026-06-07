@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-07 19:00",
+    "updated": "2026-06-07 19:23",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -6693,6 +6693,16 @@
             "is_today": false
         },
         {
+            "title": "안랩, 기업 보안담당자 대상 전략 세미나 `ISF 스퀘어` 진행",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4WVVZaWhyeXpqb3VlaUZCbV9SUjBRWTJXWkZYM1VaQnk4T0E5dHh2eTF6SkthQWZxTFNid19MRjd1ZUV1NGVuM3NyVVlqU1FUMlpHeVdqRUJkN3BjaFRaR0IxSjE?oc=5",
+            "date": "2025-11-28 17:00",
+            "description": "",
+            "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "안랩, ‘2026년 5대 사이버 보안 위협 전망’ 발표",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qMnAtMDU3amdQNHNxcnZKS3k3U1ZMQ0o1TTBzOFhzQzM1cHNrVE4wcjRJVDhnamVxR1EwR1AzWnQxRlh4QURrX3ZxWWtsZTd6OFZGZWphQVNTbl93ME1aeHIwNmFnRGxva1ZCLQ?oc=5",
             "date": "2025-11-27 17:00",
@@ -11398,6 +11408,16 @@
             "date": "2012-10-07 16:00",
             "description": "",
             "company": "퓨쳐시스템",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, DDoS 자동 탐지 및 로그 분석 자동화 특허",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lVVhqeldTeE5QVW5hTDJBcE1UbVN1OFFwbHpqcWdfc0JaX0Y2UzhqOUljcUF4SDU1T2dhNmQ2MExmQnQ1ZXktcm5JeWlLN2hYNjdTMnVvYV9vVUx2ajFKY1hHSkRXNGRHTUZpRXAxMUZCMDA?oc=5",
+            "date": "2012-04-12 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -54529,6 +54549,17 @@
             "is_today": false
         },
         {
+            "title": "오픈AI, 에이전트 보안 강화 위해 스타트업 인수 예정",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xZFRva2J5RzItOEVBWmIxcGJ5aEU5cUNMSVo2QmhZZ0pHaE0zQUZzNVhfOGlKaEhvcEE2dXpVWUlybDI4RVZxaEdHWW0tbFJ5cll0SDFsbUlrWUhVU3docEg5MV9RSThOeWc?oc=5",
+            "date": "2026-03-10 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "[VPN은 죽었다③] 제로트러스트 구현 서둘러야 '한국 보안 업그레이드'",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xRGdDQWI5SHhlbldhcWszdEpOOXZrQTlMOHhSTDNxMW1aV25fekhud2d4SWx5akxua2RyOWdKUjlka1drVnlVMEhZSll4OC12bFlzQlB6c2FIbjZiZHA3ZVFoWUZ2ZlgtY3pHak9WZ9IBc0FVX3lxTFBsVmEwazlhZEFNaDlXLUg4WnJCWW1yRnk0UWp6eWJiLUxYY0JnRkN6aHgwekVVbFBQWFNUV2MtcXJaRjdPaGZoODFTME4yTFdscFB1WEZJN2N1MnJPUnZGY0c5MFVRcERPMGFzcEVsTmFUUkk?oc=5",
             "date": "2026-03-09 16:00",
@@ -68175,6 +68206,17 @@
             "description": "",
             "category": "PQC",
             "keyword": "양자내성암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "\"올해가 'AI 정책' 분수령…AI 오케스트레이션 인프라 구축해야\"",
+            "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIbXpVZHQ1YThEdlRBQVB1dHI5RXpMSmh6MzNZUDZzbHd6ZXBjTmF4TnlKOTRDX1NjN2hmVUc5MmRXOFZxaTNjYnZTcVZsVThfTHpwRG5uLUxDb0RDYV9mZtIBeEFVX3lxTE5ucy1aeWRUeWxwdE4wLVc5bVBEdEpBNHFyTTlRMWM3Tkd0UURNckQ0UE43WW1DX1J3NkZXZTdVeHNlM3d0dUlsUUxWZm5aTWl0bUtmaUZfNWNZeWN1elV6dXFJUWtVVUxtRFNlMDhkXy1nVm0tZG96cg?oc=5",
+            "date": "2025-03-11 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 오케스트레이션",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false

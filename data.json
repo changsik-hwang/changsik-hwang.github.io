@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-09 02:00",
+    "updated": "2026-06-09 02:45",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -11153,8 +11153,8 @@
             "is_today": false
         },
         {
-            "title": "넥스지, SECON & eGISEC에서 PQC 알고리즘 탑재한 신제품 라인업 공개",
-            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94d1hBMnVSSUhQTno3Vkc5ejlqcEFtcW9NYVY2MDlBNFYxc0FRbnRicjE1cWZrdi04anM2WlZwUlMySVJRME5IQzU5Y3VJNnA4LVRuRGR3Y3RoM3BtclV2Zk13Qlk5OHJ3OVpiY3A5NjZJR1k?oc=5",
+            "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재한 신제품 라인업 공개",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tSzN5LXF3ZTRwNnVvTWtVR0p1WGpVZUhwRWRETkxuOVJ4RnZTcnAxSGFubU1rTDItRXNWNjJfTGJ2aWIzS0hpWC1nN2VjZ1N0OVVhVG42TUxoMGh6VEw4U2JQOXlWdnc?oc=5",
             "date": "2023-03-27 16:00",
             "description": "",
             "company": "넥스지",
@@ -11165,16 +11165,6 @@
         {
             "title": "넥스지, PQC 알고리즘 탑재한 UTM 신제품 라인업 공개",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEZ0s5Y0ZzeV9SZlZOdlB3alBnTkpQNks0OF96MGxoUUJ5QjVnNGo5eXg0UmtOSlktU2hJUHhCZWtGck1Ra2ZHSFRiUnZpQQ?oc=5",
-            "date": "2023-03-27 16:00",
-            "description": "",
-            "company": "넥스지",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "넥스지, 세계보안엑스포서 PQC 알고리즘 탑재한 신제품 라인업 공개",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tSzN5LXF3ZTRwNnVvTWtVR0p1WGpVZUhwRWRETkxuOVJ4RnZTcnAxSGFubU1rTDItRXNWNjJfTGJ2aWIzS0hpWC1nN2VjZ1N0OVVhVG42TUxoMGh6VEw4U2JQOXlWdnc?oc=5",
             "date": "2023-03-27 16:00",
             "description": "",
             "company": "넥스지",
@@ -11358,16 +11348,6 @@
             "date": "2022-07-11 16:00",
             "description": "",
             "company": "퓨쳐시스템",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -46037,6 +46017,17 @@
             "is_today": false
         },
         {
+            "title": "앤트로픽 클로드 드리밍(dreaming) 공개, 스스로 학습하며 성공률 높인다",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yWjNUaUd0ZGlEaThwbEMyVUt0SDg3X1VBTHNNNHFWTkVBSTFsc0w2YnNHZTdRd0NMX0JGeTh0WVJJaHozbGJxZVczZExUdXhUOXIycEY4UkdNemRpdmNENHpkbzNFMmVXSWVVaGRNUUI?oc=5",
+            "date": "2026-05-07 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 오케스트레이션",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "구글, 차세대 인증 기술 클라우드 프로드 디펜스 발표...리캡차 진화, AI 에이전트 보안 강화",
             "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFA5OUFadFR3eVFYMjg0NWRhMTBpUkpvaEpNNTRuUlhKd1FLbHJXaWYwMHkwbUY4WW1IR3pxRFJOTlM?oc=5",
             "date": "2026-05-07 15:48",
@@ -49548,6 +49539,17 @@
         {
             "title": "포스트 AI는 양자컴?…ETF·개별주 급등세",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByZFJOVFl1YldzZEo4MzNMNkFKS3pjdE1QVFBLLUZIQWRTX1NoX0RvM3FxMzUwRFc3bHlPZ1FZa19qWkNZc05GM3JaUnFVZVhieXl2WnVrdllHd9IBVEFVX3lxTE42eG05aldmYVB1SHBGV1NaT2FOWkd0Qm1FcklhcEwyWG1aTWlZWmV2T0lYVlJzNlNJa0pRRUNhT1l4Zmx1SlRwaWFnaFVhajlxU1N0TQ?oc=5",
+            "date": "2026-04-20 16:00",
+            "description": "",
+            "category": "PQC",
+            "keyword": "양자암호",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "특징주, 알엔티엑스-양자암호/양자컴퓨팅 테마 상승세에 5.62% ↑",
+            "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zT0Fhc0R4TUszMF9oazNCd25JUlNYdVA5TEt2MWtYME1xNnk3bEFvQmhZVHU4d3VDazlYRnBUUEx4UGRhQml1SXFWZ2U1WHlUd0E?oc=5",
             "date": "2026-04-20 16:00",
             "description": "",
             "category": "PQC",
@@ -58990,6 +58992,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "오픈AI, 장기 실행 AI 에이전트 위해 ‘리스폰스 API’ 업그레이드",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aNkEtOXVZSDRZb0F4NDg1ZXlVOXdNUzBDLUJDRkUxQldtUFF5WHd3Q3hMQ3pvWklyNm94ODJKZHRIdS1sanpUcGdudkhkN3dyMWoyZk5ndll1VndmNnZ3TWk0WE5MTXc2YWc?oc=5",
+            "date": "2026-02-11 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 표준",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -75208,7 +75221,7 @@
             },
             {
                 "keyword": "양자암호",
-                "count": 43
+                "count": 44
             },
             {
                 "keyword": "결제",

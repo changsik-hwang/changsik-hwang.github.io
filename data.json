@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-09 05:00",
+    "updated": "2026-06-09 05:04",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -11373,16 +11373,6 @@
             "is_today": false
         },
         {
-            "title": "시큐아이, AI기반 보안위협분석 플랫폼 'STIC v3.0' 출시…미확인 보안위협 선제대응",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyWVctbjVrXzlWRmFpNV82bmNQYmFoeFVsZ29wU0YzVnVlSDQ3QllMTXJHZ3ZjMVZVZ3lQV2hYQ3laWUt4QWlxTWctMlNpZw?oc=5",
-            "date": "2022-06-10 16:00",
-            "description": "",
-            "company": "시큐아이",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "시큐아이, AI기반 보안위협분석 플랫폼 STIC 출시",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YU203OWhvTFFhTGVhTE5ndTNzcXdpYXVxQUVGS2pSTlM2eGF1d0xYbW54eDlSSm16NGo5c1ZxS1dSWERTVnZueno3dVJWcUlKNzVpRS1n?oc=5",
             "date": "2022-06-09 16:00",
@@ -11968,6 +11958,16 @@
             "date": "2011-09-16 16:00",
             "description": "",
             "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "윈스테크넷, 협력사 신제품 발표회 개최...연내 UTM 2종 출시",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mNk5SSDF6aVJJYnlOdXN6WXNzc2R2cTkwbFNBUkdERTU4a0hSYk5DYmV6R0xUdU1PVjRWYklkUklsekhGMFhRLWNSZG5lNzBxV1V0Y29na1JHcWhMWXNwUDVJclVGbGJ5cDhPeTFLWVNQUQ?oc=5",
+            "date": "2011-04-18 16:00",
+            "description": "",
+            "company": "윈스",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false

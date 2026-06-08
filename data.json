@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-08 14:24",
+    "updated": "2026-06-08 15:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -5288,6 +5288,16 @@
             "date": "2026-02-05 17:00",
             "description": "",
             "company": "안랩",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "시큐아이, 캐논ITS와 총판 계약…글로벌 시장 공략 박차",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RZ0YyYVNiZ1FJRmdpaTlKZ241MVVVdFE3dncyd0xHZmcyY25DdEtqMjV6RXNfZVlaUHVCdVpheFZIbUhMTDREMS1ibllIOVc5ZnNQR1M2Y25HUHhWaGNvcFBISmt1NkdySV9jbw?oc=5",
+            "date": "2026-02-05 17:00",
+            "description": "",
+            "company": "시큐아이",
             "tab": "competitor",
             "source": "구글뉴스",
             "is_today": false
@@ -11093,6 +11103,16 @@
             "is_today": false
         },
         {
+            "title": "시큐아이, 100GF NIC 탑재한 고성능 방화벽 출시",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRSG1ka0ZWMEQxaTI3aFJkd2Y0eGJlWFpZX0tBZVFSV3N6TmFBRk5qSmVFM2ZUalBiaEd3OE9GeVIxVDZRdVBzeVVMQ295S3E0WlQtMEpXZ3U4YXEzRjFQU19yRUVwOGpQRjJtLUQ1U0ZobTA?oc=5",
+            "date": "2021-01-28 17:00",
+            "description": "",
+            "company": "시큐아이",
+            "tab": "competitor",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "퓨쳐시스템-엠엘소프트, MOU 체결… '위가디아 XTM' 통합보안 기능 UP",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56VllRc1YxZnRXV1BvekRhbFdaZ180Mzl5OXVkWFZVbzdKb1lxOUZiNm5TUkZpNmwtTEFhelVXQ2NKNUJveXVUV0ViMWR4dw?oc=5",
             "date": "2020-12-21 17:00",
@@ -11434,7 +11454,7 @@
         },
         {
             "title": "윈스테크넷, 문화체육관광부 악성코드 탐지 솔루션 구축",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKWkRxaWlfaXQxYkg0NlV3U08wbDJIWlRFcUwxX3IxdGsteTdtUzhrYWV2YXhjazRPMGw4OFAwdmFKU3FqdHpCdF9sbUxyb3VtakNMdzQtNW5TTTN4STUxSkNVMjNQclB6TEt0ZmFvUVk?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91bFZpamtQZkIxTEFKNnJ4dElYR3FEdno0NmUxZU5tcE5Xc21Db2k3WHpaQVNZMFVQQ1l4Y2ZkUUQ2WEs3SFR6R3UtUjRuWkZJN3g4aG95RThIOVRQYjFmakQzTElOUzBQclhWZDVvMnlua0k?oc=5",
             "date": "2013-10-02 16:00",
             "description": "",
             "company": "윈스",
@@ -11534,7 +11554,7 @@
         },
         {
             "title": "윈스테크넷, 3Q 누적 영업이익 102억...전년대비 95%↑",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDNQV3Bfb0lsaldncXBaOXdRWFIwOEhHMVFfYktINFBySnNUYkFNNy05Y0dZRzhCLXVEbmNvenZTdnd5Q2hQV2NrQjhod21UR0VObGNpTEsxR2NqT21OY3NQaGNNREJQUEpqa1NCNVl6RWZkOEx1MVNmTjhYVFZiNU81TkF3RUJMMzZPOHVDN0ZGVUZtSnAwV29yYUJzZGVRRGpBOHBxeDBwV0U?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbF84MmlzTExZQ1BtVy1KbXR3dGNmU1hhcnNXdldjS0RHNFVYSVN5RG93QmhhMUZrSkdWazZ1SXc5TVV2dXBYbHJrazVfb3lGU3U1M3NfSWl1dWlFdEU0Mm9IOFdZS05QcS1SaVRldFJvYzlGcDNZckNLQldrdWhUdjRlbU5OZTg4aDhTcEhaVDdaMms3dGVMZ1BrQmhWTHJQZXFtcGNHRFNYd1RL?oc=5",
             "date": "2012-10-25 16:00",
             "description": "",
             "company": "윈스",
@@ -11634,7 +11654,7 @@
         },
         {
             "title": "윈스테크넷, 협력사 신제품 발표회 개최...연내 UTM 2종 출시",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mNk5SSDF6aVJJYnlOdXN6WXNzc2R2cTkwbFNBUkdERTU4a0hSYk5DYmV6R0xUdU1PVjRWYklkUklsekhGMFhRLWNSZG5lNzBxV1V0Y29na1JHcWhMWXNwUDVJclVGbGJ5cDhPeTFLWVNQUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43d1R0bVdNMDFsdjE1cEllSjREaHluZHIyVTdlUU5wY2w0U1lJbjltVUpSdTQ2Z2RRT1EyaEVjdjNaNWJYZXZPazNnTmJwYjdQYTJSd3cxX3JQZTcyaWU2QjNGdEY2UkYweERGYThlVC1FTDQ?oc=5",
             "date": "2011-04-18 16:00",
             "description": "",
             "company": "윈스",
@@ -11726,16 +11746,6 @@
             "title": "윈스테크넷, 나우콤이 흡수합병",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LcjFmNmk3MzJld1ZZNEh0c2stdmZjZ3FMakNZWXY0cTRmRzhGaXRoVG5MOEFVRFBZYkc2M2tvRUgwam1ZNzU3X3E0ZlZqNm5aZlpEb0RlNGxweUtG?oc=5",
             "date": "2007-10-10 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
-            "title": "윈스테크넷, “해킹 우회공격...어림없다!”",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HbnB3T0V2ZTNhanhTU0lMVVJkel9pTHh3WnRXT09zeENTaVJFQVZsVmFRVlBNcWJ5dTNLT1lRNy15d1ZCNDBha0JaQUFXSkxFYjNXVEVMdDdMY01Kb1lTSVhFTURnMlNmV1ZLNXZ0VGZ1dDBXRUpSbHdLZUM?oc=5",
-            "date": "2007-06-18 16:00",
             "description": "",
             "company": "윈스",
             "tab": "competitor",
@@ -12064,6 +12074,50 @@
         }
     ],
     "trend": [
+        {
+            "title": "LG CNS, 에이전틱 AI 플랫폼 출시... 기업용 AI 시장 공략 본격화",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pSUhXWV9LUEVocURaT1ZMTXdvc2psOWdsd1U0bGxKUEF5My0yaWhPeHFSOFFxRzk2a01GdEdvOGxqZnN4ajIxU0tkRGdVQ1JYVVk4RTVDVW04VThteEJ0TW1WZGFUbTFfQ3h5eFE2bkx2Z9IBdEFVX3lxTE50eUdTVlVsVS1rNzFJeUNjWkJYV3p5QzFQRFZ3VHdLSXJSQkxkdXRBanBCOGREMzhxaGl0RXJKZGMyTHNiN3UyZmZmVEJFLXRFcjJoMF8zZjRsbGZPVkJwQkFQdjYyWnI0aGw0UDdTOU1PUnVX?oc=5",
+            "date": "2026-06-08 14:53",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "인공지능을 이용한 부정행위 우려 속에 고등학교 졸업시험 보안이 강화되고 있다.",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQkc0azF2ZU9uS1UtUE5FSmlVemtsajd0c0hnMWo3WmhHLV92WWludDJURDB3dHdEenc1M2dVYURMM2o4R0NBTEJ3SHZaV2FDNlNlN1hHLXRTV1FjMEFGTjRCcUhoUDhKdkxUME1sUmwzRXFrRDhmejRNRy13RHpkNC1NVkptWkhhVVpkYW5QTEtUcmlHWmxF?oc=5",
+            "date": "2026-06-08 14:50",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "인터넷 거버넌스부터 금융보안·대드론까지…디지털 신뢰 인프라 구축 가속",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DaVdBdWo1OVlvUFlEeWlUWHBQMDJHWGVRcnRYdUNYTFB4dXN0WklFNWFDazVja1hpWHhLRkVOUk9CWUtaNVRPdklXT0otVkZJOTlfWHhoa0pHaWRyZWFLeDV3NEtLWU9YY3k3UXJnRQ?oc=5",
+            "date": "2026-06-08 14:32",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 위협탐지",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "Apple WWDC26 Nears Opening as Siri Becomes the Center of Apple’s AI Comeback",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yeG5HZmVFM2xhR09Pd3E1VEUwY0VyWGh4MW1EakVwczk3bW95S1ptcWc3Y25xOWliYjFaVVNpYkk5bFdZYlZsVGR5Z0RUSFBaNlpSYUdZSWNuR0p4SjZGVnYxSWg2RldlTUtj?oc=5",
+            "date": "2026-06-08 14:19",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent DID",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "라온시큐어, FIDO 인증 행사서 에이전틱AI 보안 전략 공개",
             "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MZy1UYWQ2N2dJVWRmMk1YRk9XUFJyTTFnN2VKclJfYl9XV09qYVNfZDdoYXdpY1hpVW5vVk1ZblhWYWptT2VkVzdCMldYQQ?oc=5",
@@ -43789,6 +43843,28 @@
             "is_today": false
         },
         {
+            "title": "한국도 '글래스윙' 올라탈까…앤트로픽과 AI 보안협력 시동",
+            "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4cUx0T1ZkX3pSUVBaSFFrZlNWU3dxTUZzVGN6Q3NFWGp3UzhzN2VPOGVQRUV3SlFWMHBDQzI0Z2lQY1RseFdxQW55b2ZwbXc?oc=5",
+            "date": "2026-05-12 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "오픈AI, AI 기반 사이버 방어 비전 ‘데이브레이크’ 발표",
+            "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNTmYwSEtFcDd4UTFGaWVuR2dNMU9vVHZ4V1RzclI4b0dFWVhDR1FQSVZ2UEdjRnNHUVh4SENsV25pb3ZRQmNqM2Mxa3N6TWFvcGE1X1RCel9RWTFYb01YdDRXbGhvUTF5RWE0bUNFcnBnODJoTTViSHRBcm4wOFpIRVFMc1BXMVRya1RkVDdQRHo1NnYyUjBfOS0yY0tpNm9jZTYzNHZlektXa0NqeUtsWFhma0kyQURkelZwUWN5TW42UkRWc3p5Nm1hZjhVb3hIcjNkSnNESDcwXzV3NXhzYWY3c21xTWV1SWI5V1lCMXZJZHI5Y1I1RGFKc1VOb0duNEdDVTFtZ1NzMmExUDlwcDQ2N252Rkd4TmlydFZFOTJxRmM1Zl90Ul9nNjR2RXU5Y1MyRkdtWGpCUQ?oc=5",
+            "date": "2026-05-12 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "제로트러스트보안협회, 제로 트러스트 창시자 ‘존 킨더바그’ 초청 간담회",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MQ2J4NzNUTlcxMlVQX1lmTFFqTXNhOEMxTzhENl9CN0E0TlpXcG9NQmRXYUdsX18tVDVUeDFLRFViVFVBRnJKSm8tSmxodk1WMUk5UnNiTmhESmdsc3ZjRVdWNmF1VWc?oc=5",
             "date": "2026-05-12 15:56",
@@ -49410,6 +49486,17 @@
             "is_today": false
         },
         {
+            "title": "정보보호 산업 30조원 규모 육성... “AI 보안 유니콘 발굴”",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SejZEcUd3LXltWVhTcm9BX0pyU2ZtVkdKdFRDNEpuRlY5ckFSREdKSjA3VElvMW1JRWJJSHBoZ2x3WGw3SVhzU1lZTFl6Y19CQlVmOWU2ZU5sN3hJSHNn?oc=5",
+            "date": "2026-04-16 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "클라우드플레어, 에이전트 보안 패브릭 ‘클라우드플레어 메시’ 공개",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxd3YyWXVsQVc4MG9wVVV5UVhBamliVnBJcUJaOHRHb3NDTFpzdTFENEFMeXdaQVM5QmZEVHlWYWd0YlhkdXdkUE9UeEZZdXptMlFWQjQyMkkwaXExN3VoZGtZcWY2dG93dGZrVQ?oc=5",
             "date": "2026-04-16 09:41",
@@ -54448,6 +54535,17 @@
             "is_today": false
         },
         {
+            "title": "AI 혁신의 그림자, 기업 보안 체계 뒤흔드는 ‘AI 내부자 리스크’…한국 기업 74% ‘최대 데이터 보안 위험’ 지목",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sSmp0ODMwRVBLT0F5bTVGVUdNaHJxSG91QXgtQmM0aVp4M1VRMHVaUUpwd0VMSHpUUVdvZkZZUFE3RlRSM2szSkY3ZWVQS3p6Zi01RFFrQnR1ZDNGWF9wQ3J3SkRZVzg?oc=5",
+            "date": "2026-03-13 16:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "AI가 돈을 쓰는 시대가 온다",
             "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBnMUpieHdKOFVydVNmcnhHMWhoT1ZNRXFIOC1rQ29pSFhtWTJBaXJCUU5ZTTB5VUhTVmNCRkZnRXlQMU92Nm5SSGdB?oc=5",
             "date": "2026-03-13 13:56",
@@ -57011,6 +57109,17 @@
             "is_today": false
         },
         {
+            "title": "전자프런티어재단, AI 저품질 대응 정책 전환…신뢰 기반 통제 도입",
+            "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOQzhRX0hWQ1FfcFdORk16U0p5ZmVyUnVxX2FLNk5NSnBqbzlDWUVvcG9XQUppWnZvbjM0Si1GMlZrR2F3b0JMRHB1ZEZoM0xEUG5CWEVFX202cVdMb0J3dFZ5Y0k1TDZsM2N2Y3ZobUY1LVhzQ3NfcUE5enZvZTRpN2FSY2NUa1VYT2t6SWFNTVNWbEVzOGR2Y3ptYVhLN3FKRjZteUNDUS1xYTZka1FLc0JwUGlSZ1FLUVlIT1hGRkZuUlRIR1REZHZDU1lvM2owZXRwX2JtOGxUWUw2OGhCOWw3c2V6QTNERDJEbnJ0cmFzLVBOaml0cnU3TnBHUEEzb2VBbE0xM0FoYVNzT1VuREJpWEJ3MUtnZzlpRHFNOTZUdUE2aDlleno1LXlvbG51aUxTaDNSRms4RFpldXZOSjMyMC1GTzc4X0JIeXc5Mjcwby0zOEE?oc=5",
+            "date": "2026-02-23 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "아톤, 빗썸에 PQC 공급...가상자산거래소 양자보안 시대 열어",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jNFZUckNWRFUxUWhIQWREMmx2ZjBjTXp2YkF2WEVjYjZZOTNUZUJBY21NbG4wSERxdFFGU2xISUplNXhjUHlLLVJ5anNqNzN3aU1rQ0ZR?oc=5",
             "date": "2026-02-22 17:00",
@@ -57523,6 +57632,17 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI Agent 표준",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "[ISDP 2026] 송은지 금융보안원 팀장 \"신뢰가 새로운 화폐…금융 AI 시대, 레드티밍은 선택이 아닌 필수\"",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZdURLLVF5b0swTjlQRXZDNjdHTS1zOTlYLXhEWTI2U0hmbkVUaHJwcnZEdEI5amF2M1JMQmxoTElrS0E2ak1BQ1lNMjFEOXpsd3lnYk5FN2JqTGxhV2VVaTUwQU14VU9McnhEWQ?oc=5",
+            "date": "2026-02-14 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -60069,6 +60189,17 @@
             "is_today": false
         },
         {
+            "title": "데이터메이커 대표 “신뢰 가능한 데이터 구축해 AI 구현”",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00bFVEcDdBeTJ3Z3B3NU9zWkhCOUhKUzRQSVVWSlc2WnFVSkRkUEt3RTVTV3RsZ0NrLXE0aGN5eXowX2xheV9jcEZuUW94OFl6dWw2bFVsS3FQMGxOXzlJbUxDbEVKV2IxQzNQWS1CRE7SAXRBVV95cUxQU1UwOWoyWS0tcDd0YVhiZ2dJaVJjSjNXc2xZVDE3SnJRUHFKX2dkamdHTHFsSjB2UDZDQjRzOS1iTjhtejM2OXBUNTJxVmxmeElUNDlaZ0ZrdWd0ZVVtRDNyZGhuem9yVExyODg5TWU4aWxwNA?oc=5",
+            "date": "2026-01-20 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "보안 업계, 제로 트러스트·N2SF 사업 ‘잰걸음’",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKbFpZVkZ2Y1Y3OE5wVG5SVGgtR1NfaGlKSzdLdmRLMUtZVEw2TnJDS3VtdVV6WjF4blgzTjNiV2toTVNRdVFlTkktMlJfUWRHb3REazF6OGVsX3V6S29UZnMwRUNFeWR6OEFOdHNHTEbSAXRBVV95cUxQb3lDVnFGSnJHSzRmUEFVM09xVnZXc1VaSEFRVlg5aGVDbGJYdmwwUklKUS14dEVwZkgzeDhWbFotM2pOYmRhel92cWZ5bmk5MXE4RjF0TngxeDQwak03aEtBekxMVHl4bmN4NkZEN2dQa2stMg?oc=5",
             "date": "2026-01-19 17:00",
@@ -60119,6 +60250,17 @@
             "description": "",
             "category": "제로트러스트",
             "keyword": "제로트러스트",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "AI 보안 이해하기",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qOURINFFZWEJSUk1BRm9VYjI1ZDFMdkRyRmVFTC1yUVZaZ0ZudnZCVnkyNzZFVnh1dDhvR1pQRGxNeUROdHlwdXBIa0NSbXlkZG1QVkxFQi1lR1I2YU9nc0NsU2NzQ0VtdHdQVg?oc=5",
+            "date": "2026-01-19 17:00",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "인공지능 보안",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -60977,6 +61119,28 @@
             "description": "",
             "category": "AI Agent",
             "keyword": "AI 에이전트 인증",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "“AI 세상에 공짜는 없다” 개발자가 내야 할 신뢰의 세금",
+            "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxONEhqeVE1dmduWUpuRnRneVNJYk9BbmZMaHhhNVVZUXdKaU92dkhzcENuZGhuZ0t5Rk9MOXBDaXlRV2x5LW9OMzNkb0prVmwwci00dzBXRHpGREtRSmNmdWM4VnpiVExkeFZTOGViT1ByRjRLV2lXazctTmw5anlkbGFmQ3NWYktOWEF4eTZTZ05ka294eVkxWk9MejRfb3ptNGJIazR2djIza0dJaGc4LTNqS3RxbV82YlY5cGlsUlh5aXVxdTBESzVSaTg4RE0tOVkwWUR3eXJfQjFmOS1uNXF1SURWcmczY2FvWThwS1lpZ003RDNMTDl4REJ5UExSZTRac2FmQ19uNVpTOERFUng2aUFMMy1kbHFsZjl6VVVRbGFaX21oUmc4SThYVDdOeW5GX0dtZHFCMTB5QndpcUZaaVpqUElTd2lHSw?oc=5",
+            "date": "2026-01-05 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
+            "title": "금보원, 금융AI 신뢰·안전성 평가 프레임워크 개발",
+            "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyVjdlV1Z4TnF0bDlkZC02TzQ2SkY4djhCUFRab3M1VkNpWlhBYTN2aTh2ZnhVTU0xd2t2bWJISUFyMDRoZXhxNnNrTE8tYzRaTTk4Wk1n?oc=5",
+            "date": "2026-01-05 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI 에이전트 신뢰",
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": false
@@ -73914,7 +74078,7 @@
             },
             {
                 "keyword": "금융",
-                "count": 71
+                "count": 72
             }
         ],
         "2026-05": [
@@ -73932,7 +74096,7 @@
             },
             {
                 "keyword": "오픈",
-                "count": 181
+                "count": 182
             },
             {
                 "keyword": "정부",

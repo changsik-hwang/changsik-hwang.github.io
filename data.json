@@ -1,5 +1,5 @@
 {
-    "updated": "2026-06-09 05:04",
+    "updated": "2026-06-09 06:00",
     "current_month": "2026-06",
     "competitor": [
         {
@@ -11963,16 +11963,6 @@
             "is_today": false
         },
         {
-            "title": "윈스테크넷, 협력사 신제품 발표회 개최...연내 UTM 2종 출시",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mNk5SSDF6aVJJYnlOdXN6WXNzc2R2cTkwbFNBUkdERTU4a0hSYk5DYmV6R0xUdU1PVjRWYklkUklsekhGMFhRLWNSZG5lNzBxV1V0Y29na1JHcWhMWXNwUDVJclVGbGJ5cDhPeTFLWVNQUQ?oc=5",
-            "date": "2011-04-18 16:00",
-            "description": "",
-            "company": "윈스",
-            "tab": "competitor",
-            "source": "구글뉴스",
-            "is_today": false
-        },
-        {
             "title": "[화요기획]윈스테크넷",
             "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DWVoxWl9abDh0ZTJpY2I2VDVqQWFpTDlIZXFYWkdnTWhXUVppS3RubUIyXzJ2X1BxY1VNT05zU3hEbVV4SmE0TnJYSQ?oc=5",
             "date": "2011-03-28 16:00",
@@ -12354,6 +12344,28 @@
         }
     ],
     "trend": [
+        {
+            "title": "매일 6억번 쳐들어온다…보안 책임자들 \"AI에 뚫릴까 잠도 못 자\"[김창영의 실리콘밸리Look]",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81R19MVUc4NmIzTlVMLUNMa1h0dWUzOXphYWROWDlBbUJ4M05fbzFNOUlOUEhOLTFaSVExdWdlc1U0ajdtTHJWWWFCUmU1VGE3d0Fz?oc=5",
+            "date": "2026-06-09 05:20",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
+        {
+            "title": "\"에이전틱 AI도 인증 대상\"…라온시큐어, APAC서 '혈관 인증' 시연",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00UDl2LUh2VWtoSWZFMWsyT1BvblY0TDhycFV5QWcyVjI5OWpiU0JKdVlZNXIybEZjOFB6blhsbnNaNDJNYnU1YV9wdW1QY09ORmtj?oc=5",
+            "date": "2026-06-09 05:01",
+            "description": "",
+            "category": "AI보안",
+            "keyword": "AI 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": true
+        },
         {
             "title": "그림자 AI는 쉬운 문제였다: 실제 위험은 승인된 소프트웨어에 숨겨진 에이전트",
             "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0VaVVJrZHVmUjhiY1pHcmZDT3BqalByLVFGSW9UMzBidlZWNURJc0hfUG9BTldCVm0tcDJQUWJCRWsxeTBkNFFaVm05Q2ZhYmJZNDJ1YUhiYmpINWFBNlkyZnZSREZrMjlVemFDdjZjSDhUOURMVTZScXRRRUdwYnRXdXI?oc=5",
@@ -13475,6 +13487,17 @@
             "tab": "trend",
             "source": "구글뉴스",
             "is_today": true
+        },
+        {
+            "title": "AI Agent의 위협과 ExpressAI: 삼성SDS 리포트로 본 미래 보안 전략",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbTFMYnBRX054QmlHYlI4UElPV0NzeHl2bVh4ekFmMS1fUUdKRXJlbTFFTDV1andEaHR5VDBaREl6eWtxeTRhWnpiZWp0V1lwc2MwMENDbWY3dHhLejU0WVdldmRpbllpMDNLaXlwU0Y1dE9fSlJPaDJ5VkJkTkgtblJXQXVONWNxdFluR1kzTFZwMlN3VjhraENjMmZfZw?oc=5",
+            "date": "2026-06-07 16:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 보안",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
         },
         {
             "title": "오픈AI, 프롬프트 인젝션 막는 ‘잠금 모드' 공개...\"외부 연결 제한\"",
@@ -61657,6 +61680,17 @@
             "is_today": false
         },
         {
+            "title": "AI 슈퍼사이클 속 클라우드 재편…올해 멀티·하이브리드·신뢰 부상한다",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83NGIyYllYTTVNZ2xRVmlvUWNmTXFsM2RsaGNKeW9Kc2pSYUN2dWxJTk9ZQnMzbTVubGZ6TURqcXhQRE8xWHA5ZXB1VHVaeUFrVFoyQlRLdWZpN25tbHJYTV9aMVM?oc=5",
+            "date": "2026-01-09 17:00",
+            "description": "",
+            "category": "AI Agent",
+            "keyword": "AI Agent 신뢰",
+            "tab": "trend",
+            "source": "구글뉴스",
+            "is_today": false
+        },
+        {
             "title": "소프트프릭, AI 기반 API 보안 ‘파핌 시큐리티’로 위협 모니터링 강화",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SQ1NkVEowLTBCWk9oMWpPc3I5R0h6NGQtbmFBLW5KcjV5X2k5WFlEX0ZidHdBVmVHS3luaTFodjdZaWRDMk41eWFTYV9Pak5zLXg3YmdtRG9sYTFh?oc=5",
             "date": "2026-01-08 17:00",
@@ -75201,7 +75235,7 @@
             },
             {
                 "keyword": "인증",
-                "count": 79
+                "count": 81
             },
             {
                 "keyword": "금융",

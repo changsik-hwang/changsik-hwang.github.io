@@ -14,7 +14,7 @@ from kiwipiepy import Kiwi
 # =============================================
 
 KST       = timezone(timedelta(hours=9))
-KEEP_DAYS = 1095  # 3
+KEEP_DAYS = 1825  # 5년
 
 DART_API_KEY = os.environ.get("DART_API_KEY", "")
 
@@ -23,54 +23,45 @@ COMPANY_KEYWORDS = {
     "안랩":       ["안랩", "AhnLab"],
     "넥스지":     ["KX넥스지", "케이엑스넥스지", "KXNEXG"],
     "퓨쳐시스템": ["퓨쳐시스템"],
-    "윈스":       ["윈스테크넷", "WINS21"],
+    "윈스":       ["윈스테크넷", "WINS21", "윈스 보안"],
+    "팔로알토":   ["팔로알토 네트웍스", "팔로 알토 네트웍스", "팔로알토네트웍스", "Palo Alto Networks", "PAN-OS"],
+    "포티넷":     ["포티넷", "Fortinet", "FortiGate", "포티게이트"],
 }
 
 TREND_KEYWORDS = {
     "AI보안":      {
-        "keywords":      ["AI 보안", "AI 위협탐지", "인공지능 보안"],
-        "must_include":  [],
-        "exclude":       [],
+        "keywords":     ["AI 보안", "AI 위협탐지", "인공지능 보안"],
+        "must_include": [],
+        "exclude":      [],
     },
     "PQC":         {
-        "keywords":      ["PQC", "양자암호", "양자내성암호"],
-        "must_include":  [],
-        "exclude":       [],
+        "keywords":     ["PQC", "양자암호", "양자내성암호"],
+        "must_include": [],
+        "exclude":      [],
     },
     "제로트러스트": {
-        "keywords":      ["제로트러스트", "Zero Trust", "ZTNA"],
-        "must_include":  [],
-        "exclude":       [],
+        "keywords":     ["제로트러스트", "Zero Trust", "ZTNA"],
+        "must_include": [],
+        "exclude":      [],
     },
-"AI Agent": {
-    "keywords": [
-        "AI Agent 보안",
-        "AI 에이전트 보안",
-        "AI 에이전트 신원",
-        "AI 에이전트 인증",
-        "AI 에이전트 표준",
-        "AI 에이전트 KYA",
-        "AI 에이전트 DID",
-        "AI 에이전트 신뢰",
-        "AI 에이전트 오케스트레이션",
-        "AI Agent 보안",
-        "AI Agent 인증",
-        "AI Agent 표준",
-        "AI Agent 신원",
-        "AI Agent KYA",
-        "AI Agent DID",
-        "AI Agent 신뢰",
-        "AI Agent 오케스트레이션",
-    ],
-    "must_include": [],
-    "exclude": ["게임", "쇼핑", "마케팅", "광고"],
-},
+    "AI Agent":    {
+        "keywords":     ["AI Agent 보안", "AI 에이전트 보안", "AI 에이전트 인증",
+                         "AI 에이전트 신원", "AI 에이전트 표준", "멀티에이전트 보안",
+                         "AI Agent KYA", "AI Agent DID", "AI Agent 신뢰"],
+        "must_include": [],
+        "exclude":      ["게임", "쇼핑", "마케팅", "광고"],
+    },
 }
 
+# 네이버 블로그
 BLOGS = {
     "안랩":  "ahnlab_official",
     "넥스지": "kxnexg",
 }
+
+# 엑스게이트 설정
+AXGATE_KEYWORDS = ["엑스게이트", "AXGATE"]
+AXGATE_BLOG     = "axgate123"
 
 # DART 코드 직접 지정
 DART_CORP_CODES = {
@@ -102,6 +93,8 @@ STOPWORDS = {
     "전환", "고도화", "엔드", "제로", "트러스트", "인터넷",
     "내성", "암호", "분기", "전년", "참가", "참여", "중심", "통신", "영업",
     "이익", "컴퍼니", "전략", "시대", "투자", "상식", "정보", "포인트",
+    "에이전트", "국방", "공개", "오픈", "프레임워크", "개발", "구현", "설계",
+    "연구", "프로젝트", "과제",
 }
 
 # =============================================
@@ -135,7 +128,7 @@ def date_sort_key(item):
 
 def load_existing_data():
     if not os.path.exists("data.json"):
-        return [], [], [], {}, {}
+        return [], [], [], [], {}, {}
     try:
         with open("data.json", "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -143,12 +136,13 @@ def load_existing_data():
             data.get("competitor", []),
             data.get("trend", []),
             data.get("disclosure", []),
+            data.get("axgate", []),
             data.get("competitor_monthly_keywords", {}),
             data.get("trend_monthly_keywords", {}),
         )
     except Exception as e:
         print(f"  [오류] 기존 데이터 로드 실패: {e}")
-        return [], [], [], {}, {}
+        return [], [], [], [], {}, {}
 
 def filter_old_data(data, cutoff_str):
     return [d for d in data if d.get("date", "") >= cutoff_str]
@@ -223,7 +217,6 @@ def fetch_naver_blog(blog_id):
 # =============================================
 
 def get_dart_corp_code(company_name):
-    """DART 전체 회사 목록 ZIP에서 정확히 일치하는 회사 코드 조회"""
     try:
         url      = f"https://opendart.fss.or.kr/api/corpCode.xml?crtfc_key={DART_API_KEY}"
         response = requests.get(url, timeout=30)
@@ -247,7 +240,6 @@ def get_dart_corp_code(company_name):
 
 
 def fetch_dart_by_code(company, corp_code):
-    """DART 코드 직접 지정으로 공시 수집"""
     results = []
     if not DART_API_KEY:
         return results
@@ -294,7 +286,6 @@ def fetch_dart_by_code(company, corp_code):
 
 
 def fetch_dart_disclosure(company, company_name):
-    """DART 회사명 검색으로 공시 수집"""
     corp_code = get_dart_corp_code(company_name)
     if not corp_code:
         return []
@@ -305,10 +296,6 @@ def fetch_dart_disclosure(company, company_name):
 # =============================================
 
 def deduplicate(data):
-    """
-    - 뉴스: 링크 + 같은 탭 안에서 제목 기준 중복 제거
-    - 공시: 링크 기준으로만 중복 제거
-    """
     seen_links  = set()
     seen_titles = set()
     result      = []
@@ -391,10 +378,11 @@ def main():
     print(f"  보관 기준: {cutoff_str} 이후 데이터만 유지")
     print("=" * 45)
 
-    old_competitor, old_trend, old_disclosure, _, _ = load_existing_data()
+    old_competitor, old_trend, old_disclosure, old_axgate, _, _ = load_existing_data()
     old_competitor = filter_old_data(old_competitor, cutoff_str)
     old_trend      = filter_old_data(old_trend, cutoff_str)
     old_disclosure = filter_old_data(old_disclosure, cutoff_str)
+    old_axgate     = filter_old_data(old_axgate, cutoff_str)
 
     # ── 탭1: 경쟁사 뉴스 ─────────────────────
     print("\n[탭1: 경쟁사 동향]")
@@ -442,11 +430,8 @@ def main():
             for item in fetch_google_news(keyword):
                 title = item.get("title", "")
 
-                # 제외 단어 필터
                 if any(ex in title for ex in exclude):
                     continue
-
-                # must_include 필터 (하나라도 포함해야 함)
                 if must_include and not any(m in title for m in must_include):
                     continue
 
@@ -461,9 +446,6 @@ def main():
     trend_data.sort(key=date_sort_key, reverse=True)
 
     print(f"\n  → 트렌드 총 {len(trend_data)}건")
-    for c in TREND_KEYWORDS:
-        cnt = sum(1 for d in trend_data if d["category"] == c)
-        print(f"     {c}: {cnt}건")
 
     # ── 탭3: 공시 ────────────────────────────
     print("\n[탭3: 공시]")
@@ -481,6 +463,32 @@ def main():
 
     print(f"\n  → 공시 총 {len(disclosure_data)}건")
 
+    # ── 탭4: 엑스게이트 ──────────────────────
+    print("\n[탭4: 엑스게이트]")
+    new_axgate = []
+
+    # 구글 뉴스 검색
+    for keyword in AXGATE_KEYWORDS:
+        print(f"  검색: '{keyword}'...")
+        for item in fetch_google_news(keyword):
+            item["tab"]      = "axgate"
+            item["source"]   = "구글뉴스"
+            item["is_today"] = item["date"].startswith(today_str)
+            new_axgate.append(item)
+
+    # 네이버 블로그
+    print(f"  블로그: 엑스게이트...")
+    for item in fetch_naver_blog(AXGATE_BLOG):
+        item["tab"]      = "axgate"
+        item["source"]   = "공식블로그"
+        item["is_today"] = item["date"].startswith(today_str)
+        new_axgate.append(item)
+
+    axgate_data = deduplicate(old_axgate + new_axgate)
+    axgate_data.sort(key=date_sort_key, reverse=True)
+
+    print(f"\n  → 엑스게이트 총 {len(axgate_data)}건")
+
     # ── 월별 키워드 추출 ──────────────────────
     print("\n[월별 키워드 분석]")
     print("  경쟁사 키워드 추출 중...")
@@ -496,6 +504,7 @@ def main():
         "competitor":                  competitor_data,
         "trend":                       trend_data,
         "disclosure":                  disclosure_data,
+        "axgate":                      axgate_data,
         "competitor_monthly_keywords": competitor_monthly,
         "trend_monthly_keywords":      trend_monthly,
     }
@@ -507,6 +516,7 @@ def main():
     print(f"   경쟁사: {len(competitor_data)}건")
     print(f"   트렌드: {len(trend_data)}건")
     print(f"   공시: {len(disclosure_data)}건")
+    print(f"   엑스게이트: {len(axgate_data)}건")
 
 if __name__ == "__main__":
     main()

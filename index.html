@@ -545,14 +545,18 @@
     function renderMetrics(elId, keys, data, field, colors, prefix) {
         const today = getTodayStr();
 
+        const current = prefix === 'c' ? cFilter : tFilter;
+
         document.getElementById(elId).innerHTML = keys.map(k => {
             const total    = data.filter(d => d[field] === k).length;
             const todayCnt = data.filter(d => d[field] === k && (d.date||'').startsWith(today)).length;
             const col = colors[k];
+            const isSelected = current === k;
             const sub = todayCnt > 0
                 ? `<div class="metric-sub" style="color:#4ff77a">오늘 +${todayCnt}</div>`
                 : `<div class="metric-sub" style="color:#555">오늘 0</div>`;
-            return `<div class="metric" onclick="setFilter('${prefix}','${k}')">
+            return `<div class="metric" onclick="setFilter('${prefix}','${k}')"
+                style="border-color:${isSelected ? col.hex : ''};">
                 <div class="metric-label">
                     <span class="dot" style="background:${col.hex}"></span>${k}
                 </div>
@@ -671,10 +675,12 @@
     function setFilter(prefix, val) {
         if (prefix === 'c') {
             cFilter = val; cPage = 1;
+            renderMetrics('competitorMetrics', COMPANIES, competitorData, 'company', C_COLORS, 'c');
             renderFilterBtns('competitorFilter', ["전체", ...COMPANIES], 'c');
             renderNewsList('competitorNews', 'competitorPagination', getFiltered('c'), 'company', C_COLORS, cPage);
         } else if (prefix === 't') {
             tFilter = val; tPage = 1;
+            renderMetrics('trendMetrics', TRENDS, trendData, 'category', T_COLORS, 't');
             renderFilterBtns('trendFilter', ["전체", ...TRENDS], 't');
             renderNewsList('trendNews', 'trendPagination', getFiltered('t'), 'category', T_COLORS, tPage);
         } else if (prefix === 'd') {

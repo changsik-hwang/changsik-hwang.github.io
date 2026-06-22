@@ -105,6 +105,19 @@
         .news-text:hover { color: #fff; }
         .news-date { font-size: 11px; color: #555; white-space: nowrap; flex-shrink: 0; }
         .badge-dart { background: #4f8ef722; color: #4f8ef7; border: 1px solid #4f8ef744; }
+        .news-item.is-new { border-left: 2px solid #4ff77a; padding-left: 10px; background: rgba(79,247,122,0.05); }
+        .new-badge { font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 6px; background: #4ff77a; color: #0f1117; white-space: nowrap; flex-shrink: 0; }
+        .news-date.today { color: #4ff77a; font-weight: 600; }
+
+        /* 검색창 */
+        .search-box { display: flex; align-items: center; gap: 8px; background: #0f1117; border: 1px solid #2a2d3e; border-radius: 8px; padding: 7px 12px; margin-bottom: 12px; transition: border-color 0.15s; }
+        .search-box:focus-within { border-color: #4f8ef7; }
+        .search-icon { font-size: 13px; opacity: 0.55; flex-shrink: 0; }
+        .search-box input { flex: 1; background: transparent; border: none; outline: none; color: #e0e0e0; font-size: 13px; min-width: 0; }
+        .search-box input::placeholder { color: #555; }
+        .search-clear { background: transparent; border: none; color: #666; cursor: pointer; font-size: 13px; padding: 0 4px; display: none; flex-shrink: 0; }
+        .search-clear.show { display: block; }
+        .search-clear:hover { color: #fff; }
 
         /* 페이지네이션 */
         .pagination { display: flex; align-items: center; justify-content: center; gap: 6px; margin-top: 16px; flex-wrap: wrap; }
@@ -198,9 +211,9 @@
                 <div class="legend-row" id="donutLegend"></div>
             </div>
             <div class="chart-card">
-                <div class="chart-title">회사별 수집 건수</div>
+                <div class="chart-title">월별 기사량 추이</div>
                 <div style="position:relative; height:180px;">
-                    <canvas id="barChart" role="img" aria-label="회사별 수집 건수">회사별 수집 건수</canvas>
+                    <canvas id="barChart" role="img" aria-label="월별 기사량 추이">월별 기사량 추이</canvas>
                 </div>
             </div>
         </div>
@@ -209,6 +222,11 @@
             <div class="news-header">
                 <div class="news-card-title">최신 기사</div>
                 <div class="filter-bar" id="competitorFilter"></div>
+            </div>
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input id="cSearchInput" type="text" placeholder="기사 제목 검색…" oninput="setSearch('c', this.value)">
+                <button class="search-clear" id="cSearchClear" onclick="clearSearch('c')" aria-label="검색 지우기">✕</button>
             </div>
             <div id="competitorNews"></div>
             <div class="pagination" id="competitorPagination"></div>
@@ -237,9 +255,9 @@
                 <div class="legend-row" id="trendLegend"></div>
             </div>
             <div class="chart-card">
-                <div class="chart-title">키워드별 수집 건수</div>
+                <div class="chart-title">월별 기사량 추이</div>
                 <div style="position:relative; height:180px;">
-                    <canvas id="trendBar" role="img" aria-label="키워드별 수집 건수">키워드별 수집 건수</canvas>
+                    <canvas id="trendBar" role="img" aria-label="월별 기사량 추이">월별 기사량 추이</canvas>
                 </div>
             </div>
         </div>
@@ -248,6 +266,11 @@
             <div class="news-header">
                 <div class="news-card-title">최신 기사</div>
                 <div class="filter-bar" id="trendFilter"></div>
+            </div>
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input id="tSearchInput" type="text" placeholder="기사 제목 검색…" oninput="setSearch('t', this.value)">
+                <button class="search-clear" id="tSearchClear" onclick="clearSearch('t')" aria-label="검색 지우기">✕</button>
             </div>
             <div id="trendNews"></div>
             <div class="pagination" id="trendPagination"></div>
@@ -261,6 +284,11 @@
             <div class="news-header">
                 <div class="news-card-title">공시 목록</div>
                 <div class="filter-bar" id="disclosureFilter"></div>
+            </div>
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input id="dSearchInput" type="text" placeholder="공시 제목 검색…" oninput="setSearch('d', this.value)">
+                <button class="search-clear" id="dSearchClear" onclick="clearSearch('d')" aria-label="검색 지우기">✕</button>
             </div>
             <div id="disclosureList"></div>
             <div class="pagination" id="disclosurePagination"></div>
@@ -284,6 +312,11 @@
             <div class="news-header">
                 <div class="news-card-title">최신 소식</div>
                 <div class="filter-bar" id="axgateFilter"></div>
+            </div>
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input id="aSearchInput" type="text" placeholder="제목 검색…" oninput="setSearch('a', this.value)">
+                <button class="search-clear" id="aSearchClear" onclick="clearSearch('a')" aria-label="검색 지우기">✕</button>
             </div>
             <div id="axgateNews"></div>
             <div class="pagination" id="axgatePagination"></div>
@@ -325,8 +358,39 @@
     let cMonthIndex = 0, tMonthIndex = 0;
     let cMonthKeys  = [], tMonthKeys  = [];
     let cFilter = "전체", tFilter = "전체", dFilter = "시큐아이", aFilter = "전체";
+    let cSearch = "", tSearch = "", dSearch = "", aSearch = "";
     let cPage = 1, tPage = 1, dPage = 1, aPage = 1;
     const IS_MOBILE = window.innerWidth <= 768;
+
+    // ── 오늘 판별 / 상대시간 / 최근 N개월 ─────
+    function getTodayStr() {
+        return new Date().toLocaleDateString('ko-KR', {
+            timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit'
+        }).replace(/\. /g, '-').replace('.', '').trim();
+    }
+    function isTodayItem(item) {
+        return (item.date || '').startsWith(getTodayStr());
+    }
+    function relativeOrDate(dateStr, isMobile) {
+        const today = getTodayStr();
+        if (dateStr && dateStr.startsWith(today) && dateStr.length >= 16) {
+            const dt = new Date(dateStr.slice(0, 10) + 'T' + dateStr.slice(11, 16) + ':00+09:00');
+            let diffMin = Math.floor((Date.now() - dt.getTime()) / 60000);
+            if (diffMin < 1) return '방금 전';
+            if (diffMin < 60) return diffMin + '분 전';
+            return Math.floor(diffMin / 60) + '시간 전';
+        }
+        return isMobile ? (dateStr || '').slice(5, 10) : (dateStr || '').slice(0, 10);
+    }
+    function lastNMonths(n) {
+        let [y, m] = getTodayStr().split('-').map(Number);
+        const arr = [];
+        for (let i = 0; i < n; i++) {
+            arr.unshift(`${y}-${String(m).padStart(2, '0')}`);
+            m--; if (m < 1) { m = 12; y--; }
+        }
+        return arr;
+    }
 
     // ── 데이터 로드 ───────────────────────────
     fetch('./data.json?t=' + Date.now())
@@ -409,7 +473,7 @@
     function renderCompetitor() {
         renderMetrics('competitorMetrics', COMPANIES, competitorData, 'company', C_COLORS, 'c');
         renderDonut('donutChart', 'donutLegend', COMPANIES, competitorData, 'company', C_COLORS);
-        renderBar('barChart', COMPANIES, competitorData, 'company', C_COLORS);
+        renderMonthlyTrend('barChart', competitorData);
         renderFilterBtns('competitorFilter', ["전체", ...COMPANIES], 'c');
         renderNewsList('competitorNews', 'competitorPagination', getFiltered('c'), 'company', C_COLORS, cPage);
     }
@@ -418,7 +482,7 @@
     function renderTrend() {
         renderMetrics('trendMetrics', TRENDS, trendData, 'category', T_COLORS, 't');
         renderDonut('trendDonut', 'trendLegend', TRENDS, trendData, 'category', T_COLORS);
-        renderBar('trendBar', TRENDS, trendData, 'category', T_COLORS);
+        renderMonthlyTrend('trendBar', trendData);
         renderFilterBtns('trendFilter', ["전체", ...TRENDS], 't');
         renderNewsList('trendNews', 'trendPagination', getFiltered('t'), 'category', T_COLORS, tPage);
     }
@@ -459,37 +523,41 @@
 
     // ── 필터된 데이터 ─────────────────────────
     function getFiltered(prefix) {
+        let arr;
         if (prefix === 'c') {
-            return cFilter === "전체" ? competitorData : competitorData.filter(d => d.company === cFilter);
+            arr = cFilter === "전체" ? competitorData : competitorData.filter(d => d.company === cFilter);
         } else if (prefix === 't') {
-            return tFilter === "전체" ? trendData : trendData.filter(d => d.category === tFilter);
+            arr = tFilter === "전체" ? trendData : trendData.filter(d => d.category === tFilter);
         } else if (prefix === 'd') {
-            return disclosureData.filter(d => d.company === dFilter);
+            arr = disclosureData.filter(d => d.company === dFilter);
         } else {
-            if (aFilter === "전체")  return axgateData;
-            if (aFilter === "뉴스")  return axgateData.filter(d => d.source === "구글뉴스");
-            if (aFilter === "블로그") return axgateData.filter(d => d.source === "공식블로그");
-            return axgateData;
+            if (aFilter === "뉴스")       arr = axgateData.filter(d => d.source === "구글뉴스");
+            else if (aFilter === "블로그") arr = axgateData.filter(d => d.source === "공식블로그");
+            else                          arr = axgateData;
         }
+        const q = (prefix === 'c' ? cSearch : prefix === 't' ? tSearch : prefix === 'd' ? dSearch : aSearch)
+                    .trim().toLowerCase();
+        if (q) arr = arr.filter(d => (d.title || '').toLowerCase().includes(q));
+        return arr;
     }
 
     // ── 메트릭 카드 ──────────────────────────
     function renderMetrics(elId, keys, data, field, colors, prefix) {
-        const today = new Date().toLocaleDateString('ko-KR', {
-            timeZone: 'Asia/Seoul',
-            year: 'numeric', month: '2-digit', day: '2-digit'
-        }).replace(/\. /g, '-').replace('.', '').trim();
+        const today = getTodayStr();
 
         document.getElementById(elId).innerHTML = keys.map(k => {
             const total    = data.filter(d => d[field] === k).length;
             const todayCnt = data.filter(d => d[field] === k && (d.date||'').startsWith(today)).length;
             const col = colors[k];
+            const sub = todayCnt > 0
+                ? `<div class="metric-sub" style="color:#4ff77a">오늘 +${todayCnt}</div>`
+                : `<div class="metric-sub" style="color:#555">오늘 0</div>`;
             return `<div class="metric" onclick="setFilter('${prefix}','${k}')">
                 <div class="metric-label">
                     <span class="dot" style="background:${col.hex}"></span>${k}
                 </div>
                 <div class="metric-value">${total}</div>
-                <div class="metric-sub">오늘 ${todayCnt}건</div>
+                ${sub}
             </div>`;
         }).join('');
     }
@@ -539,37 +607,49 @@
         }).join('');
     }
 
-    // ── 막대 차트 ────────────────────────────
-    function renderBar(canvasId, keys, data, field, colors) {
-        const counts = keys.map(k => data.filter(d => d[field] === k).length);
-        const hexes  = keys.map(k => colors[k].hex);
+    // ── 월별 기사량 추이 (라인) ───────────────
+    function renderMonthlyTrend(canvasId, data) {
+        const months = lastNMonths(6);
+        const counts = months.map(m => data.filter(d => (d.date || '').startsWith(m)).length);
+        const labels = months.map(m => parseInt(m.split('-')[1], 10) + '월');
+        const pointColors = counts.map((_, i) => i === counts.length - 1 ? '#4ff77a' : '#4f8ef7');
+
         const existing = Chart.getChart(canvasId);
         if (existing) existing.destroy();
 
         new Chart(document.getElementById(canvasId), {
-            type: 'bar',
+            type: 'line',
             data: {
-                labels: keys,
+                labels: labels,
                 datasets: [{
                     data: counts,
-                    backgroundColor: hexes,
-                    borderRadius: 5,
-                    borderSkipped: false
+                    borderColor: '#4f8ef7',
+                    backgroundColor: 'rgba(79,142,247,0.12)',
+                    borderWidth: 2,
+                    fill: true,
+                    tension: 0.3,
+                    pointBackgroundColor: pointColors,
+                    pointBorderColor: pointColors,
+                    pointRadius: 3,
+                    pointHoverRadius: 5
                 }]
             },
             options: {
                 responsive: true, maintainAspectRatio: false,
                 animation: { duration: 400 },
-                plugins: { legend: { display: false } },
+                plugins: {
+                    legend: { display: false },
+                    tooltip: { callbacks: { label: ctx => ` ${ctx.raw}건` } }
+                },
                 scales: {
                     x: {
                         grid: { display: false },
-                        ticks: { color: '#666', font: { size: IS_MOBILE ? 9 : 11 }, maxRotation: IS_MOBILE ? 30 : 0 }
+                        ticks: { color: '#666', font: { size: IS_MOBILE ? 9 : 11 } }
                     },
                     y: {
                         beginAtZero: true,
                         grid: { color: 'rgba(255,255,255,0.05)' },
-                        ticks: { color: '#666', font: { size: 11 }, stepSize: 1 }
+                        ticks: { color: '#666', font: { size: 11 }, precision: 0 }
                     }
                 }
             }
@@ -609,6 +689,31 @@
         }
     }
 
+    // ── 검색 ─────────────────────────────────
+    function setSearch(prefix, val) {
+        if (prefix === 'c') {
+            cSearch = val; cPage = 1;
+            renderNewsList('competitorNews', 'competitorPagination', getFiltered('c'), 'company', C_COLORS, cPage);
+        } else if (prefix === 't') {
+            tSearch = val; tPage = 1;
+            renderNewsList('trendNews', 'trendPagination', getFiltered('t'), 'category', T_COLORS, tPage);
+        } else if (prefix === 'd') {
+            dSearch = val; dPage = 1;
+            renderDisclosureList('disclosureList', 'disclosurePagination', getFiltered('d'), dPage);
+        } else {
+            aSearch = val; aPage = 1;
+            renderAxgateList('axgateNews', 'axgatePagination', getFiltered('a'), aPage);
+        }
+        const btn = document.getElementById(prefix + 'SearchClear');
+        if (btn) btn.classList.toggle('show', !!val);
+    }
+
+    function clearSearch(prefix) {
+        const input = document.getElementById(prefix + 'SearchInput');
+        if (input) input.value = '';
+        setSearch(prefix, '');
+    }
+
     // ── 뉴스 아이템 HTML ─────────────────────
     function newsItemHtml(item, labelKey, colors) {
         const key   = item[labelKey];
@@ -618,22 +723,24 @@
             ? `<span class="source-badge" style="background:${src.color}22; color:${src.color}; border:1px solid ${src.color}44;">${src.label}</span>`
             : "";
         const tag       = `<span class="news-tag" style="background:${col.bg}; color:${col.text}; border:1px solid ${col.hex}44;">${key}</span>`;
-        const date      = (item.date||'').slice(0, 10);
-        const shortDate = (item.date||'').slice(5, 10);
+        const isNew     = isTodayItem(item);
+        const newBadge  = isNew ? `<span class="new-badge">NEW</span>` : "";
+        const dateText  = relativeOrDate(item.date, IS_MOBILE);
+        const dateCls   = isNew ? "news-date today" : "news-date";
 
         if (IS_MOBILE) {
-            return `<div class="news-item">
-                <div class="news-item-top">${tag}${badge}</div>
+            return `<div class="news-item${isNew ? ' is-new' : ''}">
+                <div class="news-item-top">${newBadge}${tag}${badge}</div>
                 <div class="news-item-bottom">
                     <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
-                    <span class="news-date">${shortDate}</span>
+                    <span class="${dateCls}">${dateText}</span>
                 </div>
             </div>`;
         } else {
-            return `<div class="news-item">
-                ${tag}${badge}
+            return `<div class="news-item${isNew ? ' is-new' : ''}">
+                ${newBadge}${tag}${badge}
                 <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
-                <span class="news-date">${date}</span>
+                <span class="${dateCls}">${dateText}</span>
             </div>`;
         }
     }
@@ -679,22 +786,24 @@
                 ? `<span class="source-badge" style="background:${src.color}22; color:${src.color}; border:1px solid ${src.color}44;">${src.label}</span>`
                 : "";
             const tag       = `<span class="news-tag" style="background:${AX_COLOR.bg}; color:${AX_COLOR.text}; border:1px solid ${AX_COLOR.hex}44;">엑스게이트</span>`;
-            const date      = (item.date||'').slice(0, 10);
-            const shortDate = (item.date||'').slice(5, 10);
+            const isNew     = isTodayItem(item);
+            const newBadge  = isNew ? `<span class="new-badge">NEW</span>` : "";
+            const dateText  = relativeOrDate(item.date, IS_MOBILE);
+            const dateCls   = isNew ? "news-date today" : "news-date";
 
             if (IS_MOBILE) {
-                return `<div class="news-item">
-                    <div class="news-item-top">${tag}${badge}</div>
+                return `<div class="news-item${isNew ? ' is-new' : ''}">
+                    <div class="news-item-top">${newBadge}${tag}${badge}</div>
                     <div class="news-item-bottom">
                         <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
-                        <span class="news-date">${shortDate}</span>
+                        <span class="${dateCls}">${dateText}</span>
                     </div>
                 </div>`;
             } else {
-                return `<div class="news-item">
-                    ${tag}${badge}
+                return `<div class="news-item${isNew ? ' is-new' : ''}">
+                    ${newBadge}${tag}${badge}
                     <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
-                    <span class="news-date">${date}</span>
+                    <span class="${dateCls}">${dateText}</span>
                 </div>`;
             }
         }).join('');
@@ -723,20 +832,23 @@
             const badge     = `<span class="source-badge badge-dart">공시</span>`;
             const date      = (item.date||'').slice(0, 10);
             const shortDate = (item.date||'').slice(5, 10);
+            const isNew     = isTodayItem(item);
+            const newBadge  = isNew ? `<span class="new-badge">NEW</span>` : "";
+            const dateCls   = isNew ? "news-date today" : "news-date";
 
             if (IS_MOBILE) {
-                return `<div class="news-item">
-                    <div class="news-item-top">${tag}${badge}</div>
+                return `<div class="news-item${isNew ? ' is-new' : ''}">
+                    <div class="news-item-top">${newBadge}${tag}${badge}</div>
                     <div class="news-item-bottom">
                         <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
-                        <span class="news-date">${shortDate}</span>
+                        <span class="${dateCls}">${shortDate}</span>
                     </div>
                 </div>`;
             } else {
-                return `<div class="news-item">
-                    ${tag}${badge}
+                return `<div class="news-item${isNew ? ' is-new' : ''}">
+                    ${newBadge}${tag}${badge}
                     <a class="news-text" href="${item.link||'#'}" target="_blank" rel="noopener">${item.title}</a>
-                    <span class="news-date">${date}</span>
+                    <span class="${dateCls}">${date}</span>
                 </div>`;
             }
         }).join('');
